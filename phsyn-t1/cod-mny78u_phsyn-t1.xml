@@ -27,7 +27,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+          <witness xml:id="R" n="cod-mny78u">Vatican, Vatican Library, Reg. Lat., 1731</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -50,8 +50,8 @@
   <text xml:lang="la">
     <front>
       <div xml:id="startOn">
-    		<pb ed="#T" n="25-v"/>
-        <pb ed="#T" n="b"/>
+    		<pb ed="#R" n="30-r"/><!--this is number 32a in vatican digvat-->
+        <pb ed="#R" n="a"/>
     	</div>
     </front>
     <body>
@@ -61,10 +61,10 @@
         <div>
           <head><supplied>De compositione in communi</supplied></head>
           <p>
-            <pc type="#pilcrow"/>Sciendum est quod compositio ad aliquid est quia compositio est
-            <lb ed="#T"/>compositorum compositio et composita sunt compositione composita;
-quare2 compositio in predicamento Relationii est. Dividitur4
-autem compositio primo5 per duas partes. Compositionis6 autem alia
+            <lb ed="#R" n="3"/><pc type="#pilcrow"/>Sciendum est quod compositio ad aliquid est quia compositio est compositorum
+            <lb ed="#R"/>compositio et composita sunt compositione composita quare2 compositio in predicamento relatio  <lb ed="#R"/>nis
+            est dividitur autem compositio primo5 per duas partes. Compositio<lb ed="#R"/>nis 
+autem alia
 est rerum, alia modorum significandi. Compositio7 vero modorum
 significandi pertinet ad gramaticum8 secundum quod in nomine9
 est compositio qualitatis cum substantia et in participio etlO in verbo
