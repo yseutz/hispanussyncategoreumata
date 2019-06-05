@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -56,11 +53,11 @@
     </front>
     <body>
       <div xml:id="phsyn-t1">
-        <head><supplied>TRACTATUS PRIMUS</supplied></head>
-        <head type="question-title"><supplied>DE COMPOSITIONE</supplied></head>
-        <div>
-          <head><supplied>De compositione in communi</supplied></head>
-          <p>
+        <head xml:id="phsyn-t1-Hd1e107"><supplied>TRACTATUS PRIMUS</supplied></head>
+        <head xml:id="phsyn-t1-Hd1e111" type="question-title"><supplied>DE COMPOSITIONE</supplied></head>
+        <div xml:id="phsyn-t1-Dd1e115">
+          <head xml:id="phsyn-t1-Hd1e117"><supplied>De compositione in communi</supplied></head>
+          <p xml:id="phsyn-t1-d1e121">
             <pc type="#pilcrow"/>Sciendum est quod compositio ad aliquid est quia compositio est
             <lb ed="#T"/>compositorum compositio et composita sunt compositione composita;
 quare2 compositio in predicamento Relationii est. Dividitur4
@@ -70,9 +67,9 @@ significandi pertinet ad gramaticum8 secundum quod in nomine9
 est compositio qualitatis cum substantia et in participio etlO in verbo
 compositio11 actus cum substantia.</p>
 </div>
-<div>
-<head>De specialibus compositionibus</head>
-<p>Compositio autem rerum fit quinque modis. Quia quedam est
+<div xml:id="phsyn-t1-Dd1e129">
+<head xml:id="phsyn-t1-Hd1e131">De specialibus compositionibus</head>
+<p xml:id="phsyn-t1-d1e134">Compositio autem rerum fit quinque modis. Quia quedam est
 forme cum materia, ut anime cum corpore; alia accidentis1 cum
 subiecto2, ut coloris cum corpore; alia est potentiarum sive virtutum
 cum eo cuius sunt, ut intellectus et aliarum virtutum anime' cum
@@ -88,9 +85,9 @@ hoe nomine10 'homo' et in quolibet alio nomine; alia est actus cum
 substantia, de qua postea dicetur. Sed prius dicemus11 de qualitate
 nominis. </p>
 </div>
-<div>
-  <head>De compositione substantiae cum qualitate</head>
-<p>Omne ergo 1nomen significat substantiam cum qualitate. Ver
+<div xml:id="phsyn-t1-Dd1e138">
+  <head xml:id="phsyn-t1-Hd1e140">De compositione substantiae cum qualitate</head>
+<p xml:id="phsyn-t1-d1e143">Omne ergo 1nomen significat substantiam cum qualitate. Ver
 hi gratia: homo 2,ut ita dicam, est i-es habens hzLraanitate,n; Ct res est
 substantia eius, humanitas
 <pb ed="#T" n="26-r"/>
@@ -103,13 +100,13 @@ unum non est qualitas alterius neque econverso. Sed qualitas unius
 cuiusque noniinis per ipsurn nornen significatur; ‘homo’ 4eniin
 significat suam substantiarn et suam qualitateni et hec duo sunt
 unita in eo 5, ita quod unum significatur in altero sive per alterum.</p>
-<p> Sed obicitur circa 1qualitatem norninis, quia: Gum qualitas et
+<p xml:id="phsyn-t1-d1e152"> Sed obicitur circa 1qualitatem norninis, quia: Gum qualitas et
 su.bstantia sint diversa et 2 omne nomen significet 3substantiain cmvi
 qualitate 4,ergo omne 5nornen significat diversa; et est sillogisnius 6
 in primo prime. Sed omnis dictio signifacans diversa est equivoca.
 Ergo omne nomen est equivocuni. Et 7 hoc est inconveniens. Non
 ergo in nornine est coinpositio qualitatis curn substantia.</p>
-<p> Solutio. Quatuor modis 1contingit 2significare diversa
+<p xml:id="phsyn-t1-d1e155"> Solutio. Quatuor modis 1contingit 2significare diversa
 per dictioneni eandem 3. Primo 4quando diversa 5equaliter
 significantur per eandern 6dictionem, Ut fl hoc nomine’ ‘canis’.
 Secundo quando thversa significantur secundum prius et posterius,
@@ -125,7 +122,7 @@ piurn intefligendi’ 8alteruan, quod idean est), Ut forma est ratio sive
 principiuin intelligendi’ 9illud 20 cuius est, et cognosceridi ipsurn.
 Ut2 1 figura triangularis oblonga sic disposita est ratio sive principium
 intelligendi cultellum 22et cognoscendi ipsum.</p>
-<p> Et hoc modo 1nomen significat substantiam cum qualitate.
+<p xml:id="phsyn-t1-d1e158"> Et hoc modo 1nomen significat substantiam cum qualitate.
 Qualitas enim noininis est ratio sive principium intelligendi ipsuin
 noinen et 2 sua.m substantiam. Et sic qualitas 3significatur per nomen
 Ut thC11U intelligendi. Substantia vero 4significatur per ipsum
@@ -136,13 +133,13 @@ equivocationem, sicut cam 8 video coloratuin et suam magnitu
 dinein 9non sunt due visiones sed una, quia’° color est ratio et prin
 cipium videndi magnitudinern 12in qua est. Et ideo 15 dictum anti
 quum 4:“ubi unuin propter alterum 5,tantum unuin est” 16.</p>
-<p> Item. Queritur utrum compositio qualitatis cum substantia sit’
+<p xml:id="phsyn-t1-d1e162"> Item. Queritur utrum compositio qualitatis cum substantia sit’
 aliquid vel non. Si non est aliquid 2,ergo in noinine non est
 compositio qualitatis cuni substantia 3.Si est aliquid sed 4 non est
 substantia neque qualitas, ergo est tertium ab istis. Ergo per nomen
 significantur tria. Ergo debet 5dici quod nomen significat substan
 dam curn qualitate e6t coinpositionem earum. Quod non est verum. </p>
-<p> Soliitio. Cornpositio qualitatis cur. substantia est aliquid. Et in
+<p xml:id="phsyn-t1-d1e165"> Soliitio. Cornpositio qualitatis cur. substantia est aliquid. Et in
 nornine non sunt nisi duo secundum rem’, scilicet substantia et
 qualitas, tria 2vero secunduin rationem, scilicet [.W43ra1 substantia et
 qualitas et coinpositio earuin, quia qualitas seipsa 3cornponitur cam
@@ -166,7 +163,7 @@ rem et ti-ia secunduin rationein. Unde quia gramaticus loquitur 21de rebus 22sig
 significat substantiazu curn qualitate et non 24 debet dici quad
 nornen 25 significat substantiam cum qualitate et compositionem
 earum.</p>
-<p>Si autem aliquis querat quid sit 1 ila compositio, dicenduin quad
+<p xml:id="phsyn-t1-d1e174">Si autem aliquis querat quid sit 1 ila compositio, dicenduin quad
 iani patet ex predictis, quia est inclina.tio qualitatis ad substantiam. Et
 quia inclinatio unius ad alterum nichil est nisi per illud cuius est et
 per illud ad quad est, ideo ista conzpositio quainvis sit aliquid, tamen
@@ -177,7 +174,7 @@ quad illa res media ant 5esset substantia ye! 6qualitas. Et S1C 7,Si esset
 substantia, oporteret poncre compositioneiri ipsius cuin quaiitate. Et
 sic 8esset ulterius questio 9de i11a 10 compositione utrurn res esset
 aiiqua; et simiiter si esset qualitas.</p>
-<p>Item. Queritur de compositione qualitatis cuxn substantia 1in
+<p xml:id="phsyn-t1-d1e177">Item. Queritur de compositione qualitatis cuxn substantia 1in
 nomine, q’uare non est duplex, scilicet 2unita et Ut distans, sicut
 eSt quedam compositio actus uniti cum 3substantia (Ut in
 participio) Ct alia Ut distantis 4(sicut in verba). Quia 5videtur quod
@@ -185,7 +182,7 @@ aliqu.ando sit 6 qualitas Ut 7 unita substantie (Ut ‘hoin.o albus’), au
 quando 8Ut distans (Ut ‘homo est albus’, quando 9‘horno’ ponitur in
 subiecto t0 et ‘albus’ in 1 predicato). Ergo debet 12 esse duplex corn
 positio qualitatis’ 3cum substantia.</p>
-<p>Et dicendurn quod cornpositio actus cuzn substantia dicitur 1
+<p xml:id="phsyn-t1-d1e180">Et dicendurn quod cornpositio actus cuzn substantia dicitur 1
 dupliciter (et non compositio qualitatis cu.m substantia), quia ‘actus’
 suniitur 2duobus niodis. Uno inodo sunlitur secundum quad habet
 inclinationern ad 3 substantiarn, secundurn quam inclinationem
@@ -201,7 +198,7 @@ niediante qualitate, idea qualitas non potest signiflCari Ut distans sed
 semper significatur ut unita. Et ideo non potest esse duplex corn
 positio qualitatis cuin substantia s1e0d tanflim una. Que est in quolibet
 nomine. </p>
-<p> Ad illud autem quod obicitur de hac oratione imper
+<p xml:id="phsyn-t1-d1e183"> Ad illud autem quod obicitur de hac oratione imper
 fecta ‘honio albus’ et de hac perfecta ‘homo est albus’ quod’ in iina
 est qualitas unita et in alia distans, d2ico quod nulla est obiectio, q3uia
 loquixnur de qualitate unita que est essentialis 4et que est ratio intel
@@ -219,15 +216,15 @@ oratione perfecta que e1s4t ‘homo est albus’: quainvis sit qualitas
 distans: quia t1am5en hoc non est per inclinationein [N43va] quali
 tatis Ut sit de altero sed per inclinationern verbi ibi positi, similiter de
 ila nichil est ad propositu.m.’ </p>
-<p> Dicto tde compositione in communi, cuins alia 2erat conipositio
+<p xml:id="phsyn-t1-d1e193"> Dicto tde compositione in communi, cuins alia 2erat conipositio
 rerum et alia. compositio modorum, et i3tem conipositlo inocloruni
 subdividebatur 4,quoniarn 5alia erat compositio qualitatis cuin sub-.
 stantia, alia vero com.positio actus curn substantia: cuni habituin sit
 de compositione qualitatis cum substantia, consequenter dicenduni
 est de conipositione actus curn substantia. </p></div>
-<div><head>De compositione actus cum substantia</head>
+<div xml:id="phsyn-t1-Dd1e197"><head xml:id="phsyn-t1-Hd1e198">De compositione actus cum substantia</head>
 
-<p>Compositionis ergo 1actus curn 2substantia alia est actus uniti 3
+<p xml:id="phsyn-t1-d1e201">Compositionis ergo 1actus curn 2substantia alia est actus uniti 3
 (Ut in participio), alia 4est actus 5distantis 6(Ut Ifl verbo). Quod auteni
 in participio sit cornpositio actus uniti 7patet primo per significatio—
 nem participii, quia: Participium significat actionen1 vel passioneni.
@@ -246,7 +243,7 @@ tis patet per hoc quod actus significatus per verbuin sernper 2°signi
 ficatur ut de altero. Cum enini dico ‘currit’, oportet intelligere sub
 iectuni determinatum vel indeterininatum de quo dicain 21 ‘currit’
 Ut 22 preclicatuin 23 detcrniinatuni de suo subiecto.</p>
-<p>Sed queritur, cuni sit inclinatio qualitatis ad substantiain et sit
+<p xml:id="phsyn-t1-d1e204">Sed queritur, cuni sit inclinatio qualitatis ad substantiain et sit
 inclinatio actus ad substantiam tarn uniti quarn distantis, qiialiter
 differunt a1 se invicern ille inclinationes. Et dicendum quod inch
 natio qualitatis nominis ad suarn 2substantiam est inclinatio per
@@ -260,7 +257,7 @@ Ut sit in illa sicut’ in subiecto 12 infinito. Inclinatio vero actus
 distantis sive verbi est inclinatio per quani actus sive verbum est t3 de
 altero Ut predicaturn’ 4de subiecto. Et 15 sic sunt ille tres inclinationes
 specie differentes. </p>
-<p>Si autem 1aliquis querat qualiter differat cornpositio verbi a
+<p xml:id="phsyn-t1-d1e207">Si autem 1aliquis querat qualiter differat cornpositio verbi a
 cornpositione nonunis et a compositione que est in participio, dicen
 dunt quod differunt iste tres compositiones sicut
 <cb ed="#T" n="b"/> <!--[T26vb]-->
@@ -270,7 +267,7 @@ et falsitatis, aiie vero non, quia illa thfferentia sunipta est a posteriori;
 preterea conzpositio verbi non est simpliciter 5subiectum veritatis et
 falsitatis, quia hoc est tantuni in indicativo modo et non in aliis
 rnodis in quibus est coinpositio.</p>
-<p>Item. Queritur de coinpositione’ verbi, cum habeat componere
+<p xml:id="phsyn-t1-d1e216">Item. Queritur de coinpositione’ verbi, cum habeat componere
 subiectum curn predicato quantum 2ad indicativurn modurn sive
 suppositum curn apposito quantum 3ad alios tres 4moclos, quare pothis
 importatur 5compositlo per akerum extreinorum quani per utruni
@@ -283,7 +280,7 @@ niorurn. Ergo in verbo debet esse similiter. Item. Habito quod ista
 cornpositio signi[icetur 11curn altero extremorum queritur’ 2quare
 potius signiflcatur p5er’ verburn (sive cum verbo) quani per non-ien,
 cuni equaliter se habeat ad utrumque’</p>
-<p>Et dicendum a1d priniuln quod compositio duplicem habet
+<p xml:id="phsyn-t1-d1e219">Et dicendum a1d priniuln quod compositio duplicem habet
 cornparationezn. Unam enim habet ad subiectum 2et aliam ad
 obiectum, sive ad obiecta, sicut v4isio coniparatur ad subiecturn in
 quo est, [N44raJ scilicet 5ad ipsuni videns, et comparatur ad obiectumn
@@ -308,7 +305,7 @@ unitorum; et ideo in illis significatur cornpositio cum utroque extre
 morum. In verbo autem non potuit c2°ompositio significari curn utro
 que extremorurn, quia compositio actus distantis est compositio per
 quam actus e2’st de altero ut predicaturn de s2ubie2cto </p>
-<p>Item. Queritur, cum in verbo sit contpositio’ et i2nclinatio ad
+<p xml:id="phsyn-t1-d1e223">Item. Queritur, cum in verbo sit contpositio’ et i2nclinatio ad
 substantiamn, utram cornpositio precedat natura inclinationem vel
 econverso i3nclinatio coinpositionem. E4t videtur quod inclinatio
 precedat comnpositioneru, quia: Curn actus non habeat esse nisi in
@@ -317,7 +314,7 @@ inesse, ergo actus naturalern habet inclinationem ad substantiarn,
 e7tsi non uniatur e8i. Sed. cornpositio actus cumn substantia non est
 nisi c9urn unitur actus substan tie. Ergo’° inclinatio actus ad sub
 stantiam n1atu1ra precedit comnpositionern actus cam substantia.</p>
-<p> Et dicendum quod actus habet duplicem inclinationem ad
+<p xml:id="phsyn-t1-d1e226"> Et dicendum quod actus habet duplicem inclinationem ad
 substantiana. Et una earum natura prior est’ compositione, alia vero
 n2atura posterior, quia cum onmnis actus
 <pb ed="#T" n="27-r"/>
@@ -343,7 +340,7 @@ quarn inclinet se ad enuntiandurn ununi de altero inediante actu,
 ideo compositio actus cum substantia natura precedit inclinationern
 a1ct2us per quam anixna inclinatur Ut actus sit de substantia. Et per
 istam secundani inclinationein rnodus repperitur in verbo. </p>
-<p>Et at hoc’ planius pateat, nota quod cain v2erbuin d5ebebat
+<p xml:id="phsyn-t1-d1e235">Et at hoc’ planius pateat, nota quod cain v2erbuin d5ebebat
 irnponi ad signiflcanduni, tunc anirna prius a4pprehenderat [P53ra1
 actum de substantia et postea a5fflciebatur ad enuntiandurn acturn
 eundem de substantia. Et per i6sturn affectuin i7nclinabatur ad
@@ -367,7 +364,7 @@ sic patet quod anodus causatur ab inclinatione sicut a causa p2rod6ina
 efficiente et inclinatio ab a2ffe7ctu Et oinnia ista tria causantur a cornpositione actus cum substantia sicut a causa remota f.inali. Et
 causantur etiam eadein tria ab anima sicut ab efficiente remota 28
 v2e91 initiali.</p>
-<p>Nota etiani quod hec diffinitio modorurn, scilicet ‘modi sunt 1
+<p xml:id="phsyn-t1-d1e238">Nota etiani quod hec diffinitio modorurn, scilicet ‘modi sunt 1
 inclinationes anirni varios affectus denionstra.ntes’ est causalis, sicut
 patet ex predictis. Unde inclinatio non predicatur 2de inoclis sicut
 genus sed causaliter. Unde inclinatio significat affecturn sicut 3
@@ -377,7 +374,7 @@ quam 5effectus 6causarn. Mota etiam quod generalis
 <lb ed="#T"/>compositio in verbo debetur ipsi agere ye! pati generaliter surnpto 7.Spe
 cialis autern cornpositio debetur ipsi agere vel pati specialiter sumpto
 e8t contracto.</p>
-<p>Si quis obiciat quod cuin a.nima afficiatur et inclinetur respectu.
+<p xml:id="phsyn-t1-d1e245">Si quis obiciat quod cuin a.nima afficiatur et inclinetur respectu.
 signifacati’ cuiuslibet partis, Ut 2 ipsurn signilicet Ct representet per
 suurn signuirl, ergo quelibet pars orationis erit alicuius niodi, cum
 propter hoc modus accidat verbo, — dicendum 3quad hec 4obiectio fit
@@ -388,7 +385,7 @@ ipsius actus inquantum componitur curn substantia). Nulla autem 9
 pars orationis est de substantia nisi verburn, quia i1n0 nulla intelli
 gitur compositic ipsius actus 11 curu substantia exterion nisi in verbo.
 Et ideo inodus solunirnodo accidit verbo et nulli alii pa.rti orationis 12.</p>
-<p>Item. Queritur qualiter intelligatur illaa cornpositio quam 2dicit
+<p xml:id="phsyn-t1-d1e248">Item. Queritur qualiter intelligatur illaa cornpositio quam 2dicit
 Aristotiles quad istain cornpositionem sine 3compositis non est intel
 ligere. Et dicendum quod conipositio actus cum substantia intelli
 gitur per extrema, quia actus seipso inheret suo subiecto, sicut quod
@@ -407,14 +404,14 @@ quocl inclinatur et cui inclinatur, nichil 3O• Et ideo cosnpositio sine
 extrernis nichil est. Et quia unumquodque intefligitur per illud quod
 dat ei esse: curn extrema dent esse compositioni, ideo compositio
 habet intelligi per extrerna, ut dictum est.</p>
-<p>Nota etiam 1quod illa compositio secunduin suain 2veritatein
+<p xml:id="phsyn-t1-d1e252">Nota etiam 1quod illa compositio secunduin suain 2veritatein
 est in re 3 et est quoddain indivisibile, in verbo autein est illa corn
 pOSitlO ut in signo. Sicut 4sanitas secunduin suarn veritatern 5est in
 animali Ut 6 in subiecto, in urina auteari ut in signo. Nota etiam quod
 ista cornpositio 7est per inclin ationem actus ad substantiam, inquan
 turn actus est accidens substantie 8;et 9 precedit alteram inclinatio
 nern per quam actus est dc aliquo’°, ut dictum est prius’ </p>
-<p>Rein. Q,ueritur utrum’ cornpositio verbalis sit ens 2 siinpliciter
+<p xml:id="phsyn-t1-d1e255">Rein. Q,ueritur utrum’ cornpositio verbalis sit ens 2 siinpliciter
 vel non. Et videtur quad non, quia: Repperitur in rebus existentibus,
 Ut ‘homo est animal’, et in rebus non existentibus, ut ‘chimera est
 non-ens’ 3.Ergo repperitur in eis per aJiquod commune repertunl 4in
@@ -428,7 +425,7 @@ communiter se habet a1d3 comnpositionern entiuni et ad composi
 tionem non-entium. Unde primo’ 4sequitur ens quodamumodo, ut
 obiectum est. Et ipsa in coirimnuni est ens quodaminodo et non sim
 pliciter. </p>
-<p>Item. Queritur utrurn compositlo verbalis in communi equa
+<p xml:id="phsyn-t1-d1e258">Item. Queritur utrurn compositlo verbalis in communi equa
 liter
 <pb ed="#T" n="27-v"/>
 <cb ed="#T" n="a"/>
@@ -437,7 +434,7 @@ animal’) et ad compositionem [N45ra] non-entium (Ut ‘chimera est
 non-ens’) vel ipsa per prius dicatur de una et per posterius de alia. Et
 dicendurn quad compositio in communi per prius convenit compo
 sitioni enthm et per posterius’ non-entium.</p>
-<p>Item. Videtur 1quod compositio 2in cornrnuni sit ens sim
+<p xml:id="phsyn-t1-d1e267">Item. Videtur 1quod compositio 2in cornrnuni sit ens sim
 pliciter et non quodammodo et sic non conveniat 3compositioni non
 entiuiu, quia videtur quod extrerna ponantur 4secunduni exigentiain
 coinpositiorns, Ut 31 compositio est ens simpliciter, et extrema. Unde
@@ -452,14 +449,14 @@ corivertiintur: ‘Antichristus est homo’ et ‘Antichristus est homo quo
 darninodo’. Quod falsum est. Ergo iliad ex quo sequitur, est falsum,
 sciiicet quod compositio in coininuni sit ens quodammodo et non
 simpliciter.</p>
-<p>Et dicenduin quad compositio in coininuni est ens quodam
+<p xml:id="phsyn-t1-d1e270">Et dicenduin quad compositio in coininuni est ens quodam
 modo, ut prius dictum est, et extrema ems 1 similiter 2sunt entia 8
 quodarninodo. Sed compositio contracta ad il1ani parteni e4ius que
 est cornpositio entiurn 5,est 6 ens siinpliciter. Unde in hac: ‘Anti
 christus est homo’ contracta est ad compositionem entiunx. Unde
 non ponitur ibi ‘honio’ quodainmodo sed’ simpliciter. Et ideo h8ec
 non equipollet huic: ‘Antichristus est homo quodammodo’.</p>
-<p>Ad i1llud autem quad obicit quod extrema ponantur secunduni
+<p xml:id="phsyn-t1-d1e273">Ad i1llud autem quad obicit quod extrema ponantur secunduni
 exigentiam cornpositionis, dicimus 2quad falsuin est, quia cum
 extrenia sint, non propter hoc sequitur quod coxnpositio sit. U3t cuni
 dico ‘howio est asinus’, extrema sunt 4,non tamen compositio est. Et
@@ -469,7 +466,7 @@ compositio eoruin est’; et est locus a causa; e9t econverso sequitur:
 ‘coxnpositio est; ergo extrema sunt sibi invicem convenientia’; et est
 locus ab effectu, quia convenientia e1xtrem0orum. est causa conipo
 sitionis et coinpositio est effectus convenientie extreinorum.</p>
-<p>Item.. Videtur quod compositio in cornmuni equaliter Se’ habeat
+<p xml:id="phsyn-t1-d1e277">Item.. Videtur quod compositio in cornmuni equaliter Se’ habeat
 ad compositionem entium et ad compositionern non-enthirn, quia:
 tile due sunt simpliciter vere: ‘hoino est animal’ e2t ‘chimera e3st
 non-ens’. E4rgo veritas earum simpliciter est ens. Ergo subiecturn
@@ -482,7 +479,7 @@ dicendum quod conipositio in conununi dicitur secundum prius et
 posterius de utraque iliarum coinpositionuni, ut prius dictum est,
 quia per prius dicitur de colnpositione entium et per posterius dë
 compositione non-entium.</p>
-<p>Ad i1llud autem quod obicit q2uod utraque earum e3st sun
+<p xml:id="phsyn-t1-d1e280">Ad i1llud autem quod obicit q2uod utraque earum e3st sun
 pliciter vera, ergo veritas e4arunt sirnpliter est ens, dicenduru quod
 non sequitur, quia veritas entium est ens siinpliciter, veritas autern
 non-entium non
