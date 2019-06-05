@@ -49,7 +49,7 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div xml:id="startOn">
+      <div xml:id="starts-on">
     		<pb ed="#R" n="30-r"/><!--this is number 32a in vatican digvat-->
         <pb ed="#R" n="a"/>
     	</div>
