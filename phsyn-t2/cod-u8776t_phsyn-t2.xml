@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Tractatus Secundus [Tarragona transcription]</title>
-      	<author>Petrus Hispanus</author>
+        <author>Petrus Hispanus</author>
         <editor>Joana Gomes</editor>
         <respStmt>
           <name>Jeffrey C. Witt</name>
@@ -12,28 +13,31 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-        	<title>Tractatus Secundus [Tarragona transcription]</title>
+          <title>Tractatus Secundus [Tarragona transcription]</title>
           <date when="2019-06-05">June 5, 2019</date>
         </edition>
       </editionStmt>
       <publicationStmt>
-        <authority><ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref></authority>
+        <authority><ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus
+            Works</ref></authority>
         <availability status="free">
-          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod
+            2</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-          guidelines for a diplomatic edition.
-        </p>
+          guidelines for a diplomatic edition. </p>
       </editorialDecl>
     </encodingDesc>
     <revisionDesc status="draft">
@@ -47,500 +51,435 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-    		<pb ed="#T" n="27-v"/>
+        <pb ed="#T" n="27-v"/>
         <pb ed="#T" n="b"/>
-    	</div>
+      </div>
     </front>
     <body>
       <div xml:id="phsyn-t2">
         <head xml:id="phsyn-t2-Hd1e107">TRACTATUS SECUNDUS</head>
         <head xml:id="phsyn-t2-Hd1e110">DE NEGATIONE</head>
-        <div xml:id="phsyn-t2-Dd1e113"> <head xml:id="phsyn-t2-Hd1e115">De negatione in genere</head>
-  <p xml:id="phsyn-t2-d1e118">Cum secundum diversitatein compositionum diversificetur
-  negatio, ideo post coinpositioneni dicendum est de negatione. Prinzo
-  autem sciendurn est 2, quod ‘negatio’ dicitur equivoce. Quia uno
-  modo 3dicitur oratio negativa. Et est species enuntiationis 4:enuntia
-  tionum autein 5alia est oratio 6aflirinativa, alia 7negativa 8(Ut ‘homo 9
-  currit’, ‘horno non currit’); et diffinitur sic: ‘negatio est oratio nega
-  tiva ab 10 aliquo’. Alio autem niodo dicitur negatio 1’signum vel in
-  struinenturn negandi. Et hoc modo dicitur tripliciter’ 2.Quia negatio
-  ut est instrumentum negandi, suniitur uno inoclo ut substantia (Ut lU
-  hoc nomine ‘negatio’) 13, alio autem niodo suinitur negatio’ 4Ut actus,
-  1u5t in verbo vel in participio (Ut ‘nego, -as’, vel ‘negans’ et ‘negatus’).
-  Et bus 16 duobus rnodis 17suniitur negatio Ut concepta sive
-  per moduni conceptus. Alio autern inodo surnitur negatio que est
-  instrumentum negandi ut exercita; et sic significatur per hanc parti
-  cularn ‘non’. </p>
-  <p xml:id="phsyn-t2-d1e121">Et nota quod conceptus et affectus 1differunt in hoc quod
-  conceptus 2dicitur esse illud quod est in anirna per similitudinem
-  aliquain 3:ciim enirn cogito 4de coloribus et de hominibus 5,siinili
-  tudines eorum recipio in anirna, Ct non res ipsas. Affectus autein 6
-  sive exercitio’ dicitur 8esse illud quod secundum veritatean est in
-  anima vel in corpore. Ut cuni laboro in egritudine, dolor est in
-  aninia rnea secundum veritatern afficiens 9earn, Ct quando curro,
-  cursus 10 est in corpore secundum veritateari exercitus 11 et 12 afficiens
-  ipsuan corpus.</p>
-  <p xml:id="phsyn-t2-d1e124">Item. Negatio isto 1 ukimo ariodo sumpta est duplex. Quia est
-  quedam negatio que est termini 2,ut in nomine infinito vel in verbo
-  inflnito; et est alia que est orationis. Et prima additur terrnino 4per
-  coanpositionern, secunda per appositionem. Item. Negatio terinini est duplex. Quia est quedam que facit noinen infinitum sive
-  privativurn 6(Ut ‘non-homo’, ‘non-lapis’) et est alia que facit verbum
-  infinitum sive 7privativunL (Ut ‘non-currit’, ‘non-laborat’).</p>
-  <p xml:id="phsyn-t2-d1e127">Sed videtur quod neque qualitas accidentalis 1neque actus
-  possint 2predican d.e substantia, quia 3sunt diversa et diversa inquan
-  turn diversa 4sunt 5repugnantia. Ergo ununi non vere predicatur de
-  altero. Ergo sicut hec est falsa: ‘Sortes est albedo’, siniiliter sunt 7hec:
-  ‘Sortes est albus’ e8t hec: ‘Sortes currit’ sicut et hec: ‘Sortes est cursus’.
-  Et dicendurn quod dupliciter contingit significari 9diversa. Quia uno
-  modo inquantuni unum 1°est oppositurn alteri ve1 11 diversum ab eo
-  (Ut ‘Sortes’ 12,‘albedo’, ‘cursus’); et sic unurn non potest 13vere pre
-  dicari 14de altero. Mio 1autem modo contingit significa.ri’ 6
-  <pb ed="#T" n="28-r"/>
-  <cb ed="#T" n="a"/>
-  <lb ed="#T"/>
-  diversa prout unuin est de altero (Ut ‘albus’, , ‘currit’, ‘legit’) et
-  universaliter quecuraque significantur in concretione ad substan
-  darn, sive dicantur denominative 17(Ut ‘albus’ 18,‘currit’) sive
-  flOfl’ 9(Ut ‘studiosus’ 20,‘cursor’ et ‘pugillator’ et consimilia, prout
-  dicuntur 21 ‘cursor’ 22et ‘pugillator’ a naturalibus potentiis). Et hoc
-  modo unurn diversuin predicatur de altero.</p>
-  <p xml:id="phsyn-t2-d1e137">Item. Cum triplex sit compositio, sciicet qualitatis ad’ substan
-  darn et actus distantis a substantia cum substantia et actus
-  uniti substantie 2curn 3substantia, et cuilibet harurn triurn 4coniposi
-  tionum sua opponatur 5negatio, et 6 sic erit triplex negatio. Quare 7
-  male ponuntur due tanturn. Et dicenduin quod 5,sicut prius est
-  dictum, negatio 9Ut est exercita sive Ut 1° afliciens, est duplex mu1
-  genere, sicut compositio duplex est in genere, quia est quedam ter
-  mini, alia 12 vero orationis, Ut dictum est. Sed quia’ 3negatio lila 14 est
-  in specie quadruplex’ 5,eoquod negatio terrnini 16subdividitur: que
-  darn 17 eniin est que removet qualitatem a substantia, faciens nomen
-  infinitum (Ut ‘non-homo’, ‘non-asinus’) 18et est alia que actuni uni
-  turn’ 9substantie removet a substantia, faciens participium infknitum
-  (Ut ‘non-currens’, ‘non-.legens’), tertia vero actuin dista.ntern a sub
-  stantia exteriori removet sive privat a substantia intra 20,faciens
-  verbum infinitum (Ut ‘non-currit’, ‘non-laborat’) 21—quarta vero est
-  orationis, Ut dictum est, faciens orationem negativarn —, sic negatio
-  terrnini dividitur per partes tres. </p>
-  <p xml:id="phsyn-t2-d1e140"> Ad illud autein quod obicit 1quod triplex est compositio, actus 2
-  scilicet curn substantia, ergo ex opposito erit triplex negatio, —
-  dicendum 8quod insuffIcienter dividit 4,quia relinquit cornpositio
-  nem actus distantis a substantia exteriori cum substantia intra 5.Et sic
-  sunt quatuor compositiones. Unde ex opposito erunt quatuor negatio
-  nes. Quod autem sint 6quatuor compositiones patet. Quia quedam est
-  qualitatis 8cuiri substantia, Ut in quolibet nornine; et negatio ei
-  opposita facit nonien infinitum 9(Ut ‘non-horno’). Et aiia est actus
-  uniti substantie cum substantia, Ut lfl participio; et negatio ei opposita
-  facit participium infinitum (Ut ‘non-legens’). Tertia vero t°est actus
-  distantis a1 substantia exteriori cum eadem 12substantia exteriori (Ut
-  ‘Sortes culTit’); et13 negatio ei opposita facit orationeni negativam (Ut
-  ‘Sortes non currit’). Quarta vero est actus distantis a substantia
-  exteriori cum substantia intrai 4;et negatio ei opposita facit verbuni
-  infinitum (ut ‘non- currit’, ‘non-laborat’). Et sic15 insufficienter 16
-  dividebat coinpositiones istas in specie et negationes eis oppositas. </p>
-  <p xml:id="phsyn-t2-d1e143"> Et nota quod verburn comparatur duplici substantie, scilicet 1
-  exteriori, que reddit ci suppositu!n 2(Ut ‘Sortes currit’) Ct
-  substan tie interiori, que infinite 3intelligitur in ipso, quia ‘currit’
-  ideim est quod ‘res currens’ et4 ‘currens’ 5est ipse 6actus, res vero 7est
-  substantia. interius 8intellecta.</p></div>
-  <div xml:id="phsyn-t2-Dd1e146">
-  <head xml:id="phsyn-t2-Hd1e148">De negatione in specie</head>
-  <p xml:id="phsyn-t2-d1e151">Dicto de negatione in genere consequenter dicenduni
-  est de unaquaque predictarum negationum et’ in specie. Et prinio de
-  negatione norninis infiniti, cuni hec sit prior aliis.</p></div>
-  <div xml:id="phsyn-t2-Dd1e154">
-    <head xml:id="phsyn-t2-Hd1e156">De negatione injinitante nonzen</head>
-  <p xml:id="phsyn-t2-d1e159">Circa quam primo queritur utrum nomen infinitum predicetur
-  de quolibet quod est Ct quod non est. Et videtur quod non, quia: Sicut dicitur in Secundo Periher,neneias, ad affirmationent in qua predi
-  c2atur nomen infinitum, sequitur negatio in qua p3redicatur noinen
-  finitum, et non econverso (Ut ‘omnis horno est non-iustus; ergo
-  nullus hom.o est iustus’, et non econverso). Ergo affirmatio in qua
-  p4redicatur nornen infinitum, ponit a,5liquid quia si nichil
-  <cb ed="#T" n="b"/>
-  <lb ed="#T"/>[T28rb}
-  poneret, t6unc converteretur cum negatione. Ergo infinitum soluin
-  predicatur de ente. Ergo non de quolibet quod est et quod’ non est. Ad
-  idem. Curn dicitur ‘hoino est non-instus’, hic ponitur ens, quia
-  a8ffIrmatur esse, n9eque compositio negatur per negationem ipsius
-  terinini infiniti sequentern. Ergo nornen infinitum predicatur
-  solurn de ente. Ergo non de quolibet quod’° est et quod non est.</p>
-  <p xml:id="phsyn-t2-d1e166">Sed contra. ‘Homini’ opponitur aliquid secundum n1egationem
-  et aliquid secunduin p2rivationem, ut ‘mortuum’ opponitur ‘homini’
-  privative et ‘non-homo’ negative. Sed privatio plus participat de ente
-  quarn negatio. Ergo ‘xnortuum’ plus participat de ente q3uarn ‘non
-  horno’. Sed ‘ntortuuzn’ predicatur de non-ente. Q4uare multo fortius
-  ‘non-hoino’. Ergo nome5n infinitum non solum predicatur de ente
-  sed e6tiam de non-ente. Item ad idem. Boetius docet convertere uni
-  versalem affirinativam infinitando t7,erminos ut ‘ornnis h8orno est
-  ens; ergo o9mne non-ens est non-horno’. Ergo ‘non-honto’ predicatur
-  de quolibet non-ente. Ergo non solum de ente. Item. Ut est in Secirndo
-  Topicorum: si ad ‘hoininern’ sequitur ‘animal’, ergo per consequen
-  dam econtrario ad ‘non-animal’ sequitur ‘non-honto’. Sed b1en0e
-  sequitur ‘si est hon-mo, est ens’. Ergo s1’equetur per consequentiam
-  econtrario ‘si est non-ens, est non-homo’. Ergo nomen infinitum
-  non solurn predicatur de ente sed etiarn de non-ente.</p>
-  <p xml:id="phsyn-t2-d1e169">Solutio Solet dici quod in hontine est duplex compositio. Quia
-  q2uedam est colrlpositio forine cum rnateria; honto enini et unum
-  quodque [N46rb] aliud a Primo constat ex materia et forina, vel v3ere
-  vel p.4roportionaliter Et est alia contpositio in h5on-mine que est dif
-  ferentiaruin c6urn genere vel c7um superiori, sive sint differentie specifice, ut in speciebus omnibus et generibus s,8ubakernis sive sint
-  differentie non-specifice, sicut s1u0nt differeatte que” secundum
-  rationem finis vel cause a1lter2ius adiciuntur enti, per quas diffe
-  r1ent3ias g1en4era generalissirna d1iffe5runt a Se. Curn enirn genera
-  generalissirna communicent in e,6nte’ licet secundum prius et
-  posterius, oportet quod per aliquid differant. 1U7t patet, quia: Sub
-  stantia est ens per s1,e8 quantitas vero est ens mensurativuni sub
-  s1,tan9tie q2°ualitas vero est ens inforinativurn (2’vel qualificati
-  v2)u2rn substantie, relatio v2e3ro est ens c2ompar4ativum substantie,
-  actio vero est ens medium per quod, sive secundum quod, unum agit
-  in aliud; Ct SiC de aliis. Unde h2e5c differentia ‘per s2e6’ est diffe
-  rentia substantie Ct ‘niensurativurn substantie’ est differentia quan
-  titatis, et sic de aliis. Et sic per istas differentias, que non sunt speci
-  fice, differunt genera2l generalissima inter Se.</p>
-  <p xml:id="phsyn-t2-d1e172">F1ornietur autern argurnentuin sic: In hoinine est duplex corn
-  positio, scilicet forme cuin rnateria Ct differentiarurn cum prhno
-  predicabili, ut cum ente. Sed cuilibet contpositioni o2pponitur sua
-  negatio. E3rgo duplici compositioni e4xistenti in homine duplex:
-  opponitur negatio. Ergo negatio in hoc ternaino ‘non-horno’ est
-  duplex. Quia vel rernovebit compositionem q5ue est differentia.rum
-  curn ente. Et sic relinquitur ens, quia cum dicitur ‘ens per se
-  corporeum aniniatuni sensibile rationale mortale’: si aggregatio
-  istarum differentiarum r6emoveatur (non dico quod u7naqueque
-  earurn removeatur, sed aggregatio eanun, que potest removeri pro
-  una vel pro pluribus sive pro o8,mnibus) tunc relinquitur ens (quia Si
-  una sola r,9emoveatur i0am non sunt ibi omnes; vel si plures vel si
-  omnes,
-  <pb ed="#T" n="28-v"/>
-  <cb ed="#T" n="a"/>
-  <lb ed="#T"/>sernper aggregatio earum removetur). Et sic ‘non
-  horno’ ponit ens et predicatur solum de ente. Et sic ‘non-homo’
-  dicitur terminus privativus. Si autein negatio ista removeat corn
-  positionem forrne curn materia, tunc nichil ponit actu, sed tan turn
-  ponit ens in potentia vel in opinione. Et SC ‘non-homo’ est terminus
-  negativus”. Et sic ‘non-hoino’ ponit potentiale vel opinabile vel
-  yinaginabile. Et sic ‘non-horno’ predicatur td2e ente et de non-ente.
-  E3t’ sic nomen infinitum e1s4t duplex. [N46va] Quod concediinus.</p>
-  <p xml:id="phsyn-t2-d1e182">Dicendum ergo quod nonien dupliciter potest infmnitari, ut
-  osten sum est. Quia’ uno modo secundurn privationern; et sic ‘non
-  horno’ ponit ens, removendo aggregationem differentiarurn a prirno predicabili. Et sic ‘homo’ Ct ‘non—honio’ OppOflUfltUf Ut privatio et
-  habitus et predicantur soluin de ente. Alio autein inodo potest nomen
-  infinitari 2,sdiicet secundum negationem. Et sic ‘non-hon’io’
-  nichil ponit et est terminus negativus 3.Et sic ‘homo’ et ‘non-homo’
-  opponuntur Ut afllrniatio et negatio et 4 predicantur de quolibet quod
-  est et quod non est, ita quod hoc vel illud, sicut et5quelibet con
-  tradictio. Et nota quod ille duplex: inodus infinitandi terminuni est
-  solurn in terminis specialibus, quia 6termini generates (Ut ‘ens’ et7
-  ‘aliquid’) uno solo modo infinitantur, scilicet secundum negatio
-  nem, quia in eis non est duplex compositio sicut in specialibus.
-  Unde ‘non-ens’ et8 ‘non-a1iquid’ solurn predicantur de non-ente 9.
-  Nullus enim 10 terminus 11 infinitus potest predicari ne eo cuius 12
-  forma removetur 13per ipsuin. Unde ‘non-hoino’ non potest predicari
-  de [P54vb1 homine neque ‘non-ens’ de ente. Nullum enim opposi
-  torurn predicari potest de sibi opposito.</p>
-  <p xml:id="phsyn-t2-d1e185">Ad illud autem quod obicit, quod ad affirinationem in qua
-  predicatur nornen infinitum, sequitur negatio’ in qua predicatur
-  nomen fmnituin, et non econverso, Ct 2 SiC nornen infinitum ponit
-  ens, — dicendurn sicut dictum est prius, quod 3‘noinen 4infinitum’
-  duplex est propter hoc quod vel est infinitum secundum negationern
-  et sic nichil ponit, vel quod 5est infinitum secundurn privationem et
-  sic ponit ens, sive sit substantiale (Ut hoino, animal) sive accidentale
-  (Ut album, iusturn, rectum 6,curvum, par vel iinpar). Unde si predi
-  cetur terminus accidentalis infinitus secundurn privationem, sic
-  relinquit subiectum accidentis in esse. Et sic ista: ‘homo est non
-  iustus’ et consirniles ponunt ens. Et sic ad ipsas sequitur negativa de
-  predicato finito, et non econverso (Ut 7 ‘homo est 8 non-iustus; ergo
-  horno non est iustus’, et non econverso). Et hoc determinat Aristoti
-  les in principio Secundi Perihernzeneias dicendo 9quod sic consequun
-  tur sibi 10 invicem sjcutll dictum est in Pnoribus. (Hoc’ 2etiarn dicit in fine Pñmi Priorum quod ad privativam affirmativam [N46vb]
-  sequitur negativa finita, Ct non econverso; Ut ‘hoc est inequale; ergo
-  non est equale” 4,et non econverso; ve1 15 ‘hoc est non-album; ergo
-  non est album’, et non econverso). Si autern predicetur’ 6terminus
-  accidentalis infinitus secunduin negationem, tunc nichil ponit, Ut
-  dictum est. Et sic convertitur curn negativa ftnita (Ut ‘oxnnis hoino
-  est non-iustus; ergo nullus hoino est 1UStUS’, et non econverso).
-  sirniliter dicit 17 in principio’ 8Secundi Perihernzeneias paulum post
-  quocl 19 ad negativarn finitam sequitur aflirinativa infinita (Ut ‘nulhis
-  homo est iustus; ergo omnis homo est non-iustus’). Quod non possk
-  esse nisi converterentur 20isto 21 modo, scilicet
-  <cb ed="#T" n="b"/>
-  <lb ed="#T"/>secundum quod est norrien infinitum secundurri negationem. Et sirniliter intel
-  lige de termino inhinito substantiali (Ut ‘non-horno’) sicut de22 acci
-  dentali (ut ‘non-iustum’) 23.</p>
-  <p xml:id="phsyn-t2-d1e192"> Ad ilud autern quod postea obicit, quod in ista: ‘homo est non
-  iustus’ ponitur 1ens, cum affIrrnetur esse et remaneat 2cornpositio
-  afflrmata Ct non negetur per negationem sequentern, — dicendum
-  quod hoc 3 argumentuin tripliciter peccat. Quia 4uno modo 5secun
-  durn equivocationern huius nominis ‘non—iustus’ 6,quod’ uno inodo
-  ponit ens et alio inodo non, ut dictum est prius. Et 8 alio inodo 9peccat
-  secundurn consequens, sive secunduin quid et sirnpliciter, quia non
-  sequitur ‘affirmatur esse aut’ 0ipsa cornpositio; ergo est’, quia aflirnia
-  lb est tarn de ente quam de non-ente. Ergo in plus est afflnnatio
-  quam esse secundurn rein11.Ergo est consequens. Unde 12 secundum
-  quod ‘non-iustus’ est nomen infinitum secundum negationern, non
-  sequitur ‘homo est non-iustus; ergo homo est’. Preterea est ibi
-  fallacia secunduin quid et siinpliciter, quia quamvis sit13 ibi cornpo
-  sitio affirrnata, non tarnen 14 ponitur ibi15 ens siznpliciter sed diminu
-  turn16per determinationern sequentein. lJnde sicut non sequitur ‘
-  est opinabile; ergo est’, quanivis sit ibi17 compositio afflrinata 18,ita non
-  sequitur ‘est non-iustus; ergo est’, cum 19 dirninuatur esse per deter-minationem nichil ponentem, secundurn quod ‘non-iustus’ e2s0t ter
-  minus negativus.</p>
-  <p xml:id="phsyn-t2-d1e195">Sciendum autem 1quod nullus terminus 2potest infinitari nisi
-  subicibile 3vel predicabile. Et 4 ideo signa universalia vel particularia.
-  non possunt infinitari, quia sunt dispositiones subiecti inquantum
-  subiecturn est, et ita respiciunt predicaturn. Et ideo dicit Aristotiles
-  quod hec negatio ‘non’ non est addenda huic signo ‘omnis’, quia
-  non significat universale sed quoniam universaliter.</p></div>
-  <div xml:id="phsyn-t2-Dd1e199">
-    <head xml:id="phsyn-t2-Hd1e201">De negatione infrnitante verbum</head>
-  <p xml:id="phsyn-t2-d1e204">Dicto de negatione speciali’ nominis faciente 2noinen infini
-  tum consequenter dicendum de speciali negatione verbi faciente
-  verbum infinitum, quia sicut nomen na.tura prius e3st verbo, ita
-  nornen infinitum natura prius e4st verbo infinito. Primo ergo queri
-  tur de verbo inrinito atrum predicetur de ornni 5eo quod est et q’uod
-  non est. Et videtur quod sic. Quia, Ut vult Aristotiles, verburn infini
-  tum sirniliter 6est in quolibet quod est et quod non est. Ergo predi
-  catur de omni quod est et quod non est. Sed contra. Negatio que est in
-  verbo infinito, relinquit coinpositionern affirmatarn, remnovendo
-  actun-i a substantia 8de qua predicatur actus. Unde sensus huius
-  ‘Cesar non currit’, secundum 9quod ‘non-currit’ est verbum infini
-  tum, est iste: Cesar esi non-cwrens. Sed cornpositio affirmata 0ponit
-  ens, quia ponit subiectuni in esse. Ergo verburn infinitum ponit ens.
-  Ergo solurn predicatur de ente.</p>
-  <p xml:id="phsyn-t2-d1e207">Et dicendum secundumn quosdamn quod verbum infinitum 1
-  extra ora.tionern mnanet infinitum, sed in oratione n2on manet
-  infinitum, sed fit semper oratio quando ponitur in oratione, q3uia
-  negatio est una pars et verbum alia. Sed hoc nicki est, q4uia
-  rnoventur eoquod nesciunt distinguere in hac oratione ‘Cesar non
-  currit’ et in consixnilibus, secundumn quod sunt propositiones nega
-  t5ive et secundurn quod sunt de verbo infinito. Unde dicenduni. Quod verbum infinitum predicatur de quolibet quod est et quod non est et
-  manet infinitum extra orationem et in oratione. Et hec propositio
-  ‘Cesar non currit’ et consiiniles, secundum quod sunt orationes
-  negative, nichil ponunt; et compositio negatur i6n eis nichil relin
-  quendo, per e.7os Secundum auteni quod in eis ponitur verbum
-  infinitum, compositio renianet a.8ffirmata Unde isto modo secun
-  dum quod in eis verburn infinitum, adhuc sunt duplices, quia ver
-  bum infinitum potest infinitari
-  <pb ed="#T" n="29-r"/>
-  <cb ed="#T" n="a"/>
-  <lb ed="#T"/>secundum negationem et sic
-  nichil ponit; vel potest infinitari secundum privationem et
-  sic ponit subiecturn in esse, et sic ponit ens.</p>
-  <p xml:id="phsyn-t2-d1e216">Ad i1liad autern quod obicit quod coinpositio a2fflrmata ponit
-  ens, quia ponit subiecturn in esse, dicendum quod utrumque est
-  falsum, quia compositio equaliter se habet a5d cornpositionem en
-  thu et ad coinpositionem non-entium; unde n4eque ponit ens ipsa
-  compositio neque ponit subiectum suum in esse. Ft ita virtute corn
-  positionis a5ffirrnate inquantuun e6st affirmata, nichil p7.onitur’ Sed
-  virtute p8redicati aliquando ponitur subiectum in esse, Ut
-  quando predicatum e9st ens sinupliciter’°, et aliquando non p1on1itur
-  subiectuin in esse, Ut quando p2redicaturn’ est ens diminuturn v1e31
-  quodainunodo. Et i1de4o sequitur ‘lapis est honio; ergo lapis est’ et non
-  sequitur ‘lapis est opinabile; ergo lapis est’. Unde sensus huiu.s ‘Cesar
-  non currit’ secundum quod ‘1non-c5urrit’ est verbuin infinitum, est
-  iste: Ces€zr est ,zon-currens.</p>
-  <p xml:id="phsyn-t2-d1e219">Et simuliter intellige de participio sicut et de verbo. Unde ille
-  due ‘Cesar non currit’, ‘Cesar est non-currens’ nichil ponunt secun
-  dum quod verbum et participium sunt terrnini negativi. Sed secun
-  dum quod sunt tennini privath’i, sic ponunt ens, quia ponunt subiec
-  turn in esse. Et hoc virtute predicati et non cornpositionis, Ut dictum
-  est. De negatione infinitante participiurn satis patet ex predictis; et
-  ideo relinquatur. </p></div>
-  <div xml:id="phsyn-t2-Dd1e222">
-    <head xml:id="phsyn-t2-Hd1e224">De negatione orationis&gt;</head>
-  <p xml:id="phsyn-t2-d1e227">Determinatis negationibus terminoruin dicendum est de nega—
-  t1ione orationis. Simplex enim natura p2recedit comnpositum. U3nde
-  nomen et verbumu natura sunt priora oratione. Unde negatio nomi
-  nis v4el verbi natura precedit negationem orationis. Primo ergo
-  queritur utrurn negatio orationis faciat c5.ontradictioneni Et videtur
-  quod non, quia: Ad hoc q6uod negatio contradicat, oportet quod re
-  moveat comnpositionem. Sed non potest removere c,7ornpositionexn
-  quia cornpositio est subiectum negationis et nullurn accidens renio
-  vet suurn subiectum. Ergo non potest facere contradictionem. Ergo
-  non contingit contradicere. Item ad idemn, Quicquid est causaturu,
-  a8ut est substantia. aut accidens. Ergo negatio curn sit causata, aut est
-  substantia aut accidens. Sed non est substantia. Ergo est accidens.
-  Ergo est in subiecto aliquo. Sed n9onnisi in compositione. Ergo non
-  remnovet e1.a0rn Ergo non contingit contradicere, I1.te1m Cum
-  contingat con tradicere, q2uia’ hoc est ptrin3cipiurn principiorum in
-  scientiis, ergo negatio rernovet comnpositionern. Sed coxnpositio est
-  causa mnodi. Ergo remnovet rnodum. Ergo nulla o1ra4tio negativa est
-  alicuius mnodi. Ergo nte5que indicativi (1loc6us a genere). Ergo nulla
-  o1ra7tio negativa est vera vel falsa; sola enim indicativa est 18 qua
-  est verum vel falsumn.</p>
-  <p xml:id="phsyn-t2-d1e230">Solutio. Sicut hoc nornen ‘homno’ duplicem habet significa
-  tionent, scilicet generalem’ C2t specialem (generalis significatio est
-  significare substantiam curti qualitate, s3pecialis vera significare
-  hanc substantiant que est homno), et s4icut in verbo duplex est signi
-  ficatio, scilicet generaiis {N47va] e5t specialis: (6generalis est signi
-  ficare agere vel pati, specialis v7ero significare istum a8ctunt vel
-  istani passionemn, Ut legere vel legi, percutere vel percuti), — simni
-  liter d9uplex: est compositio, s1cili0cet generalis et speciaiis. Gene
-  r1alits autem conipositio communiter se habet quantum est de se ad
-  ornnia componibilia. Gum eriini dicitrius quod verburn consigni
-  f1ic2at [.P55va] cornpositionem, non dicimus hanc c1omnpos3itionern v1e41 illain, sed coinpositionem in genere; et hec cornpositio est
-  generalis’ 5.Specialis auteul cotnpositio est per extrema compositio
-  nis. Et negatio rernovet specialem coinpositionem, Ct hoc sufficit ad
-  contradictionern. Et relinquit generalein, ratione cuius accidit
-  rnodus. Tfnde adhuc 16contingit’ 7contradicere.</p>
-  <p xml:id="phsyn-t2-d1e233">Item. Solet 1dici quod due negationes equipollent a.ffirrnationi 2.
-  Et queritur quare due affirmationes econverso
-  <cb ed="#T" n="a"/>
-  <lb ed="#T"/>non equi
-  pollent negationi 3.Et 4 videtur quod, sicut negatio reniovet aflirma
-  tionern, sic econverso affirmatio negationem. Et dicenduni quod
-  negatio apta nata est destruere 5quicquid repperit 6,quia negatio est
-  actus’ destruens suurn obiectum. Unde obiectuni negationis, quod
-  cumque fuerit, removetur per negationem. Et quia negatio au
-  quando 8est obiectum negationis, aliquando negatio negatur (Ut ‘non:
-  Sortes non currit’) et 9 ideo negatlo removetur per negationein, ideo 10
-  ex consequenti ponitur affirmatio, quia t1 remota negatione ponitur
-  afTirinatio, eoquod necesse est semper esse affirrnationeni v1e21
-  negationem. Et ideo due negationes equipollent affIrniationi. AffIr
-  inatio 13 auterri non est apta nata clestruere 14suum obiectuin, sed
-  ponit ipsum’ 5potius et conservat. Et ideo cum res affirmata 6,que est
-  obiecturn afflrxnationis’, non 18 reinoveatur per afflrmationern, oh 19
-  hoc due affinnationes non possunt equipollere negationi.</p>
-  <p xml:id="phsyn-t2-d1e240">Ad illud autein quod obicit quod affirmatio rernovet negatio
-  nem, sicut et 1 econverso, dicendum quod due comparationes 2sunt
-  in affirrnatione et due in negatione, diversimode 3coniparate. Una
-  enirn cornparatio afllrrnationis est ad illud quod affirinat, aljarn 4
-  vero habet ad illud cui opponitur. Et ille due comparationes affir
-  Inationis non 5 sunt respectu eiusdem sed respectu diversorum.
-  Verbi gratia, hec affirmatio ‘Sortes currit’ afflrmat Sortem currere et
-  coinpositio 6eius opponitur ei’ 7 que est Sortem non currere. Et ideo
-  ratione compositionis 8non potest destruere suurn obiectum.
-  Sed due cornparationes negationis sunt semper 9respectu eiusdem,
-  quia negatio semper negat aliquid, sicut 1°affirniatio affirinat, et
-  semper negatio opponitur alicui. Sed nonnisi ci quod negat. Et ideo negatio ratione sue oppositionis semper destruit suuin obiectum quod
-  negabat”. Sed affirmatio non opponitur ei quod aflirmat, ut
-  dictum est. Et ideo affirmatio non destruit quod afflrrnat 13 . Et sic
-  non est simile de affirmatione a1d4 negationem et de negatione ad
-  affirinationeni, Ut 1am patet p5er’ hoc quod negatio opponitur affir
-  inationi et negat earn, affirmatio opponitur negationi et non affirmat
-  earn sed aliud, ut clictuni est.</p>
-  <p xml:id="phsyn-t2-d1e244">Item. Dicit 1Aristotiles in secundo Topicorum quod si aliquid
-  non est susceptivum unius contrarioruin, neque alterius. Ergo quod
-  non potest affirmari 2,non potent 3negari 4.Sed ista ‘Sortes non currit’
-  non potest afflrrnari, curn sit negativa. Ergo non potest ei adcli altera
-  negatio ut per earn negetur. Ergo due negationes n5on equipollent
-  affirinationi.</p>
-  <p xml:id="phsyn-t2-d1e247">Ad hoc dicunt quidarn quod negatio quodainmodo est afflrnia
-  do, quia negatio’ habet in se aliquid 2de ente, scilicet 3de affirma
-  done, unde participat 4naturam affirmationis. Et ideo potest negari
-  per negationeni. Et ita huic propositioni ‘Sortes non currit’ potest addi
-  altera negatio sic 5:‘non: Sortes non currit’. Et ita due negationes
-  equipollent afErinationi. Sed ego credo quod nielius dicitur quod
-  quamvis 6accidentia nature non possint reflecti supra 7se agendo in
-  se (sicut 8caliditas 9non agit in se sed in suuzn obiectum), tarnen
-  accidentia causata’ 0a ratione possunt reflecti supra se agendo in- 1se
-  (sicut ratio supra se cognoscendo’ 2se et iudicando 3de Se). Unde
-  negatio, que’ 4est accidens causatum 15 a ratione, potest reflecti 16
-  supra negationem sive 17 supra rem negatarn’ 8.Et ideo negatio potest
-  negari, quamvis non possit affirrnari. Et consideratio Aristotilis 9
-  debet [T29va] intelligi dc accidentibus nature sive de con trariis
-  nature (Ut ‘album-nigrum’, ‘caliduin-frigiduin’ et consimulia). Item.
-  Iste due ‘Sortes currit’ 20 ,‘non: Sortes non currit’ equipollent sibi
-  invicem et contradicunt hujc ‘Sortes non currit’. S2e1d contra: dicit
-  Aristotiles quad unurn uni opponitur. Ergo due propositiones non
-  con tradicunt uni.</p>
-  <p xml:id="phsyn-t2-d1e250">Et dicenduin quoci dupliciter1fit contradictio, scilicet pruno et
-  ex consequenti. Unde in bus est primo contradictio ‘Sortes2currit’,
-  ‘Sortes non currit’. Sed3hec ‘non: Sortes non currit’ [N48ra] contra
-  dicit4ex consequenti huic ‘Sortes non currit’, quia, inquantuni equi
-  poflet, Ct convertitur cuni ista5‘Sortes currit’. Unde intellige quod in
-  contradictione primo° semper altera7est aflirmatio et altera est
-  negatio. Unde dicit Aristotiles8quod contradictio est affirmatio et
-  negatio opposite. Sed in contradictione que est cx consequenti, nega
-  tb potest contradicere negationi.</p>
-  <p xml:id="phsyn-t2-d1e253">Item. Nota quod negatio [P56ra} preposita sive postposita’
-  terrnino singulari ideni significat (Ut ‘Sortes2non currit’ et ‘non:
-  Sortes currit’). Sed non siiniliter est in terminis communibus, quia
-  hec est indefinita3‘homo non4currit’, hec autern est universalis
-  negativa ‘non: homo currit’. Neque6est in7 contrarium quod8dicit
-  Aristotiles: “transposita nomina vel verba idem significant”. Et9
-  intelligatur de aliis dictionibus, quia intellexit10de dictionc11que
-  est’2 subicibilis vel predicabilis’8vet14 que est dispositio ipsius subi
-  cibilis vel predicabilis absolute. Et non intellexit15de dictione que est
-  dispositio unius ad16 alterum, ut sunt negationes et signa univer
-  salia1‘. Negatio enirn negat unuin de18 altero et signum universale
-  thsponit s’ubiectum in respectu ad predicatum.</p></div>
-  <div xml:id="phsyn-t2-Dd1e256">
-  <head xml:id="phsyn-t2-Hd1e258">Sophismata</head>
-  <p xml:id="phsyn-t2-d1e261">Item. Queritur de hoc sophisiriate NULLO I-IOMINE CUR
-  RENTE TU ES ASINUS. Probatio. fjdfkjHec est falsa ‘a:Liquo hornine
-  currente tu es asinus’. Ergo eius contradictoria erit1vera, hec scilicet
-  ‘non aliquo hoinmne currente tu es asinus’. Sed2 ‘non aliquo’ Ct
-  ‘nullo’ equipollent, sicut ‘non aliquis’ et ‘nullus’. Ergo hec est vera
-  ‘nuilo homine currente tu es asinus’. Sed contra. Nullo hotnine
-  currente tu es asinus. Ergo durn nultus homo currit3,vel si nullus
-  homo currit4,vel quia nullus homo currit, tu es asinus. Qu.od falsum
-  est 30 Solutio, Prima falsa, hec scilicet ‘nullo homine currente tu es
-  asinus’. Quia’ i2sta p3er quarn probat earn, peccat secundum divi
-  sionern, hec scilicet ‘non aliquo hornine currente tu es asinus’. E4t
-  est duplex, coquod negatic potest negare tantum participium (et sic
-  est di’visa et falsa), vel potest negare participium in cornparatione act
-  verbum sequens (et sic est composita et vera). Et pnmo 5modo equi
-  pollet prime, scilicet huic ‘nullo honiine currente tu es asinus’. Sed
-  hec est falsa ‘nullo homine etc.’, quia negatio que est in cornposi
-  tione 6huius signi ‘nullo’ 7,non potest fern ultra participium, per
-  hanc regulam
-  <seg type="rule">qsotieiscunzque negatio ci distributio induduntur in tennino uno 8,ad nichil pokstfrai
-  unum sine reliquo.</seg>
-  Sed distributio non fertur 9ultra participiuni. Ergo neque [N4Srb}
-  negatio. Et’° ita hec est falsa ‘nullo honiine currente iii es asinus’.
-  Quare 1e1t sua equipollens jib modo quo ei equipollet. Et utraque est
-  aflirinativa, hec scilicet ‘nonl 2aliquo 13 honiine currente etc.’ 14 et
-  ‘nullo honüne currente etc.’, secundum quod equipollent. Et per
-  h1o5c patet quod neutra earum contradicit huic ‘aliquo honune cur
-  rente etc’, quia affirinativa non contradict affirmative.</p>
-  <p xml:id="phsyn-t2-d1e267">Item. Qu.eritur de hoc sophisinate NICHIL NICHIL EST. Proba
-  tic 1.Eius contradictoria est falsa, hec scilicet ‘aliquid nichil est’. Ergo
-  prima 2vera. Contra. Nichil nicliil est. Ergo nichil nulia substantia
-  est. Et videtur e3sse locus a genere sive a toto in quantitate, Ut ‘nichil
-  est; e4rgo nulba substantia. est’. Sed conclusio e5st falsa, hec scilicet
-  ‘nichil nulla substantia est’,
-  <cb ed="#T" n="b"/>
-  <lb ed="#T"/>quia equipollet huic ‘quidlibet
-  est aliqua substantia’, quoci falsum est. Ergo C6t prima ex qua sequitur,
-  est falsa.</p>
-  <p xml:id="phsyn-t2-d1e274">Solutio. Prima vera, hec scilicet ‘nichil nichil est’, quia [P56rb]
-  equipollet huic ‘quidlibet est aliquid’, per illam regulam’:
-  <seg type="rule">quotimscumque duo signa unwersalia negativa ponuntur in e2adem locistione, ita quod
-  unum in subiecto e31 alteruni in predicato, piimum equipollet sue contrario, reliquum
-  suo contradictorio</seg>. Item. Improbatio peccat secundum consequens communiter loquen
-  do, quia sicut hic 4est consequens secundum comrnuniter loquentes
-  ‘quidlibet est aliquid; ergo quidlibet est aliqua substantia’, sirniiter
-  hic est consequens ‘nichil nichil est; ergo nichil nulla substantia est’.</p>
-  <p xml:id="phsyn-t2-d1e280">Ad illud autem quod obicit quod videtur 1ibi esse locus a genere
-  sive a toto in quantitate, dicendum 2quod non est verum, imrno est
-  ibi fallacia 3secunduin consequens, sicut hic ‘nullus horno est
-  nullum animal; ergo nullus homo est nullum risibile’. Quia in ista
-  ‘omnis homo est nullum animal’ ‘animal’ removetur a subiecto. Et
-  curn apponitur 4alia negatio per hoc signurn ‘nullus’, rernovetur
-  predicatuin negaturn 5a6 subiecto sic: ‘nullus hoino est nullum
-  animal’. Sed rernovere predicatuin a subiecto negatum est ponere ex
-  consequenti in 7 eodern affirmatum. Ergo ista ‘nullus horno est
-  nuflum animal’ equipollet huic ‘ornnis 8homo est aiiquod 9animal’;
-  et similiter ista ‘nullus homo est nullum risibile’ equipollet huic
-  ‘on-in is homo est aliquod risibile ‘10• Hic autem ponunt consequens:
-  ‘animal est; ergo risibile 1est’, sicut hic: ‘animal currit; ergo hon-to
-  currit’. Ergo et12 hic: ‘omnis homo est animal; ergo ornnis horno est
-  risibile’; et similiter in suis equipollentibus ‘nullus horno [lV48va]
-  est nullurn animal; ergo nullus 13 homo est nullurn risibile’ 14.Et
-  siniiliter est in proposito: ‘nichil nichil est; ergo nichil nulla sub
-  stantia est’.</p>
-  <p xml:id="phsyn-t2-d1e284">Et videtur quod conclusio improbationis sit vera, quia hec est
-  vera ‘nulla substantia est nichil’. Quod patet dupliciter, scilicet per
-  predictam regulain, quia equ.ipollet huic ‘omnis substantia est auquid;
-  et etiam quia. sua contradictoria est falsa, hec scilicet ‘aliqua
-  substantia est ¶nichil’. Ergo 2hec est vera ‘nulla substantia est nichil’.
-  Ergo sua conversa tnt3vera, hec scilicet ‘nichil est nulla substantia’.</p>
-  <p xml:id="phsyn-t2-d1e287">Et dicendum quod non recte convertit hanc ‘nulla substantia est
-  nichil’, quia debet ponere signurn subiecti supra totuin predicatum et
-  reducere tad subiectum 2,Ut ‘nulla substantia est nichil: nullum ens 3
-  nichil est substantia’. Sed utraque istaruni 4est vera. Et sic non probat conclusionem irnprobationis. Item. Quod conclusio improbationis sit
-  falsa probatur dupliciter. Quia uno modo per predictam regularn, et
-  alio rnodo quia e5ms contradictoria est vera, hec scilicet ‘aliquid est
-  nulla substantia’, Ut albedo et quodlibet alliud accidens.</p></div>
+        <div xml:id="phsyn-t2-Dd1e113">
+          <head xml:id="phsyn-t2-Hd1e115">De negatione in genere</head>
+          <p xml:id="phsyn-t2-d1e118">Cum secundum diversitatein compositionum diversificetur
+            negatio, ideo post coinpositioneni dicendum est de negatione. Prinzo autem sciendurn est
+            2, quod ‘negatio’ dicitur equivoce. Quia uno modo 3dicitur oratio negativa. Et est
+            species enuntiationis 4:enuntia tionum autein 5alia est oratio 6aflirinativa, alia
+            7negativa 8(Ut ‘homo 9 currit’, ‘horno non currit’); et diffinitur sic: ‘negatio est
+            oratio nega tiva ab 10 aliquo’. Alio autem niodo dicitur negatio 1’signum vel in
+            struinenturn negandi. Et hoc modo dicitur tripliciter’ 2.Quia negatio ut est
+            instrumentum negandi, suniitur uno inoclo ut substantia (Ut lU hoc nomine ‘negatio’) 13,
+            alio autem niodo suinitur negatio’ 4Ut actus, 1u5t in verbo vel in participio (Ut ‘nego,
+            -as’, vel ‘negans’ et ‘negatus’). Et bus 16 duobus rnodis 17suniitur negatio Ut concepta
+            sive per moduni conceptus. Alio autern inodo surnitur negatio que est instrumentum
+            negandi ut exercita; et sic significatur per hanc parti cularn ‘non’. </p>
+          <p xml:id="phsyn-t2-d1e121">Et nota quod conceptus et affectus 1differunt in hoc quod
+            conceptus 2dicitur esse illud quod est in anirna per similitudinem aliquain 3:ciim enirn
+            cogito 4de coloribus et de hominibus 5,siinili tudines eorum recipio in anirna, Ct non
+            res ipsas. Affectus autein 6 sive exercitio’ dicitur 8esse illud quod secundum
+            veritatean est in anima vel in corpore. Ut cuni laboro in egritudine, dolor est in
+            aninia rnea secundum veritatern afficiens 9earn, Ct quando curro, cursus 10 est in
+            corpore secundum veritateari exercitus 11 et 12 afficiens ipsuan corpus.</p>
+          <p xml:id="phsyn-t2-d1e124">Item. Negatio isto 1 ukimo ariodo sumpta est duplex. Quia est
+            quedam negatio que est termini 2,ut in nomine infinito vel in verbo inflnito; et est
+            alia que est orationis. Et prima additur terrnino 4per coanpositionern, secunda per
+            appositionem. Item. Negatio terinini est duplex. Quia est quedam que facit noinen
+            infinitum sive privativurn 6(Ut ‘non-homo’, ‘non-lapis’) et est alia que facit verbum
+            infinitum sive 7privativunL (Ut ‘non-currit’, ‘non-laborat’).</p>
+          <p xml:id="phsyn-t2-d1e127">Sed videtur quod neque qualitas accidentalis 1neque actus
+            possint 2predican d.e substantia, quia 3sunt diversa et diversa inquan turn diversa
+            4sunt 5repugnantia. Ergo ununi non vere predicatur de altero. Ergo sicut hec est falsa:
+            ‘Sortes est albedo’, siniiliter sunt 7hec: ‘Sortes est albus’ e8t hec: ‘Sortes currit’
+            sicut et hec: ‘Sortes est cursus’. Et dicendurn quod dupliciter contingit significari
+            9diversa. Quia uno modo inquantuni unum 1°est oppositurn alteri ve1 11 diversum ab eo
+            (Ut ‘Sortes’ 12,‘albedo’, ‘cursus’); et sic unurn non potest 13vere pre dicari 14de
+            altero. Mio 1autem modo contingit significa.ri’ 6
+            <pb ed="#T" n="28-r"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/> diversa prout unuin est de altero (Ut ‘albus’, , ‘currit’, ‘legit’) et
+            universaliter quecuraque significantur in concretione ad substan darn, sive dicantur
+            denominative 17(Ut ‘albus’ 18,‘currit’) sive flOfl’ 9(Ut ‘studiosus’ 20,‘cursor’ et
+            ‘pugillator’ et consimilia, prout dicuntur 21 ‘cursor’ 22et ‘pugillator’ a naturalibus
+            potentiis). Et hoc modo unurn diversuin predicatur de altero.</p>
+          <p xml:id="phsyn-t2-d1e137">Item. Cum triplex sit compositio, sciicet qualitatis ad’
+            substan darn et actus distantis a substantia cum substantia et actus uniti substantie
+            2curn 3substantia, et cuilibet harurn triurn 4coniposi tionum sua opponatur 5negatio, et
+            6 sic erit triplex negatio. Quare 7 male ponuntur due tanturn. Et dicenduin quod 5,sicut
+            prius est dictum, negatio 9Ut est exercita sive Ut 1° afliciens, est duplex mu1 genere,
+            sicut compositio duplex est in genere, quia est quedam ter mini, alia 12 vero orationis,
+            Ut dictum est. Sed quia’ 3negatio lila 14 est in specie quadruplex’ 5,eoquod negatio
+            terrnini 16subdividitur: que darn 17 eniin est que removet qualitatem a substantia,
+            faciens nomen infinitum (Ut ‘non-homo’, ‘non-asinus’) 18et est alia que actuni uni turn’
+            9substantie removet a substantia, faciens participium infknitum (Ut ‘non-currens’,
+            ‘non-.legens’), tertia vero actuin dista.ntern a sub stantia exteriori removet sive
+            privat a substantia intra 20,faciens verbum infinitum (Ut ‘non-currit’, ‘non-laborat’)
+            21—quarta vero est orationis, Ut dictum est, faciens orationem negativarn —, sic negatio
+            terrnini dividitur per partes tres. </p>
+          <p xml:id="phsyn-t2-d1e140"> Ad illud autein quod obicit 1quod triplex est compositio,
+            actus 2 scilicet curn substantia, ergo ex opposito erit triplex negatio, — dicendum
+            8quod insuffIcienter dividit 4,quia relinquit cornpositio nem actus distantis a
+            substantia exteriori cum substantia intra 5.Et sic sunt quatuor compositiones. Unde ex
+            opposito erunt quatuor negatio nes. Quod autem sint 6quatuor compositiones patet. Quia
+            quedam est qualitatis 8cuiri substantia, Ut in quolibet nornine; et negatio ei opposita
+            facit nonien infinitum 9(Ut ‘non-horno’). Et aiia est actus uniti substantie cum
+            substantia, Ut lfl participio; et negatio ei opposita facit participium infinitum (Ut
+            ‘non-legens’). Tertia vero t°est actus distantis a1 substantia exteriori cum eadem
+            12substantia exteriori (Ut ‘Sortes culTit’); et13 negatio ei opposita facit orationeni
+            negativam (Ut ‘Sortes non currit’). Quarta vero est actus distantis a substantia
+            exteriori cum substantia intrai 4;et negatio ei opposita facit verbuni infinitum (ut
+            ‘non- currit’, ‘non-laborat’). Et sic15 insufficienter 16 dividebat coinpositiones istas
+            in specie et negationes eis oppositas. </p>
+          <p xml:id="phsyn-t2-d1e143"> Et nota quod verburn comparatur duplici substantie, scilicet
+            1 exteriori, que reddit ci suppositu!n 2(Ut ‘Sortes currit’) Ct substan tie interiori,
+            que infinite 3intelligitur in ipso, quia ‘currit’ ideim est quod ‘res currens’ et4
+            ‘currens’ 5est ipse 6actus, res vero 7est substantia. interius 8intellecta.</p>
+        </div>
+        <div xml:id="phsyn-t2-Dd1e146">
+          <head xml:id="phsyn-t2-Hd1e148">De negatione in specie</head>
+          <p xml:id="phsyn-t2-d1e151">Dicto de negatione in genere consequenter dicenduni est de
+            unaquaque predictarum negationum et’ in specie. Et prinio de negatione norninis
+            infiniti, cuni hec sit prior aliis.</p>
+        </div>
+        <div xml:id="phsyn-t2-Dd1e154">
+          <head xml:id="phsyn-t2-Hd1e156">De negatione injinitante nonzen</head>
+          <p xml:id="phsyn-t2-d1e159">Circa quam primo queritur utrum nomen infinitum predicetur de
+            quolibet quod est Ct quod non est. Et videtur quod non, quia: Sicut dicitur in Secundo
+            Periher,neneias, ad affirmationent in qua predi c2atur nomen infinitum, sequitur negatio
+            in qua p3redicatur noinen finitum, et non econverso (Ut ‘omnis horno est non-iustus;
+            ergo nullus hom.o est iustus’, et non econverso). Ergo affirmatio in qua p4redicatur
+            nornen infinitum, ponit a,5liquid quia si nichil
+            <cb ed="#T" n="b"/>
+            <lb ed="#T"/>[T28rb} poneret, t6unc converteretur cum negatione. Ergo infinitum soluin
+            predicatur de ente. Ergo non de quolibet quod est et quod’ non est. Ad idem. Curn
+            dicitur ‘hoino est non-instus’, hic ponitur ens, quia a8ffIrmatur esse, n9eque
+            compositio negatur per negationem ipsius terinini infiniti sequentern. Ergo nornen
+            infinitum predicatur solurn de ente. Ergo non de quolibet quod’° est et quod non
+            est.</p>
+          <p xml:id="phsyn-t2-d1e166">Sed contra. ‘Homini’ opponitur aliquid secundum n1egationem et
+            aliquid secunduin p2rivationem, ut ‘mortuum’ opponitur ‘homini’ privative et ‘non-homo’
+            negative. Sed privatio plus participat de ente quarn negatio. Ergo ‘xnortuum’ plus
+            participat de ente q3uarn ‘non horno’. Sed ‘ntortuuzn’ predicatur de non-ente. Q4uare
+            multo fortius ‘non-hoino’. Ergo nome5n infinitum non solum predicatur de ente sed e6tiam
+            de non-ente. Item ad idem. Boetius docet convertere uni versalem affirinativam
+            infinitando t7,erminos ut ‘ornnis h8orno est ens; ergo o9mne non-ens est non-horno’.
+            Ergo ‘non-honto’ predicatur de quolibet non-ente. Ergo non solum de ente. Item. Ut est
+            in Secirndo Topicorum: si ad ‘hoininern’ sequitur ‘animal’, ergo per consequen dam
+            econtrario ad ‘non-animal’ sequitur ‘non-honto’. Sed b1en0e sequitur ‘si est hon-mo, est
+            ens’. Ergo s1’equetur per consequentiam econtrario ‘si est non-ens, est non-homo’. Ergo
+            nomen infinitum non solurn predicatur de ente sed etiarn de non-ente.</p>
+          <p xml:id="phsyn-t2-d1e169">Solutio Solet dici quod in hontine est duplex compositio. Quia
+            q2uedam est colrlpositio forine cum rnateria; honto enini et unum quodque [N46rb] aliud
+            a Primo constat ex materia et forina, vel v3ere vel p.4roportionaliter Et est alia
+            contpositio in h5on-mine que est dif ferentiaruin c6urn genere vel c7um superiori, sive
+            sint differentie specifice, ut in speciebus omnibus et generibus s,8ubakernis sive sint
+            differentie non-specifice, sicut s1u0nt differeatte que” secundum rationem finis vel
+            cause a1lter2ius adiciuntur enti, per quas diffe r1ent3ias g1en4era generalissirna
+            d1iffe5runt a Se. Curn enirn genera generalissirna communicent in e,6nte’ licet secundum
+            prius et posterius, oportet quod per aliquid differant. 1U7t patet, quia: Sub stantia
+            est ens per s1,e8 quantitas vero est ens mensurativuni sub s1,tan9tie q2°ualitas vero
+            est ens inforinativurn (2’vel qualificati v2)u2rn substantie, relatio v2e3ro est ens
+            c2ompar4ativum substantie, actio vero est ens medium per quod, sive secundum quod, unum
+            agit in aliud; Ct SiC de aliis. Unde h2e5c differentia ‘per s2e6’ est diffe rentia
+            substantie Ct ‘niensurativurn substantie’ est differentia quan titatis, et sic de aliis.
+            Et sic per istas differentias, que non sunt speci fice, differunt genera2l generalissima
+            inter Se.</p>
+          <p xml:id="phsyn-t2-d1e172">F1ornietur autern argurnentuin sic: In hoinine est duplex corn
+            positio, scilicet forme cuin rnateria Ct differentiarurn cum prhno predicabili, ut cum
+            ente. Sed cuilibet contpositioni o2pponitur sua negatio. E3rgo duplici compositioni
+            e4xistenti in homine duplex: opponitur negatio. Ergo negatio in hoc ternaino ‘non-horno’
+            est duplex. Quia vel rernovebit compositionem q5ue est differentia.rum curn ente. Et sic
+            relinquitur ens, quia cum dicitur ‘ens per se corporeum aniniatuni sensibile rationale
+            mortale’: si aggregatio istarum differentiarum r6emoveatur (non dico quod u7naqueque
+            earurn removeatur, sed aggregatio eanun, que potest removeri pro una vel pro pluribus
+            sive pro o8,mnibus) tunc relinquitur ens (quia Si una sola r,9emoveatur i0am non sunt
+            ibi omnes; vel si plures vel si omnes,
+            <pb ed="#T" n="28-v"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/>sernper aggregatio earum removetur). Et sic ‘non horno’ ponit ens et
+            predicatur solum de ente. Et sic ‘non-homo’ dicitur terminus privativus. Si autein
+            negatio ista removeat corn positionem forrne curn materia, tunc nichil ponit actu, sed
+            tan turn ponit ens in potentia vel in opinione. Et SC ‘non-homo’ est terminus
+            negativus”. Et sic ‘non-hoino’ ponit potentiale vel opinabile vel yinaginabile. Et sic
+            ‘non-horno’ predicatur td2e ente et de non-ente. E3t’ sic nomen infinitum e1s4t duplex.
+            [N46va] Quod concediinus.</p>
+          <p xml:id="phsyn-t2-d1e182">Dicendum ergo quod nonien dupliciter potest infmnitari, ut
+            osten sum est. Quia’ uno modo secundurn privationern; et sic ‘non horno’ ponit ens,
+            removendo aggregationem differentiarurn a prirno predicabili. Et sic ‘homo’ Ct
+            ‘non—honio’ OppOflUfltUf Ut privatio et habitus et predicantur soluin de ente. Alio
+            autein inodo potest nomen infinitari 2,sdiicet secundum negationem. Et sic ‘non-hon’io’
+            nichil ponit et est terminus negativus 3.Et sic ‘homo’ et ‘non-homo’ opponuntur Ut
+            afllrniatio et negatio et 4 predicantur de quolibet quod est et quod non est, ita quod
+            hoc vel illud, sicut et5quelibet con tradictio. Et nota quod ille duplex: inodus
+            infinitandi terminuni est solurn in terminis specialibus, quia 6termini generates (Ut
+            ‘ens’ et7 ‘aliquid’) uno solo modo infinitantur, scilicet secundum negatio nem, quia in
+            eis non est duplex compositio sicut in specialibus. Unde ‘non-ens’ et8 ‘non-a1iquid’
+            solurn predicantur de non-ente 9. Nullus enim 10 terminus 11 infinitus potest predicari
+            ne eo cuius 12 forma removetur 13per ipsuin. Unde ‘non-hoino’ non potest predicari de
+            [P54vb1 homine neque ‘non-ens’ de ente. Nullum enim opposi torurn predicari potest de
+            sibi opposito.</p>
+          <p xml:id="phsyn-t2-d1e185">Ad illud autem quod obicit, quod ad affirinationem in qua
+            predicatur nornen infinitum, sequitur negatio’ in qua predicatur nomen fmnituin, et non
+            econverso, Ct 2 SiC nornen infinitum ponit ens, — dicendurn sicut dictum est prius, quod
+            3‘noinen 4infinitum’ duplex est propter hoc quod vel est infinitum secundum negationern
+            et sic nichil ponit, vel quod 5est infinitum secundurn privationem et sic ponit ens,
+            sive sit substantiale (Ut hoino, animal) sive accidentale (Ut album, iusturn, rectum
+            6,curvum, par vel iinpar). Unde si predi cetur terminus accidentalis infinitus secundurn
+            privationem, sic relinquit subiectum accidentis in esse. Et sic ista: ‘homo est non
+            iustus’ et consirniles ponunt ens. Et sic ad ipsas sequitur negativa de predicato
+            finito, et non econverso (Ut 7 ‘homo est 8 non-iustus; ergo horno non est iustus’, et
+            non econverso). Et hoc determinat Aristoti les in principio Secundi Perihernzeneias
+            dicendo 9quod sic consequun tur sibi 10 invicem sjcutll dictum est in Pnoribus. (Hoc’
+            2etiarn dicit in fine Pñmi Priorum quod ad privativam affirmativam [N46vb] sequitur
+            negativa finita, Ct non econverso; Ut ‘hoc est inequale; ergo non est equale” 4,et non
+            econverso; ve1 15 ‘hoc est non-album; ergo non est album’, et non econverso). Si autern
+            predicetur’ 6terminus accidentalis infinitus secunduin negationem, tunc nichil ponit, Ut
+            dictum est. Et sic convertitur curn negativa ftnita (Ut ‘oxnnis hoino est non-iustus;
+            ergo nullus hoino est 1UStUS’, et non econverso). sirniliter dicit 17 in principio’
+            8Secundi Perihernzeneias paulum post quocl 19 ad negativarn finitam sequitur
+            aflirinativa infinita (Ut ‘nulhis homo est iustus; ergo omnis homo est non-iustus’).
+            Quod non possk esse nisi converterentur 20isto 21 modo, scilicet
+            <cb ed="#T" n="b"/>
+            <lb ed="#T"/>secundum quod est norrien infinitum secundurri negationem. Et sirniliter
+            intel lige de termino inhinito substantiali (Ut ‘non-horno’) sicut de22 acci dentali (ut
+            ‘non-iustum’) 23.</p>
+          <p xml:id="phsyn-t2-d1e192"> Ad ilud autern quod postea obicit, quod in ista: ‘homo est
+            non iustus’ ponitur 1ens, cum affIrrnetur esse et remaneat 2cornpositio afflrmata Ct non
+            negetur per negationem sequentern, — dicendum quod hoc 3 argumentuin tripliciter peccat.
+            Quia 4uno modo 5secun durn equivocationern huius nominis ‘non—iustus’ 6,quod’ uno inodo
+            ponit ens et alio inodo non, ut dictum est prius. Et 8 alio inodo 9peccat secundurn
+            consequens, sive secunduin quid et sirnpliciter, quia non sequitur ‘affirmatur esse aut’
+            0ipsa cornpositio; ergo est’, quia aflirnia lb est tarn de ente quam de non-ente. Ergo
+            in plus est afflnnatio quam esse secundurn rein11.Ergo est consequens. Unde 12 secundum
+            quod ‘non-iustus’ est nomen infinitum secundum negationern, non sequitur ‘homo est
+            non-iustus; ergo homo est’. Preterea est ibi fallacia secunduin quid et siinpliciter,
+            quia quamvis sit13 ibi cornpo sitio affirrnata, non tarnen 14 ponitur ibi15 ens
+            siznpliciter sed diminu turn16per determinationern sequentein. lJnde sicut non sequitur
+            ‘ est opinabile; ergo est’, quanivis sit ibi17 compositio afflrinata 18,ita non sequitur
+            ‘est non-iustus; ergo est’, cum 19 dirninuatur esse per deter-minationem nichil
+            ponentem, secundurn quod ‘non-iustus’ e2s0t ter minus negativus.</p>
+          <p xml:id="phsyn-t2-d1e195">Sciendum autem 1quod nullus terminus 2potest infinitari nisi
+            subicibile 3vel predicabile. Et 4 ideo signa universalia vel particularia. non possunt
+            infinitari, quia sunt dispositiones subiecti inquantum subiecturn est, et ita respiciunt
+            predicaturn. Et ideo dicit Aristotiles quod hec negatio ‘non’ non est addenda huic signo
+            ‘omnis’, quia non significat universale sed quoniam universaliter.</p>
+        </div>
+        <div xml:id="phsyn-t2-Dd1e199">
+          <head xml:id="phsyn-t2-Hd1e201">De negatione infrnitante verbum</head>
+          <p xml:id="phsyn-t2-d1e204">Dicto de negatione speciali’ nominis faciente 2noinen infini
+            tum consequenter dicendum de speciali negatione verbi faciente verbum infinitum, quia
+            sicut nomen na.tura prius e3st verbo, ita nornen infinitum natura prius e4st verbo
+            infinito. Primo ergo queri tur de verbo inrinito atrum predicetur de ornni 5eo quod est
+            et q’uod non est. Et videtur quod sic. Quia, Ut vult Aristotiles, verburn infini tum
+            sirniliter 6est in quolibet quod est et quod non est. Ergo predi catur de omni quod est
+            et quod non est. Sed contra. Negatio que est in verbo infinito, relinquit
+            coinpositionern affirmatarn, remnovendo actun-i a substantia 8de qua predicatur actus.
+            Unde sensus huius ‘Cesar non currit’, secundum 9quod ‘non-currit’ est verbum infini tum,
+            est iste: Cesar esi non-cwrens. Sed cornpositio affirmata 0ponit ens, quia ponit
+            subiectuni in esse. Ergo verburn infinitum ponit ens. Ergo solurn predicatur de
+            ente.</p>
+          <p xml:id="phsyn-t2-d1e207">Et dicendum secundumn quosdamn quod verbum infinitum 1 extra
+            ora.tionern mnanet infinitum, sed in oratione n2on manet infinitum, sed fit semper
+            oratio quando ponitur in oratione, q3uia negatio est una pars et verbum alia. Sed hoc
+            nicki est, q4uia rnoventur eoquod nesciunt distinguere in hac oratione ‘Cesar non
+            currit’ et in consixnilibus, secundumn quod sunt propositiones nega t5ive et secundurn
+            quod sunt de verbo infinito. Unde dicenduni. Quod verbum infinitum predicatur de
+            quolibet quod est et quod non est et manet infinitum extra orationem et in oratione. Et
+            hec propositio ‘Cesar non currit’ et consiiniles, secundum quod sunt orationes negative,
+            nichil ponunt; et compositio negatur i6n eis nichil relin quendo, per e.7os Secundum
+            auteni quod in eis ponitur verbum infinitum, compositio renianet a.8ffirmata Unde isto
+            modo secun dum quod in eis verburn infinitum, adhuc sunt duplices, quia ver bum
+            infinitum potest infinitari
+            <pb ed="#T" n="29-r"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/>secundum negationem et sic nichil ponit; vel potest infinitari secundum
+            privationem et sic ponit subiecturn in esse, et sic ponit ens.</p>
+          <p xml:id="phsyn-t2-d1e216">Ad i1liad autern quod obicit quod coinpositio a2fflrmata ponit
+            ens, quia ponit subiecturn in esse, dicendum quod utrumque est falsum, quia compositio
+            equaliter se habet a5d cornpositionem en thu et ad coinpositionem non-entium; unde
+            n4eque ponit ens ipsa compositio neque ponit subiectum suum in esse. Ft ita virtute corn
+            positionis a5ffirrnate inquantuun e6st affirmata, nichil p7.onitur’ Sed virtute
+            p8redicati aliquando ponitur subiectum in esse, Ut quando predicatum e9st ens
+            sinupliciter’°, et aliquando non p1on1itur subiectuin in esse, Ut quando p2redicaturn’
+            est ens diminuturn v1e31 quodainunodo. Et i1de4o sequitur ‘lapis est honio; ergo lapis
+            est’ et non sequitur ‘lapis est opinabile; ergo lapis est’. Unde sensus huiu.s ‘Cesar
+            non currit’ secundum quod ‘1non-c5urrit’ est verbuin infinitum, est iste: Ces€zr est
+            ,zon-currens.</p>
+          <p xml:id="phsyn-t2-d1e219">Et simuliter intellige de participio sicut et de verbo. Unde
+            ille due ‘Cesar non currit’, ‘Cesar est non-currens’ nichil ponunt secun dum quod verbum
+            et participium sunt terrnini negativi. Sed secun dum quod sunt tennini privath’i, sic
+            ponunt ens, quia ponunt subiec turn in esse. Et hoc virtute predicati et non
+            cornpositionis, Ut dictum est. De negatione infinitante participiurn satis patet ex
+            predictis; et ideo relinquatur. </p>
+        </div>
+        <div xml:id="phsyn-t2-Dd1e222">
+          <head xml:id="phsyn-t2-Hd1e224">De negatione orationis&gt;</head>
+          <p xml:id="phsyn-t2-d1e227">Determinatis negationibus terminoruin dicendum est de nega—
+            t1ione orationis. Simplex enim natura p2recedit comnpositum. U3nde nomen et verbumu
+            natura sunt priora oratione. Unde negatio nomi nis v4el verbi natura precedit negationem
+            orationis. Primo ergo queritur utrurn negatio orationis faciat c5.ontradictioneni Et
+            videtur quod non, quia: Ad hoc q6uod negatio contradicat, oportet quod re moveat
+            comnpositionem. Sed non potest removere c,7ornpositionexn quia cornpositio est subiectum
+            negationis et nullurn accidens renio vet suurn subiectum. Ergo non potest facere
+            contradictionem. Ergo non contingit contradicere. Item ad idemn, Quicquid est causaturu,
+            a8ut est substantia. aut accidens. Ergo negatio curn sit causata, aut est substantia aut
+            accidens. Sed non est substantia. Ergo est accidens. Ergo est in subiecto aliquo. Sed
+            n9onnisi in compositione. Ergo non remnovet e1.a0rn Ergo non contingit contradicere,
+            I1.te1m Cum contingat con tradicere, q2uia’ hoc est ptrin3cipiurn principiorum in
+            scientiis, ergo negatio rernovet comnpositionern. Sed coxnpositio est causa mnodi. Ergo
+            remnovet rnodum. Ergo nulla o1ra4tio negativa est alicuius mnodi. Ergo nte5que
+            indicativi (1loc6us a genere). Ergo nulla o1ra7tio negativa est vera vel falsa; sola
+            enim indicativa est 18 qua est verum vel falsumn.</p>
+          <p xml:id="phsyn-t2-d1e230">Solutio. Sicut hoc nornen ‘homno’ duplicem habet significa
+            tionent, scilicet generalem’ C2t specialem (generalis significatio est significare
+            substantiam curti qualitate, s3pecialis vera significare hanc substantiant que est
+            homno), et s4icut in verbo duplex est signi ficatio, scilicet generaiis {N47va] e5t
+            specialis: (6generalis est signi ficare agere vel pati, specialis v7ero significare
+            istum a8ctunt vel istani passionemn, Ut legere vel legi, percutere vel percuti), — simni
+            liter d9uplex: est compositio, s1cili0cet generalis et speciaiis. Gene r1alits autem
+            conipositio communiter se habet quantum est de se ad ornnia componibilia. Gum eriini
+            dicitrius quod verburn consigni f1ic2at [.P55va] cornpositionem, non dicimus hanc
+            c1omnpos3itionern v1e41 illain, sed coinpositionem in genere; et hec cornpositio est
+            generalis’ 5.Specialis auteul cotnpositio est per extrema compositio nis. Et negatio
+            rernovet specialem coinpositionem, Ct hoc sufficit ad contradictionern. Et relinquit
+            generalein, ratione cuius accidit rnodus. Tfnde adhuc 16contingit’ 7contradicere.</p>
+          <p xml:id="phsyn-t2-d1e233">Item. Solet 1dici quod due negationes equipollent
+            a.ffirrnationi 2. Et queritur quare due affirmationes econverso
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/>non equi pollent negationi 3.Et 4 videtur quod, sicut negatio reniovet
+            aflirma tionern, sic econverso affirmatio negationem. Et dicenduni quod negatio apta
+            nata est destruere 5quicquid repperit 6,quia negatio est actus’ destruens suurn
+            obiectum. Unde obiectuni negationis, quod cumque fuerit, removetur per negationem. Et
+            quia negatio au quando 8est obiectum negationis, aliquando negatio negatur (Ut ‘non:
+            Sortes non currit’) et 9 ideo negatlo removetur per negationein, ideo 10 ex consequenti
+            ponitur affirmatio, quia t1 remota negatione ponitur afTirinatio, eoquod necesse est
+            semper esse affirrnationeni v1e21 negationem. Et ideo due negationes equipollent
+            affIrniationi. AffIr inatio 13 auterri non est apta nata clestruere 14suum obiectuin,
+            sed ponit ipsum’ 5potius et conservat. Et ideo cum res affirmata 6,que est obiecturn
+            afflrxnationis’, non 18 reinoveatur per afflrmationern, oh 19 hoc due affinnationes non
+            possunt equipollere negationi.</p>
+          <p xml:id="phsyn-t2-d1e240">Ad illud autein quod obicit quod affirmatio rernovet negatio
+            nem, sicut et 1 econverso, dicendum quod due comparationes 2sunt in affirrnatione et due
+            in negatione, diversimode 3coniparate. Una enirn cornparatio afllrrnationis est ad illud
+            quod affirinat, aljarn 4 vero habet ad illud cui opponitur. Et ille due comparationes
+            affir Inationis non 5 sunt respectu eiusdem sed respectu diversorum. Verbi gratia, hec
+            affirmatio ‘Sortes currit’ afflrmat Sortem currere et coinpositio 6eius opponitur ei’ 7
+            que est Sortem non currere. Et ideo ratione compositionis 8non potest destruere suurn
+            obiectum. Sed due cornparationes negationis sunt semper 9respectu eiusdem, quia negatio
+            semper negat aliquid, sicut 1°affirniatio affirinat, et semper negatio opponitur alicui.
+            Sed nonnisi ci quod negat. Et ideo negatio ratione sue oppositionis semper destruit
+            suuin obiectum quod negabat”. Sed affirmatio non opponitur ei quod aflirmat, ut dictum
+            est. Et ideo affirmatio non destruit quod afflrrnat 13 . Et sic non est simile de
+            affirmatione a1d4 negationem et de negatione ad affirinationeni, Ut 1am patet p5er’ hoc
+            quod negatio opponitur affir inationi et negat earn, affirmatio opponitur negationi et
+            non affirmat earn sed aliud, ut clictuni est.</p>
+          <p xml:id="phsyn-t2-d1e244">Item. Dicit 1Aristotiles in secundo Topicorum quod si aliquid
+            non est susceptivum unius contrarioruin, neque alterius. Ergo quod non potest affirmari
+            2,non potent 3negari 4.Sed ista ‘Sortes non currit’ non potest afflrrnari, curn sit
+            negativa. Ergo non potest ei adcli altera negatio ut per earn negetur. Ergo due
+            negationes n5on equipollent affirinationi.</p>
+          <p xml:id="phsyn-t2-d1e247">Ad hoc dicunt quidarn quod negatio quodainmodo est afflrnia
+            do, quia negatio’ habet in se aliquid 2de ente, scilicet 3de affirma done, unde
+            participat 4naturam affirmationis. Et ideo potest negari per negationeni. Et ita huic
+            propositioni ‘Sortes non currit’ potest addi altera negatio sic 5:‘non: Sortes non
+            currit’. Et ita due negationes equipollent afErinationi. Sed ego credo quod nielius
+            dicitur quod quamvis 6accidentia nature non possint reflecti supra 7se agendo in se
+            (sicut 8caliditas 9non agit in se sed in suuzn obiectum), tarnen accidentia causata’ 0a
+            ratione possunt reflecti supra se agendo in- 1se (sicut ratio supra se cognoscendo’ 2se
+            et iudicando 3de Se). Unde negatio, que’ 4est accidens causatum 15 a ratione, potest
+            reflecti 16 supra negationem sive 17 supra rem negatarn’ 8.Et ideo negatio potest
+            negari, quamvis non possit affirrnari. Et consideratio Aristotilis 9 debet [T29va]
+            intelligi dc accidentibus nature sive de con trariis nature (Ut ‘album-nigrum’,
+            ‘caliduin-frigiduin’ et consimulia). Item. Iste due ‘Sortes currit’ 20 ,‘non: Sortes non
+            currit’ equipollent sibi invicem et contradicunt hujc ‘Sortes non currit’. S2e1d contra:
+            dicit Aristotiles quad unurn uni opponitur. Ergo due propositiones non con tradicunt
+            uni.</p>
+          <p xml:id="phsyn-t2-d1e250">Et dicenduin quoci dupliciter1fit contradictio, scilicet pruno
+            et ex consequenti. Unde in bus est primo contradictio ‘Sortes2currit’, ‘Sortes non
+            currit’. Sed3hec ‘non: Sortes non currit’ [N48ra] contra dicit4ex consequenti huic
+            ‘Sortes non currit’, quia, inquantuni equi poflet, Ct convertitur cuni ista5‘Sortes
+            currit’. Unde intellige quod in contradictione primo° semper altera7est aflirmatio et
+            altera est negatio. Unde dicit Aristotiles8quod contradictio est affirmatio et negatio
+            opposite. Sed in contradictione que est cx consequenti, nega tb potest contradicere
+            negationi.</p>
+          <p xml:id="phsyn-t2-d1e253">Item. Nota quod negatio [P56ra} preposita sive postposita’
+            terrnino singulari ideni significat (Ut ‘Sortes2non currit’ et ‘non: Sortes currit’).
+            Sed non siiniliter est in terminis communibus, quia hec est indefinita3‘homo
+            non4currit’, hec autern est universalis negativa ‘non: homo currit’. Neque6est in7
+            contrarium quod8dicit Aristotiles: “transposita nomina vel verba idem significant”. Et9
+            intelligatur de aliis dictionibus, quia intellexit10de dictionc11que est’2 subicibilis
+            vel predicabilis’8vet14 que est dispositio ipsius subi cibilis vel predicabilis
+            absolute. Et non intellexit15de dictione que est dispositio unius ad16 alterum, ut sunt
+            negationes et signa univer salia1‘. Negatio enirn negat unuin de18 altero et signum
+            universale thsponit s’ubiectum in respectu ad predicatum.</p>
+        </div>
+        <div xml:id="phsyn-t2-Dd1e256">
+          <head xml:id="phsyn-t2-Hd1e258">Sophismata</head>
+          <p xml:id="phsyn-t2-d1e261">Item. Queritur de hoc sophisiriate NULLO I-IOMINE CUR RENTE TU
+            ES ASINUS. Probatio. fjdfkjHec est falsa ‘a:Liquo hornine currente tu es asinus’. Ergo
+            eius contradictoria erit1vera, hec scilicet ‘non aliquo hoinmne currente tu es asinus’.
+            Sed2 ‘non aliquo’ Ct ‘nullo’ equipollent, sicut ‘non aliquis’ et ‘nullus’. Ergo hec est
+            vera ‘nuilo homine currente tu es asinus’. Sed contra. Nullo hotnine currente tu es
+            asinus. Ergo durn nultus homo currit3,vel si nullus homo currit4,vel quia nullus homo
+            currit, tu es asinus. Qu.od falsum est 30 Solutio, Prima falsa, hec scilicet ‘nullo
+            homine currente tu es asinus’. Quia’ i2sta p3er quarn probat earn, peccat secundum divi
+            sionern, hec scilicet ‘non aliquo hornine currente tu es asinus’. E4t est duplex, coquod
+            negatic potest negare tantum participium (et sic est di’visa et falsa), vel potest
+            negare participium in cornparatione act verbum sequens (et sic est composita et vera).
+            Et pnmo 5modo equi pollet prime, scilicet huic ‘nullo honiine currente tu es asinus’.
+            Sed hec est falsa ‘nullo homine etc.’, quia negatio que est in cornposi tione 6huius
+            signi ‘nullo’ 7,non potest fern ultra participium, per hanc regulam <seg type="rule"
+              >qsotieiscunzque negatio ci distributio induduntur in tennino uno 8,ad nichil
+              pokstfrai unum sine reliquo.</seg> Sed distributio non fertur 9ultra participiuni.
+            Ergo neque [N4Srb} negatio. Et’° ita hec est falsa ‘nullo honiine currente iii es
+            asinus’. Quare 1e1t sua equipollens jib modo quo ei equipollet. Et utraque est
+            aflirinativa, hec scilicet ‘nonl 2aliquo 13 honiine currente etc.’ 14 et ‘nullo honüne
+            currente etc.’, secundum quod equipollent. Et per h1o5c patet quod neutra earum
+            contradicit huic ‘aliquo honune cur rente etc’, quia affirinativa non contradict
+            affirmative.</p>
+          <p xml:id="phsyn-t2-d1e267">Item. Qu.eritur de hoc sophisinate NICHIL NICHIL EST. Proba
+            tic 1.Eius contradictoria est falsa, hec scilicet ‘aliquid nichil est’. Ergo prima
+            2vera. Contra. Nichil nicliil est. Ergo nichil nulia substantia est. Et videtur e3sse
+            locus a genere sive a toto in quantitate, Ut ‘nichil est; e4rgo nulba substantia. est’.
+            Sed conclusio e5st falsa, hec scilicet ‘nichil nulla substantia est’,
+            <cb ed="#T" n="b"/>
+            <lb ed="#T"/>quia equipollet huic ‘quidlibet est aliqua substantia’, quoci falsum est.
+            Ergo C6t prima ex qua sequitur, est falsa.</p>
+          <p xml:id="phsyn-t2-d1e274">Solutio. Prima vera, hec scilicet ‘nichil nichil est’, quia
+            [P56rb] equipollet huic ‘quidlibet est aliquid’, per illam regulam’: <seg type="rule"
+              >quotimscumque duo signa unwersalia negativa ponuntur in e2adem locistione, ita quod
+              unum in subiecto e31 alteruni in predicato, piimum equipollet sue contrario, reliquum
+              suo contradictorio</seg>. Item. Improbatio peccat secundum consequens communiter
+            loquen do, quia sicut hic 4est consequens secundum comrnuniter loquentes ‘quidlibet est
+            aliquid; ergo quidlibet est aliqua substantia’, sirniiter hic est consequens ‘nichil
+            nichil est; ergo nichil nulla substantia est’.</p>
+          <p xml:id="phsyn-t2-d1e280">Ad illud autem quod obicit quod videtur 1ibi esse locus a
+            genere sive a toto in quantitate, dicendum 2quod non est verum, imrno est ibi fallacia
+            3secunduin consequens, sicut hic ‘nullus horno est nullum animal; ergo nullus homo est
+            nullum risibile’. Quia in ista ‘omnis homo est nullum animal’ ‘animal’ removetur a
+            subiecto. Et curn apponitur 4alia negatio per hoc signurn ‘nullus’, rernovetur
+            predicatuin negaturn 5a6 subiecto sic: ‘nullus hoino est nullum animal’. Sed rernovere
+            predicatuin a subiecto negatum est ponere ex consequenti in 7 eodern affirmatum. Ergo
+            ista ‘nullus horno est nuflum animal’ equipollet huic ‘ornnis 8homo est aiiquod
+            9animal’; et similiter ista ‘nullus homo est nullum risibile’ equipollet huic ‘on-in is
+            homo est aliquod risibile ‘10• Hic autem ponunt consequens: ‘animal est; ergo risibile
+            1est’, sicut hic: ‘animal currit; ergo hon-to currit’. Ergo et12 hic: ‘omnis homo est
+            animal; ergo ornnis horno est risibile’; et similiter in suis equipollentibus ‘nullus
+            horno [lV48va] est nullurn animal; ergo nullus 13 homo est nullurn risibile’ 14.Et
+            siniiliter est in proposito: ‘nichil nichil est; ergo nichil nulla sub stantia est’.</p>
+          <p xml:id="phsyn-t2-d1e284">Et videtur quod conclusio improbationis sit vera, quia hec est
+            vera ‘nulla substantia est nichil’. Quod patet dupliciter, scilicet per predictam
+            regulain, quia equ.ipollet huic ‘omnis substantia est auquid; et etiam quia. sua
+            contradictoria est falsa, hec scilicet ‘aliqua substantia est ¶nichil’. Ergo 2hec est
+            vera ‘nulla substantia est nichil’. Ergo sua conversa tnt3vera, hec scilicet ‘nichil est
+            nulla substantia’.</p>
+          <p xml:id="phsyn-t2-d1e287">Et dicendum quod non recte convertit hanc ‘nulla substantia
+            est nichil’, quia debet ponere signurn subiecti supra totuin predicatum et reducere tad
+            subiectum 2,Ut ‘nulla substantia est nichil: nullum ens 3 nichil est substantia’. Sed
+            utraque istaruni 4est vera. Et sic non probat conclusionem irnprobationis. Item. Quod
+            conclusio improbationis sit falsa probatur dupliciter. Quia uno modo per predictam
+            regularn, et alio rnodo quia e5ms contradictoria est vera, hec scilicet ‘aliquid est
+            nulla substantia’, Ut albedo et quodlibet alliud accidens.</p>
+        </div>
       </div>
     </body>
   </text>

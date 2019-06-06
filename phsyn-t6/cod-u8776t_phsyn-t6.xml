@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Tractatus Sextus [Tarragona transcription]</title>
-      	<author>Petrus Hispanus</author>
+        <author>Petrus Hispanus</author>
         <editor>Joana Gomes</editor>
         <respStmt>
           <name>Jeffrey C. Witt</name>
@@ -12,28 +13,31 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-        	<title>Tractatus Sextus [Tarragona transcription]</title>
+          <title>Tractatus Sextus [Tarragona transcription]</title>
           <date when="2019-06-05">June 6, 2019</date>
         </edition>
       </editionStmt>
       <publicationStmt>
-        <authority><ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref></authority>
+        <authority><ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus
+            Works</ref></authority>
         <availability status="free">
-          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod
+            2</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-          guidelines for a diplomatic edition.
-        </p>
+          guidelines for a diplomatic edition. </p>
       </editorialDecl>
     </encodingDesc>
     <revisionDesc status="draft">
@@ -47,517 +51,458 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-    		<pb ed="#T" n="27-v"/>
+        <pb ed="#T" n="27-v"/>
         <pb ed="#T" n="b"/>
-    	</div>
+      </div>
     </front>
     <body>
       <div xml:id="phsyn-t6">
-        <head>TRACTATUS SEXTUS</head>
-        <head>DE HIIS VERBIS ‘INCIPIT’ ET ‘DESINIT’</head>
-        <div>
-          <head>Introductio</head>
-        <p>
-          A’ quibus dependet c2ognitio rei priora. sunt re. Sed c3ognitio
-        horuin verborum ‘incipit’, ‘desinit’ d4ependet a rebus permanentibus
-        et a successivis, quia Si hec v5erba adiungantur rebus perinanentibus
-        et successivis habebunt secundurn hoc diversas rationes. Et ideo
-        d6icturi de hiis verbis ‘7incipit’ Ct ‘desinit’ primo q8uerenuis que est
-        differentia successivorum e9t pennanentium’°; secundo que sint
-        rationes horuiri verborum ‘incipit”’ et ‘desinit’ curn r2ebus’ perina
-        nentibus et successivis; tertio utruni motus incipiat vel desinat 1e3t
-        qualiter, et quid sit rnotus; quarto utrum tenipus incipiat vel desinat,
-        et quid sit tempus et cuius s4it inensura et in qUO Sit Ut ifl subiecto;
-        quinto utrurn potentia incipiat vel desinat et quot modis dicatur
-        ‘potentia’; sexto utrum terxriini habeant differentem suppositionem.
-        cum hiis v1er5bis a parte post et curn aliis verbis.</p>
+        <head xml:id="phsyn-t6-Hd1e107">TRACTATUS SEXTUS</head>
+        <head xml:id="phsyn-t6-Hd1e110">DE HIIS VERBIS ‘INCIPIT’ ET ‘DESINIT’</head>
+        <div xml:id="phsyn-t6-Dd1e113">
+          <head xml:id="phsyn-t6-Hd1e115">Introductio</head>
+          <p xml:id="phsyn-t6-d1e118"> A’ quibus dependet c2ognitio rei priora. sunt re. Sed
+            c3ognitio horuin verborum ‘incipit’, ‘desinit’ d4ependet a rebus permanentibus et a
+            successivis, quia Si hec v5erba adiungantur rebus perinanentibus et successivis habebunt
+            secundurn hoc diversas rationes. Et ideo d6icturi de hiis verbis ‘7incipit’ Ct ‘desinit’
+            primo q8uerenuis que est differentia successivorum e9t pennanentium’°; secundo que sint
+            rationes horuiri verborum ‘incipit”’ et ‘desinit’ curn r2ebus’ perina nentibus et
+            successivis; tertio utruni motus incipiat vel desinat 1e3t qualiter, et quid sit rnotus;
+            quarto utrum tenipus incipiat vel desinat, et quid sit tempus et cuius s4it inensura et
+            in qUO Sit Ut ifl subiecto; quinto utrurn potentia incipiat vel desinat et quot modis
+            dicatur ‘potentia’; sexto utrum terxriini habeant differentem suppositionem. cum hiis
+            v1er5bis a parte post et curn aliis verbis.</p>
+        </div>
+        <div xml:id="phsyn-t6-Dd1e122">
+          <head xml:id="phsyn-t6-Hd1e124">Que sit d[frrentiiz inter swccessiva et permanentia</head>
+          <p xml:id="phsyn-t6-d1e127">Circa prirnuin sic obicitur. Cum successiva non habeant esse
+            nisi 1a perrnancntibus, ergo non habebunt ra.tionem s2ive diffinitio nem nisi ab eis,
+            quia a [T37vb] quo est e,3sse et est ratio. Ergo ratio successivoruni non differt a
+            ratione pernianentium. Sed quorum r4ationes non sunt differentes, ipsa non sunt
+            differentia. Ergo succes siva et pernianentia non differunt.</p>
+        </div>
+        <div xml:id="phsyn-t6-Dd1e131">
+          <head xml:id="phsyn-t6-Hd1e133">De rebus pennaneztibus et rebus successivis</head>
+          <p xml:id="phsyn-t6-d1e136">Et dicenduin (Ut tacturn est) quod reruin alie sunt
+            permanentes, alie successive. Et differunt a se invicem tinultipliciter. Prima diffe
+            rentia est qu.od res permanentes dicuntur quarurn esse est totuni sirnul, ut sunt homo,
+            lapis, lignum, aer, terra. Res autem successive dicuntur quarum esse non est totum simul
+            sed est in successione, ut sunt motus Ct teinpus. Secunda autern differentia est
+            2quoniaru pastes perinanentiurn siinul sunt omnes (ut partes hominis, la.pidis et aeris)
+            et non est una post alterarn. Successivaru vero partes non stint simul ornnes 4sed una
+            est post alterarn successive. [I’163vb) Ut partes rnotus et partes temporis, quia post
+            unarn partem rnotus sequi tur altera et non stint due partes motus eiusdein sirnui.
+            Neque 5due partes temporis stint simul sed est una post alteram successive; irnpossibile
+            enim 6est plura tempora [P72rb] sirnul esse. Tertia vero differentia est quoniasn
+            7perrnanentia natura priora stint successivis et successiva natura sunt posteriora
+            permanentibus 8;perinanentia enim stint causa successivorum. Quarta differentia est quia
+            9res permanentes sunt in se ternrinat 0,quecumque habent terrninos, sed res successive
+            non” habent in se terininos, Ut rnotus qui ter minatur ad res perrnanentes, Ut alteratio
+            ad qualitatein, augrnentum et dirninutio ad quantitatern et sic de aliis. Quinta
+            differentia est quia’ res perman.entes sunt in sui principio et in sui fine, ut patet in
+            substantia et in accidentibus t3perrnanentibus, Ut ii lapide’ 4et in albedine et nigre
+            dine. Res vero successive neque stint in. sui prin cipio neque in sui fine, Ut postea
+            patebit de motu.</p>
+        </div>
+        <div xml:id="phsyn-t6-Dd1e141">
+          <head xml:id="phsyn-t6-Hd1e143">Que siut rationes horwz verborun cumillis</head>
+          <p xml:id="phsyn-t6-d1e146">Circa secundurn obicitur quia’: Gum 2motus habeat rationem a
+            suis terininis: quamvis magis a termino ad quern quam a terniino a quo quia Inotus Fere
+            ornnes diffiniuntur per 3 terminurn ad quern (nam dealbatio est motus ad albedinein,
+            denigratio vero inotus ad nigredinem, auglnentum vero motus est ad xnaiorern
+            quantitatem, generatio vero est a4notus ad substantiain); et sic o5mnis rnotus dim
+            n6itur per terminum finalem, preter corruptionern, q7ue cliffinitur per terminum a quo
+            (quia corruptio est rnutatio a substantia); igitur omnis inotus habet rationem a suis
+            terminis, quamvis inagis a termino ad quern quam a termino a quo, — igitur curn
+            ‘incipit’ et ‘desinit’ dicant inotum, vel inodum niotus, respectu. terniini a quo vel
+            respectu termini ad queln, tunc oportet quod si termini sunt spe cie differentes, quod
+            et rationes horum verborurn ‘8incipit’ et ‘desinit’ sint specie differentes, si talibus
+            terminis adiungantur. Sed succes siva Ct permanentia sunt specie differentia. Ergo hoc
+            verbum desinit Si adiungatur pernianen tibus et successivis, habebit s9ecundurn hoc
+            rationes specie differentes. [N64ra] Et siiniliter hoc verburn ‘incipit’.</p>
+          <p xml:id="phsyn-t6-d1e149">Quod concediinus dicentes quod ratio huius verbi ‘incipit’
+            cuin perrnanentibus est ista, scilicet est et ante hoc iion fuji, Ut ‘incipit esse
+            albus’: est albus et ante hoc izorifuit albus. Unde hoc triodo hoc verbuin [738ra}
+            ‘incipit’ dicit p2ositioneni presentis cuni privatione preteriti. [P72va1 Vel etiam sic:
+            ‘incipit’: zunc primo est. Curn rebus autein successivis exponitur sic: nunc primo e3;st
+            vel sic: non est sed post hoc e4r-it (Ut ‘incipit inoveri’: n5on rnovetur sed post hoc
+            movebihr); tunc privat presens Ct ponit futururn. Sed hoc verbuzn ‘desinit’ cum per
+            manentibus eicponitur sic: n5unS uttirno est vel sic: est el de celero non eiit (Ut
+            ‘desinit esse albus’: nunc ultioino est albus vel sic: est albus el de cetero non erit
+            albus); et sic ponit presens et privat futuruni. Cum rebus autem successivis exponitur
+            sic: nunc ultirno full vel sic: non est sed ante hoc fuit (7Ut ‘desinit currere’: non
+            citrrit sed ante hoc ci.scisrril) et sic p8rivat presens et ponit p.9reteriturn</p>
+          <p xml:id="phsyn-t6-d1e152">Item. Queritur, cuni diversa tempora intelligantur per ista
+            verba ‘incipit’ et ‘desinit’, utruni intelligantur i1bi equaliter vel unurn per prius Ct
+            alterum per posterius. Et dicendum quod ista verba ‘incipit’ Ct ‘desinit’ dicunt
+            inceptiones vel d2esitiones rerurn. Sed inceptiones et desitiones non sunt nisi in
+            terrninis initialibus et finalibus. Sed ultra t3erininum finalem nichil est de re neque
+            ante termirium initialeni aliquid est de re, eoquod tota res infra suos terminos
+            continetur. Ideo est quod cuna hoc verburn ‘desinit’ dicat terminum finalern r4ei, per
+            prius dat intelligere presens et con sequenter 5privationein futuri, eoquod ultra
+            terminurn finalem nichil est d6e re (et loquor in perrnanentibus). Unde hoc rnodo ista
+            expositio nunc ultinw est rectior est quarn ista est et de cetera non enS. Cum
+            successivis autem hec est rectior nunc ultimofvit quam sic: n7o est sed ante hecfuii.
+            Unde per 9prius ponitur 1°ibi preteriturn [iV64rb] terminatuxn 11ad presens Ct
+            consequenter 12privatio presentis. Sed per hoc verbuni ‘incipit’ adiunctum permanentibus
+            p1e3r prius d1at4ur intelligi presens et consequenter privatio preteriti, quia res perma
+            nentes sunt in sui principio et ante ipsurn’ 5nichil est de hiis. Unde hoc inodo rectius
+            exponitur sic 16 : nirnc primo e.st quam sic: est et ante hoc non fuit. Sed cuml
+            7successivis per’ 8 prius intelligitur positio futuri t1errn9inati ad presens Ct per
+            posterius [P72vb] privatio presen tis propter hoc quoci res successive non sunt in sui
+            principio sed post principiurn.</p>
+        </div>
+        <div xml:id="phsyn-t6-Dd1e155">
+          <head xml:id="phsyn-t6-Hd1e156">De ‘tenzpore’ dupliciter sumpto</head>
+          <p xml:id="phsyn-t6-d1e159">Et nota quod. hoc verbum ‘incipit’ non semper test diversoruni
+            teinporurn, quia ‘tempus’ dicitur dupliciter. Uno enirn modo tempus est inensura prirni
+            2motus Ut rnotus primi mobilis; et est species qua.ntitatis continue et sic est ternpus
+            secunduin veritatern temporis. Et tempus 3isto rnodo non accidit verbo. Et sic dantur
+            intelligi diversa tempora per illa verba ‘incipit’ et ‘desinit’. Sed non a pane
+            coxasigni ficationis eorurn sed a parte ternairioruxn 4suorum significationuni
+            principalium 5;qui quidem 6termini sunt causa 7ecrum quorum est desitio vel inceptio.
+            Aiio autern modo teinpus dicitur non inensura prirni inotus neque tempus secundum
+            veritatem temporis, sed dici tur inodus ternporis. Et hoc modo tempus accidit verbo. E8t
+            sic ‘in cipit’ et ‘desinit’ s9urit presentis ternporis. Et sic intelliguntur [T38b] in
+            eis diversa ternpora a parte sigaificationis principalis et intelli gitur in eis unum
+            solurn tempus a pane consignificationis tm0.Et pre dicta distinctio temporis est
+            siiriilis distinctioni generis, quod simi liter dicitur dupliciter. Uno enim modo genus
+            dicitur secundurn veritatem generis; Ct hoc modo non sunt nisi duo genera reperta in
+            natura rerum, scilicet inasculinum et feniininuni 1e1t h1o2c inodo genus tantum est in
+            anirnalibus ut in m1ari3bus et feininis. Alio autem modo genus dicitur modus generis; et
+            sic repperitur genus in r1eb4us i1;nsensi5bilibus et sic dicitur ‘lapis’ inasculini
+            generis et ‘petra’ feminini. linde sicut genus dicitur uno rnodo v1eri6tas generis et
+            alio rnodo modus generis, similiter tempus dicitur uno snodo veritas temporis” [I’T64va]
+            (et sic non accidit verbo) et alio inodo dicitur rnodus temporis (et sic accidit
+            verbo).</p>
+        </div>
+        <div xml:id="phsyn-t6-Dd1e162">
+          <head xml:id="phsyn-t6-Hd1e163">Utium motus incipiat et desiizat</head>
+          <p xml:id="phsyn-t6-d1e166">Circa tertium o1bicitur quia: Vult Aristotiles quod si
+            a2liquis inovetur, rnovebitur et iriovebatur. S3ed si rnovebitur — simus in jib futuro
+            —, tunc veruiri est dicere quoniarn movetur. Es-go iterum: snovebitur et movebatur.
+            Illud iteruxn futuruin accipiatur et veruin erit in jIb dicere quoniarn movetur. Ergo
+            iterurn: inovebitur e4t in alio futuro. Et sic contingit inoveri in infInitum. Ergo
+            motus non potest desinere. Eodein a5utern rnodo probatur quod non potest incipere, quia:
+            Si [P73ra] r,6novetur movebitur et rnovebatur. S7ed’ Si snovebatur — siinus in jib
+            preteri to—, e8t verurn erit dicere in jib preterito q9uoniarn mo’vetur. Ergo movebatu.r
+            prius in alio preterito. Et si items-n illud preteritum accipiatur, verum erit in jib
+            dicere quo niam movetur. Ergo movebatur in a.lio priori p1.rete0rito Et sic contin— git
+            abire in infinitum a parte ante sicut a parte post, sive a parte preteriti sicut a parte
+            futuri. Sed impossibile est abire in infinitum, quia infinita non possunt pertransiri.
+            Ergo impossibile est quod snows incipiat. Et sic snows non potest incipere n1eque’
+            desinere. Et sicut obicitur de rnotu, sixniliter p1ot2est obici de cursu quod non
+            p1os3sit incipere neque desinere, quia si c,4urrit’ cucurrit et curret; 1e5t inde Ut
+            prius. Eodem autem inodo potest obici de quolibet a1ii6o successivo quod non possit
+            incipere neque desinere.</p>
+          <p xml:id="phsyn-t6-d1e169">Et dicenduin quad inotui reruni infenoruin e1t cuilibet succes
+            sivo debetur 2principium et finis, Ut patet in motu alterativo 3,qui est ab uno termino
+            4in alterurn (Ut 5 ab una qualitate 6contraria’ in alterain vel 8in inediain; et
+            auginentum 9ab una quantitate’° ad 11 alteram et motus secundurn locum 12ab uno loco in
+            aiteruin’ 3).Et sic omnes inotus inferiores incipiunt et desinunt.</p>
+        </div>
+        <div xml:id="phsyn-t6-Dd1e172">
+          <head xml:id="phsyn-t6-Hd1e173">Quod ‘infinitum’ dicatur tripliciter</head>
+          <p xml:id="phsyn-t6-d1e176">Ad iliad 1autem quod obicit 2de infinitatione 3Inotus
+            dicendurn quod ‘infinitum’ proprie dicitur tripliciter. Scilicet divisione, ut linea
+            dicitur infinita [N64vb] divisione et quodlibet continuum; omne enim continuum est
+            divisibile i4n infinitum. Alio autem rnodo dici tur infinitum appositione, ut numerus;
+            omnis eniin numerus aug. rnentabilis est 5 in infinitum. Tertio autein rnodo dicitur
+            6infinitum utroque modo, Ut rnotus 7et teinpus. Utrumque enim 8est infinitum divisione,
+            cuin sit continuum, et est infinitum appositione, [T38va] cum post unum tempus’° sit
+            a1limud teinpus et post unuin moturn sit alias xnotus in infinitum. Et sic est infmnitas
+            utroque rnodo, scilicet appositione et divisione. Dicendumn ergo breviter quod
+            irifinituni isto triplici mode est 12 tantuni 13 in potentia Ct non in actu. Et ideo
+            bene 14 potest pertransiri’ , eoquod’° infinitum in potentia bene potest per transiri,
+            infinitum autemn in actu non potest. Unde quia obiectiones volebant reducere potentiam
+            infiniti 17ad actum dividendo xnoturn, idea sequebatur in flnitas. Quod autern
+            t8niteatur 19reducere [IP73rb] infinitum divisione a2d0 actum. patet, quia cam dicit
+            ‘si22 movetur, mnovebitur et mnovebatur’, jam dividit rnotuln per partes suas. Et cum 23
+            iteruin sumnit 24 preteritiim vel futururn dicens quod si move t2u5r in illo, ergo
+            movebitur et movebatur, patet quod adhuc dividit partes mnotus. Et sic potentiam
+            2°divisionis infinite nititur reducere 27 in actum divisionis. Unde licet motus 28sit
+            infinitus reducendo apti tudinern 29 infinite divisionis in 30 actumn, non 3m propter
+            hoc sequitur quod motus sit infinitus simpliciter, sed est ibi32 fallacia secuncluin
+            quid et simpliciter.</p>
+          <p xml:id="phsyn-t6-d1e179">Si queratur ubi debeat 1resistere obiectionibus dicendurn quod
+            ultirne illationi debet resistere, quia bene probat quod contingit 2abire in infinitum a
+            parte ante et a parte post, dividendo inoturn a parte principii sive a parte finis. Sed
+            cx hoc non sequitur ‘ergo 3motus non potest incipere neque 4desinere’, quia 5motus
+            secunduin se fmitus est, divisione auteni infinitus. Unde omnis inotus inferior incipit
+            et desinit.</p>
+          <p xml:id="phsyn-t6-d1e182">Item. Obicitur quod motus primi mobilis sive celi est
+            infinitus, quia una revolutio 1naturaliter est post aliani, sicut unus horno [N65ra] ex
+            2 alio hornine generatur. Ergo non fuit prima 3revolutio ccli, quia si fuisset prima,
+            tunc 4lila non fuisset post aliam.. Ergo motus celi non incepit. Ergo fuit ab eterno.
+            Ergo et 5 celum ab etemo. Ergo 6plura ab 7 eterno, quod est irnpius 8error. Simniliter
+            autern 9 videtur 10 inotus primnus” a parte post’ 2infinitus, quia post unam
+            revolutionem13 ccli naturaliter sequitur aitera. Ergo non est surnere ul timam
+            revolutionern t4ccli. Ergo inotus ccli est infinitus a parte post15.Item. Similiter’°
+            obicitur quod gerieratio hoininum sit infmnita a parte ante et a paste post, et plan
+            tarum Ct a.liorurn generabilium et corruptibilium, quia hoc est principiurn in natura:
+            homo cx: hornine generatur et equus cx equo, leo cx leone, planta cx planta. Ergo non
+            est sumnere primurn’ 7hominern, quia Si SUnIaS t8 aliquem, ille erit19 cx alio secunduni
+            viam nature et ille alius cx alio priori. Et sic in infinitum in hoiriinibus et ceteris
+            animalibus et in plantis.</p>
+          <p xml:id="phsyn-t6-d1e185">Et dicendurn quod motus pritnus’ et generatio omnniuin inferio
+            rum, Ut animaliuin et plan tarum, possunt surni dupliciter, quia uno modo secundum viarn
+            nature et secundum principia 2nature et alio modo secundum [P73-va] comparationeni ad
+            principiurn 3quod est supra naturam ut ad 4Causam Primam. Et secunduin prirnuxn mo dumn
+            non est repperire primani revolutioneni ccli neque ultiiriam, neque primum hoirtinem
+            v5el primum animal [T38vb) vel prinlam plantain, quia natura non potuit facere primurn
+            bornineni neque primum leonem neque prima.m plantam neque prirnarn revolutio nem, Sed
+            inodo secundo fuit repperire 6primuni hominem et pri main generationem in omnibus
+            generabilibus 1,quia principium 8 quod est supra naturain U9t Causa Prima, cx sua
+            surnina potentia potuit facere quidlibet cx nichilo, quod natura non potuit.</p>
+          <p xml:id="phsyn-t6-d1e188">Item. Eodern modo obicitur quod Inotus non sit’ in sui2
+            principio neque in sui fine, sicut obiciebatur quod non poterat 3 incipere neque
+            desinere, quia si aliquis in principio rnotus movetur, ergo movebatur [iV65rbj prius.
+            Non ergo erat in principio. Et si aliquis rnoveti.ar in fIne, ergo movebitur 4post; non
+            ergo erit in fine. Ergo rnotus non erat 5in sal 6 principio neque 7erit in suo fine.
+            Quod concedimus.</p>
+        </div>
+        <div xml:id="phsyn-t6-Dd1e191">
+          <head xml:id="phsyn-t6-Hd1e192">Quid sit motzs</head>
+          <p xml:id="phsyn-t6-d1e195">Habito quod oninis motus incipiat et desinat et etiana
+            qualiter incipiat et desinat, quia rnotus inferiores 1nature incipiunt et desi nunt per
+            principia 2nature, motus autein superior 5,et etiam tota generatio continua inferioruin,
+            incipit et desinit per 4 principium 5 supra naturairi, — sciendum quod motus difflaitur
+            sic: inotus est existentis in potentia perfectio secundum quod 6huiusznodi. Quod patet
+            sic quia: Mobile et soluni 7mobile est in potentia passiva ad motum. Sed oninis potentia
+            perficitur per suurn actum, Ut potentia ad calefaciendum per calefieri 8et potentia ad
+            dealbanduin per albatio n9etn et sic de aliis. Ergo cum ‘mobile’ dicat potentiam ad
+            motum, ideo rnobilis 1°inquantum est mobile perfectio est Inotus. Et ideo perficitur
+            mobile inquantum est mobile cum inovetur, Ut visibile inquantum est visibile cum
+            videtur, et augmentabile inquantuin” est augrnentabile cum augrnentatur, et alterabile
+            inquanturn’ 2est alterabile cuiri alteratur. Ergo simpliciter mobile inquanturn est
+            mobile perfIcitur cum movetur. Sed mobile inquantum est mobile existit in potentia, Ut
+            dictum est. Ergo motus est existentis in potentia perfectio secundum quod huiusmodi,
+            quia est perfectio inobilis q1u3od existit in potentia inquantum est mobile.</p>
+        </div>
+        <div xml:id="phsyn-t6-Dd1e198">
+          <head xml:id="phsyn-t6-Hd1e199">Utrum tenpus incipiat vel desinat</head>
+          <p xml:id="phsyn-t6-d1e202">Circa quartum obicitur quia’: Ut vult Aristotiles in q2uarto
+            Phisi corum, sicut punctus continuat duas partes linee [P73vb] et est mdi v3isibile in
+            linea, similiter nunc est i4ndivisibile in tempore et con tinuat duas partes temporis,
+            Ut tempus prius ternpori posteriori. Et ideo d5icit quod nwnc est seniper finis
+            ternporis p6recedentis et prin cipium s.7ubsequentis Ergo irnpossibile est repperire
+            p8rimum nuiic in tempore, quia q9uodcuxnque nunc accipiatur’°, seinper erit finis unius
+            ternporis et principium alterius. Ergo ante illud nuic e1ritt accipere aliud teinpus
+            prius et ante i1llu2d tempus erit accipere aliud n1ui3zc quod e1r4at p5rincipiunz’
+            jlliusl6 et finis iteruni [J’165va1 alte rius teniporis prececlentis. Ergo non e1s7t
+            sumere prilnurn tempus. Ergo tempus non i1.nce8pit Ergo ternpus est ab eterno.</p>
+          <p xml:id="phsyn-t6-d1e205">Et dicenduin sicut dictum est’ de m.otu circulari et de inotu
+            g2enerativo quod ‘tenipus’ potest sumi s3ecundum duas cornpara tiones, scilicet
+            secundurn comparationem ad naturam et secundum comparationem ad Causani Primani. Si
+            auteni s4umatur s5ecundum cornparationem ad naturasn, s6ic t7ernpus non potuit
+            i8,ncipere quia natura non potuit facere prirnurn tempus. Unde tempus secunduni viam
+            nature procedit i9n infinitum 1a0 parte ante te1t a parte post. Si autern sumatur
+            ‘ternpus’ p2er’ coniparationem ad [T39ra] Causam Primam, s1i3c i4ncepit’ teiripus, quia
+            i5ncepit’ cum rnotu et curn rnobili prilno. Quid autem sit Lempus et cuius sit rnensura
+            (6quia’ est rnensura primi motus sive motus primi mobilis) et in quo sit ut in subiecto
+            (7quia’ in rnotu circulari p)8rirn,o’ dictum est in tractatu huius d9ictionist ‘Si’.
+            IJtrum potentza incipiat vet desinat 18 Circa quinturn queritur utrurn potentia incepit’
+            vel non. Et videtur quod non incepit, quia: Si potentia incepit, possibile incepit. Sed
+            Si possibile incepit, ergo non erat2possibile antequam iriciperet5, sicut non erant4res
+            antequarn5inciperent6.Ergo ex7 non-possibili facturn est possibile. Sed8‘non-possibile’
+            et9 ‘impossibile’ equipol lent10.Ergo ex iinpossibii factum est possibile. Quod videtur
+            incon veniens. Ergo possibile non incepit. Ergo neque potentia ipsius possi bilis
+            incepit. Sed contra sic11 obicitur quia: Si possibile non incepit, ergo fuit ab eterno.
+            Et sic sequitur heresis dicentiuin12quod non solurn Deus fuit ab eterno, sed
+            etiam13rnateria prima fuit ab eterno cuni14 Deo, quod est error non solum in fide sed
+            etiam in scientia naturali, quia ponitur esse inateria sine forma15 et separata a
+            sensibus16.Ergo necesse est possibile incepisse. Ergo et” potentiarn’8 ipsius.</p>
+        </div>
+        <div xml:id="phsyn-t6-Dd1e209">
+          <head xml:id="phsyn-t6-Hd1e210">Quot medic dicatur ‘potentia’</head>
+          <p xml:id="phsyn-t6-d1e213">Et dicendum quod duplex est potentia. Quia est quedarn
+            potentia’ rerum creataru.m2,que dividitur per potentlain activarn creatain3Ct
+            per4potentiarn passivain5.Et illa incepit esse et utraque pars eius, Alia autem est
+            potentia que6est potentia. increata7,et hec est potentia Cause Prime sive priini
+            agentis. Et ista8non incepit esse sed est ab eterno. Et sic potentia passiva9mcepit et
+            possibile incepit et etiam10 potentia acti’va reruin creatarurn11incepit.</p>
+          <p xml:id="phsyn-t6-d1e216">Ad illud autem quod obicit quod Si possibile incepit, ergo ex’
+            non-possibili factum est possibile; ergo2 ex impossibili facturn est possibile, cum
+            ‘non-possibi1e’ Ct ‘iinpossibile’ equipol leant3,— dicendurn quod hoc non est
+            inconveniens uno rnodo et alio inodo sic, quia inconveniens est quod4aliquod5agens
+            naturale ex impossibli faciat possibile in natura. Sed de agente quod est supra naturain
+            Ut Causa Prima, non est inconveniens quod ex impossibli faciat 6possibile in natura,
+            quia natura non potuit 7facere aliquid ex nichilo, sed Causa Prima potuit 8.Et ita 9ex
+            iinpossibili in 10 natura potuit 11 facere possibile Causa Prima.</p>
+          <p xml:id="phsyn-t6-d1e219">Item. Nota, sicut dictum est, quod quedarn est potentia
+            increata 1, et hec est activa seniper 2a se et a3 nullo alio. Et hec 4est Cause Prime,
+            ut diximu.s, que 5nullo moclo mota 5,neque per se neque per acci dens 7,movet 8omnia
+            creata. Alia auteni est potentia creata 9que in cepit esse, ut dixiinus, cum rebus
+            creatis 10.Huius 11 autem potenue’ 2 alia est activa 1, que inota movet (et hec est
+            cuiuslibct agentis natu ralis); alia autein dicitiir potentia passiva; et hec potentia
+            passiva est inaterie prime et eorurn que consequuntur’ 4materiarn primam. 22 Item.
+            ‘Potentia passiva’ sumitur’ tripliciter. Quia 2est quedain potentia passiva 3que est
+            sernper 4finibilis 5et potest habere totuiri actuni suum simul. Ut potentia que est in
+            6niateria aeris ad hoc ut ex aere fiat ignis, sirnpliciter 7est 8 perfecta quanclo ignis
+            generatus est in eadem materia; et potentia que est in ligno Ut cx eo fiat archa,
+            simpliciter 9est 10 perfecta quand 1facta est archa. Alia autem est potentia passiva que
+            est perfectibilis seinper’ 2secundum partem et numquain secundun’i 13totum. Ut potentia
+            dividendi in infinitum; ut’ 4 in continuis particulares 15divisiones perficiunt partern’
+            6illius potentie, quia quoad [T39rb] hoc quod’ 7iam diviswn 18est conti nuum in aliquarn
+            ve1 19 in aliquas partes, secundum hoc 20 finita est i2ll1a potentia. Sed quia
+            iinpossibile est omnes divisiones continui sirnul esse, ideo in-ipossibile est 111am
+            potcntiam 22perfici secunduin totum. Tertia autein potentia passiva est que 23 non
+            potest finiri 24 neque securaduin partem neque secundurn [N66ra] totum. Et hec est in
+            ceco et in aniinali xnortuo, quia in oculo irianet materia in qua fuit visus et in
+            hornine rnortuo manet niateria in qua fuit vita. Ergo cuin 25 inateria non [P74rb]
+            possit esse sine potentia, necesse est quad ibi rernaneat potentia, sed aliter quarn
+            prias, quia prius 26 potcntia 27 poterat finiri 28,modo autern non potest, eoquod a
+            privatione non est regredi i2n9 habitum per naturam. Et hec potentia passiva dicitur
+            infinita.</p>
+        </div>
+        <div xml:id="phsyn-t6-Dd1e222">
+          <head xml:id="phsyn-t6-Hd1e223">Sophismata</head>
+          <p xml:id="phsyn-t6-d1e226">Item. Posito quad Sortes sit albissimus hominum qui inodo sunt
+            Ct post hoc instans nascatur quidam 1albior eo, queritur iie hoc sophisinate SORTES
+            DESINIT ESSE ALBISSIMUS HOMINUM. Probatio 2.Sortes est albissinius hominum. Et de cetera
+            non erit albis simus hominuin. Ergo Sortes desinit 3esse albissimus hominum. Contra.
+            Sortes desinit esse albissimus horninuin. Ergo hominum qui sunt vel 4honilnuin qui non
+            sunt. Quorum utrumque est falsum.</p>
+          <p xml:id="phsyn-t6-d1e229">Et dicendurn quod prima est vera.. Et’ probatio bene tenet,
+            sed improbatio non valet 2.Et dicunt quidarn quod ibi 3 est figura 4dic tionis a
+            sirnplici suppositione 5ad personalern. Et 6 clicunt quod iste 1 genitivus ‘horninuin’
+            8tenetur sirupliciter in prima, sed cuin infert ‘ergo horninuni qui sunt vel hominurn
+            qui non sunt’, personalein habet suppositionem. AJii dicunt quod est ibi figura
+            dictionis ab arnpliata suppositione ad restrictani, quia iste genitivus hominu.m’ in
+            prima tenetur pro quolibet alio hoinine 9a Sorte, sed cum dicitur ‘ergo’° hoiriinurn qui
+            sunt vel horninuin 11qui non sunt’, iste geni tivus ‘horriinurn’ restringitur 12ad
+            existentes cx una parte et ad non existentes cx a1l3ia per implicationes circa ipsurn
+            factas. Vel dicen duin quad. iimprobatio peccat secundurn accidens, quia desitio signi
+            ficatur respectu horninurn siinpliciter, non tanien respectu homni nurn qui sunt vel
+            respectui 4homninuin qui non sunt, quia non est necesse quod si aliquid accidat 15
+            antecedenti t6,quod propter hoc accidat consequenti.</p>
+          <p xml:id="phsyn-t6-d1e232">Item. Posito quad Sortes sciat 1tria enuntiabilia necessario
+            2(et nominentur a, b, et c 3) et d ‘ sit quartum enuntiabile quod scit inodo Sortes et
+            de cetero non sciat ipsurn, [N66rb] queritur de hoc sophis mate SORTES DESINIT SCIRE
+            QUICQUID IPSE SCIT. Probatio. Sortes scit quicquid ipse scit. Et de cetero non sciet
+            quicquid ipse scit. Ergo desinit scire quicquid ipse scit, Contra. Sortes desinit scire
+            quicquid ipse scit. Sed scit a. Ergo desinit scire a1.</p>
+          <p xml:id="phsyn-t6-d1e235">Solutio. Prima 1falsa. Et probatio non valet, quia minor est
+            duplex, eoquod negatio potest precedere distributionern 2.[P74ua] Et sic est vera hec
+            ‘de cetero non quicquid ipse scit sciet’. Et sic facit distributionem teneri
+            3particulariter. Et sic est vera, sed sic non sequitur conclusio 4.Vel negatio potest
+            scqui distributionein sic: ‘de cetero quicquid scit non sciet’. Et sic est falsa, quia
+            sensus est ‘de cetero nichil eorum que scit, sciet’, quod falsum est. Et sic sequitur
+            conclusio.</p>
+          <p xml:id="phsyn-t6-d1e238">Et nota quod ‘incipit’ et ‘desinit’ cum adiunguntur’
+            multitudini vel nornini 2pluralis nurrieri, debent 3exponi rernovendo [T39vczj totam
+            rnultitudinem vel unumquodque de t inuhitudine, ut ‘Sortes scit qiiicquid ipse scit e5t
+            de cetero nullum eorurn sciet’. Et siiniliter hic: ‘Sortes videt omnern hominern et de
+            cetero nullum videbit 6 hominern; ergo DESINIT VIDERE OMNEM 7HOMINEM’; posito quod
+            Sortes videat seinper omnena hominesn aliuni a Platone et modo videat Platonein Ct de
+            cetero non videbit 8.Et probatio et irnpro batio fiunt 9ornnino simuliter sicut in
+            precedenti sophismate.</p>
+          <p xml:id="phsyn-t6-d1e242">Item. Posito quod Sortes 1sciat tria enuntiabilia necessario
+            et seinper sciat ea (scilicet a, b, c) et cuni illis2 sciat hoc enuntiabile, scilicet
+            ‘Se nichil desinere scire’, et post hoc instans non 3sciat illud, queritur de hoc
+            sophismate SORTES DESINIT SCIRE SE NICHIL DESINERE SCIRE. Probatio. Sortes scit se
+            nichil desinere scire. Et de cetero non sciet se nichil desinere scire. Ergo Sortes
+            tdesinit scire se nichil desinere scire. Contra. Sortes desinit scire se nichil desinere
+            scire. Ergo 5Sortes 6scit se nichil desinere scire. Sed quicquid scitur est veruni, quia
+            nichil scitur nisi verurn. Ergo Sortein nichil 8desi nere scire est veruin. Ergo nichil
+            9desinit scire (a dicto [W67ra] ad propositionern sive 10 a convertibili). Ergo non
+            desinit scire hoc enuntiabile, scilicet se nichil desinere scire.</p>
+          <p xml:id="phsyn-t6-d1e245">Solutio. Prima 1vera. Et probatio bene 2tenet, sed iinprobatio
+            peccat secundurn quid et sinipliciter in hoc argumento ‘nichil desinit scire; ergo non
+            desinit scire hoc enuntiabile se 3 nichil desinere scire’, quia sciendo 4hoc enuntiabile
+            non propter hoc augnientatur scientia sua, eoquod scire hoc enuntiabile nichil aliud est
+            nisi quod ipse sciat S5e scire illa tria enuntiabilia. Et de cetero non sciet se scire
+            ea, sicut accidit quando° dorinit. U7nde sicut homo non plura scit in habitu cum vigilat
+            quam cuin dormit, sinüliter non plura scit sciendo hoc enuntiabile quain non sciendo
+            ipsuni. Cuius causa e8st quia hoc e9nuntiabile ponit r1eflect0ionem actus sciendi supra
+            seipsuin, ut sciat illa tria et sciat se scire ea. Et i1t2a sciett quod n1ullitus eorurn
+            obliviscatur. Et propter hoc scit se nichil desinere scire. Sed sive scientia
+            reflectatur sive non reilectatur, non propter hoc a5ugmentatur’ n1eq6ue diminuitur, sed
+            rnodus est alms. Sicut curn videt coloratum et viciet se videre colora.tum, non propter
+            hoc plura videt quarn Si videret colorattun tantuin ita quoci non ad v1er8tat se videre.
+            lJnde sicut hic est quid et simpliciter ‘nichil videt; ergo non videt tenebram’,
+            e9oquod’ licet tenebra sit aiiquid, tamen nichil est in videndo, similiter in proposito,
+            2u0t ‘nichil desinit scire; ergo non desinit scire hoc enuntiabile, scilicet se nichil
+            clesinere scire’.</p>
+          <p xml:id="phsyn-t6-d1e248">Item. Posito quod S1ortes sit in p2enultimo instanti vite sue,
+            queritur de hoc sophismate SORTES DESINIT ESSE NON DESI NENDO ESSE. P.3robatio Sortes
+            est non desinendo esse. E4t de cetero non erit non desinendo esse. Ergo S5ortes desinit
+            esse non desin.en do esse. Contra. Sortes desinit esse non desinendo esse. Ergo S6ortes
+            desinit esse duin desinit esse, vel s7i non desinit esse, vel q8uia non [739-ob] desinit
+            esse: g9erundiurn enim in ‘-do’ r1esol0vitur per ‘dum’ vel per ‘si’ vel per ‘quia’.
+            Quorum ununiquodque est impossi bile.</p>
+          <p xml:id="phsyn-t6-d1e251">Solutio. Prima duplex’, eoquod hec detenninatio ‘non desinen
+            do esse’ potest deterrninare hoc verburn ‘desinit’ vel hoc verburn ‘esse’ quod immediate
+            sequitur. Si vero determinet hoc verb’um ‘desinit’, sic falsa est et opposita ponuntur
+            circa idern. Unde sensus est ‘desinit q2uia non desinit v3el dum non desinit vel si non
+            de sinit’; et secundum hoc iiriprobat. Si autem deterininet hoc verbum ‘esse’, sic est
+            vera et est sensus ‘Sortes desinit esse non desinendo esse’ idest ‘Sortes desinit esse
+            [P75ra] i4ndesinens’ vel ‘esse sine desitione’. Unde non desinit esse simpliciter sed
+            esse tale, scilicet esse indesinens vel sine desitione, quia usque n’iodo habuit esse
+            indesinens vel esse sine desitione et de cetero non habebit tale esse, irnmo habebit
+            esse desinens et cum desitione. Et primo rnodo est composita et Falsa, secundo vero
+            clivisa et vera. Unde est ibi sophisma compositionis 5.</p>
+        </div>
+        <div xml:id="phsyn-t6-Dd1e254">
+          <head xml:id="phsyn-t6-Hd1e256">Quam suppositionem habeant termini cum ‘incipit ‘et
+            ‘desinit’</head>
+          <p xml:id="phsyn-t6-d1e259">Circa ultimum queritur utrum termini habeant eandem
+            suppositionern curn bus verbis ‘incipit’ et ‘desinit’ et cuni aliis verbis vel
+            diversatra. Et videtur quod eandei, quia bene sequitur ‘Sortes est homo; et de cetero
+            non erit horno qui est; ergo desinit esse hoino’. Sed posito quod nullus sit color nisi
+            albedo et corrupta albedine statiin erit nigredo et non e2rit nisi in Sorte, tunc non
+            sequitur ‘Sortes est coloratus; Ct de cetero non erit coloratus colore qui est; ergo
+            desinit esse coloratus’. Non ergo simileni habent suppositionem terrriini substantiales
+            et termini accidentales cum istis verbis ‘in cipit’ Ct ‘desinit’. Item. Bene sequitur
+            ‘Sortes incipit esse homo; ergo incipit esse animal’; sed non sequitur ‘incipit esse
+            albus; ergo incipit esse coloratus’. Quod concedimus dicentes 3quod 4aliam habent
+            suppositionern terrnini substantiales et aliam terrnini accidentales cum hiis verbis
+            5.Cuius causa est quod forrne accidentales sunt transmutabiles circa idein 6,forme vero
+            essentiales non, quia in acci dentibus potest fled transmutatio ab uria in aliain, in
+            essentialibus vero non.</p>
+          <p xml:id="phsyn-t6-d1e262">Item. Bene sequitur ‘est albus; ergo est coloratus’. Sed non
+            sequitur ‘incipit esse a.lbus; ergo incipit esse coloratus’. Ergo terrnini non habent
+            [N67ra] eandern suppositionern cuni hiis verbis ‘incipit’ et ‘desinit’ et’ cum aliis
+            verbis. Quod concedimus. Cuius causa est quod in accidentibus rnanente genere species
+            transmutatur circa idem, Ut Sorte 2rnanente, vel 3corpore solo, color transniutari
+            4potest ab albedine in nigredinein 5vel in aliam speciem colons. Sed in substantialibus
+            impossibile est. 34 Item. Ec predictis patet quod cuin dicitur ‘Sortes incipit esse
+            coloratus’, iste terminus ‘coloratus’ non solum copulat’ pro colore qui est sed etiam
+            pro colore qui fuit. Et cum dicitur ‘Sortes desinit esse coloratus’, non solurn [P75rb]
+            copulat pro colore qui est sed etiam pro colore qui erit. Et hoc est ex natura horuni
+            verborum ‘incipit’ et ‘desinit’, q2ue non soluin ponunt albedinein in p,3resenti sed
+            etiani unum eorum [T4OraJ privat albedineni in preterito et a4lterum in futuro i5n
+            predictis orationibus et consiinilibus. Sed contra. Forma minus communis restringit ad
+            pauciora quam forina inagis corn mursis, ut ‘album’ ad pauciora quarn ‘coloratum’. Sed
+            ‘desinit’ est minus commune quarn ‘est’, q6uia sequitur ‘desinit; ergo est’ et non
+            econverso. E7rgo ‘desinit’ restringit ad pauciora quain hoc verbum ‘est’. Sed hoc verbum
+            ‘est’ restringit ad ea que sunt. Ergo hoc verbum ‘desinit’ restringit ad pauciora. Ergo
+            non f8aciet terminum copulare pro colore qui est et qui non est.</p>
+          <p xml:id="phsyn-t6-d1e265">Et dicenduin quod termini accidentales significantes’ res per
+            m2anentes cuni adiunguntur istis verbis ‘incipit’ et ‘desinit’ d3icunt p4ositionem rei
+            in preseriti et ideo copulant pro presentibus. Sed quia ista verba dicunt inceptiones
+            v5el desitiones r6,erurn ideo dicunt terrninun-i initialem vel finalein. Et ante
+            terminum initialem nichil est d7e re; et siiniliter post terininum finalem n8ichil est
+            d9e re. Itd0eo consequitur” ad hoc verbum ‘desinit’ p2rivatio’ rei perrna n1en3tis in
+            futuro ratione termini fmalis. Et ad hoc verbum ‘incipit’ consequitur privatio rei
+            permanentis in preterito ratione terxrtini i1.niti4alis Dicendurn ergo breviter quod hec
+            verba per suam signi fication e5m’ faciunt predictos [N6 7th] terlninos copulare pro
+            presen tibus. Et copulatio pro preteritis vel futuris consequitur ad hec verba ratione
+            terminorum quos dicunt.</p>
+          <p xml:id="phsyn-t6-d1e268">Ex predictis autem patet quod’ si quis querat propter quid
+            alia verba. non arnplient t2errninos sicut ista, causa e3ius est quod ista verba dicunt
+            terminos reruin, ut dictum est, alia autem verba non. Et hec est eadein causa quare ista
+            verba ponuntur sincategoreumata et a4lia non. Ad argumenturn "in contra.rium" autem
+            dicendurn quod ‘forma minus comrnunis’ est5 duplex. Q,uia uno rnodo fIt minus commune
+            per differentiarn advenienteni inagis cornmuni, Ut ‘al burn’ per ‘disgregativuin visus’
+            adveniens ‘colorato’. [P75va] Alio autern modo form a minus coininunis fit6 per
+            privationein advenien tern rei. Et ita fiunt7ista verba ‘incipit’ et ‘desinit’. Et primo
+            modo forrna minus comrrninis restringit ad pauciora, secundo autein inodo non. Unde hoc
+            adiectivuni ‘albus’ restringit ad pauciora quain hoc adiectivunt ‘coloratus’ et
+            hec8verba ‘incipit’ et ‘desinit’ non9 restringunt ad pauciora quaira hoc verbuin
+            ‘est’.</p>
+        </div>
       </div>
-        <div>
-          <head>Que sit d[frrentiiz inter swccessiva et permanentia</head>
-        <p>Circa prirnuin sic obicitur. Cum successiva non habeant esse
-        nisi 1a perrnancntibus, ergo non habebunt ra.tionem s2ive diffinitio
-        nem nisi ab eis, quia a [T37vb] quo est e,3sse et est ratio. Ergo ratio
-        successivoruni non differt a ratione pernianentium. Sed quorum
-        r4ationes non sunt differentes, ipsa non sunt differentia. Ergo succes
-        siva et pernianentia non differunt.</p>
-      </div>
-        <div>
-          <head>De rebus pennaneztibus et rebus successivis</head>
-        <p>Et dicenduin (Ut tacturn est) quod reruin alie sunt permanentes,
-        alie successive. Et differunt a se invicem tinultipliciter. Prima diffe
-        rentia est qu.od res permanentes dicuntur quarurn esse est totuni
-        sirnul, ut sunt homo, lapis, lignum, aer, terra. Res autem successive
-        dicuntur quarum esse non est totum simul sed est in successione, ut
-        sunt motus Ct teinpus. Secunda autern differentia est 2quoniaru pastes
-        perinanentiurn siinul sunt omnes (ut partes hominis, la.pidis et
-        aeris) et non est una post alterarn. Successivaru vero partes non
-        stint simul ornnes 4sed una est post alterarn successive. [I’163vb) Ut
-        partes rnotus et partes temporis, quia post unarn partem rnotus sequi
-        tur altera et non stint due partes motus eiusdein sirnui. Neque 5due
-        partes temporis stint simul sed est una post alteram successive;
-        irnpossibile enim 6est plura tempora [P72rb] sirnul esse. Tertia vero
-        differentia est quoniasn 7perrnanentia natura priora stint successivis
-        et successiva natura sunt posteriora permanentibus 8;perinanentia
-        enim stint causa successivorum. Quarta differentia est quia 9res
-        permanentes sunt in se ternrinat 0,quecumque habent terrninos,
-        sed res successive non” habent in se terininos, Ut rnotus qui ter
-        minatur ad res perrnanentes, Ut alteratio ad qualitatein, augrnentum
-        et dirninutio ad quantitatern et sic de aliis. Quinta differentia est
-        quia’ res perman.entes sunt in sui principio et in sui fine, ut patet in
-        substantia et in accidentibus t3perrnanentibus, Ut ii lapide’ 4et in
-        albedine et nigre dine. Res vero successive neque stint in. sui prin
-        cipio neque in sui fine, Ut postea patebit de motu.</p>
-      </div>
-        <div>
-          <head>Que siut rationes horwz verborun cumillis</head>
-        <p>Circa secundurn obicitur quia’: Gum 2motus habeat rationem a
-        suis terininis: quamvis magis a termino ad quern quam a terniino a
-        quo quia Inotus Fere ornnes diffiniuntur per 3 terminurn ad quern
-        (nam dealbatio est motus ad albedinein, denigratio vero inotus ad nigredinem, auglnentum vero motus est ad xnaiorern quantitatem,
-        generatio vero est a4notus ad substantiain); et sic o5mnis rnotus dim
-        n6itur per terminum finalem, preter corruptionern, q7ue cliffinitur
-        per terminum a quo (quia corruptio est rnutatio a substantia); igitur
-        omnis inotus habet rationem a suis terminis, quamvis inagis a
-        termino ad quern quam a termino a quo, — igitur curn ‘incipit’ et
-        ‘desinit’ dicant inotum, vel inodum niotus, respectu. terniini a quo
-        vel respectu termini ad queln, tunc oportet quod si termini sunt spe
-        cie differentes, quod et rationes horum verborurn ‘8incipit’ et ‘desinit’
-        sint specie differentes, si talibus terminis adiungantur. Sed succes
-        siva Ct permanentia sunt specie differentia. Ergo hoc verbum desinit
-        Si adiungatur pernianen tibus et successivis, habebit s9ecundurn hoc
-        rationes specie differentes. [N64ra] Et siiniliter hoc verburn ‘incipit’.</p>
-        <p>Quod concediinus dicentes quod ratio huius verbi ‘incipit’ cuin
-        perrnanentibus est ista, scilicet est et ante hoc iion fuji, Ut ‘incipit esse
-        albus’: est albus et ante hoc izorifuit albus. Unde hoc triodo hoc verbuin
-        [738ra} ‘incipit’ dicit p2ositioneni presentis cuni privatione preteriti.
-        [P72va1 Vel etiam sic: ‘incipit’: zunc primo est. Curn rebus autein
-        successivis exponitur sic: nunc primo e3;st vel sic: non est sed post hoc
-        e4r-it (Ut ‘incipit inoveri’: n5on rnovetur sed post hoc movebihr); tunc
-        privat presens Ct ponit futururn. Sed hoc verbuzn ‘desinit’ cum per
-        manentibus eicponitur sic: n5unS uttirno est vel sic: est el de celero non eiit
-        (Ut ‘desinit esse albus’: nunc ultioino est albus vel sic: est albus el de cetero
-        non erit albus); et sic ponit presens et privat futuruni. Cum rebus
-        autem successivis exponitur sic: nunc ultirno full vel sic: non est sed ante
-        hoc fuit (7Ut ‘desinit currere’: non citrrit sed ante hoc ci.scisrril) et sic
-        p8rivat presens et ponit p.9reteriturn</p>
-        <p>Item. Queritur, cuni diversa tempora intelligantur per ista
-        verba ‘incipit’ et ‘desinit’, utruni intelligantur i1bi equaliter vel unurn
-        per prius Ct alterum per posterius. Et dicendum quod ista verba
-        ‘incipit’ Ct ‘desinit’ dicunt inceptiones vel d2esitiones rerurn. Sed
-        inceptiones et desitiones non sunt nisi in terrninis initialibus et
-        finalibus. Sed ultra t3erininum finalem nichil est de re neque ante
-        termirium initialeni aliquid est de re, eoquod tota res infra suos terminos continetur. Ideo est quod cuna hoc verburn ‘desinit’ dicat
-        terminum finalern r4ei, per prius dat intelligere presens et con
-        sequenter 5privationein futuri, eoquod ultra terminurn finalem
-        nichil est d6e re (et loquor in perrnanentibus). Unde hoc rnodo ista
-        expositio nunc ultinw est rectior est quarn ista est et de cetera non enS.
-        Cum successivis autem hec est rectior nunc ultimofvit quam sic: n7o
-        est sed ante hecfuii. Unde per 9prius ponitur 1°ibi preteriturn [iV64rb]
-        terminatuxn 11ad presens Ct consequenter 12privatio presentis. Sed per
-        hoc verbuni ‘incipit’ adiunctum permanentibus p1e3r prius d1at4ur
-        intelligi presens et consequenter privatio preteriti, quia res perma
-        nentes sunt in sui principio et ante ipsurn’ 5nichil est de hiis. Unde
-        hoc inodo rectius exponitur sic 16 : nirnc primo e.st quam sic: est et ante
-        hoc non fuit. Sed cuml 7successivis per’ 8 prius intelligitur positio
-        futuri t1errn9inati ad presens Ct per posterius [P72vb] privatio presen
-        tis propter hoc quoci res successive non sunt in sui principio sed post
-        principiurn.</p></div>
-        <div><head>De ‘tenzpore’ dupliciter sumpto</head>
-        <p>Et nota quod. hoc verbum ‘incipit’ non semper test diversoruni
-        teinporurn, quia ‘tempus’ dicitur dupliciter. Uno enirn modo tempus
-        est inensura prirni 2motus Ut rnotus primi mobilis; et est species
-        qua.ntitatis continue et sic est ternpus secunduin veritatern temporis.
-        Et tempus 3isto rnodo non accidit verbo. Et sic dantur intelligi diversa
-        tempora per illa verba ‘incipit’ et ‘desinit’. Sed non a pane coxasigni
-        ficationis eorurn sed a parte ternairioruxn 4suorum significationuni
-        principalium 5;qui quidem 6termini sunt causa 7ecrum quorum est
-        desitio vel inceptio. Aiio autern modo teinpus dicitur non inensura
-        prirni inotus neque tempus secundum veritatem temporis, sed dici
-        tur inodus ternporis. Et hoc modo tempus accidit verbo. E8t sic ‘in
-        cipit’ et ‘desinit’ s9urit presentis ternporis. Et sic intelliguntur [T38b]
-        in eis diversa ternpora a parte sigaificationis principalis et intelli
-        gitur in eis unum solurn tempus a pane consignificationis tm0.Et pre
-        dicta distinctio temporis est siiriilis distinctioni generis, quod simi
-        liter dicitur dupliciter. Uno enim modo genus dicitur secundurn veritatem generis; Ct hoc modo non sunt nisi duo genera reperta in
-        natura rerum, scilicet inasculinum et feniininuni 1e1t h1o2c inodo
-        genus tantum est in anirnalibus ut in m1ari3bus et feininis. Alio
-        autem modo genus dicitur modus generis; et sic repperitur genus in
-        r1eb4us i1;nsensi5bilibus et sic dicitur ‘lapis’ inasculini generis et
-        ‘petra’ feminini. linde sicut genus dicitur uno rnodo v1eri6tas
-        generis et alio rnodo modus generis, similiter tempus dicitur uno
-        snodo veritas temporis” [I’T64va] (et sic non accidit verbo) et alio
-        inodo dicitur rnodus temporis (et sic accidit verbo).</p></div>
-        <div><head>Utium motus incipiat et desiizat</head>
-        <p>Circa tertium o1bicitur quia: Vult Aristotiles quod si a2liquis
-        inovetur, rnovebitur et iriovebatur. S3ed si rnovebitur — simus in jib
-        futuro —, tunc veruiri est dicere quoniarn movetur. Es-go iterum:
-        snovebitur et movebatur. Illud iteruxn futuruin accipiatur et veruin
-        erit in jIb dicere quoniarn movetur. Ergo iterurn: inovebitur e4t in
-        alio futuro. Et sic contingit inoveri in infInitum. Ergo motus non
-        potest desinere. Eodein a5utern rnodo probatur quod non potest
-        incipere, quia: Si [P73ra] r,6novetur movebitur et rnovebatur. S7ed’ Si
-        snovebatur — siinus in jib preteri to—, e8t verurn erit dicere in jib
-        preterito q9uoniarn mo’vetur. Ergo movebatu.r prius in alio preterito. Et
-        si items-n illud preteritum accipiatur, verum erit in jib dicere quo
-        niam movetur. Ergo movebatur in a.lio priori p1.rete0rito Et sic contin—
-        git abire in infinitum a parte ante sicut a parte post, sive a parte
-        preteriti sicut a parte futuri. Sed impossibile est abire in infinitum,
-        quia infinita non possunt pertransiri. Ergo impossibile est quod
-        snows incipiat. Et sic snows non potest incipere n1eque’ desinere. Et
-        sicut obicitur de rnotu, sixniliter p1ot2est obici de cursu quod non
-        p1os3sit incipere neque desinere, quia si c,4urrit’ cucurrit et curret; 1e5t inde Ut prius. Eodem autem inodo potest obici de quolibet a1ii6o
-        successivo quod non possit incipere neque desinere.</p>
-        <p>Et dicenduin quad inotui reruni infenoruin e1t cuilibet succes
-        sivo debetur 2principium et finis, Ut patet in motu alterativo 3,qui est
-        ab uno termino 4in alterurn (Ut 5 ab una qualitate 6contraria’ in
-        alterain vel 8in inediain; et auginentum 9ab una quantitate’° ad 11
-        alteram et motus secundurn locum 12ab uno loco in aiteruin’ 3).Et sic
-        omnes inotus inferiores incipiunt et desinunt.</p></div>
-        <div><head>Quod ‘infinitum’ dicatur tripliciter</head>
-        <p>Ad iliad 1autem quod obicit 2de infinitatione 3Inotus dicendurn
-        quod ‘infinitum’ proprie dicitur tripliciter. Scilicet divisione, ut linea
-        dicitur infinita [N64vb] divisione et quodlibet continuum; omne
-        enim continuum est divisibile i4n infinitum. Alio autem rnodo dici
-        tur infinitum appositione, ut numerus; omnis eniin numerus aug.
-        rnentabilis est 5 in infinitum. Tertio autein rnodo dicitur 6infinitum
-        utroque modo, Ut rnotus 7et teinpus. Utrumque enim 8est infinitum
-        divisione, cuin sit continuum, et est infinitum appositione, [T38va]
-        cum post unum tempus’° sit a1limud teinpus et post unuin moturn sit
-        alias xnotus in infinitum. Et sic est infmnitas utroque rnodo, scilicet
-        appositione et divisione. Dicendumn ergo breviter quod irifinituni isto
-        triplici mode est 12 tantuni 13 in potentia Ct non in actu. Et ideo bene 14
-        potest pertransiri’ , eoquod’° infinitum in potentia bene potest per
-        transiri, infinitum autemn in actu non potest. Unde quia obiectiones
-        volebant reducere potentiam infiniti 17ad actum dividendo xnoturn,
-        idea sequebatur in flnitas. Quod autern t8niteatur 19reducere [IP73rb]
-        infinitum divisione a2d0 actum. patet, quia cam dicit ‘si22 movetur,
-        mnovebitur et mnovebatur’, jam dividit rnotuln per partes suas. Et
-        cum 23 iteruin sumnit 24 preteritiim vel futururn dicens quod si move
-        t2u5r in illo, ergo movebitur et movebatur, patet quod adhuc dividit
-        partes mnotus. Et sic potentiam 2°divisionis infinite nititur reducere 27
-        in actum divisionis. Unde licet motus 28sit infinitus reducendo apti
-        tudinern 29 infinite divisionis in 30 actumn, non 3m propter hoc sequitur quod motus sit infinitus simpliciter, sed est ibi32 fallacia secuncluin
-        quid et simpliciter.</p>
-        <p>Si queratur ubi debeat 1resistere obiectionibus dicendurn quod
-        ultirne illationi debet resistere, quia bene probat quod contingit 2abire
-        in infinitum a parte ante et a parte post, dividendo inoturn a parte
-        principii sive a parte finis. Sed cx hoc non sequitur ‘ergo 3motus non
-        potest incipere neque 4desinere’, quia 5motus secunduin se fmitus
-        est, divisione auteni infinitus. Unde omnis inotus inferior incipit et
-        desinit.</p>
-        <p>Item. Obicitur quod motus primi mobilis sive celi est infinitus,
-        quia una revolutio 1naturaliter est post aliani, sicut unus horno
-        [N65ra] ex 2 alio hornine generatur. Ergo non fuit prima 3revolutio
-        ccli, quia si fuisset prima, tunc 4lila non fuisset post aliam.. Ergo
-        motus celi non incepit. Ergo fuit ab eterno. Ergo et 5 celum ab etemo.
-        Ergo 6plura ab 7 eterno, quod est irnpius 8error. Simniliter autern 9
-        videtur 10 inotus primnus” a parte post’ 2infinitus, quia post unam
-        revolutionem13 ccli naturaliter sequitur aitera. Ergo non est surnere
-        ul timam revolutionern t4ccli. Ergo inotus ccli est infinitus a parte
-        post15.Item. Similiter’° obicitur quod gerieratio hoininum sit infmnita
-        a parte ante et a paste post, et plan tarum Ct a.liorurn generabilium et
-        corruptibilium, quia hoc est principiurn in natura: homo cx: hornine
-        generatur et equus cx equo, leo cx leone, planta cx planta. Ergo non
-        est sumnere primurn’ 7hominern, quia Si SUnIaS t8 aliquem, ille erit19
-        cx alio secunduni viam nature et ille alius cx alio priori. Et sic in
-        infinitum in hoiriinibus et ceteris animalibus et in plantis.</p>
-        <p>Et dicendurn quod motus pritnus’ et generatio omnniuin inferio
-        rum, Ut animaliuin et plan tarum, possunt surni dupliciter, quia uno
-        modo secundum viarn nature et secundum principia 2nature et alio
-        modo secundum [P73-va] comparationeni ad principiurn 3quod est
-        supra naturam ut ad 4Causam Primam. Et secunduin prirnuxn mo
-        dumn non est repperire primani revolutioneni ccli neque ultiiriam, neque primum hoirtinem v5el primum animal [T38vb) vel prinlam
-        plantain, quia natura non potuit facere primurn bornineni neque
-        primum leonem neque prima.m plantam neque prirnarn revolutio
-        nem, Sed inodo secundo fuit repperire 6primuni hominem et pri
-        main generationem in omnibus generabilibus 1,quia principium 8
-        quod est supra naturain U9t Causa Prima, cx sua surnina potentia
-        potuit facere quidlibet cx nichilo, quod natura non potuit.</p>
-        <p>Item. Eodern modo obicitur quod Inotus non sit’ in sui2
-        principio neque in sui fine, sicut obiciebatur quod non poterat 3
-        incipere neque desinere, quia si aliquis in principio rnotus movetur,
-        ergo movebatur [iV65rbj prius. Non ergo erat in principio. Et si
-        aliquis rnoveti.ar in fIne, ergo movebitur 4post; non ergo erit in fine.
-        Ergo rnotus non erat 5in sal 6 principio neque 7erit in suo fine. Quod
-        concedimus.</p></div>
-        <div><head>Quid sit motzs</head>
-        <p>Habito quod oninis motus incipiat et desinat et etiana qualiter
-        incipiat et desinat, quia rnotus inferiores 1nature incipiunt et desi
-        nunt per principia 2nature, motus autein superior 5,et etiam tota
-        generatio continua inferioruin, incipit et desinit per 4 principium 5
-        supra naturairi, — sciendum quod motus difflaitur sic: inotus est
-        existentis in potentia perfectio secundum quod 6huiusznodi. Quod
-        patet sic quia: Mobile et soluni 7mobile est in potentia passiva ad
-        motum. Sed oninis potentia perficitur per suurn actum, Ut potentia ad
-        calefaciendum per calefieri 8et potentia ad dealbanduin per albatio
-        n9etn et sic de aliis. Ergo cum ‘mobile’ dicat potentiam ad motum,
-        ideo rnobilis 1°inquantum est mobile perfectio est Inotus. Et ideo
-        perficitur mobile inquantum est mobile cum inovetur, Ut visibile
-        inquantum est visibile cum videtur, et augmentabile inquantuin”
-        est augrnentabile cum augrnentatur, et alterabile inquanturn’ 2est
-        alterabile cuiri alteratur. Ergo simpliciter mobile inquanturn est mobile perfIcitur cum movetur. Sed mobile inquantum est mobile
-        existit in potentia, Ut dictum est. Ergo motus est existentis in potentia
-        perfectio secundum quod huiusmodi, quia est perfectio inobilis
-        q1u3od existit in potentia inquantum est mobile.</p></div>
-        <div><head>Utrum tenpus incipiat vel desinat</head>
-        <p>Circa quartum obicitur quia’: Ut vult Aristotiles in q2uarto Phisi
-        corum, sicut punctus continuat duas partes linee [P73vb] et est mdi
-        v3isibile in linea, similiter nunc est i4ndivisibile in tempore et con
-        tinuat duas partes temporis, Ut tempus prius ternpori posteriori. Et
-        ideo d5icit quod nwnc est seniper finis ternporis p6recedentis et prin
-        cipium s.7ubsequentis Ergo irnpossibile est repperire p8rimum nuiic
-        in tempore, quia q9uodcuxnque nunc accipiatur’°, seinper erit finis
-        unius ternporis et principium alterius. Ergo ante illud nuic e1ritt
-        accipere aliud teinpus prius et ante i1llu2d tempus erit accipere aliud
-        n1ui3zc quod e1r4at p5rincipiunz’ jlliusl6 et finis iteruni [J’165va1 alte
-        rius teniporis prececlentis. Ergo non e1s7t sumere prilnurn tempus.
-        Ergo tempus non i1.nce8pit Ergo ternpus est ab eterno.</p>
-        <p>Et dicenduin sicut dictum est’ de m.otu circulari et de inotu
-        g2enerativo quod ‘tenipus’ potest sumi s3ecundum duas cornpara
-        tiones, scilicet secundurn comparationem ad naturam et secundum
-        comparationem ad Causani Primani. Si auteni s4umatur s5ecundum
-        cornparationem ad naturasn, s6ic t7ernpus non potuit i8,ncipere quia
-        natura non potuit facere prirnurn tempus. Unde tempus secunduni
-        viam nature procedit i9n infinitum 1a0 parte ante te1t a parte post. Si
-        autern sumatur ‘ternpus’ p2er’ coniparationem ad [T39ra] Causam
-        Primam, s1i3c i4ncepit’ teiripus, quia i5ncepit’ cum rnotu et curn
-        rnobili prilno. Quid autem sit Lempus et cuius sit rnensura (6quia’ est
-        rnensura primi motus sive motus primi mobilis) et in quo sit ut in
-        subiecto (7quia’ in rnotu circulari p)8rirn,o’ dictum est in tractatu
-        huius d9ictionist ‘Si’. IJtrum potentza incipiat vet desinat
-        18 Circa quinturn queritur utrurn potentia incepit’ vel non. Et
-        videtur quod non incepit, quia: Si potentia incepit, possibile incepit.
-        Sed Si possibile incepit, ergo non erat2possibile antequam iriciperet5,
-        sicut non erant4res antequarn5inciperent6.Ergo ex7 non-possibili
-        facturn est possibile. Sed8‘non-possibile’ et9 ‘impossibile’ equipol
-        lent10.Ergo ex iinpossibii factum est possibile. Quod videtur incon
-        veniens. Ergo possibile non incepit. Ergo neque potentia ipsius possi
-        bilis incepit. Sed contra sic11 obicitur quia: Si possibile non incepit,
-        ergo fuit ab eterno. Et sic sequitur heresis dicentiuin12quod non
-        solurn Deus fuit ab eterno, sed etiam13rnateria prima fuit ab eterno
-        cuni14 Deo, quod est error non solum in fide sed etiam in scientia
-        naturali, quia ponitur esse inateria sine forma15 et separata a
-        sensibus16.Ergo necesse est possibile incepisse. Ergo et” potentiarn’8
-        ipsius.</p></div>
-        <div><head>Quot medic dicatur ‘potentia’</head>
-        <p>Et dicendum quod duplex est potentia. Quia est quedarn
-        potentia’ rerum creataru.m2,que dividitur per potentlain activarn
-        creatain3Ct per4potentiarn passivain5.Et illa incepit esse et utraque
-        pars eius, Alia autem est potentia que6est potentia. increata7,et hec est
-        potentia Cause Prime sive priini agentis. Et ista8non incepit esse sed
-        est ab eterno. Et sic potentia passiva9mcepit et possibile incepit et
-        etiam10 potentia acti’va reruin creatarurn11incepit.</p>
-        <p>Ad illud autem quod obicit quod Si possibile incepit,
-        ergo ex’ non-possibili factum est possibile; ergo2 ex impossibili
-        facturn est possibile, cum ‘non-possibi1e’ Ct ‘iinpossibile’ equipol
-        leant3,— dicendurn quod hoc non est inconveniens uno rnodo et
-        alio inodo sic, quia inconveniens est quod4aliquod5agens naturale
-        ex impossibli faciat possibile in natura. Sed de agente quod est supra
-        naturain Ut Causa Prima, non est inconveniens quod ex impossibli faciat 6possibile in natura, quia natura non potuit 7facere aliquid ex
-        nichilo, sed Causa Prima potuit 8.Et ita 9ex iinpossibili in 10 natura
-        potuit 11 facere possibile Causa Prima.</p>
-        <p>Item. Nota, sicut dictum est, quod quedarn est potentia increata 1,
-        et hec est activa seniper 2a se et a3 nullo alio. Et hec 4est Cause Prime,
-        ut diximu.s, que 5nullo moclo mota 5,neque per se neque per acci
-        dens 7,movet 8omnia creata. Alia auteni est potentia creata 9que in
-        cepit esse, ut dixiinus, cum rebus creatis 10.Huius 11 autem potenue’ 2
-        alia est activa 1, que inota movet (et hec est cuiuslibct agentis natu
-        ralis); alia autein dicitiir potentia passiva; et hec potentia passiva est
-        inaterie prime et eorurn que consequuntur’ 4materiarn primam.
-        22 Item. ‘Potentia passiva’ sumitur’ tripliciter. Quia 2est quedain
-        potentia passiva 3que est sernper 4finibilis 5et potest habere totuiri
-        actuni suum simul. Ut potentia que est in 6niateria aeris ad hoc ut ex
-        aere fiat ignis, sirnpliciter 7est 8 perfecta quanclo ignis generatus est
-        in eadem materia; et potentia que est in ligno Ut cx eo fiat archa,
-        simpliciter 9est 10 perfecta quand 1facta est archa. Alia autem est
-        potentia passiva que est perfectibilis seinper’ 2secundum partem et
-        numquain secundun’i 13totum. Ut potentia dividendi in infinitum;
-        ut’ 4 in continuis particulares 15divisiones perficiunt partern’ 6illius
-        potentie, quia quoad [T39rb] hoc quod’ 7iam diviswn 18est conti
-        nuum in aliquarn ve1 19 in aliquas partes, secundum hoc 20 finita est
-        i2ll1a potentia. Sed quia iinpossibile est omnes divisiones continui
-        sirnul esse, ideo in-ipossibile est 111am potcntiam 22perfici secunduin
-        totum. Tertia autein potentia passiva est que 23 non potest finiri 24
-        neque securaduin partem neque secundurn [N66ra] totum. Et hec est
-        in ceco et in aniinali xnortuo, quia in oculo irianet materia in qua
-        fuit visus et in hornine rnortuo manet niateria in qua fuit vita. Ergo
-        cuin 25 inateria non [P74rb] possit esse sine potentia, necesse est quad
-        ibi rernaneat potentia, sed aliter quarn prias, quia prius 26 potcntia 27
-        poterat finiri 28,modo autern non potest, eoquod a privatione non est
-        regredi i2n9 habitum per naturam. Et hec potentia passiva dicitur
-        infinita.</p></div>
-        <div><head>Sophismata</head>
-        <p>Item. Posito quad Sortes sit albissimus hominum qui inodo sunt
-        Ct post hoc instans nascatur quidam 1albior eo, queritur iie hoc
-        sophisinate SORTES DESINIT ESSE ALBISSIMUS HOMINUM.
-        Probatio 2.Sortes est albissinius hominum. Et de cetera non erit albis
-        simus hominuin. Ergo Sortes desinit 3esse albissimus hominum.
-        Contra. Sortes desinit esse albissimus horninuin. Ergo hominum qui
-        sunt vel 4honilnuin qui non sunt. Quorum utrumque est falsum.</p>
-        <p>Et dicendurn quod prima est vera.. Et’ probatio bene tenet, sed
-        improbatio non valet 2.Et dicunt quidarn quod ibi 3 est figura 4dic
-        tionis a sirnplici suppositione 5ad personalern. Et 6 clicunt quod iste 1
-        genitivus ‘horninuin’ 8tenetur sirupliciter in prima, sed cuin infert
-        ‘ergo horninuni qui sunt vel hominurn qui non sunt’, personalein
-        habet suppositionem. AJii dicunt quod est ibi figura dictionis ab
-        arnpliata suppositione ad restrictani, quia iste genitivus hominu.m’
-        in prima tenetur pro quolibet alio hoinine 9a Sorte, sed cum dicitur
-        ‘ergo’° hoiriinurn qui sunt vel horninuin 11qui non sunt’, iste geni
-        tivus ‘horriinurn’ restringitur 12ad existentes cx una parte et ad non
-        existentes cx a1l3ia per implicationes circa ipsurn factas. Vel dicen
-        duin quad. iimprobatio peccat secundurn accidens, quia desitio signi
-        ficatur respectu horninurn siinpliciter, non tanien respectu homni
-        nurn qui sunt vel respectui 4homninuin qui non sunt, quia non est
-        necesse quod si aliquid accidat 15 antecedenti t6,quod propter hoc
-        accidat consequenti.</p>
-        <p>Item. Posito quad Sortes sciat 1tria enuntiabilia necessario 2(et
-        nominentur a, b, et c 3) et d ‘ sit quartum enuntiabile quod scit inodo
-        Sortes et de cetero non sciat ipsurn, [N66rb] queritur de hoc sophis
-        mate SORTES DESINIT SCIRE QUICQUID IPSE SCIT. Probatio.
-        Sortes scit quicquid ipse scit. Et de cetero non sciet quicquid ipse scit.
-        Ergo desinit scire quicquid ipse scit, Contra. Sortes desinit scire
-        quicquid ipse scit. Sed scit a. Ergo desinit scire a1.</p>
-        <p>Solutio. Prima 1falsa. Et probatio non valet, quia minor est
-        duplex, eoquod negatio potest precedere distributionern 2.[P74ua] Et
-        sic est vera hec ‘de cetero non quicquid ipse scit sciet’. Et sic facit distributionem teneri 3particulariter. Et sic est vera, sed sic non
-        sequitur conclusio 4.Vel negatio potest scqui distributionein sic: ‘de
-        cetero quicquid scit non sciet’. Et sic est falsa, quia sensus est ‘de
-        cetero nichil eorum que scit, sciet’, quod falsum est. Et sic sequitur
-        conclusio.</p>
-        <p>Et nota quod ‘incipit’ et ‘desinit’ cum adiunguntur’ multitudini
-        vel nornini 2pluralis nurrieri, debent 3exponi rernovendo [T39vczj
-        totam rnultitudinem vel unumquodque de t inuhitudine, ut ‘Sortes
-        scit qiiicquid ipse scit e5t de cetero nullum eorurn sciet’. Et siiniliter
-        hic: ‘Sortes videt omnern hominern et de cetero nullum videbit 6
-        hominern; ergo DESINIT VIDERE OMNEM 7HOMINEM’; posito
-        quod Sortes videat seinper omnena hominesn aliuni a Platone et
-        modo videat Platonein Ct de cetero non videbit 8.Et probatio et irnpro
-        batio fiunt 9ornnino simuliter sicut in precedenti sophismate.</p>
-        <p>Item. Posito quod Sortes 1sciat tria enuntiabilia necessario et
-        seinper sciat ea (scilicet a, b, c) et cuni illis2 sciat hoc enuntiabile,
-        scilicet ‘Se nichil desinere scire’, et post hoc instans non 3sciat illud,
-        queritur de hoc sophismate SORTES DESINIT SCIRE SE NICHIL
-        DESINERE SCIRE. Probatio. Sortes scit se nichil desinere scire. Et de
-        cetero non sciet se nichil desinere scire. Ergo Sortes tdesinit scire se
-        nichil desinere scire. Contra. Sortes desinit scire se nichil desinere
-        scire. Ergo 5Sortes 6scit se nichil desinere scire. Sed quicquid scitur
-        est veruni, quia nichil scitur nisi verurn. Ergo Sortein nichil 8desi
-        nere scire est veruin. Ergo nichil 9desinit scire (a dicto [W67ra] ad
-        propositionern sive 10 a convertibili). Ergo non desinit scire hoc
-        enuntiabile, scilicet se nichil desinere scire.</p>
-        <p>Solutio. Prima 1vera. Et probatio bene 2tenet, sed iinprobatio
-        peccat secundurn quid et sinipliciter in hoc argumento ‘nichil desinit
-        scire; ergo non desinit scire hoc enuntiabile se 3 nichil desinere
-        scire’, quia sciendo 4hoc enuntiabile non propter hoc augnientatur
-        scientia sua, eoquod scire hoc enuntiabile nichil aliud est nisi quod ipse
-        sciat S5e scire illa tria enuntiabilia. Et de cetero non sciet
-        se scire ea, sicut accidit quando° dorinit. U7nde sicut homo non
-        plura scit in habitu cum vigilat quam cuin dormit, sinüliter non
-        plura scit sciendo hoc enuntiabile quain non sciendo ipsuni. Cuius
-        causa e8st quia hoc e9nuntiabile ponit r1eflect0ionem actus sciendi
-        supra seipsuin, ut sciat illa tria et sciat se scire ea. Et i1t2a sciett
-        quod n1ullitus eorurn obliviscatur. Et propter hoc scit se nichil
-        desinere scire. Sed sive scientia reflectatur sive non reilectatur, non
-        propter hoc a5ugmentatur’ n1eq6ue diminuitur, sed rnodus est alms.
-        Sicut curn videt coloratum et viciet se videre colora.tum, non propter
-        hoc plura videt quarn Si videret colorattun tantuin ita quoci non ad
-        v1er8tat se videre. lJnde sicut hic est quid et simpliciter ‘nichil videt;
-        ergo non videt tenebram’, e9oquod’ licet tenebra sit aiiquid, tamen
-        nichil est in videndo, similiter in proposito, 2u0t ‘nichil desinit scire;
-        ergo non desinit scire hoc enuntiabile, scilicet se nichil clesinere
-        scire’.</p>
-        <p>Item. Posito quod S1ortes sit in p2enultimo instanti vite sue,
-        queritur de hoc sophismate SORTES DESINIT ESSE NON DESI
-        NENDO ESSE. P.3robatio Sortes est non desinendo esse. E4t de cetero
-        non erit non desinendo esse. Ergo S5ortes desinit esse non desin.en
-        do esse. Contra. Sortes desinit esse non desinendo esse. Ergo S6ortes
-        desinit esse duin desinit esse, vel s7i non desinit esse, vel q8uia non
-        [739-ob] desinit esse: g9erundiurn enim in ‘-do’ r1esol0vitur per
-        ‘dum’ vel per ‘si’ vel per ‘quia’. Quorum ununiquodque est impossi
-        bile.</p>
-        <p>Solutio. Prima duplex’, eoquod hec detenninatio ‘non desinen
-        do esse’ potest deterrninare hoc verburn ‘desinit’ vel hoc verburn
-        ‘esse’ quod immediate sequitur. Si vero determinet hoc verb’um
-        ‘desinit’, sic falsa est et opposita ponuntur circa idern. Unde sensus
-        est ‘desinit q2uia non desinit v3el dum non desinit vel si non de
-        sinit’; et secundum hoc iiriprobat. Si autem deterininet hoc verbum
-        ‘esse’, sic est vera et est sensus ‘Sortes desinit esse non desinendo
-        esse’ idest ‘Sortes desinit esse [P75ra] i4ndesinens’ vel ‘esse sine desitione’. Unde non desinit esse simpliciter sed esse tale, scilicet
-        esse indesinens vel sine desitione, quia usque n’iodo habuit esse
-        indesinens vel esse sine desitione et de cetero non habebit tale esse,
-        irnmo habebit esse desinens et cum desitione. Et primo rnodo est
-        composita et Falsa, secundo vero clivisa et vera. Unde est ibi sophisma
-        compositionis 5.</p></div>
-        <div>
-          <head>Quam suppositionem habeant termini cum ‘incipit ‘et ‘desinit’</head>
-        <p>Circa ultimum queritur utrum termini habeant eandem
-        suppositionern curn bus verbis ‘incipit’ et ‘desinit’ et cuni aliis verbis
-        vel diversatra. Et videtur quod eandei, quia bene sequitur ‘Sortes est
-        homo; et de cetero non erit horno qui est; ergo desinit esse hoino’.
-        Sed posito quod nullus sit color nisi albedo et corrupta albedine
-        statiin erit nigredo et non e2rit nisi in Sorte, tunc non sequitur ‘Sortes
-        est coloratus; Ct de cetero non erit coloratus colore qui est; ergo
-        desinit esse coloratus’. Non ergo simileni habent suppositionem
-        terrriini substantiales et termini accidentales cum istis verbis ‘in
-        cipit’ Ct ‘desinit’. Item. Bene sequitur ‘Sortes incipit esse homo; ergo
-        incipit esse animal’; sed non sequitur ‘incipit esse albus; ergo incipit
-        esse coloratus’. Quod concedimus dicentes 3quod 4aliam habent
-        suppositionern terrnini substantiales et aliam terrnini accidentales
-        cum hiis verbis 5.Cuius causa est quod forrne accidentales sunt
-        transmutabiles circa idein 6,forme vero essentiales non, quia in acci
-        dentibus potest fled transmutatio ab uria in aliain, in essentialibus
-        vero non.</p>
-        <p>Item. Bene sequitur ‘est albus; ergo est coloratus’. Sed non
-        sequitur ‘incipit esse a.lbus; ergo incipit esse coloratus’. Ergo terrnini
-        non habent [N67ra] eandern suppositionern cuni hiis verbis ‘incipit’
-        et ‘desinit’ et’ cum aliis verbis. Quod concedimus. Cuius causa est
-        quod in accidentibus rnanente genere species transmutatur circa
-        idem, Ut Sorte 2rnanente, vel 3corpore solo, color transniutari 4potest
-        ab albedine in nigredinein 5vel in aliam speciem colons. Sed in
-        substantialibus impossibile est. 34 Item. Ec predictis patet quod cuin dicitur ‘Sortes incipit esse
-        coloratus’, iste terminus ‘coloratus’ non solum copulat’ pro colore qui
-        est sed etiam pro colore qui fuit. Et cum dicitur ‘Sortes desinit esse
-        coloratus’, non solurn [P75rb] copulat pro colore qui est sed etiam pro
-        colore qui erit. Et hoc est ex natura horuni verborum ‘incipit’ et
-        ‘desinit’, q2ue non soluin ponunt albedinein in p,3resenti sed etiani
-        unum eorum [T4OraJ privat albedineni in preterito et a4lterum in
-        futuro i5n predictis orationibus et consiinilibus. Sed contra. Forma
-        minus communis restringit ad pauciora quam forina inagis corn
-        mursis, ut ‘album’ ad pauciora quarn ‘coloratum’. Sed ‘desinit’ est
-        minus commune quarn ‘est’, q6uia sequitur ‘desinit; ergo est’ et non
-        econverso. E7rgo ‘desinit’ restringit ad pauciora quain hoc verbum
-        ‘est’. Sed hoc verbum ‘est’ restringit ad ea que sunt. Ergo hoc verbum
-        ‘desinit’ restringit ad pauciora. Ergo non f8aciet terminum copulare
-        pro colore qui est et qui non est.</p>
-        <p>Et dicenduin quod termini accidentales significantes’ res per
-        m2anentes cuni adiunguntur istis verbis ‘incipit’ et ‘desinit’ d3icunt
-        p4ositionem rei in preseriti et ideo copulant pro presentibus. Sed quia
-        ista verba dicunt inceptiones v5el desitiones r6,erurn ideo dicunt
-        terrninun-i initialem vel finalein. Et ante terminum initialem nichil
-        est d7e re; et siiniliter post terininum finalem n8ichil est d9e re.
-        Itd0eo consequitur” ad hoc verbum ‘desinit’ p2rivatio’ rei perrna
-        n1en3tis in futuro ratione termini fmalis. Et ad hoc verbum ‘incipit’
-        consequitur privatio rei permanentis in preterito ratione terxrtini
-        i1.niti4alis Dicendurn ergo breviter quod hec verba per suam signi
-        fication e5m’ faciunt predictos [N6 7th] terlninos copulare pro presen
-        tibus. Et copulatio pro preteritis vel futuris consequitur ad hec verba
-        ratione terminorum quos dicunt.</p>
-        <p>Ex predictis autem patet quod’ si quis querat propter quid alia
-        verba. non arnplient t2errninos sicut ista, causa e3ius est quod ista
-        verba dicunt terminos reruin, ut dictum est, alia autem verba non. Et
-        hec est eadein causa quare ista verba ponuntur sincategoreumata et
-        a4lia non. Ad argumenturn "in contra.rium" autem dicendurn quod ‘forma minus comrnunis’ est5 duplex. Q,uia uno rnodo fIt minus
-        commune per differentiarn advenienteni inagis cornmuni, Ut ‘al
-        burn’ per ‘disgregativuin visus’ adveniens ‘colorato’. [P75va] Alio
-        autern modo form a minus coininunis fit6 per privationein advenien
-        tern rei. Et ita fiunt7ista verba ‘incipit’ et ‘desinit’. Et primo modo
-        forrna minus comrrninis restringit ad pauciora, secundo autein
-        inodo non. Unde hoc adiectivuni ‘albus’ restringit ad pauciora quain
-        hoc adiectivunt ‘coloratus’ et hec8verba ‘incipit’ et ‘desinit’ non9
-        restringunt ad pauciora quaira hoc verbuin ‘est’.</p>
-      </div>
-      </div>
-
     </body>
   </text>
 </TEI>

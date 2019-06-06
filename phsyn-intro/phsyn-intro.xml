@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Introductio</title>
-      	<author>Petrus Hispanus</author>
+        <author>Petrus Hispanus</author>
         <editor/>
         <respStmt>
           <name>Jeffrey C. Witt</name>
@@ -15,12 +15,12 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-        	<title>Introductio</title>
+          <title>Introductio</title>
           <date when="2016-06-21">June 21, 2016</date>
         </edition>
       </editionStmt>
       <publicationStmt>
-      	<publisher>Petrus Hispanus Project in collaboration with LombardPress</publisher>
+        <publisher>Petrus Hispanus Project in collaboration with LombardPress</publisher>
         <pubPlace/>
         <availability status="free">
           <p>Public Domain</p>
@@ -29,21 +29,21 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-        	<witness xml:id="T"></witness>
-        	<witness xml:id="P"></witness>
-        	<witness xml:id="N"></witness>
-        	<witness xml:id="R"></witness>
+          <witness xml:id="T"></witness>
+          <witness xml:id="P"></witness>
+          <witness xml:id="N"></witness>
+          <witness xml:id="R"></witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
-  	<revisionDesc status="public-draft">
+    <revisionDesc status="public-draft">
       <listChange>
         <change when="2015-11-05" who="#JW" status="draft" n="0.0.0-dev">
           <note type="validating-schema">lbp-0.0.1</note>
         </change>
       </listChange>
     </revisionDesc>
-  	
+    
   </teiHeader>
   <text xml:lang="la">
     <front>
@@ -51,201 +51,201 @@
         <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/workscited.xml" xpointer="worksCited"/>
         <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/Prosopography.xml" xpointer="prosopography"/>
       </div>
-    	<div xml:id="startOn">
-    		<cb ed="#T25rb"/>
-    	</div>
+      <div xml:id="startOn">
+        <cb ed="#T25rb"/>
+      </div>
     </front>
     <body>
       <div xml:id="phsl-intro">
-      	<head>Introductio</head>
-      	<div>
-      		<head>De significatione dictionum sincategorematicarum in genere</head>
-      		<p>Ab eo quod 
-      			<cit>
-      				<quote type="paraphrase">res est vel non est oratio vera 
-      				vel falsa dicitur</quote>
-      				<bibl>Aristotle, Categ. 5, 4b8-10: 12, 14b21-3</bibl>
-      			</cit>. 
-      			Sed a dictionibus sincategorematicis 
-      			(ut <mentioned>tantum</mentioned>, 
-      			<app>
-      				<lem><mentioned>solus</mentioned></lem>
-      				<rdg wit="#H">solum nichil</rdg>
-      			</app>, 
-      			<mentioned>nisi</mentioned>, <mentioned>preter</mentioned>, et 
-      			<app>
-      				<lem>consimilibus</lem>
-      				<rdg wit="#H">consimilia</rdg>
-      			</app>) 
-      			causatur veritas vel falsitas 
-      			in oratione. Ergo dictiones sincategorematica <cb ed="#T25va"/> significant res 
-      			aliquas. Sed non significant res subicibiles vel predicabiles. Ergo 
-      			significant res que sunt dispositiones subicibilium vel 
-      			<app>
-      				<lem>predicabilium</lem>
-      				<rdg wit="#R">predicatum</rdg>
-      			</app>, 
-      			quia nichil est in oratione vera vel falsa nisi subiectum et 
-      			predicatum et eorum dispositiones.</p>
-      		
-      		<p><mentioned>Res</mentioned> enim dupliciter dicitur. Quia quaedam est res subicibilis 
-      			vel predicabilis (ut <mentioned>homo</mentioned> 
-      			vel <mentioned>equus</mentioned>, 
-      			<mentioned>ambulate</mentioned> vel 
-      			<mentioned>currit</mentioned>) 
-      			et alio 
-      			modo est res que est dispositio subicibilis vel predicabilis. Sed 
-      			dispositio item, sive res que est dispositio, est duplex, quia est 
-      			quedam dispositio eius quod est subiectum vel eius quod est predicatum 
-      			(ut <mentioned>albus</mentioned>, 
-      			<mentioned>niger</mentioned>, 
-      			<mentioned>bene</mentioned>, 
-      			<mentioned>male</mentioned>, 
-      			et consimilia). Et talis dispositio 
-      			subicitur cum subiecto et predicatur cum predicato (ut <mentioned>homo  
-      			albus currit bene</mentioned>). 
-      			Subiectum enim et id quod est subiectum 
-      			differunt sicut pater et id quod est pater, quia sicut pater dicitur ad 
-      			filium et econverso, ita subiectum ad predicatum et econverso: sunt 
-      			enim <mentioned>ad aliquid <!-- this is in italics, not single quotes. WHY!?! --></mentioned>, sive relationes, 
-      			ut pater et filius. Alia est dispositio 
-      			subiecti inquantum est subiectum vel predicati inquantum est 
-      			predicatum (ut <mentioned>tantum</mentioned>, <mentioned>solus</mentioned>, <mentioned>necessario</mentioned>, 
-      			<mentioned>contingenter</mentioned> et sic 
-      			de aliis) et ille non subiciuntur neque predicantur, quia sunt ipsius 
-      			subiecti in comparatione ad predicatum et econverso. Et tales dispositiones 
-      			significantur per dictiones sincategorematicas; <cb ed="#N" n="42ra"/> 
-      			dicunt enim comparationes sive habitudines subiecti inquantum 
-      			subicibile et predicati inquantum predicabile. Et dicitur 
-      			sincategoreuma a <mentioned>sin</mentioned>, quod est <mentioned>con</mentioned>, et <mentioned>categoreuma</mentioned>, quod est 
-      			<mentioned>predicativum</mentioned> vel <mentioned>significativum</mentioned>, quasi: <mentioned>consignificativum</mentioned>.</p>
-      		<p>Habito quod dictiones sincategorematice significent dispositiones 
-      			subiecti inquantum subiectum et predicati inquantum predicatum, 
-      			<app>
-      				<lem>et sic</lem>
-      				<rdg wit="#R">sicut</rdg>
-      			</app> 
-      			cognita significatione earum in genere, 
-      			<app>
-      				<lem wit="#P #C #H">nunc</lem>
-      				<rdg wit="#N">tamen</rdg>
-      				<rdg wit="#R">tunc</rdg>
-      				<rdg wit="#T" type="corrReplace"> <!-- type should be correction-substitution when new schema is applied -->
-      					<corr> <!-- should be <subst> when new schema is applied -->
-      						<del>tunc</del>
-      						<add>nunc</add>
-      					</corr>
-      				</rdg>
-      			</app> 
-      			dicendum est 
-      			de significatione uniuscuiusque 
-      			<app>
-      				<lem>earum</lem>
-      				<rdg wit="#T #C" type="omit"/>
-      			</app> 
-      			in specie; et prius 
-      			de prioribus, quia, ut 
-      			<app>
-      				<lem>vult</lem>
-      				<rdg wit="#R">dicit</rdg>
-      			</app> 
-      			<name ref="#Aristotle">Aristotiles</name>: de prioribus prior est speculatio. 
-      			Cum ergo in 
-      			<app> <!-- says om. cett.; does this mean that only T and C containt the lemma and all the other omit it??? -->
-      				<lem>dictionibus</lem>
-      				<rdg wit="#T #C" type="omit"/>
-      			</app> 
-      			sincategorematicis per se intelligantur <mentioned>est</mentioned> 
-      			et <mentioned>non</mentioned> et non econverso, ideo <mentioned>est</mentioned> et 
-      			<app>
-      				<lem>
-      					<mentioned>non</mentioned>
-      				</lem>
-      				<rdg wit="#N" type="omit"/>
-      			</app> 
-      			sunt priora illis. Et ideo 
-      			de hiis prius est dicendum.</p>
-      	</div>
-      	<div>
-      		<head>De <mentioned>est</mentioned> et <mentioned>non</mentioned></head>
-      		<p>Sed 
-      			<app>
-      				<lem>ad</lem>
-      				<rdg wit="#T" type="addition">hoc</rdg>
-      			</app> 
-      			videndum quomodo <mentioned>est</mentioned> et <mentioned>non</mentioned> 
-      			<app>
-      				<lem>per se</lem>
-      				<rdg wit="#T #C" type="omit"/>
-      			</app> 
-      			intelliguntur 
-      			in istis, 
-      			<app>
-      				<lem>sciendum</lem>
-      				<rdg wit="#N" type="addition">autem</rdg>
-      			</app> 
-      			quod <mentioned>per se</mentioned> dicitur quatuor modis. Primo autem 
-      			modo per se insunt quaecumque cadunt in diffinitione[4] rei, seive 
-      			predicentur sive non de[5] diffinito. Quaedam enim[6] diffinientia predicantur 
-      			de diffinito (ut <mentioned>animal[7] rationale et mortale</mentioned> de homine). 
-      			Quaedam autem non predicantur de[8] diffinito, ut <mentioned>punctum</mentioned>[9] non 
-      			predicatur de linea et cadit in diffinitione eius; linea enim est 
-      			longintudo sine latitudine cuius extremitates sunt duo puncta. Neque 
-      			linea predicatur de triangulo et cadit in diffinitione eius; est enim 
-      			triangulus figura plana tribus rectis[10] lineis contenta. Secundo autem 
-      			modo[11] per se insunt quecumque recipiunt sua subiecta in suis diffinitionibus.</p>
-      		<p>Et hoc est quando propria passio sive per[12] se accidens 
-      			predicatur de sua[13] diffinitione, ut <mentioned>omne[14] privatum lumine a terre 
-      				obiectu[15] deficit sive eclipsatur</mentioned>; hic enim <mentioned>deficere <!-- this is in Italics why? --></mentioned> sive <mentioned>eclipsari <!-- this is in italics; why?--></mentioned> est 
-      			per[16] se accidens sive propria passio et predicatur de sua diffinitione. 
-      			Similiter si propria passio predicetur de parte sue diffinitionis, ut 
-      			<mentioned>numerus est par[17] vel impar</mentioned>, <mentioned>linea est recta[18] vel curva</mentioned>, quia <mentioned>par</mentioned> 
-      			diffinitur per numerum et[19] <mentioned>rectum</mentioned> per lineam. Est enim par: 
-      			numerus divisibilis[20] in duo equalia; rectum[21] vero est[22]; linea cuius 
-      			medium non exit ab extremis.
-      			<cb ed="#T" n="25vb"/>
-      			Tertius autem 
-      			<cb ed="#N" n="42rb"/> 
-      			modus 
-      			est quando propria passio predicatur de proprio subiecto, ut rectum 
-      			vel curvum de linea et par[23] vel impar de numero et habere tres 
-      			<!-- 42 --> 
-      			angulos equales duobus rectis de triangulo. Subiectum enim et 
-      			propria passio dupliciter comparantur, quia[24] uno modo secundum 
-      			quod subiectum est causa passionis et diffiniens passionem, et sic 
-      			pertinet ad secundum modum; alio autem modo sumitur subiectum 
-      			inquantum subiectum et propria passio inquantum est accidens eius; 
-      			et sic pertinet ad tertium modum. Quartus autem modus est quando 
-      			effectus qui est propria[25] passio, concluditur de subiecto per suam 
-      			causam. Et iste quartus modus est semper in habitudine premissarum[26] 
-      			ad conclusionem demonstrativam, ut
-      			<!-- another good example of complicated data type;
-      				three separate lines in singlue quotes, italics, isolated by white space, indented left, and smaller font. WHY! -->
-      			<mentioned>omne privatum lumine a terre obiectu deficit 
-      				sed luna est privatum lumine a terre obiect 
-      				ergo luna deficit</mentioned>.
-      		</p>
-      		<p>Sciendum ergo quod <mentioned>est</mentioned> et <mentioned>non</mentioned> intelliguntur in dictionibus[1]
-      			sincategorematicis secundum primum modum eisu quod est <mentioned>per 
-      			se</mentioned>, quia intelliguntur in diffinitionibus sive[2] descriptionibus earum. 
-      			<mentioned>Solus</mentioned>[3] enim sive <mentioned>tantum</mentioned> est <mentioned>non cum alio</mentioned> et <mentioned>desinit</mentioned>; <mentioned>quod est et 
-      			de cetero non erit</mentioned> vel <mentioned>nunc[4] ultimo est</mentioned>, et sic de aliis. Et ideo <mentioned>est</mentioned>[5] et 
-      			<mentioned>non</mentioned> sunt priora aliis[6] dictionibus sincategorematicis. Et[7] <mentioned>est</mentioned> prius 
-      			est[8] quam <mentioned>non</mentioned>, quia affirmatio prior[9] est negatione sicut habitus 
-      			privatione. Et quia <supplied>quia</supplied> negatio non habet esse[10] nisi per affirmationem; 
-      			unde affirmatio dat ei esse; ergo prior et negatione;[11] intelligitur[12] 
-      			enim affirmatio in negatione et non econverso. Et etiam quia 
-      			negatio non cognoscitur nisi per affirmationem. Ergo prius dicendum 
-      			est de affirmatione quam de negatione. Et sic prius dicendum 
-      			est de <mentioned>est</mentioned> quam de <mentioned>non</mentioned>.</p>
-      		<p>Nota ergo[1] quod hoc 
-      			<cb ed="#P" n="51va"/> verbum <mentioned>est</mentioned>[2] consignificat compositionem,[3] 
-      			et etiam alia verba. Sed hoc verbum <mentioned>est</mentioned> per prius 
-      			consignificat[4] eam, cum natura prius sit aliis verbis et in eis intelligatur. 
-      			Sed compositio non solum repperitur in verbo sed etiam[5] in 
-      			rebus aliis. Et ideo prius est dicendum de compositione in communi 
-      			et postea de specialibus compositionibus.</p>
-      	</div>
+        <head>Introductio</head>
+        <div>
+          <head>De significatione dictionum sincategorematicarum in genere</head>
+          <p>Ab eo quod 
+            <cit>
+              <quote type="paraphrase">res est vel non est oratio vera 
+              vel falsa dicitur</quote>
+              <bibl>Aristotle, Categ. 5, 4b8-10: 12, 14b21-3</bibl>
+            </cit>. 
+            Sed a dictionibus sincategorematicis 
+            (ut <mentioned>tantum</mentioned>, 
+            <app>
+              <lem><mentioned>solus</mentioned></lem>
+              <rdg wit="#H">solum nichil</rdg>
+            </app>, 
+            <mentioned>nisi</mentioned>, <mentioned>preter</mentioned>, et 
+            <app>
+              <lem>consimilibus</lem>
+              <rdg wit="#H">consimilia</rdg>
+            </app>) 
+            causatur veritas vel falsitas 
+            in oratione. Ergo dictiones sincategorematica <cb ed="#T25va"/> significant res 
+            aliquas. Sed non significant res subicibiles vel predicabiles. Ergo 
+            significant res que sunt dispositiones subicibilium vel 
+            <app>
+              <lem>predicabilium</lem>
+              <rdg wit="#R">predicatum</rdg>
+            </app>, 
+            quia nichil est in oratione vera vel falsa nisi subiectum et 
+            predicatum et eorum dispositiones.</p>
+          
+          <p><mentioned>Res</mentioned> enim dupliciter dicitur. Quia quaedam est res subicibilis 
+            vel predicabilis (ut <mentioned>homo</mentioned> 
+            vel <mentioned>equus</mentioned>, 
+            <mentioned>ambulate</mentioned> vel 
+            <mentioned>currit</mentioned>) 
+            et alio 
+            modo est res que est dispositio subicibilis vel predicabilis. Sed 
+            dispositio item, sive res que est dispositio, est duplex, quia est 
+            quedam dispositio eius quod est subiectum vel eius quod est predicatum 
+            (ut <mentioned>albus</mentioned>, 
+            <mentioned>niger</mentioned>, 
+            <mentioned>bene</mentioned>, 
+            <mentioned>male</mentioned>, 
+            et consimilia). Et talis dispositio 
+            subicitur cum subiecto et predicatur cum predicato (ut <mentioned>homo  
+            albus currit bene</mentioned>). 
+            Subiectum enim et id quod est subiectum 
+            differunt sicut pater et id quod est pater, quia sicut pater dicitur ad 
+            filium et econverso, ita subiectum ad predicatum et econverso: sunt 
+            enim <mentioned>ad aliquid <!-- this is in italics, not single quotes. WHY!?! --></mentioned>, sive relationes, 
+            ut pater et filius. Alia est dispositio 
+            subiecti inquantum est subiectum vel predicati inquantum est 
+            predicatum (ut <mentioned>tantum</mentioned>, <mentioned>solus</mentioned>, <mentioned>necessario</mentioned>, 
+            <mentioned>contingenter</mentioned> et sic 
+            de aliis) et ille non subiciuntur neque predicantur, quia sunt ipsius 
+            subiecti in comparatione ad predicatum et econverso. Et tales dispositiones 
+            significantur per dictiones sincategorematicas; <cb ed="#N" n="42ra"/> 
+            dicunt enim comparationes sive habitudines subiecti inquantum 
+            subicibile et predicati inquantum predicabile. Et dicitur 
+            sincategoreuma a <mentioned>sin</mentioned>, quod est <mentioned>con</mentioned>, et <mentioned>categoreuma</mentioned>, quod est 
+            <mentioned>predicativum</mentioned> vel <mentioned>significativum</mentioned>, quasi: <mentioned>consignificativum</mentioned>.</p>
+          <p>Habito quod dictiones sincategorematice significent dispositiones 
+            subiecti inquantum subiectum et predicati inquantum predicatum, 
+            <app>
+              <lem>et sic</lem>
+              <rdg wit="#R">sicut</rdg>
+            </app> 
+            cognita significatione earum in genere, 
+            <app>
+              <lem wit="#P #C #H">nunc</lem>
+              <rdg wit="#N">tamen</rdg>
+              <rdg wit="#R">tunc</rdg>
+              <rdg wit="#T" type="corrReplace"> <!-- type should be correction-substitution when new schema is applied -->
+                <corr> <!-- should be <subst> when new schema is applied -->
+                  <del>tunc</del>
+                  <add>nunc</add>
+                </corr>
+              </rdg>
+            </app> 
+            dicendum est 
+            de significatione uniuscuiusque 
+            <app>
+              <lem>earum</lem>
+              <rdg wit="#T #C" type="omit"/>
+            </app> 
+            in specie; et prius 
+            de prioribus, quia, ut 
+            <app>
+              <lem>vult</lem>
+              <rdg wit="#R">dicit</rdg>
+            </app> 
+            <name ref="#Aristotle">Aristotiles</name>: de prioribus prior est speculatio. 
+            Cum ergo in 
+            <app> <!-- says om. cett.; does this mean that only T and C containt the lemma and all the other omit it??? -->
+              <lem>dictionibus</lem>
+              <rdg wit="#T #C" type="omit"/>
+            </app> 
+            sincategorematicis per se intelligantur <mentioned>est</mentioned> 
+            et <mentioned>non</mentioned> et non econverso, ideo <mentioned>est</mentioned> et 
+            <app>
+              <lem>
+                <mentioned>non</mentioned>
+              </lem>
+              <rdg wit="#N" type="omit"/>
+            </app> 
+            sunt priora illis. Et ideo 
+            de hiis prius est dicendum.</p>
+        </div>
+        <div>
+          <head>De <mentioned>est</mentioned> et <mentioned>non</mentioned></head>
+          <p>Sed 
+            <app>
+              <lem>ad</lem>
+              <rdg wit="#T" type="addition">hoc</rdg>
+            </app> 
+            videndum quomodo <mentioned>est</mentioned> et <mentioned>non</mentioned> 
+            <app>
+              <lem>per se</lem>
+              <rdg wit="#T #C" type="omit"/>
+            </app> 
+            intelliguntur 
+            in istis, 
+            <app>
+              <lem>sciendum</lem>
+              <rdg wit="#N" type="addition">autem</rdg>
+            </app> 
+            quod <mentioned>per se</mentioned> dicitur quatuor modis. Primo autem 
+            modo per se insunt quaecumque cadunt in diffinitione[4] rei, seive 
+            predicentur sive non de[5] diffinito. Quaedam enim[6] diffinientia predicantur 
+            de diffinito (ut <mentioned>animal[7] rationale et mortale</mentioned> de homine). 
+            Quaedam autem non predicantur de[8] diffinito, ut <mentioned>punctum</mentioned>[9] non 
+            predicatur de linea et cadit in diffinitione eius; linea enim est 
+            longintudo sine latitudine cuius extremitates sunt duo puncta. Neque 
+            linea predicatur de triangulo et cadit in diffinitione eius; est enim 
+            triangulus figura plana tribus rectis[10] lineis contenta. Secundo autem 
+            modo[11] per se insunt quecumque recipiunt sua subiecta in suis diffinitionibus.</p>
+          <p>Et hoc est quando propria passio sive per[12] se accidens 
+            predicatur de sua[13] diffinitione, ut <mentioned>omne[14] privatum lumine a terre 
+              obiectu[15] deficit sive eclipsatur</mentioned>; hic enim <mentioned>deficere <!-- this is in Italics why? --></mentioned> sive <mentioned>eclipsari <!-- this is in italics; why?--></mentioned> est 
+            per[16] se accidens sive propria passio et predicatur de sua diffinitione. 
+            Similiter si propria passio predicetur de parte sue diffinitionis, ut 
+            <mentioned>numerus est par[17] vel impar</mentioned>, <mentioned>linea est recta[18] vel curva</mentioned>, quia <mentioned>par</mentioned> 
+            diffinitur per numerum et[19] <mentioned>rectum</mentioned> per lineam. Est enim par: 
+            numerus divisibilis[20] in duo equalia; rectum[21] vero est[22]; linea cuius 
+            medium non exit ab extremis.
+            <cb ed="#T" n="25vb"/>
+            Tertius autem 
+            <cb ed="#N" n="42rb"/> 
+            modus 
+            est quando propria passio predicatur de proprio subiecto, ut rectum 
+            vel curvum de linea et par[23] vel impar de numero et habere tres 
+            <!-- 42 --> 
+            angulos equales duobus rectis de triangulo. Subiectum enim et 
+            propria passio dupliciter comparantur, quia[24] uno modo secundum 
+            quod subiectum est causa passionis et diffiniens passionem, et sic 
+            pertinet ad secundum modum; alio autem modo sumitur subiectum 
+            inquantum subiectum et propria passio inquantum est accidens eius; 
+            et sic pertinet ad tertium modum. Quartus autem modus est quando 
+            effectus qui est propria[25] passio, concluditur de subiecto per suam 
+            causam. Et iste quartus modus est semper in habitudine premissarum[26] 
+            ad conclusionem demonstrativam, ut
+            <!-- another good example of complicated data type;
+              three separate lines in singlue quotes, italics, isolated by white space, indented left, and smaller font. WHY! -->
+            <mentioned>omne privatum lumine a terre obiectu deficit 
+              sed luna est privatum lumine a terre obiect 
+              ergo luna deficit</mentioned>.
+          </p>
+          <p>Sciendum ergo quod <mentioned>est</mentioned> et <mentioned>non</mentioned> intelliguntur in dictionibus[1]
+            sincategorematicis secundum primum modum eisu quod est <mentioned>per 
+            se</mentioned>, quia intelliguntur in diffinitionibus sive[2] descriptionibus earum. 
+            <mentioned>Solus</mentioned>[3] enim sive <mentioned>tantum</mentioned> est <mentioned>non cum alio</mentioned> et <mentioned>desinit</mentioned>; <mentioned>quod est et 
+            de cetero non erit</mentioned> vel <mentioned>nunc[4] ultimo est</mentioned>, et sic de aliis. Et ideo <mentioned>est</mentioned>[5] et 
+            <mentioned>non</mentioned> sunt priora aliis[6] dictionibus sincategorematicis. Et[7] <mentioned>est</mentioned> prius 
+            est[8] quam <mentioned>non</mentioned>, quia affirmatio prior[9] est negatione sicut habitus 
+            privatione. Et quia <supplied>quia</supplied> negatio non habet esse[10] nisi per affirmationem; 
+            unde affirmatio dat ei esse; ergo prior et negatione;[11] intelligitur[12] 
+            enim affirmatio in negatione et non econverso. Et etiam quia 
+            negatio non cognoscitur nisi per affirmationem. Ergo prius dicendum 
+            est de affirmatione quam de negatione. Et sic prius dicendum 
+            est de <mentioned>est</mentioned> quam de <mentioned>non</mentioned>.</p>
+          <p>Nota ergo[1] quod hoc 
+            <cb ed="#P" n="51va"/> verbum <mentioned>est</mentioned>[2] consignificat compositionem,[3] 
+            et etiam alia verba. Sed hoc verbum <mentioned>est</mentioned> per prius 
+            consignificat[4] eam, cum natura prius sit aliis verbis et in eis intelligatur. 
+            Sed compositio non solum repperitur in verbo sed etiam[5] in 
+            rebus aliis. Et ideo prius est dicendum de compositione in communi 
+            et postea de specialibus compositionibus.</p>
+        </div>
       </div>
     </body>
   </text>
