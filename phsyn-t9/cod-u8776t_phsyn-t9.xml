@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus Secundus [Tarragona transcription]</title>
+      	<author>Petrus Hispanus</author>
+        <editor>Joana Gomes</editor>
+        <respStmt>
+          <name>Jeffrey C. Witt</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+        	<title>Tractatus Nonus [Tarragona transcription]</title>
+          <date when="2019-06-05">June 6, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority><ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref></authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+    		<pb ed="#T" n="27-v"/>
+        <pb ed="#T" n="b"/>
+    	</div>
+    </front>
+    <body>
+      <div xml:id="phsyn-t9">
+        <head>TRACTATUS NONUS</head>
+  <head>DE ‘QUANTO’, ‘QUAM’ ET ‘QUICQUID’</head>
+  <div><head>A.BE HAC DICI1ONE QUANTO’</head>
+  <div><head>Introductio</head>
+  <p>Obmissis dubitationibus que’ incidunt circa hanc dictionem
+  ‘quanto’ videnda est eius multiplicitas. Scienduni ergo 2quod hec
+  dictio ‘quanto’ aliquando tenetur interrogative, Ut ‘quanto 3profecisti
+  hodie?’, cui 4 respondetur ‘niultum’ vel ‘parutri’ vel cum 5notatione
+  ‘istarurn 6rerurn’. Aliquando tenetur re1ative, Ut ‘tanto 8profeci 9
+  hodie in hac lectione quanto [P88th] tu in eadem.’ 10.Aliquando
+  tenetur infinite, at ‘qua.nto 11voluens, tanto proficiarn’ 12 Et nullo 13
+  istorum triuin 14modoruin intendim’us hic de hac dictione ‘quanto’.
+  Alio autem modo hec dictio ‘quanto’ dicit causain, ut ‘quanto calor 15
+  intensior est, tanto fortius calefacit’. Nota quod hec dictio ‘quanto’ all
+  quando’ 6dicit causam efficientein, Ut in predicto exemplo; ca1or 1’
+  enim causa est efficiens calefaciendi 18,Ut calor intensior intensius’ 9
+  [T49rb1 calefacit. Aliquando dicit causam rnaterialein, Ut ‘quanto
+  corpus citius fit organicum, tanto citius recipit aniinarn’. Aliquando
+  dicit causarn formalern, at ‘quanto anirna citius 2Gest infusa, tanto
+  corpus organicurn citius est perfectum’: anima eniin intellectiva
+  infusione fit; creando enim infunditur 21 et infundendo creatur.
+  Aliquando dicit causam finalem, Ut ‘quanto premium 22niaius, tanto
+  labor 23facilius toleratur’.</p>
+</div>
+  <div>
+    <head>Sophismota</head>
+  <p>Secundum predicta queritur de hoc sophisinate QUANTO’
+  MAGIS ADDISCIS 2,TAN TO MINUS SCIS. Posito quod tu addiscas
+  duo enuntiabilia (Ut ‘honiinemn esse animal’ Ct ‘aliquid esse’) et scias
+  unumn (Ut ‘hoininemn esse gramnaticum’). Inde sic. Quanto id quod tu addiscis
+  est maius eo quod tu scis, tanto id quod tu scis est minus eo
+  quod add.iscis. Ergo quanto inagis addiscis, tanto minus scis. Contra.
+  Quanto magis addiscis, tanto inagis augmentatur 3scientia in te (per
+  locum a causa efficiente). Sed quanto magis auglnentatur 3scientia
+  in te, tanto magis scis (iterum 4a causa efficiente). Ergo a primo:
+  quanto rnagis addiscis, tanto magis scis. Non ergo minus.</p>
+  <p>Solutio. Prima simpliciter est falsa, quia 1 hec dictio ‘quanto’
+  significat in prima quod 2rnagis addiscere sit 3 causa efliciens scien
+  di minus. Quod est impossibile, cuni sit causa proxima efficiens sui
+  oppositi, scilicet sciendi niagis, quia eadein causa proxima non
+  potest esse oppositorurn (quainvis reniota possit 4;at est in secundo
+  Phisico,um: sicut 5nauta causa est efTiciens salutis navis et submersio
+  nis 6 eius, sed 7 nauta per sui presentiam est causa proxima salutis
+  navis et per sui absentiam est causa rernota 8subrnersionis 9eius’°). Et
+  irnprobatio bene tenet. Sed probatio peccat secundurn figurarn dictio
+  nis procedendo ab una specie huius predicanienti quod est Relatio,
+  ad alteram specieni eiusdem, quia ‘inaius” 2et ‘minus’ dicunt rela
+  tiones causatas a quantitatibus 15,‘tnagis” 4et ‘minus’ dicu.nt relatio
+  nes causatas a’ 5 qualitatibus. Unde sicut fit figura dictionis 16mutan
+  do’ 7modum quantitatis’ 8in moduin qualita.tis’ 9(ut quantum 2°in
+  quale vel econverso), sijuiliter fit fIgura dictionis procedendo a
+  relatione causata a quantitate ad relationem causatarn a qualitate vel
+  econverso.</p>
+  <p>[P88va1 kern. Queritur de hoc sophismate QUANTO ALIQUID
+  MAIUS EST, TANTO MINUS VIDETUR. Probatio. Quanto aliquid
+  maius est, tanto a remnotiori videtur. Sed 1quanto a reinotiori videtur,
+  tanto minus videtur. Ergo a primno: quanto aliquid maius est, tanto
+  minus videtur. Contra 2.Ibi assignatur 3causa predican quod 4non est
+  causa. Ergo oratio 5est impossibilis.</p>
+  <p>Solutio. Prima est siinpliciter falsa, quia csse trnaius non est
+  causa eius quod est maius 2videre [iV82va] neque etiain est causa cius
+  quad est magis videri 3.Quia ad ipsum videre et ad ips’um videri
+  exigitur visus 4 tainquam virtus et exigitur co1oratun tamquam
+  obiectum et exigitur lucidum 6a parte obiecti sive illuminatio obiecti;
+  et etiaxri exigitur medium, quod est aer 7 vel aqua (videmus enim
+  mediante aere veI 8aqua). Et cum hiis etiam exigitur distantia debita.
+  Quia Si minima 9fuerit distantia, non videtur visibile, ut si ponatur
+  visibile supra visum sive supra oculum 10;aliquando” etiam si
+  distantia fuerit maxima, non potent res videri; et ideo necessario
+  exigitur debita distantia. Et hec quinque insimul congregata 12sunt
+  causa efficiens eius quod est videre Ct videri, quia per ‘virtutem
+  visivarn’ supponimus organum sive instrumenturn videndi. Unde
+  mains 15non est causa eius quod est videre nec eius quod est videri.
+  Ad probationern autem solvendum est per intereniptionern, quia hec
+  est falsa ‘quanto aliquid niaius est, tanto a remotiori videtur’, quia ut
+  est in libro De visu, unurnquodque visoruin habet spatium quo facto
+  non amplius videbitur; idest unuinquodqne quod est visibile est
+  elongabile in tanta distantia ultra debitani 14in qua. distantia si pona
+  tur15,non amplius videtur. Unde hec est falsa ‘
+  quanto aliquid maiiis est, tanto a remotiori videtur’.</p>
+</div>
+</div>
+  <div><head>B. De HAC DICTIONE ‘Q,UAM’</head>
+  <div>
+    <head>Introductio</head>
+  <p>Plures autem’ dubitationes incidunt circa hanc dictionern ‘quarn’.
+  Prima est de distinctione 2ipsius; secunda 3qualiter ilnportet 4coin
+  parationem; tertia 5que sit comparatio ipsius ad nomen 6compara.tivi
+  gradus; quarta 7que sit comparatio ems ad noniinativum sequentem
+  (Ut ‘Sortes est fortior 8quam Plato’); quintavero propter quid sequatur
+  noninativus, quando 9hec dictio ‘qilarn’ coniungitur cornparativo 10;
+  sexta questio 1est propter quid comparativus construatur aliquando’ 2
+  cum ablativo, aliquando’ 3cum nominativo interposita ‘quam” 4.</p>
+  <div>
+    <head>De distinctione htsius dictumis ‘quam’</head>
+  <p>[N82rb] Circa primurn ergo nota quod hec dictio ‘quam’
+  aliquarido est adverbium similitudinis, ut ‘iste [edt 1hoc tarn quam
+  prudens’ et ‘tarn iste quarn ille [P88t’b] currit’. Aliquarido est adver
+  bium cornpaxandi, Ut ‘Sortes est fortior quam Plato’. Aliquando est
+  adverbium admirandi, ut ‘quarn felix!’, ‘quarn preclara!’ 2et ‘quam
+  bonus Deus 3Israel!’; aliquando indignandi, Ut ‘quarn turpe factuin!’
+  et ‘quam abhorninabile scelus!’. Preter hoc etiairi est coniunctio
+  electiva. Que 4sic diflinitur a Prisciano “coniunctio electiva est quan
+  do 5 diversis propositis aliquid 6ex eis nos eligere ostendirnus”, Ut
+  ‘dives 7esse volo quam pauper’: divite et paupere positis 8eligit se esse 9
+  divitem relinquendo’° aherum. Et hic siiniliter t1:‘bonuni. est confi
+  dere in Domino quam confidere in hoinine’; h1i2c hec dictio ‘quani’
+  est coniunctio electiva. Et sic patet rnultiplicitas huius dictionis
+  ‘quani’.</p>
+</div>
+<div>
+    <head>Qua1iter impoiet comparatümen</head>
+  <p>Circa secundum nota quod ad comparationeni quinque exigun
+  tur. Unum est quod cornparatur; aliud est in quo compaxatur sive in
+  quo est comparatio; tertium autcm est excessus in eo in quo est
+  comparatio; quarturn vero est illud cui comparatur; quinturn vero est
+  respectus 1medius inter coiriparatum 2et ilud cui 5corn paratur. Verbi
+  gratia cuni dico ‘Sortes est fortior quarn Plato’, Sortes est illud 4quod
+  coniparatur et ‘fortior’ 5dicit fortitudinein in qua est comparatio et
+  etiam excessus ipsius fortitudinis, quia Sortes habet fortitudinem et
+  etiam habet earn in excessu respectu Platonis; Plato vero est illud cui
+  coniparatur; et 6 hoc adverbiurn ‘quam’ dicit respecturn 7medium
+  inter ipsuari coniparaturn 8et illud cui comparatur. Unde 9hoc adver
+  bium ‘quam’ nichil habet 10 de compaxatione nisi predictum respec
+  turn 11 Nota etiain quod aliquando ponitur sextum in coinparatione,
+  quod est inensura ipSius’ 2excessus t3.Et tunc coniparativus gradus
+  construitur cuin duplici ablativo 14,ut ‘Sortes est major Platone uno
+  pede’, vel construitur curn uno ablativo et cum nolninativo inter-posita
+  ‘quain’, Ut ‘Sortes est major quam Plato uno pede’. Et s1i5c
+  (1sic6ut diximus) Sortes est excedens sive quod coinparatur e1’t illud
+  comparativurn ‘znaior’ dicit [N82va1 illud in quo excedit sive illud in
+  quo est comparatio, et etiam dicit excessum ipsius i1,naior8itatis et
+  ‘Plato’ dicit quod exceditur sive cui comparatur; et hoc adverbium
+  ‘9quam” dicit r2°espectum medium (Ut diximus) inter e2xce1dens et
+  illud quod exceclitur sive illud cui coniparatur; et iste ablativus ‘uno
+  pede’ dicit quantus est excessus i2naior2itatis in Sorte respectu Plato
+  nis Ct ita dicit niensurarn ipsius excessus. Unde quotienscumque
+  volumus significare mensurarn [P89ra) excessus significati per
+  c2,onxpar8ativum predicta sex exiguntur ad comparationern. Quo
+  tienscumque vera volamus significare coniparationern s2in4e men
+  sura excessus, sufliciunt predicta quinque. Patet ergo quod hoc adver
+  bium ‘quam’ irnportat comparationern in hoc quod dicit respectuni
+  medium inter e2xced5ens cornparaturn et i2llu6d quod exceditur 2a7
+  comparato, ut diximus.</p>
+</div>
+  <div>
+    <head>Que sit comparati ipsius ad iwmen cmparativi gi-adus</head>
+  <p>Circa tertiuni nota quad hoc adverbium ‘quaxn’ habet rationein
+  termini cum n1orninativo sequente in respectu ad c,2oinparativum
+  quia omne cornparativuin dicit eccessuin respectu a3licu.ius temlini
+  sive respectu eius quod exxeditur; et nonlinativus non potest esse
+  terminus illius excessus nisi mediante hoc adverbio ‘quam’.
+  Qje sit coinparatic eius ad iwminativum sequentein</p>
+  <p>Circa quarturn vero nota quad hoc a.dverbiuni ‘quam’ est ratio,
+  per quam rationem nominativus termina.t respectu coinparativi,
+  quia norninativus secunduni se non p2otest terininare respectum
+  comparativi; unde habet r4ationern termini per hoc adverbiurn
+  ‘quam’. Unde hoc aclverbiuni ‘quam’ est ratio norninativi inquan
+  turn noniinativus est terminus comparativi. Et sic comparatur ad
+  ipsum nominativunl U5t ratio eius inquanturn terininat respectuxn
+  comparativi. Pivpler quid sequalur nominativus</p>
+  <p>Circa quintuin nota quod substantia suruitur Ut ageas in
+  nominativo, in obliquis autem sumitur Ut patiens, quia noniinathrus
+  dick niodum agentis, obliqui vero dicunt rnodum patientis. Et quia
+  hec dictio ‘quam’ facit illud quod exceditur retorqucr1 ad aliuin
+  actuin et actus semper est ab 1 aliquo agente sive 2ab aliquo quod habet
+  modum agentis, niodus auteni agentis est in noniinativo (Ut [I*182vb]
+  diximus), — idec quando hoc adverbiuin ‘quani’ adiungitur compa
+  rativo, oportet quod sequatur norninativus qui comparatur 3ad alium 4
+  actum, Ut ‘Sortes est fortior quarn Plato’ idest ‘quam Plato sit’.
+  Prapter quid comparativus diversimode construatur</p>
+  <p>Circa sexturn nota quod illud quod exceditur per cornparativum,
+  duobus modis potest significari. Quia uno niodo inquantuin exce
+  ditur 1soluin, alio auteni modo inquantuni exceditur et etiarn ordi
+  natur 2ad alium actuin. Si autern suniatur solum inquanturn est res
+  excessa ab ipso 3comparato sive per ipsuni comparativurn 4,sic stat in
+  ratione cius a quo rernovetur excessus qui significatur per compara
+  tivum.. Excessus enim est in ipso cotnparato 5respectu rei excesse et
+  non est in re 6 excessa sed aufertur ab ea. Et sic res excessa stat’ ut 8 in
+  ratione eius a quo 9aliquid’° aufertur. Sect cornparatio ista que est
+  termini 11a quo, est solum reperta in ablativo. Et ideo quando’ 2signi
+  ficatur res excessa inquantuiri’ 3est excessa soluni, tunc oportet quod
+  pan atur [PS9rb] in ablathro. Et ideo comparativum isto modo semper
+  con struitur cuni ablativo. Quando autem res excessa. significatur
+  inquant’um est excessa Ct etiam 14 inqua.nturn comparatur ad aliuin 15
+  actum: quia comparatio ad alium 16actum advenit 17supra priniani’ 8
+  cornparatonem (scilicet inqitanturn est excessa), ideo cornparatio ad
+  alium actuin est quasi completiva prime cornparationis, et ideo
+  ordinat rein excessarn ad. aliuni actum. Et quia actus, ut cliXiInuS, est
+  semper’ 9ab aliquo quod stat20 sub rnodo agentis, ideo sequitur nominativus.
+  Et hoc modo comparativus seinper construitur cum
+  nominativo interposita ‘quam’. Et2’ sic22 patet propter quid23 coni
+  parativus24aliquando construitur turn ablativo, aliquando vero cum
+  nominativo interposita ‘quarn’. Et patet etiain quando comparativus25
+  debet construi cam uno et quando cuin alio. Patet etiam quando26
+  cornparativus debet construi curn duplici ablativo et "quando" cum
+  uric27ablativo et cum noininativo interposita ‘quam’.</p>
+</div>
+  <div>
+    <head>Sophismata</head>
+  <p>Secunduin predicta queritur de hoc sophisinate IMPOSSIBILE
+  EST TE SCIRE PLURA Q,UAM SCIS. Probatio. l1ec est iinpossibilis
+  ‘tu scis plura quam. scis’. Ergo dictum eius est impossibile. Ergo bet
+  est vera ‘inipossibile est [N83ra] te scire plura quam scis’. Contra. Tu
+  potes addiscere plura quarn scis. Ergo tu potes scire plura quam scis.
+  Ergo prima2falsa.</p>
+  <p>Solutio. Prima est duplex. Quia sicut ‘possibile’ dick relationem
+  (quia omriis potentia’ est comm que sunt ad aliquid secundum
+  Aristotilem), similiter ‘impossibile’ dicit relationem, quia2impoten
+  tia privat potentiam ab aliquo et respectu alicuius3,sicut potentiam
+  dicit4‘possibile’ in aliquo et respectu alicuii.as, quia5respectu actus
+  essentialis6,Ut7 respectu forine coinpietive, vel respectu actus acci
+  dentalis, Ut respectu comparationis egredientis8ab ipsa forina, quia
+  agere est forrne. Dico ergo quod prima est duplex, eoquod hec dictic
+  ‘iznpossibile’ potest ponere rem9suam in re dicti accusaiivi10(et sic11
+  prima12est falsa et est sensus ‘tu non potes scire plura quain scis’) vel
+  potest’3ponere rem suam supra totum dictum; Ct sic prima est vera14
+  et est sensus ‘te scire plura quarn scis est impossibile’, quia in nullo
+  tempore scies15 plura quarn scis16in codem.</p>
+  <p>Item. Queritur de hoc sophismate IMPOSSIBILE EST ALIUD
+  QUAM ASINUN’ GENUISSE TE. Probatio. Hominein esse asinum
+  est impossibile. Et2 est aliud quam asinumn genuisse te.
+  Ergo impossibile est aliud quasii asinum genuisse te. Contra. Impossibile
+  est aliud quaxn asinum genuisse te. Ergo asinus genuit te.
+  16 Solutio. Prima duplex, eoquod hoc relativ’um 1thversitatis ‘au
+  ud’ 2potest referri ad bunc terininuin ‘asinum’; et sic hoc relativum
+  ‘aliud’ est accusativi casus. Et est sensus [P9va1 ‘impossibile est
+  "aliud quam asinum genuisse te’ idest: ‘in’ipossibile est" rein 3all
+  quam aliam ab asino genuisse te’: et sic est faisa. Vel hoc relativurn
+  ‘aliud’ potest referre toturn dictum (scilicet ‘asinuin genuisse te’) et
+  tunc hoc relativum ‘aliud’ est noiminativi 4casus. Et est sensus
+  ‘iinpossibile est aliud quam asinumn genuisse te’ idest 5‘aliud est
+  impossibile quam hoc impossibile quod est “asinum genuisse te”, ut
+  ‘hoininerri esse lapidem’ est impossible aliud ab illo iinpossibili,
+  scilicet ‘asinurn genuisse te’. Fit sic est vera.</p>
+  </div>
+</div>
+  <div>
+  <head>C. DEHAC DICTIONE ‘QTJICQUID’</head>
+  <div>
+    <head>Fntroductw</head>
+  <p>Quia hec dictio ‘quicquid’ uno inodo iluportat distributionemn,
+  ideo 1quoad hoc de ipsa debet deterrnina.ri 2in Di.ctributionibus. d
+  quoad 3hoc quod importat consecutionern 4curn disiunctione 5,debet
+  determinari de 6ipsa in [N83rb] Sincategoreumatibus. Circa hanc ergo
+  dictionein ‘quicquid’ primno queritur quid significet; secundo utruni
+  sit dictio equivoca vel non; tertio autein utrun-a importet relationem
+  vel non.</p>
+  <div>
+    <head>Quid signJIcet hec dictio ‘qzticquid’</head>
+    <p>Circa prirnumn’ nota quod quatuor sunt de intellectu huius
+  dictionis ‘quicquid’ sive de sua significatione. Unum est distributio.
+  Alterum vero est Inateria sue distributionis, quia sicut hec dictio
+  ‘quilibet’ 2habet in se distributionern et rem distributam per 3 suam
+  distributionem, similiter et ‘quicquid’ 4.Tertium autem est 5 conse
+  cutio. Quartum vero disiunctio, quia cuin dicitur ‘quicquid currit,
+  rnovetur’, sensus est ‘sive 6hoc currit, rnovetur, sive illud” 7.Et sic est
+  ibi consecutio 8et disiunctio 9.Et ista quatuor sunt de significatione huius
+  dictionis ‘quicquid’. Utrinn sit dictio equivoca vel non
+  19 C1irca secunduiri nota quod, quainvis diversa i2ntelligantur in
+  s3ignificatione hums dictionis ‘quicquid’, non tamen est dictio equi
+  voca, quia significat illa plura per moduni unius, ecquod distributio
+  significatur in suo subiecto sive in re distributa inediante conse
+  c.4utione Et propter hoc s5emper redditur ei unum verbum quod est
+  antecedens et aliud quod est consequens, Ut ‘quicquid currit,
+  rnovetur’.</p>
+</div>
+  <div>
+    <head>Ufrum importet relationem vet non</head>
+  <p>Circa tertiuni obicitur q1:uia Senstis istius ‘quicquid currit,
+  rnovetur’ est iste ‘oinne quod currit, nioretur’. Sed hic est relatio.
+  Ergo in prima est relatio. Ergo hec dictio ‘quicquid’ iinportat
+  relationeni. E2t dicendurn quad hec dictio ‘quicquid’ non importat
+  relationein nec est dictio relati’va, sed est nomen distributivum et
+  infinitum significans i3llud quod dixinnis. Et componitur per genii.
+  n4ationern huius nominis ‘quid’ secundurn quad hoc nornen ‘quid’s
+  sirnpliciter est infinitum, et non secundurn q6uod est interroga
+  t7ivuiri vel e8tiam relativuni. Argumen turn autern peccat secundum
+  accidens, quia non o9porteret Si lfl uno convertibiliuxn intelligitur
+  relatio, quod in altero intelligatur’°. Verbi gratia. iste due conver
+  tuntur [P89o1iJ ‘hoino albus currit’ et ‘horno qui est albus, currit’ et in
+  una intelligitur relatio, in altera vero non.</p>
+</div>
+  <div>
+    <head>Sophisma</head>
+  <p>Secundum predicta queritur de hoc sophisrnate QUICQIJID
+  DEUS SCIVIT, SCIT. Probatlo. Deus s1civit oinnia. Et nichil oblitus
+  est. Ergo quicquid Deus scivit, s.2cit C.3ontra Quicquid Deus scivit,
+  scit. Sed s4civit te e5sse nasciturum. Ergo s6cit t7e esse n.8ascituruin
+  Ergo tu es nasciturus.</p>
+  <p>Solutio. Prima simpliciter vera, quia scientia Cause Prime
+  sernper’ est eadein nec recipit in se aliquarn t2;ransmutationem
+  unde de rebus omnibus scientiain habet i.3rninobilern E4t ideo de rebus
+  corruptibilibus scientiain habet i5.mmobilem Cuius causa bec
+  est. Oinne cognoscens cognoscit secundum modurn s6uunk et
+  secundum virtutern sue cognitionis, et non secunduin modurn
+  cogniti sive rei cognite. Unde quia virtus cognitiva Cause Prime non
+  dependet a rebus (sed res dependent ab I7psa tarnquam a sna causa),
+  cognitio autem nostra dependet a rebus cognitis et perficitur ab eis,
+  ideo s8ciendum quod nostra. cognitic a scientia est permutabilis
+  secundurn rerum perinutationern; s9cientia vero Cause Prime non
+  est perinutabilis secundum niutationem reruin.</p>
+  <p>Improbatio auteni peccat s1ecundurn figuram dictionis ex corn
+  r2nutatione predicainenti, quia mutatur quid in quando. Hec enirn
+  distributio ‘quicquid’ dick quid, ‘nasciturus’ autern dick quairrdo. Et sic
+  rnutatur quid in quando, a3ssurnendo ‘riascitururn’ sub eo quod est
+  ‘.4quicquicl’ Et e5tiain est ibi sophisrna a.6ccidentis Quia q7uid et
+  quando possunt accipi uno modo inquantum significantur per dictio
+  nern; et sic peccaturn est in eis secundum figuram dictionis propter
+  principium n8aotivuni quod est in dictione. Alio autern modo
+  possunt surni quid Ct qzzando, s1cili0cet a parte rei sive Ut sunt modi
+  rerurn c1ircurn1scripto serrnone; et sic error in eis facit sophisnia
+  accidentis propter principiuan rnotivuni inl2 re. Universaliter enirn
+  dico q3uod’ ubicuinque est figura dictionis, ibi semper est sophisma
+  accidentis, et non econverso. Sed hoc est propter ca.usas diversas,
+  sicut tetigimus, quia modi rerrnn p4redicamentaliu [T50vz]
+  s1u5nt diversi. 1S6i accipiantur inquantuin per dictionein significan
+  tur, s7ic’ fit figura dictionis. Si a.utem istilS idem inodi accipiantur a
+  parte rei sti9ve ut sunt rnodi reriam, sic fit accidens in eis, quia primo
+  modo est principium inotivuni in dictione, secundo v2e0ro in re.</p></div>
+</div>
+</div>
+    </div>
+    </div>
+    </body>
+  </text>
+</TEI>

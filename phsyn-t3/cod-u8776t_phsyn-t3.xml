@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tractatus Secundus [Tarragona transcription]</title>
+        <title>Tractatus Tertius [Tarragona transcription]</title>
       	<author>Petrus Hispanus</author>
         <editor>Joana Gomes</editor>
         <respStmt>
@@ -12,7 +12,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-        	<title>Tractatus Secundus [Tarragona transcription]</title>
+        	<title>Tractatus Tertius [Tarragona transcription]</title>
           <date when="2019-06-05">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -52,11 +52,11 @@
     	</div>
     </front>
     <body>
-      <div xml:id="phsyn-t2">
-        <head xml:id="phsyn-t2-Hd1e107">TRACTATUS Tertius</head>
-        <head xml:id="phsyn-t2-Hd1e110">De de dictionibus exclusivis</head>
-      <div xml:id="phsyn-t2-Dd1e113"><head xml:id="phsyn-t2-Hd1e114">Introdudio</head>
-      <p xml:id="phsyn-t2-d1e117">Dicta de 1 negatione et aflirmatione consequenter dicendum est
+      <div xml:id="phsyn-t3">
+        <head xml:id="phsyn-t3-Hd1e107">TRACTATUS Tertius</head>
+        <head xml:id="phsyn-t3-Hd1e110">De de dictionibus exclusivis</head>
+      <div xml:id="phsyn-t3-Dd1e113"><head xml:id="phsyn-t3-Hd1e114">Introductio</head>
+      <p xml:id="phsyn-t3-d1e117">Dicta de 1 negatione et aflirmatione consequenter dicendum est
       de dictionibus exclusivis, Ut ‘tantum’, ‘solus’. Circa quas 2priino
       queritur propter quid dicatur dictio exciusiva et quid significet dictio
       exciusiva; secundo 3quot 4et que sint 5cause exclusionis 6que exigun
@@ -65,8 +65,8 @@
       exclusionis, scilicet ad illud quod exciuditur, que” sint’ 2ea que
       clebent exciudi; quintum et ultimurn erit de differentia harurn dictio
       nuni ‘tanturn’ et ‘solus’ in suis exciusionibus.</p></div>
-      <div xml:id="phsyn-t2-Dd1e120"><head xml:id="phsyn-t2-Hd1e121">Quare dictitur dictio exclusiva</head>
-      <p xml:id="phsyn-t2-d1e124">Circa priinum ergo’ queritur quare dicatur dictio exciusiva. Ft
+      <div xml:id="phsyn-t3-Dd1e120"><head xml:id="phsyn-t3-Hd1e121">Quare dictitur dictio exclusiva</head>
+      <p xml:id="phsyn-t3-d1e124">Circa priinum ergo’ queritur quare dicatur dictio exciusiva. Ft
       dicunt quidarn quod dictio dicitur exciusiva quia significat exclu
       sionem. Sed contra. Nulla dictio significat acturn quern exercet, Ut 2
       iste terminus ‘hoino’ non significat suppositionem quani exercet
@@ -75,14 +75,14 @@
       dictio 5signiflcat acturn quem exercet; et est inductio et est 6locus a
       partibus sufficienter enurneratis 7.Sed ‘tanturn’ et ‘solus’ exercent 8
       exclusionem. Ergo [A748vb] non significant cam.</p>
-      <p xml:id="phsyn-t2-d1e127">Item. Exclusio intelligitur dupliciter; scilicet ut concepta
+      <p xml:id="phsyn-t3-d1e127">Item. Exclusio intelligitur dupliciter; scilicet ut concepta
       [T3Ora] et Ut’ exercita, sicut cursus significatur Ut conceptus 2per hoc
       nornen ‘cursus’ et per hoc verbuin ‘curro, -ris’; aliter 3autem cursus
       significatur Ut exercitus, Ut culn 4aliquis 5exercet ipsum in 6 curren
       do. Siiniliter exclusio intelligitur Ut concepta, sicut 7per hoc nornen
       ‘exclusio, -nis’ et per hoc verburn ‘exciudo, -dis’; aiiter autein intelli
       gitur Ut exercita, ut per has dictiones ‘solus’ et ‘tanturn’.</p>
-      <p xml:id="phsyn-t2-d1e130"> Si ergo ‘solus’ et ‘tantuni’ significant exciusioneni, aut signi
+      <p xml:id="phsyn-t3-d1e130"> Si ergo ‘solus’ et ‘tantuni’ significant exciusioneni, aut signi
       ficant e1arn hoc modo vel jib. S2ed si significant e3arn ut COfl
       ceptam, ergo iste dictiones ‘exclusio, -nis’ e4t ‘exciusus’ et ‘exciudo, -
       dis’ erunt dictiones exclusive. Quod falsurn est. Ergo non significant
@@ -96,15 +96,15 @@
       sionem [.P56vb] sed exercet ipsarn’°. Ergo dictiones exclusive non
       significant eicclusioneni u1t’ e1xerc2itarn neque Ut c3,onceptal ut
       probatuin. est. Ergo nullo modo significant exclusionem.</p>
-      <p xml:id="phsyn-t2-d1e133">Quod concedimus clicentes quod dictiones exclusive dicuntur
+      <p xml:id="phsyn-t3-d1e133">Quod concedimus clicentes quod dictiones exclusive dicuntur
       exclusive non quia significent’ cicciusioneni sed quia e,cercent earn,
       ut ‘tantum’ 2, ‘solus’ clicuntur dictiones exclusive ab exciusione exer
       cita et non ab exciusione significata. S3icut securis thcitur incisiva ab
       incisione exercita Ct non ab incisione significata. ‘Securis’ enini
       nullo rnodo significat incisionem sed significa.t securim (4sicut
       ‘5homo’ hominem) et exercet incisionem sive ipsum scindere.</p></div>
-      <div xml:id="phsyn-t2-Dd1e136"><head xml:id="phsyn-t2-Hd1e137">Quid signzficet dictio exclu.siva</head>
-      <p xml:id="phsyn-t2-d1e140">Ad aliud autern’ quod q,2ueritur quid significet dictio exclusiva,
+      <div xml:id="phsyn-t3-Dd1e136"><head xml:id="phsyn-t3-Hd1e137">Quid signzficet dictio exclu.siva</head>
+      <p xml:id="phsyn-t3-d1e140">Ad aliud autern’ quod q,2ueritur quid significet dictio exclusiva,
       dicenduin quoci significat idem quod hec oratio ‘non curn aiio’, s3ive
       privationenu associationis totius ad partem, [N49ra1 Ut ‘solus Sortes
       currit’, i4dest Sortes currit et n5ichil aliud vel Sortes currit et nullus alias
@@ -116,8 +116,8 @@
       Sed ad istarn privationern sequitur exclusio ornniuni aliorum, sicut
       p5roprius’ actus sequitur ad illud per quod exercetur. Et ideo exclusio irnportatur per dictionem exciusivam, flOfl Ut significata sed Ut exer
       cita. Et sic patet’ 4primurn.</p></div>
-      <div xml:id="phsyn-t2-Dd1e144"><head xml:id="phsyn-t2-Hd1e145">Quot et que sint cause exciusiorns</head>
-      <p xml:id="phsyn-t2-d1e148">Circa secunduni queritur in hunc modum. Associatio et pri
+      <div xml:id="phsyn-t3-Dd1e144"><head xml:id="phsyn-t3-Hd1e145">Quot et que sint cause exciusiorns</head>
+      <p xml:id="phsyn-t3-d1e148">Circa secunduni queritur in hunc modum. Associatio et pri
       vatio associationis opponuntur’ Ut privatio et habitus. Sed privatio
       diffinitur per habiturn, quia cecitas est privatio visus in oculo et per
       hunc 2habet esse. Ergo privatio associationis edt per ea per que est
@@ -131,22 +131,22 @@
       duntur U6t a subiecto et respectu cursus; et actus excludendi impor
       tatur 8per hanc dictionem ‘solus’. Et hee quatuor cause exiguntur
       [T3OrbJ ad exclusionein senlper 9.</p></div>
-      <div xml:id="phsyn-t2-Dd1e151"><head xml:id="phsyn-t2-Hd1e152">De quibusdam regulis</head>
-      <p xml:id="phsyn-t2-d1e155">Ex predictis patet quedam regula. Q1.ue talis est:
+      <div xml:id="phsyn-t3-Dd1e151"><head xml:id="phsyn-t3-Hd1e152">De quibusdam regulis</head>
+      <p xml:id="phsyn-t3-d1e155">Ex predictis patet quedam regula. Q1.ue talis est:
       <seg type="rule">ubicunzqzse vere fit exclusio, seinper id respectu cuius exciusio fit, ponhtur liz eo a quo
       omnia alia exciudurelur.</seg>
       Ut ‘tantuin homo est risibile’: hic enim ‘risibile’, respectu cuius fit
       exclusio, ponitur in ‘homine’, a quo oznnia alia excluduntur. Unde
       sequitur ‘tanaun homo est risibile; ergo homo est risibile’; et ‘tantum
       homo currit; ergo hozrio currit’.</p>
-      <p xml:id="phsyn-t2-d1e161">Ex predictis’ patet quedam alia regula. Que talis est: <seg type="rule">osmnis exciusiva iera relinqisit suam pniaceiitem ijeram.</seg>
+      <p xml:id="phsyn-t3-d1e161">Ex predictis’ patet quedam alia regula. Que talis est: <seg type="rule">osmnis exciusiva iera relinqisit suam pniaceiitem ijeram.</seg>
       Ut patet 2in predictis exeinplis, Ut ‘solus Sortes currit; ergo Sortes
       currit’. Propositio autein exclusiva est i3lla in qua ponitur dictio exclu
       siva (Ut 4 ‘tanturn’, ‘solus’), ut ‘solus Sortes 5currit’ vel ‘tantum horno
       currit’; preiacens autem 6dicitur ipsa propositio remota dictione
       [N49rb} exciusiva, Ut ‘Sortes currit’ vel ‘horno currit’.</p></div>
-      <div xml:id="phsyn-t2-Dd1e167"><head xml:id="phsyn-t2-Hd1e168">Sophisma&gt;</head>
-      <p xml:id="phsyn-t2-d1e171">Secundum predicta queritur de hoc sophisinate TANTUM
+      <div xml:id="phsyn-t3-Dd1e167"><head xml:id="phsyn-t3-Hd1e168">Sophisma&gt;</head>
+      <p xml:id="phsyn-t3-d1e171">Secundum predicta queritur de hoc sophisinate TANTUM
       UNUM EST. Probatto. Unum est et nichil est quod non sit unuin.
       Ergo tantum unurn est. Contra. Multa sunt. N2on ergo tantum ununi
       est. Item probatio prime, quia: Ut d3icit Boetius, unumquodque
@@ -160,7 +160,7 @@
       Sed ‘unusn’ convertitur cum ente. Ergo si chctio exclusiva vere adi
       ungatur’ 6enti’ 1,et uni. Sed hec est vera ‘tantuni unum est’ 18 . Ergo
       hec est vera. ‘tantuxa unuin est’.</p>
-      <p xml:id="phsyn-t2-d1e177">Solutio. Prima duplex, quia hoc noinen ‘unum’ est equivocuim,
+      <p xml:id="phsyn-t3-d1e177">Solutio. Prima duplex, quia hoc noinen ‘unum’ est equivocuim,
       eoquod est quedam unitas que est essentialis, ut illa per quaxn res
       existh in esse speciali sive i1n esse specifico. Et hec unitas est per
       formam coinpietivarn dantem esse r2ei in separando et distin
@@ -173,7 +173,7 @@
       eis. Quicquid eniin nuineratur,8per hanc unitatein numeratur8,
       quia numerus nichil aliud est nisi9 aggregatio unitaturn. Nurnerus
       enim est niultitudo ex unitatibus10aggregata.</p>
-      <p xml:id="phsyn-t2-d1e180">Et utraque istaruin unitatu.m convertitur cum ‘ente’. Sed diffe
+      <p xml:id="phsyn-t3-d1e180">Et utraque istaruin unitatu.m convertitur cum ‘ente’. Sed diffe
       runt in hoc quod prima eat essentialis (Ut dictum est) et secunda
       accidentalis; et etiarn1in hoc quod secunda est in prima Ut2 accidens
       in subiecto; unde secunda accidit prime. Et sicut3‘unitas’ dicitur
@@ -183,12 +183,12 @@
       ma est falsa, qilia dictio exclusiva8adiuncta parti numeraii destruit
       SUU.IR9totum, Ut ‘tanaun duo currunt; non ergo tria’; sixniliter10‘tan
       turn unum est11;non ergo duo’12vel ‘non ergo multa’.</p>
-      <p xml:id="phsyn-t2-d1e183">Alii autem dicunt quod prima est duplex (hec1 scilicet ‘tantum
+      <p xml:id="phsyn-t3-d1e183">Alii autem dicunt quod prima est duplex (hec1 scilicet ‘tantum
       unurn est’) eoquod potest fieri exclusio ratione suppositi (et2 sic est
       vera); [T3Ova] vel potest3fien exclusio ratione accidentis sive forine
       (et4sic est falsa) . Et tunc sequitur5‘non ergo multa sunt’. Sed primam
       solutionem credo esse meliorein6.</p>
-      <p xml:id="phsyn-t2-d1e186">Ad probationem’ dicendum quod procedit secundum2quod
+      <p xml:id="phsyn-t3-d1e186">Ad probationem’ dicendum quod procedit secundum2quod
       ‘unum’ dicit unitatem essentialem, quoniam3quicquid est, per suum
       cornpletivum4est, quod dat ci esse. Ut5 Sortes per suam formam
       completivam, que est aniina ipsius, separatur et differt a6 qualibet alia
@@ -197,7 +197,7 @@
       lem que per sui aggregationern est pnncipium numeri; et hoc modo
       tenet irnprobatio. Ad duo argumenta sequentia. dicendum quod accipiunt ‘unuin’ unitateln 10essentialem, sicut et”
       probatio.</p>
-      <p xml:id="phsyn-t2-d1e190">Ad ultirnum dicenduni quod bene sequitur ‘tantuni ens est t;
+      <p xml:id="phsyn-t3-d1e190">Ad ultirnum dicenduni quod bene sequitur ‘tantuni ens est t;
       ergo tantuni unuin est’, accipiendo 2‘unum’ 5secimdum unitatern
       essentialern. Sed non sequitur ‘tantum ens est; ergo tantum unuin
       est’, acdpiendo <!--<‘unum’ secundum> --> unitatem accidentalem (quam
@@ -220,13 +220,13 @@
       ens est ibi res subiecta et unurn est accidens eius 20 et exclusio respec
       tu 21 esse assignatur coniniuniter 22 inesse utrique sive fleri ab utro—
       que.</p>
-      <p xml:id="phsyn-t2-d1e195">Ad illud 1 autem quod obicit per 2 regulani convertibiliurn,
+      <p xml:id="phsyn-t3-d1e195">Ad illud 1 autem quod obicit per 2 regulani convertibiliurn,
       dicendum quod regula 3debet intelligi remoto accidente, sicut et 4
       omnes alie regule. Quamvis enim regula sits sive maxima:
       <seg type="maxima">quicqtsid 6prrdicaturde d!ffinhtiane, et de dzffinita</seg>,
       non tanien sequitur ‘animal rationale mortale est diflinitio; ergo
       honio est diffinitio’, quod 7est propter accidens, quad inipedit Quot sint species exciusionis</p>
-      <p xml:id="phsyn-t2-d1e201">Circa tertiurn queritur quot sint partes exclusionis 1.Et solent
+      <p xml:id="phsyn-t3-d1e201">Circa tertiurn queritur quot sint partes exclusionis 1.Et solent
       poni due 2,quia 3ponitur duplex exclusio: una enim 4generalis 5et
       altera specialis. Generalis 5exclusio 6ponitur coniniuniter quando
       exciuditur diversurn genere; specialis 7vero quando excluditur di
@@ -236,7 +236,7 @@
       specie exciuduntur, ergo debet esse t1er1tia exclusio nurneralis
       eoquod diversa nuinero exclucluntur. Ergo non soluin erunt 2due
       species, sive due partes, exciusionis sed etiam erunt ties.</p>
-      <p xml:id="phsyn-t2-d1e204">Et dicendum quod non sunt nisi due partes 1exciusionis, scili—
+      <p xml:id="phsyn-t3-d1e204">Et dicendum quod non sunt nisi due partes 1exciusionis, scili—
       cet generalis et specialis. Sed non dicitur exclusio generalis eoquod
       diversa gen.ere exciudantur, sed quia excluduntur a subiecto aliquo
       oninia que conirnunicant c2um eo in aliquo genere, sive in aliquo
@@ -253,7 +253,7 @@
       curn homine in animali. Et hec est specialis exclusio. S9i autem
       [IT5Ora] sensus huius ‘solus hoino currit’ fuerit talis: honui cvri’jt et
       nichil aliud tunc est exclusio generalis.</p>
-      <p xml:id="phsyn-t2-d1e207">Ex predictis patet quod idem numero non potest exciudi, vel ea.
+      <p xml:id="phsyn-t3-d1e207">Ex predictis patet quod idem numero non potest exciudi, vel ea.
       que communicant in eodem numero. Quia cum dicitur ‘solus hoino
       currit’, ista ponit quod hoino currit, per regulam prius’ datani, que
       talis est <seg type="rule">oinnis exdusiva vera relinquit 2steam preiacentesn veram</seg> 3
@@ -262,14 +262,14 @@
       cunit et nullu,n risibile vel nullum animal rationale mortale. SedT secun
       duni 8hoc ponitur contradictio et 9ob hoc non potest fieri t0 exciusio
       nuineralis.</p>
-      <p xml:id="phsyn-t2-d1e213">Ex predictis patet quod’, cuin quecuinque sunt diversa genere
+      <p xml:id="phsyn-t3-d1e213">Ex predictis patet quod’, cuin quecuinque sunt diversa genere
       ye! diversa specie vel diversa numero, conirnunicent in aliquo
       genere 2 generali 3ad 4 omnia que 5sunt, Ut in ente,
       ant in aliquo speciali sub ente, quod 6non possunt esse nisi due partes
       exciusionis, scilicet 7generalis exclusio 8Ct specialis.</p></div>
-      <div xml:id="phsyn-t2-Dd1e216">
-      <head xml:id="phsyn-t2-Hd1e218">De quibusdam regulis</head>
-      <p xml:id="phsyn-t2-d1e221">Be speciali exclusione solet dan talis regula:
+      <div xml:id="phsyn-t3-Dd1e216">
+      <head xml:id="phsyn-t3-Hd1e218">De quibusdam regulis</head>
+      <p xml:id="phsyn-t3-d1e221">Be speciali exclusione solet dan talis regula:
       <seg type="rule">quotienscumqzu fit speaalis exdwio, non tenet algunsentum ab infenori ad superius
       cuni dictione exclusiva neqne a superion ad inferins, iuque a parte sueiecti neque a
       park predicati.</seg>
@@ -290,7 +290,7 @@
       animaL Et propter negativas 13non tenet ab inferiori ad superius, sed
       est ibi 14 consequens ab inferiori ad superius negando. Et’ 5propter
       affirmathras non tenet a superiori ad inferius.</p>
-      <p xml:id="phsyn-t2-d1e227">De generali 1exciusione [N5OrbJ talis datur 2regula:
+      <p xml:id="phsyn-t3-d1e227">De generali 1exciusione [N5OrbJ talis datur 2regula:
       <seg type="rule">quotienscumque fit generalis exthuio, bent tenet aigumentum ab inferiori ad supethis
       cumdictione exdusiva a pane subiecti ci non a pane prodicati.</seg>
       Ut ‘solus Sortes currit; ergo solus homo currit’, quia prima claudit
@@ -301,8 +301,8 @@
       [T3lra] sequitur ‘nichil aliud a Sorte currit; ergo 9nichil aliud ab
       horuine currit’. Ergo bene sequitur a parte subiecti faciendo gene
       ralein exciusionein, Ut ‘solus Sortes currit; ergo solus horno currit’.</p></div>
-      <div xml:id="phsyn-t2-Dd1e233"><head xml:id="phsyn-t2-Hd1e234">Que sint ea que debent excindi</head>
-      <p xml:id="phsyn-t2-d1e237">Circa 1dictiones e,cclusivas querebatur, descendendo 2
+      <div xml:id="phsyn-t3-Dd1e233"><head xml:id="phsyn-t3-Hd1e234">Que sint ea que debent excindi</head>
+      <p xml:id="phsyn-t3-d1e237">Circa 1dictiones e,cclusivas querebatur, descendendo 2
       ad ‘unarn de quatuor causis exciusionis, scilicet ad illud quod exclu
       ditur. Et 4 queritur 5quid sit illud quod excluditur 6.Et illa 7 questio
       continet 8sub se alias septern. Prima 9est utruin 1°dictio exciusiva ad
@@ -330,8 +330,8 @@
       dat totum (vel econverso) et38 utrum addita rnaiori 39 numero exclu
       dat rninorem. (vel 4°econverso), ut ‘tantuin panes; non ergo domus’
       et4 tantum tsia42;non ergo duo’.</p></div>
-      <div xml:id="phsyn-t2-Dd1e240"><head xml:id="phsyn-t2-Hd1e241">Utrum dictia exciusiva addita ‘enti ‘possit exciudere aliquid</head>
-      <p xml:id="phsyn-t2-d1e244">Circa primum’ obicitur quod dictio exclusiva addita ‘enti’ 2vel
+      <div xml:id="phsyn-t3-Dd1e240"><head xml:id="phsyn-t3-Hd1e241">Utrum dictia exciusiva addita ‘enti ‘possit exciudere aliquid</head>
+      <p xml:id="phsyn-t3-d1e244">Circa primum’ obicitur quod dictio exclusiva addita ‘enti’ 2vel
       suis convertibilibus nichil potest excludere, quia quod exclud.itur,
       debet conrm’unicare 3cum eo a4 quo fit 5 exclusio in aliquo generali
       vel in aliquo speciali. Sed nichil potest comnaunicare 7cuin ente in
@@ -343,7 +343,7 @@
       ‘tantunx horno; non ergo asinus’, quia asinus extra hominem est. Sed
       nichil 14 est extra ens. Ergo dictio exciusiva adiuncta ‘enti’ nichil
       potest excludere.</p>
-      <p xml:id="phsyn-t2-d1e247">Item ad idern. Nichil potest 1exciudi nisi quod 2est diversum
+      <p xml:id="phsyn-t3-d1e247">Item ad idern. Nichil potest 1exciudi nisi quod 2est diversum
       quoad 3naturaleiri suppositionem (Ut ‘tantuin homo; non ergo asi
       nus’) vel diversun-i quoad quandani suppositionein 4accidentalem ut quoad earn que fIt per aliquid restringens terminurn ex eadern parte
       (Ut ‘tantum horno 5albus; non ergo niger’). Ex hoc patet quod ab
@@ -357,7 +357,7 @@
       convertibiia [P58va] sunt ‘ens’ et ‘esse’. Sed nichil est dti4ctu ‘tanturn
       est’ nec’ 5aliquid exciuditur. Ergo nichil est dictu t6‘tantum ens’
       neque aliquid exciuditur.</p>
-      <p xml:id="phsyn-t2-d1e250">Solutio. Oictio exclusiva adiuncta ‘enti’ exclud.it aliquid, quia
+      <p xml:id="phsyn-t3-d1e250">Solutio. Oictio exclusiva adiuncta ‘enti’ exclud.it aliquid, quia
       exciudit oinnia alia quoad naturalem suppositionem eorum que sunt
       diversa ab ente et a naturali suppositione eorum pie convertuntur
       cmii ente, quia naturalis suppositio non solurn est de [N50v] ente
@@ -365,7 +365,7 @@
       tarn entia quain non-en tia. Unde exclusio non solum est de ente sed
       etiain de non-ente. Unde sequitur ‘tantum ens est; ergo nichil aliud
       ab ente est’.</p>
-      <p xml:id="phsyn-t2-d1e253">Ad illud quod primo obicit dicenthim quod convertit conse
+      <p xml:id="phsyn-t3-d1e253">Ad illud quod primo obicit dicenthim quod convertit conse
       quentiani. Unde peccat secundum consequens, quia quicquid coin
       municat in aliquo generali vel in aliquo speciali curn eo a quo fit ex
       clusio, debet exciuth, et non econverso. Non enirn oportet quod illud
@@ -378,7 +378,7 @@
       quo fit eicclusio, quia est in istis et i1n non-coniniunicantibus. lJnde
       non oportet quod si aliquid excludatur ab ente quod communicet cum eo in aliquo generali vel speciali’ 4.Quare 15 convertit conse
       quentiaiti.</p>
-      <p xml:id="phsyn-t2-d1e256">Ad secundum dicenduin 1quod hec est duplex ‘dictio exciusiva
+      <p xml:id="phsyn-t3-d1e256">Ad secundum dicenduin 1quod hec est duplex ‘dictio exciusiva
       non 2potest exciudere nisi quod est extra terininum’ 3,quia ‘esse extra
       terminuni’ multiplex 4est, quia 5vel quoad essentiam (sicut alia est
       essentia equi 6et alia horninis) 7vel quoad naturalem suppositionern
@@ -396,7 +396,7 @@
       essentias nichil sit extra ens, quiai 5essentia 16 solum est entium,
       tamen quoad naturalem suppositionem aiiquid est1’ extra ens. Et sic
       dictio exclusiva adiun cta ‘end’ aliquid potest exciudere.</p>
-      <p xml:id="phsyn-t2-d1e260">Ad tertium. Solvendurn 1per interernptionern, quia ‘aliquid’ est
+      <p xml:id="phsyn-t3-d1e260">Ad tertium. Solvendurn 1per interernptionern, quia ‘aliquid’ est
       [W5lra] extra naturalein suppositionern entis, quia (Ut dictum est)
       non solum supponuntur entia sed etiain non-entia per terininum.
       Ad ultimum autem dicendurn quod non potest fieri exclusio ab hoc
@@ -411,8 +411,8 @@
       iste actus esse coniprehendat sub se oinnem alium acturn non quoad” suppositionem sive predicationem sed (Ut i1t2a dicarn) quoad
       antecessionern patet, quia omnes alii actus antecedunt ad istum, Ut
       ‘1s3i currit, e1s4t’ et ‘si cogitat, est’ et ‘Si dormit, est’</p></div>
-      <div xml:id="phsyn-t2-Dd1e264"><head xml:id="phsyn-t2-Hd1e265">Utrum dictio exciusiva adiuncta uni gmeralissinw exciudat alteiuin</head>
-      <p xml:id="phsyn-t2-d1e268">Circa stecundurn s2ic obicitur. Cum dictio exciusiva exciudat
+      <div xml:id="phsyn-t3-Dd1e264"><head xml:id="phsyn-t3-Hd1e265">Utrum dictio exciusiva adiuncta uni gmeralissinw exciudat alteiuin</head>
+      <p xml:id="phsyn-t3-d1e268">Circa stecundurn s2ic obicitur. Cum dictio exciusiva exciudat
       d3iversum quoad naturalein s4uppositionent et unuin generalissi
       mum non sit de suppositione alterius nec econverso (5et sic sunt
       diversa quoad naturalem suppositionem), ergo° dictio exclusiva ad
@@ -422,7 +422,7 @@
       Sed diversa g8eneralissima non possunt esse subiectuin unum,
       immo sunt s9eiriper subiecta diversa. Ergo dictio exciusiva acliuncta
       uni generalissimo exciudit alterum Ct econverso.</p>
-      <p xml:id="phsyn-t2-d1e271">Sed contra. Dictio exciusiva non potest exciudere quod’ intel
+      <p xml:id="phsyn-t3-d1e271">Sed contra. Dictio exciusiva non potest exciudere quod’ intel
       ligitur i2n subiecto cui adiungitur, ut ‘tantum album c3;urrit non
       ergo corpus c4urrit’ vel ‘taritum grainaticus disputat; non ergo homo
       disputat’, quia ‘album’ dat intelligere corpus et ‘5gramaticuiri’ dat
@@ -436,7 +436,7 @@
       ponere substan tiam. Ergo a primo: si tanturn quantitas est, substantia
       est; et sic de aliis generalissimis. Ergo dictio exclusiva adiuncta u1n5i
       non exclud.it alterum.</p>
-      <p xml:id="phsyn-t2-d1e274">Et dicendum quod dictio exclusiva adiuncta uni generalissimo
+      <p xml:id="phsyn-t3-d1e274">Et dicendum quod dictio exclusiva adiuncta uni generalissimo
       exciudit alterum uno niodo et alio inodo non, ex eo quod generalis
       sirna alia a substantia duas habent cornparationes. Unarn secundum abstractionem prout unurnquodque ordinatur secundurn lineani
       predicatnentalein in sua ordinatione 1ad omnes species eius sive ad
@@ -447,7 +447,7 @@
       tur omnia per modurn accidentis. Sed secundum comparationein
       primam suinuntur per moduin essentie 8sive 9 per inodurn eius
       quod 1°est quid.</p>
-      <p xml:id="phsyn-t2-d1e277">Unde secundunt primarn comparationem dictio exciusiva
+      <p xml:id="phsyn-t3-d1e277">Unde secundunt primarn comparationem dictio exciusiva
       adiuncta uni generalissimo’ exciudit alia generalissima et econ
       verso; nisi quando faciunt subiectum unuin, quod in paucis accidit,
       Ut ‘tantum substantia est colorata’; hic non exciuditur superficies,
@@ -464,7 +464,7 @@
       cretione, dictio exclusiva adiuncta uni 17 ’ non excludit alterunt. Sed si
       sumantur 18in abstractione, tunc dictio exciusiva adiuncta uni ex
       cludit alterum, [P59rbJ nisi faciarit [It[5Iva] subiectum unuin 20.</p>
-      <p xml:id="phsyn-t2-d1e280">Ad’ duo prima arguinenta dicendurn 2quod bene tenent,
+      <p xml:id="phsyn-t3-d1e280">Ad’ duo prima arguinenta dicendurn 2quod bene tenent,
       secundum 3quod generalissima suinantur in abstractione et non
       faciant subiectuiri unurn. Ad tertium argunlentum dicenduin quod
       unum intelligitur in altero multipliciter. Quia uno inodo unum
@@ -488,7 +488,7 @@
       illa duo abstracta faciant subiectuin unurn a2licu1ius accidentis (Ut
       dictum est prius), sicut horno et superficies eius faciunt subiec turn
       unurn albedinis v2e21 colons.</p>
-      <p xml:id="phsyn-t2-d1e284">Ad quartum d1icinius quod revera o2innis e3xclusiva ponit
+      <p xml:id="phsyn-t3-d1e284">Ad quartum d1icinius quod revera o2innis e3xclusiva ponit
       suam p.4reiacentem Sed in hac propositione ‘tantum quantitas est’
       duo stint, scilicet bee dictio ‘tantunt’, que est dictio exciusiva, c5t illud
       cui adiungitur, scilicet ‘quantitas’. Dico ergo quod dictio exciusiva
@@ -496,9 +496,9 @@
       positio ‘tanturn quanthas e8st’ ponit contradictionem, quia ponit sub
       s9tantiarn esse et non esse. Ponit enim substantiarn ratione quan
       thatis Ct reinovet earn ratione exclusionis que additur ‘quantitati’.</p></div>
-      <div xml:id="phsyn-t2-Dd1e287"><head xml:id="phsyn-t2-Hd1e288">Utrwn dictio erclzsiva addita speciei unius predicamenti possit exclu4ere
+      <div xml:id="phsyn-t3-Dd1e287"><head xml:id="phsyn-t3-Hd1e288">Utrwn dictio erclzsiva addita speciei unius predicamenti possit exclu4ere
       species alterius predicainenti</head>
-      <p xml:id="phsyn-t2-d1e291">Circa tertium sic obicitur. Cum dicitur ‘tantunt honzo est albus’,
+      <p xml:id="phsyn-t3-d1e291">Circa tertium sic obicitur. Cum dicitur ‘tantunt honzo est albus’,
       cx hoc non sequitur ‘ergo superficies hominis non est alba’. Ergo
       dictio exciusiva a1ddita speciei [N52vb] unius predicainenti g2ratia
       huius non excludit species alterius predicamenti. Sed contra. Magis
@@ -509,7 +509,7 @@
       diversoruin generuin, quia rnagis differunt. Ergo dictio exciusiva
       adiuncta [T32ra] specici unius predicainenti exciudit alias species
       akerius predicainenti. </p>
-      <p xml:id="phsyn-t2-d1e294">Ad’ quad dicenduna quod in genere quinque stint ea 2 que
+      <p xml:id="phsyn-t3-d1e294">Ad’ quad dicenduna quod in genere quinque stint ea 2 que
       debent excludi. Unurn est 3 subiectum diversum, Ut ‘tantum ‘Sortes
       currit’; eccluditur Plato et alii particulares homines, quia non pos
       stint facere subiecturn unum sed diversa 4.Secundum est diversuin
@@ -526,7 +526,7 @@
       akerurn sive intelligitur 2O altero secundum concretionein. Et2’
       omnibus hiis quinque 22modis exciuditur diversurn 25per dictionem.
       exciusivam </p>
-      <p xml:id="phsyn-t2-d1e297">Ex predictis’ patet solutio primi arguinenti, quia homo et
+      <p xml:id="phsyn-t3-d1e297">Ex predictis’ patet solutio primi arguinenti, quia homo et
       superfIcies eius faciunt subiectum unum colons et non diversa 2.
       Unde non exciuditur superfides per hanc 3‘tanturn Sortes 4est albu.s’.
       Et ita 5 dictio exciusiva adiuncta spcciei unius predicarnenti 6exciudit
@@ -534,9 +534,9 @@
       alteruin, Ut dictum est. Patet etiarn solutio alterius argumenti 9,quia.
       dic tio exclusiva 10exciudit diversum [N32ra] sive differens aliquo”
       predictorum rnodorunl tentum.</p></div>
-      <div xml:id="phsyn-t2-Dd1e300"><head xml:id="phsyn-t2-Hd1e301">Utruin dictio exciusiva addita alicui speciei unius predicaineriti exdudat alias
+      <div xml:id="phsyn-t3-Dd1e300"><head xml:id="phsyn-t3-Hd1e301">Utruin dictio exciusiva addita alicui speciei unius predicaineriti exdudat alias
       species eiusdein</head>
-      <p xml:id="phsyn-t2-d1e304">Lx predictis patet solutio quarte questionis, que erat utrum dictio
+      <p xml:id="phsyn-t3-d1e304">Lx predictis patet solutio quarte questionis, que erat utrum dictio
       exciusiva adiuncta speciei unius predicarnenti excludat 1alias species eiusdem, quia onines alie species eiusdem generis e,cclu
       duntur. Nisi una comparetur 2ad alterani 3,non solum Ut species
       [P59vb] disparata 4sed etiain Ut terminus eiusdern; et ideo non se
@@ -545,9 +545,9 @@
       ergo superflcies’, quia--> superficies <!--<est terminus>--> corporis. Unde 7
       bene sequitur ‘tanturn horno; non ergo asinus’, quia 8ille 9 species
       soluinmodo comparantur sibi invicern Ut disparate’°.</p></div>
-      <div xml:id="phsyn-t2-Dd1e311"><head xml:id="phsyn-t2-Hd1e312">Utrum dictio exciusiva aiiiu?zcta termino accidentali exciudat alios terininos
+      <div xml:id="phsyn-t3-Dd1e311"><head xml:id="phsyn-t3-Hd1e312">Utrum dictio exciusiva aiiiu?zcta termino accidentali exciudat alios terininos
       accidentales</head>
-      <p xml:id="phsyn-t2-d1e315">Ex predictis patet quinta questio, que erat utruin dictio exciusiva
+      <p xml:id="phsyn-t3-d1e315">Ex predictis patet quinta questio, que erat utruin dictio exciusiva
       adiuncta terinino accidentali exciudat alios terlninos accidentales,
       quia dictio exciusiva (Ut dictum est prius 1)habet exciudere ornne
       accidens diversurn sive 2 disparatum, durn ita sit quod unum non
@@ -556,9 +556,9 @@
       ‘Sortes 6est tanturn coloratus; non ergo quantus’ 8,quia coloratuin 9
       inest Sorti in10 eo quod est quantus”. Neque sequitur ‘tariturn al.
       burn 12; non ergo corpus’, quia ista faciunt subiecturn unuxn 15.</p></div>
-      <div xml:id="phsyn-t2-Dd1e318"><head xml:id="phsyn-t2-Hd1e319">Utnem dictio exciusiva addita uni oppositoruin exthuiat alterunz in quvlibet
+      <div xml:id="phsyn-t3-Dd1e318"><head xml:id="phsyn-t3-Hd1e319">Utnem dictio exciusiva addita uni oppositoruin exthuiat alterunz in quvlibet
       genere oppositionis</head>
-      <p xml:id="phsyn-t2-d1e322">Circa sextam questionern obicitur quod dictio exclusiva ad
+      <p xml:id="phsyn-t3-d1e322">Circa sextam questionern obicitur quod dictio exclusiva ad
       iuncta uni 2oppositonim exciudat alterum in quolibet genere opposi..
       tionis, quia duo opposita non possunt facere subiectum ununi sed
       diversa 3.Sed quotienscuinque aliqua non faciunt subiectum unum 4
@@ -566,28 +566,28 @@
       exciusivam. Ergo dictio exciusiva adiuncta uni oppositorurn excludit°
       aiteruni. Quod concedimus, sicut patet in contrariis, ‘tantuin album
       currit; non ergo nigrum’.</p></div>
-      <div xml:id="phsyn-t2-Dd1e325"><head xml:id="phsyn-t2-Hd1e326">Sophisma</head>
-      <p xml:id="phsyn-t2-d1e329">Secundum predicta queritur de hoc sophisniate TANTUM
+      <div xml:id="phsyn-t3-Dd1e325"><head xml:id="phsyn-t3-Hd1e326">Sophisma</head>
+      <p xml:id="phsyn-t3-d1e329">Secundum predicta queritur de hoc sophisniate TANTUM
       VERUM OPPONITUR FALSO. Probatio. Verum opponitur falso. Et
       nichil aliud quain 1veruni opponitur falso. Ergo tantuin veruxn oppo
       nitur falso. Contra. Tantuin verum opponitur falso. Ergo tantum yerum
       et faisum opponuntur. Quod falsurn est, quia 2album et nigruin
       opponuntur et caiidum et frigidum 3.</p>
-      <p xml:id="phsyn-t2-d1e332">Et dicendurn quod prima est simpliciter vera. Et irnprobatio’
+      <p xml:id="phsyn-t3-d1e332">Et dicendurn quod prima est simpliciter vera. Et irnprobatio’
       peccat secunduin consequens ab inferiori ad [N52rb] superius cuin
       dictione exciusiva, quia ‘opponi falso’ in minus est quam ‘opponi 2
       simpliciter’, sicut ‘oppositio yen et falsi’ in 3 minus est quarn ‘oppo
       sitio’, cuin hec sit species, illa vero genus. Et sic curn dicit ‘tanturri
       verum opponitur falso; ergo tantum vemin et falsuin opponuntur’,
       peccat secundum consequens.</p></div>
-      <div xml:id="phsyn-t2-Dd1e336"><head xml:id="phsyn-t2-Hd1e337">De relative of4lositis</head>
-      <p xml:id="phsyn-t2-d1e340">ken-i. Dubitatur de relative oppositis, quia’ ex hac ‘tantum pater
+      <div xml:id="phsyn-t3-Dd1e336"><head xml:id="phsyn-t3-Hd1e337">De relative of4lositis</head>
+      <p xml:id="phsyn-t3-d1e340">ken-i. Dubitatur de relative oppositis, quia’ ex hac ‘tantum pater
       est’ sequitur hec ‘ergo fEilius est’. Unde 2si tanturn pater est, pater est,
       quia oxnnis 3exciusiva ponit [P6OraJ suarn preiacentern. Et Si pater
       est, filius est (a relative oppositis). Ergo a prirno: ‘si tantum pater est,
       filius est’. Ergo dictio 4exciusiva athuncta uni correlativoruni non
       exciudit alterum.</p>
-      <p xml:id="phsyn-t2-d1e343">Et dicenduin quod dictio exciusiva adiuncta uni correlativoruin
+      <p xml:id="phsyn-t3-d1e343">Et dicenduin quod dictio exciusiva adiuncta uni correlativoruin
       excludit alterurn. Sed illa 1 ‘tantum pater est’ ponit contradictionein,
       quia curn dictio exciusiva exciudat quecuinque non faciunt sub
       iectum unum sed diversa: cum pater et fihius faciant diversa subiecta
@@ -600,14 +600,14 @@
       quia” filius est per hoc quod est ad patrein. Et sic ista ‘tanturn pater
       est’ ponit duplicem contradictionern, quia’ 2ponit fihium esse et 18
       non esse et patrern esse et non esse.</p></div>
-      <div xml:id="phsyn-t2-Dd1e346"><head xml:id="phsyn-t2-Hd1e347">Sophismata</head>
-      <p xml:id="phsyn-t2-d1e350">Circa predicta qneritur de hoc sophisrnate SI TANTUM PATER
+      <div xml:id="phsyn-t3-Dd1e346"><head xml:id="phsyn-t3-Hd1e347">Sophismata</head>
+      <p xml:id="phsyn-t3-d1e350">Circa predicta qneritur de hoc sophisrnate SI TANTUM PATER
       FST, NON TANTUM PATER EST. Probatio. Si tantuni pater est, pater
       est 1.Et 2 si pater est, flhius est. Et si fihius est, aliud a patre est. Et si
       aliud 3a patre est, non tantuni pater est. Ergo a primo: si tantuan pater
       est, non tanturn pater est. Contra. Ibi assignatur 4sequi oppositurn ad
       oppositum. Ergo locutio est impossibilis.</p>
-      <p xml:id="phsyn-t2-d1e353">Ad’ hoc solvunt quidam quod ‘pater’ surnitur tripliciter 2.Sicut
+      <p xml:id="phsyn-t3-d1e353">Ad’ hoc solvunt quidam quod ‘pater’ surnitur tripliciter 2.Sicut
       ‘album’. Quia 5‘album’ uno modo norninat 4id quod est album, ut
       hic: ‘album potest esse nigrum’, secunduin quod hec est vera; e5t hoc
       est dictu: hoP qisod en subiectuni albedinis, potent esse nigfunz. Alio
@@ -624,7 +624,7 @@
       est in genere Relationis’. Et hoc inodo non exciuditur unurn corre
       lativorumn [T32va] ab alio, quia sic tumnum5 ponit alterum et econ
       verso.</p>
-      <p xml:id="phsyn-t2-d1e356">Sed hoc nichil est, quia cuni dictio exciusiva excludat 1quecuni
+      <p xml:id="phsyn-t3-d1e356">Sed hoc nichil est, quia cuni dictio exciusiva excludat 1quecuni
       que non faciunt subiectuni unum sed diversa 2et 3 pater Ct filius non
       faciunt 4subiectum unum 5,secunduin quod sunt 6in genere Rela
       tionis, nec 7aliquo 8alio modo, tunc 9oportet quod 1°dictio exciusiva adiuncta ‘patri’ exciudat fihium et econverso. Quod concedimus.
@@ -638,7 +638,7 @@
       ita ex una2°parte rernovet fihiurn (scilicet a
       parte21 exciusionis) et ex
       alia parte ponit ipsum22(scilicet a parte 5ui23 correlativi).</p>
-      <p xml:id="phsyn-t2-d1e359">Ad irnprobationen-i autem solvendum per interemptionein,
+      <p xml:id="phsyn-t3-d1e359">Ad irnprobationen-i autem solvendum per interemptionein,
       quia’ non sequitur ibi2oppositurn ad oppositum, sed sequitur una pars
       contradictionis ad antecedens, quod claudit3intra se utramque partern
       contradictionis. Et sic sequitur pars ad4 totuxn, sicut hic: ‘Sortes
@@ -646,7 +646,7 @@
       toto integrali; contradictio8eniin integratur ex9 suis partibus. Unde posita contra
       dictione necesse est ex ea sequi tarn affirmationein10quain negatio
       nem, per locum a toto integrali.</p>
-      <p xml:id="phsyn-t2-d1e362">[]T52vb] Item. Queritur de hoc sophisinate POSSIBILE EST
+      <p xml:id="phsyn-t3-d1e362">[]T52vb] Item. Queritur de hoc sophisinate POSSIBILE EST
       SORTEM VIDERE TANTUM’ OMNEM HOMINEM2NON VIDEN
       TEM SE. Probatio. Possibile est Sortem videre tantum3ornnem
       hominern cecuni. Sed ornnis homo cecus est honio non videns se.
@@ -657,7 +657,7 @@
       videt14 quernlibet’5talem. Ergo videt se. Si videt se, ergo est horno
       videns se. Sedt6 nulluni takrn17 videbat. Ergo non videt se’8, quo—
       nip.j19 tan turn videbat non videntem Se.</p>
-      <p xml:id="phsyn-t2-d1e366">Solutio. Prima est impossibilis, hec scilicet ‘
+      <p xml:id="phsyn-t3-d1e366">Solutio. Prima est impossibilis, hec scilicet ‘
       possibile est Sortein
       videre tanturn ornneni horninem non videntern Se’. Et ista similiter ‘Sortes videt tantum oinnern1hominem non videntern se’2, quia
       utraque habet in se contradictionem, Ut lain patebit. Probatio5peccat
@@ -670,7 +670,7 @@
       videns Se’ et non econverso, quia homo doriniens est horno non
       vidcns se9 et etiam vigilans’° oculos11 habens clausos12 est honio
       non videns se.</p>
-      <p xml:id="phsyn-t2-d1e369">Quod’ ista ‘Sortes videt tanturn2omnern hominern non viden
+      <p xml:id="phsyn-t3-d1e369">Quod’ ista ‘Sortes videt tanturn2omnern hominern non viden
       tern Sc’ habeat3contradictionern in se patet, quia equipollet istis dua
       bus, scilicet 4‘Sortes videt omnem hoininem non videntem se’ et5
       ‘non videt aliq’uern hominexn6videntern se’, et iste due sunt
@@ -693,7 +693,7 @@
       se. Et sic videt se et non videt se. Hic27 autem est28 contradictio. Et
       sequitur ex duabus expositivis prime. Et ille expositive intelliguntur in prima. Et 29 ita contradictio intelligitur in prima. Et sic claudit 50
       intra se contradictionem.</p>
-      <p xml:id="phsyn-t2-d1e372"> Item. Iliad 1idem ostenditur alia ratione, quia 2si Sortes non
+      <p xml:id="phsyn-t3-d1e372"> Item. Iliad 1idem ostenditur alia ratione, quia 2si Sortes non
       videt aliquern hominem videntern 3se, ergo Sortes videt riulluin
       homineiri videntem Sc, quia ‘non aliquem’ et ‘nullurn’ equipollent,
       sicut ‘non aliquis’ et ‘nullus’. Ergo nullus homo videns se videtur a
@@ -704,7 +704,7 @@
       alia 1I pars contradictionis. Ex qua curn altera expositiva prime
       sequitur reliqua pars contradictionis, sicut prius. Quare prima habet
       l2 se contradictionem. Quod concedirnus.</p>
-      <p xml:id="phsyn-t2-d1e375">Item. Probo 1quad prima est vera, hec scilicet ‘Sortes videt
+      <p xml:id="phsyn-t3-d1e375">Item. Probo 1quad prima est vera, hec scilicet ‘Sortes videt
       tantum ornnern horninem non videntem. se’. Ponatur 2quod Virgi
       lius et Plato et Cicero situ homines 5non videntes se tantuni et
       ornnes alii videant Se 4;et ponatur cam hoc quod Sortes videat tantuin
@@ -724,7 +724,7 @@
       Sortem videre tantum 22 omnem hornineiri cecurn. Ergo possibile
       est 23 Sortern videre tantum 24 omnem homineni non videntern se.
       Ergo prima possibilis est. </p>
-      <p xml:id="phsyn-t2-d1e378">Solutio 1.Dico quod prima est falsa et impossibilis, sicut 2prius
+      <p xml:id="phsyn-t3-d1e378">Solutio 1.Dico quod prima est falsa et impossibilis, sicut 2prius
       dictum est, quia ponit contradictionern, sicut prius patuit duplici
       ratione. Ad priman autern positionein dicendum quod ponit duo
       incornpossibilia 4.Et concedo quod 5utruinque eorum est possibile
@@ -739,7 +739,7 @@
       videat Se, cum non 18 sit de his. Et ita ponit’ 9quod Sortes vidcat se et
       non videat se 20 . Et ita illa duo 21 insitnul posita 22 ponunt contra
       dictionern. Et ita 23 stint incompossibilia 24.</p>
-      <p xml:id="phsyn-t2-d1e381"> Ad aliud 1 dicendum 2quod similiter 3hec est vera secundum
+      <p xml:id="phsyn-t3-d1e381"> Ad aliud 1 dicendum 2quod similiter 3hec est vera secundum
       se, scilicet 4‘possibile 5est Sorteni videre tantuin 6ornnent hominern
       cecum’ 7.Sed non est possibile posito quod ‘homo cecus’ convertatur
       curn ‘hornine 8non vidente 9se’, quia si Sortes videt tantum omnern
@@ -749,8 +749,8 @@
       reliquum. Et sic 13 ponit iterum 14 in hac ratione secunda quod Sortes
       videat se 15 et non videat se t6 . Et sic non est miruiri, si t7 prernissa est
       irnpossibilis, curn ipsa sequatur ex positione’ 8impossibili.</p></div>
-      <div xml:id="phsyn-t2-Dd1e384"><head xml:id="phsyn-t2-Hd1e385">UtriAm dictio exciusiva addita toti exctidat partem vel econverso</head>
-      <p xml:id="phsyn-t2-d1e388">Septiiria q’uestio fuit utrum dictio exciusiva adiuncta parti inte
+      <div xml:id="phsyn-t3-Dd1e384"><head xml:id="phsyn-t3-Hd1e385">UtriAm dictio exciusiva addita toti exctidat partem vel econverso</head>
+      <p xml:id="phsyn-t3-d1e388">Septiiria q’uestio fuit utrum dictio exciusiva adiuncta parti inte
       grali exciudat toturn (vefl econverso) et adiuncta ininori nuiriero
       exciudat inaiorern (veI 2 econverso). Et videtur quod adiuncta toti integrali excludat3partein, [P61th] quia sequitur ‘domus valet tanturn4centurn
       libras5;non ergo [N53va1 panes’. Ergo addita tori exclu
@@ -761,7 +761,7 @@
       ponitur quelibet pars eius. Ergo a prilno: si tanturn donius est cob
       rata, panes12 est coloratu5.Ergo dictio exciusiva adiuncta tori14 non
       exciudit paTtern’5</p>
-      <p xml:id="phsyn-t2-d1e391">Et dicendum quod tria genera accidentium reperiuntur in toto
+      <p xml:id="phsyn-t3-d1e391">Et dicendum quod tria genera accidentium reperiuntur in toto
       integrali Ct in parte sua. Quia quedam accidentia sunt que tantuxn
       convenilint toti integrali, Ut componi ex2 partibus integralibus et3
       habere panes oinnes4secundurn quantitatem; et propter hoc anirna
@@ -776,8 +776,8 @@
       integrali exciudit partem, ut ‘donius valet tantuni centuni libras23;
       non ergo panes’. In24 aliis duobus generibus accidentiuin dictio
       exciusiva adiuncta parti sernper25excludit totum, et non econverso.</p></div>
-      <div xml:id="phsyn-t2-Dd1e394"><head xml:id="phsyn-t2-Hd1e395">Sophisma</head>
-      <p xml:id="phsyn-t2-d1e398">Circa1predicta queritur de hoc sophisinate A
+      <div xml:id="phsyn-t3-Dd1e394"><head xml:id="phsyn-t3-Hd1e395">Sophisma</head>
+      <p xml:id="phsyn-t3-d1e398">Circa1predicta queritur de hoc sophisinate A
       SOLO SORTE DIFFERT QUICQUID NON EST SORTES VEL PARS SORTIS.
       Probatio2,A Sorte differt quicquid non est Sortes vel pars Sortis. Et3
       non ab alio4 a Sorte differt quicquid non est Sortes ‘vel pars Sortis.
@@ -794,9 +794,9 @@
       tunc hec est vera ‘equurn5videt omnis horno’ nec tarnen’ est querere
       ‘quern equum?’, quia iste8 terminus ‘equum’ non tenetur determi
       nate pro uno sed communiter pro pluribus.</p></div>
-      <div xml:id="phsyn-t2-Dd1e401"><head xml:id="phsyn-t2-Hd1e402">Utruni dictio exciusiva addita ,naiori iiume’iv exciudat nainorem
+      <div xml:id="phsyn-t3-Dd1e401"><head xml:id="phsyn-t3-Hd1e402">Utruni dictio exciusiva addita ,naiori iiume’iv exciudat nainorem
       vet econverso</head>
-      <p xml:id="phsyn-t2-d1e405">Item. Videtur quod dicuo exciusiva addita toti [T33rb] numerali
+      <p xml:id="phsyn-t3-d1e405">Item. Videtur quod dicuo exciusiva addita toti [T33rb] numerali
       possit exciudere parteni eius sive addita maiori1numero possit exclu
       dere minoreni2,quia omnes nuineri3sunt specie differentes (Ut
       binarius, ternarius4,quaternarius et sic de aliis), quia5 sunt diverse
@@ -811,7 +811,7 @@
       rnaiori. Sed dictio exciusiva non removet quod intelligitur in suo
       preiacente. Ergo dictio exciusiva adiuncta maiori nuinero non ex
       cludit rninoreiri.</p>
-      <p xml:id="phsyn-t2-d1e408">Solutio. ‘Nurnerus’ duobus modis surnitur, sicut1quodlibet aliud
+      <p xml:id="phsyn-t3-d1e408">Solutio. ‘Nurnerus’ duobus modis surnitur, sicut1quodlibet aliud
       totum. Quia uno modo sumitur ‘numerus’ ratione sue totalitatis (sive
       ratione totius aggregationis sue, quod2idem est). Et sic dictio
       exciusiva adiuncta niaiori numero3exciudit quemhbet4minorein, ut
@@ -827,8 +827,8 @@
       patet quod clictio exciusiva adiuncta maiori numero uno inodo excln
       det minorern et alio modo non. Sed addita minori24numero seniper
       excludit maiorein.</p></div>
-      <div xml:id="phsyn-t2-Dd1e411"><head xml:id="phsyn-t2-Hd1e412">De quadam regula</head>
-      <p xml:id="phsyn-t2-d1e415">Unde1de parte in quantitate et de parte integrali et de parte in
+      <div xml:id="phsyn-t3-Dd1e411"><head xml:id="phsyn-t3-Hd1e412">De quadam regula</head>
+      <p xml:id="phsyn-t3-d1e415">Unde1de parte in quantitate et de parte integrali et de parte in
       loco et de parte in tempore et de pane2nurnerali talis datur regula:
       <seg type="rule">quolienscumqve dictia exciusiva adiungitur parti, selnper exciwlit suum totwn, excepto
       toto universali et tab in nwdo.</seg>
@@ -837,13 +837,13 @@
       (sive aggregationumn)5;Ct SIC dictio exclusiva adiuncta uni6 exciudet
       ornnes alias. Secunduni auterri7accepit8species numneri ratione
       eorumn cx quibus sunt9.</p></div>
-      <div xml:id="phsyn-t2-Dd1e422"><head xml:id="phsyn-t2-Hd1e423">Sophisma</head>
-      <p xml:id="phsyn-t2-d1e426">Circa predicta queritur de hoc sophisinate SOLIS TRIBUS SOIA
+      <div xml:id="phsyn-t3-Dd1e422"><head xml:id="phsyn-t3-Hd1e423">Sophisma</head>
+      <p xml:id="phsyn-t3-d1e426">Circa predicta queritur de hoc sophisinate SOLIS TRIBUS SOIA
       DUO SUNT PAUCIORA. Probatio. Tribus sola duo stint pauciora. Et’
       non aliis a2 tribus sola duo3sunt pauciora. Ergo solis tribus sola duo
       stint pauciora4.Contra5.Solis tribus sola duo sunt pauciora. Ergo solis
       tribus duo sunt pauciora.</p>
-      <p xml:id="phsyn-t2-d1e429">Solutio. Prima duplex, quia potest exponi1per dictionem2exclu
+      <p xml:id="phsyn-t3-d1e429">Solutio. Prima duplex, quia potest exponi1per dictionem2exclu
       sivam existen tern in obliquo3;et sic probatur4et5 sic est vera; et6 est
       sensus ‘solis tribus etc.’ idest soliz duo sunt pauciora tn bus et sola duo non
       sunt pauciora7aliis a tribus. Vel potest exponi per exciusionein existen
@@ -852,15 +852,15 @@
       b1e4e scilicet ‘solis tribus duo sunt pauciora’, c1u5m duo sint pauciora
       omnibus aliis nunieris ascendendo. Et ita non solis tribus duo sunt
       pauciora. </p></div>
-      <div xml:id="phsyn-t2-Dd1e432"><head xml:id="phsyn-t2-Hd1e433">De quadam regula</head>
-      <p xml:id="phsyn-t2-d1e436">Unde solet dan talis regula:
+      <div xml:id="phsyn-t3-Dd1e432"><head xml:id="phsyn-t3-Hd1e433">De quadam regula</head>
+      <p xml:id="phsyn-t3-d1e436">Unde solet dan talis regula:
       <seg type="rule">quo1ienscunque duo sincategoreuniata ponztntur lT33va] in eaden locutione seipsa’
       attingentia, duplex est locutio, quia’ unum potest esse determinatio alteiius vet
       econverso.</seg>
       [P62ra] Et hoc est quod solebant dicere antiqui quod unum poterat 3
       includere reliquum 4vel econverso includi ab eo ant 5 excludere
       alterurn vel exciudi ab eo.</p>
-      <p xml:id="phsyn-t2-d1e442">Et nota quod in numeris est duplex ascensus’, quia iinus est
+      <p xml:id="phsyn-t3-d1e442">Et nota quod in numeris est duplex ascensus’, quia iinus est
       causaruin et alius quantitatis sive augrnenti 2in 3 quantitate. Unde
       loquendo 4de ascensu 5causarum ornnes rninores numeri sunt supe
       riores rnaioribus, quia rninores 6sunt causa 7rnaiorum. Unde quanto
@@ -875,8 +875,8 @@
       bus 20 quam in rninoribus. Et hoc modo fit 2’ascensus a rninori
       nuinero ad maiorem; econverso descensus 22.Et sic ascensus Ct
       descensus Hunt 23 dupliciter in ordine nuineri 24 </p></div>
-      <div xml:id="phsyn-t2-Dd1e445"><head xml:id="phsyn-t2-Hd1e446">De thfferentia harum dictionum ‘tantum ‘et ‘solus’</head>
-      <p xml:id="phsyn-t2-d1e449">Hiis habitis habentur septem questiones que fiebant circa quar
+      <div xml:id="phsyn-t3-Dd1e445"><head xml:id="phsyn-t3-Hd1e446">De thfferentia harum dictionum ‘tantum ‘et ‘solus’</head>
+      <p xml:id="phsyn-t3-d1e449">Hiis habitis habentur septem questiones que fiebant circa quar
       t1arn questionem, que erat descendendo ad unarn causam exclusio
       nis, scilicet que erant ea que debent exciudi. Consequenter queritur de quinta questione que fiebat in principio 2huius tractatus, scilicet 3
       qualiter ‘tanturn’ et ‘solus’ differant in suis exclusionibus. Et dicen
@@ -891,7 +891,7 @@
       facit. Sed contra. Hec dictio ‘tantum’ est adverbiuin. Ergo semper
       exciudit ab actu, quia adverbiurn n1atu0m est deterrninare verbum. et
       fern ad ipsuni.</p>
-      <p xml:id="phsyn-t2-d1e452">Et dicendurn quod sicut dispositio substantie est duplex, quia
+      <p xml:id="phsyn-t3-d1e452">Et dicendurn quod sicut dispositio substantie est duplex, quia
       una est dispositio substantie secundurn se et absolute (Ut album,
       nigrum et consirnilia) et alia est dispositio substantie 1mediante actu
       (Ut curn dicitur ‘iste incedit superbus’, hec dictio ‘superbus’ in hac
@@ -907,14 +907,14 @@
       alios actus; quando vero detenininat actum mediante substantia v1e01
       aliquo casuali, tunc [T33vb] exciudit ab i1ps1o casuali, u2t’ patuit in
       predictis’ 3exernplis.</p></div>
-      <div xml:id="phsyn-t2-Dd1e455"><head xml:id="phsyn-t2-Hd1e456">Sophisma</head>
-      <p xml:id="phsyn-t2-d1e459">Item 1.Queritur de hoc sophismate SOLUS SORTES EXCLUDI
+      <div xml:id="phsyn-t3-Dd1e455"><head xml:id="phsyn-t3-Hd1e456">Sophisma</head>
+      <p xml:id="phsyn-t3-d1e459">Item 1.Queritur de hoc sophismate SOLUS SORTES EXCLUDI
       TIJR, posito quod solus Sortes exciudatur ab aliquo subiecto respectu.
       alicuius predicati et nullus alius 2.Probatio prime. Sortes exciuditur.
       Et nullus a]ius a Sorte exciuditur. Ergo solus Sortes exciuditur. Con
       tra. Hec est quedam 5propositio exciusiva in qua excluduntur omnes
       alii a Sorte. Non ergo solus Sortes excluditur.</p>
-      <p xml:id="phsyn-t2-d1e462">Solutio. Prima simpliciter vera. Et improbatio peccat secundum
+      <p xml:id="phsyn-t3-d1e462">Solutio. Prima simpliciter vera. Et improbatio peccat secundum
       quid et simpliciter, quia quamvis sit propositio simpliciter exciusiva,
       tamen sua exclusio fit respectu huius actus ‘excludi’ t.Sed quod ex
       cluditur ab exciusione, non exciuditur, sicut quod privatur a2 privatio
@@ -922,7 +922,7 @@
       dare habitum, Ut 3 privare cecitatem 4non est privare sed 5dare visum.
       Et sic privare 6privationern non est privare et privari privatione non
       est privari. Et ideo excludi ab exciusione non [P62va1 est excludi.</p>
-      <p xml:id="phsyn-t2-d1e465">Item. Videtur quod debeat ‘solus’ 1restringere terminum cui
+      <p xml:id="phsyn-t3-d1e465">Item. Videtur quod debeat ‘solus’ 1restringere terminum cui
       adiungitur, per quandam regulam prius datain:
       <seg type="rule">omsze adiectivwn non diminuem nec habens vim 2ainpliandi adiuncium ex eadem parte
       ierniflO co,rimuni restringit terinimum cui adiirngilur.</seg>
@@ -939,8 +939,8 @@
       ‘solus’; ‘solus’ enim est ‘non cuni alio’. Unde fl’3 Co intelligitur iste
       ablativus ‘alio’ significans substantiarri diversam 14in obliquitate. Et
       talia non restringunt. </p></div>
-      <div xml:id="phsyn-t2-Dd1e471"><head xml:id="phsyn-t2-Hd1e472">Sophisma</head>
-      <p xml:id="phsyn-t2-d1e475"> Item Posito quod solus Sortes sciat hoc1 enuntiabile ‘
+      <div xml:id="phsyn-t3-Dd1e471"><head xml:id="phsyn-t3-Hd1e472">Sophisma</head>
+      <p xml:id="phsyn-t3-d1e475"> Item Posito quod solus Sortes sciat hoc1 enuntiabile ‘
       cquum esse animal’ et ipse cum Platone et cum aliis multis sciat malta alia
       enuntiabiia, quentur de hoc sophisinate SOLUS SORTES SCIT ALl
       QUOD ENUNTIABILE QUOD NON2OMNIS ALIUS A PLATONE
@@ -954,7 +954,7 @@
       hec est prima. Contra9.Alius a Sorte scit aiiquod enuntiabile quod
       non ornnis alius a Platone ignorat, sicut1unurn de coininuniter
       scitis. Non ergo solust1 Sortes scit etc.</p>
-      <p xml:id="phsyn-t2-d1e478">Solutio. Prima [P62vb] sim.pliciter vera. Et iste due ‘alias a Sorte
+      <p xml:id="phsyn-t3-d1e478">Solutio. Prima [P62vb] sim.pliciter vera. Et iste due ‘alias a Sorte
       scit aliquod enuntiabile quod non ornnis alias a Platone ignorat’ et
       ‘non alias a Sorte scit aliquod’ enuntiabile quod non on-mis alius a
       Platone ignorat’ contradicunt uno modo et alio niodo non, quia hoc

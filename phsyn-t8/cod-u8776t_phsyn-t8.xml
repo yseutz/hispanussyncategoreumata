@@ -1,0 +1,1676 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus Secundus [Tarragona transcription]</title>
+      	<author>Petrus Hispanus</author>
+        <editor>Joana Gomes</editor>
+        <respStmt>
+          <name>Jeffrey C. Witt</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+        	<title>Tractatus Secundus [Tarragona transcription]</title>
+          <date when="2019-06-05">June 5, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority><ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref></authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+    		<pb ed="#T" n="27-v"/>
+        <pb ed="#T" n="b"/>
+    	</div>
+    </front>
+    <body>
+      <div xml:id="phsyn-t8">
+        <head>TRACTATUS OCTAVUS</head>
+<head>DE CONIUNCTIONIBUS</head>
+<div><head>Introductio</head>
+<p>Genera coni’unctionuxn sunt plura 1.Quia quedam sunt dubi
+tative et quedarn 2interrogative secunduni Priscianuni, Ut ‘-ne’, ‘an’
+[N7Ora] et ‘utrum’. Et hoc genus coniunctionuni comprehendit Do
+natus sub disiunctivis. Sed obinissis 3aliis in.terrogativis et 4 dubitativis
+coniunctionibus de bar coniunctione ‘an’ adpresens intendimus.</p>
+</div>
+<div>
+  <head>DE HAC CONIUNCTIONE ‘AN’</head>
+<p>Circa quain primo queritur que sit differentia inter interrogatio
+nem factam per nornen 1et interrogationeni factam per adverbium
+et interrogationern 2Factam per coniunctionem; secundo queritur
+quid significet hec thctio ‘an’; tertia 3questio est qualiter differat hec
+coniunctio ‘an’ ab aiiis coniuctionibus interrogativis, Ut ab hiis con
+iunctionibus 4‘-ne’ et ‘utrum’; quarta 5questio est, cain habeat in se
+naturain disiunctionis, inter 6que 1habeat disiungere; quinta 8questio
+est, curn exerceat tres actus (quia 9importat disiunctionein et 10 inter
+rogationem e1’t dubitationern), utruxn equaliter se habeat ad oinnes
+i1St2oS actus vel non.</p>
+<div>
+  <head>QJLe sit dffereiitia inter interrogationes diversimtxtefactas</head>
+<p>Circa prirnurn obicitur quia’: Quicquid est, aut est substantia aut
+accidens. Sed omnis 2dubitatio est de re a]iqua. Ergo est de substantia
+vel de accidente. Sed 3ornnis interrogatio est de re dubitata 4.Ergo
+omnis interrogatio est de substantia vel de accidente. Sed omnis
+interrogatio de substantia fit per hec interrogativa ‘quis’, ‘que’, ‘quod’
+vel ‘quid’. E5t hec sunt nomina. S6ed interrogatio de accidente, curn
+accidens significetur vel per’7 nomina quedani vel per adverbia, f8let
+per nornina (Ut ‘qualis’, ‘quantus’, ‘quotus’, ‘9)quotennis’ vel per ad
+verbia (Ut ‘cur’, ‘quare’, ‘quando’, ‘ubi’ et consirniia). Ergo o1rn0nis
+interrogatio fit per noinen vel per [P78rb1 adverbiuni. Ergo oninis
+d1ictio interrogativa est nornen vel adverbiurn. Ergo nulla con
+iunctio est dictio interrogativa.</p>
+<p>Et dicendum quod quandoque contrngit [T42ra] dubitare de re
+significata’ per nomen, sive significetur per moduni substaritie sive
+per modurn accidentis. E2t de huiusniodi re queritur per noinina
+interrogativa (at ‘quis’, ‘que’, ‘quod’ vel ‘quid’, ‘qualis’, ‘,3quantus’
+‘quotus’, ‘quotennis’) secundum diversitateni substantie e4t eorum
+que accidurit substantie. Quandoque autem dubitatur de actu speciali.
+Et tunc queritur de ipso per hoc [NZOrb] interrogativuin ‘5quid’ addi
+turn actui generali, ut ‘6quid agit?’: ‘sedet’ vel ‘dormit’ vel ‘disputat’
+v7el’ ‘legit’ et sic de aliis. Et sic hiis duobus modis queritur per noinen
+de re d.8ubitata Q,uandoque autein dubitarnus de hiis q9ue debentur
+actui, at de causa actus, ut C0UflZ’ legit: ‘quare legit?’ v1e1l de tempore
+in quo fuit actus, ut ‘quando c1ucurrit 2?’ vel ‘c3quurarnedt?o’’ vel de
+loco coxnparato ad actuali secundum quod actus suiriitur in loco vel
+de loco vel ad locum vel per locurn, itt ‘ubi est?’, ‘ubi f1ec4it hoc?’,
+‘unde venit?’, ‘quo vadit?’, ‘qua transivit?’; et s1i5c de omnibus queri
+t6ur’ per adverbia localia. Et sic patet quod de omnibus predictis que
+debentur actui, queritur per adverbia. Q7uandoque’ autein dubitanius
+de inherentia vel de compositione actus cum substantia. E8t’ tunc
+queritur de ipsa inherentia vel compositione per coniunctiones
+interrogativas, at per has coniunctiones ‘-ne’, ‘an’ et ‘utrum’.</p>
+<p>Et ideo interrogativa rerum d1ubitatarum sunt tribus inodis.
+Quia quedain sunt noniina et quedarn s2unt adverbia, alia vero coniunctiones.
+Et hec differentia sulnpta est a parte ipsoruin dubita
+biliurn 3que sunt obiecta dubitationis. Ad argunlentum 4dicenduin
+quod omnis dubitatio 5est de substantia vel de accidente, ecteudendo
+‘accidens’ ad ipsurn accidens et ad adherentiam 6ipsius 7accidentis
+curn subiecto 8vel ipsius actus curri substa.ntia. Et tunc interrogatio de
+accidente aliquando 9fit per quedam’° nomina interrogativa” (Ut
+‘qualis’, ‘quantus’ et consirnilia), aliquando per adverbia, aliquando
+per coniunctiones. Et ita’ 2insufficienter dividit 13interrogationern’ 4
+accidentis opponendo.</p>
+</div>
+<div>
+  <head>Qzsid sign/Icet hec dictio an’</head>
+<p>Circa secundum 1queritur quid significet hec d.ictio ‘an’. Et
+dicunt quidani quod significat disiunctionem curn electione. Sed
+quod hec clictio ‘an’ non significet electionem probo 2quia: Hec 5est
+dictio 4interrogativa et ita importat 5interrogationern. Sed omitis
+interrogatio causatur cx clubitatione. Ergo hec dictio [.W70va) ‘an’
+importat dubitationeari. Sed dubitatio contraria est electioni, quia 6qui
+dubitat nescit eligere inter 7ea de quibus dubitat. Ergo hec dictio ‘an’
+non importat. electionem 8.Rein ad ideiri. Si hec dictio ‘an’ signiflcet
+electionem, aut significat earn ut conceptani 9ve1 10 Ut affectum 11.Sed
+flOfl’ 2Ut conceptaln’ 3quia Cum oarinis t4electio sit actus anime’ 5et
+nuihis actus anirne possit signifIcari Ut conceptus’ 6nisi per nornen
+v1e71 verburn vel participiurn, ergo si hec dictio ‘an’ significet elec
+tionem 1u8t conceptam, oportet quoci sit nornen vel verbum vel
+participiurn. Quod falsuin est. Si auteni significet earn per modum
+affectus: Sed affectus anirne non significa.tur per modurn affectus t9
+nisi per quedam aciverbia et per interiectiones et per modos verbo
+runi. Ergo si hec dictio ‘an’ significet electionern per moduin affec
+tus 20,oportet quod sit aciverbium vel interiectio vel accidat verbo
+[T42rb] tamquam rnodus. Quod est iinpossibile. Ergo impossibile est
+quod hec dictio ‘an’ significet elcctionexn per modum conceptus vel
+per 2’inodum affectus.</p>
+<p>Quod concedirnus dicentes quod hec dictio ‘an’ significat
+disjunctionem cum dubitatione sub modo interrogandi t.Et quia 2
+quiculrique 3interrogat petit certificari inquantuin interrogat,
+ideo ad interrogationem sequitur petitio certificauonis 5de re dubitata. Et
+ideo quia hec dictio ‘an’ interrogat disiungendo° inter aliqua, propter
+hoc 7per ipsarn importatur petitio aiterius 8disiunctorurn 9.Quod
+autem hec dictio 10 ‘an’ significet disiunctioriem patet per hoc quod
+est” coniunctio disiunctiva. QuodlZ autem importet dubitationem
+patet per hoc quod est dictio interrogativa et ulterius ad interro
+gationein sequitur petitio alterius disiunctoruin 14,ut dictu1n est.</p></div>
+<div><head>Qualiterdzfferat ab atiis coniunctionibus inte’nvgativis</head>
+<p>[P78vb] Circa tertiuin queritur que sit differentia huius
+dictionis ‘an’ ad alias coniunctiones interrogativas (que stint ‘-ne’ et
+‘utruni’) quia: Si nulla est differentia, ergo una earuin sufflcit. Ergo
+alie superfluunt. Et dicenduin quod iste 2tres coniunctiones ‘utrurn’,
+‘an’, ‘-ne’ conveniunt in hoc quod interrogant de cornposi
+tione actus c’tnn substantia, Ut dictum est. Sed differirnt in hoc quod
+hec coniunctio ‘-ne’ rnagis se tenet curn actu, iste vero coniunctiones
+‘an’ et ‘utrurn’ inagis se tenent a parte suppositi 3.Et 4diflerunt iste due
+(scilicet ‘an’ et ‘utruin’) hoc rnodo quia hec coniunctio ‘utruni’ aunt
+quam geminatur sine "alia" disiunctiva 5coniunctione, sed 6 exigit
+secuni coniuxictionem aliarn disiunctivani 7,Ut ‘utruin Sortes currat
+vel Plato’. Sed ista coniunctio ‘an’ quandoque 8gemmatur sine altera
+coniunctione, ut ‘tu scis an Sortes currat an Plato’. Et ec hoc patet alia
+differentia, scilicet quod coniunctio ista ‘-ne’ non potest recipere
+supra se transitionem alterius actus propter° hoc quod se tenet curn
+actu; actus enim non transit supra alium actum sed supra aliquod
+casuale. linde nichil est dictu ‘tu vides curritne Sortes’, sed ‘tu vides
+Sortein currentern’ 10 Alie vero due recipiunt supra se transitionern
+actus propter hoc quod magis se tenent curn substantia sive cum
+supposito, ut ‘t-u scis an Sortes currat’ Ct ‘tu vides utrurn Plato legat’.
+Tertia differentia est quod hec coniunctio ‘-ne’ semper est inter
+rogativa, alie auteni due aliquando 1tenentur tanturn disiunctive,
+Ut ‘ego b1e2ne scio utrum Plato legat vel non’ et ‘bene scio an legat a.ri
+non legat’.</p>
+</div>
+<div>
+  <head>Inter qtte habeat disiungere</head>
+<p>Circa quarturn queritur, curn hec coniunctio ‘an’ sit coniunctio
+disiunctiva, inter que habeat 1disiungere. Et de hoc talis datur regula
+quotienscumque hec d2ictio ¶an’ semel ponitur, dinungt inter d3icta contradicto4ne
+opposita 5;quando vera his ponitur, disiisngit inter dicta inventa.
+Quad autein prima pars regule sit vera probo 6quia: In cmiii
+interrogatione supponitur aliquid commune ad id quod queritur, ut
+cum querit 7aliquis ‘quis disputat?’, supponit hoiriinem in 8 communi
+disputare et vult certifIcari de particulari homine qui disputat;
+[P79ra3 et sirniliter in qualibet alia iriterrogatione. Ergo in cmiii
+interrogatione [N7lraJ supponitur aliquid 9commune sive universale
+ad id q’uod queritur. Ergo in hac interrogatione ‘tu scis an Sortes
+currat’ supponitur aliquid’° commune ad id quod qu.eritur. Sed non
+queritur n1i1si altera pars contradictionis, quia de illa [7’42va] soluin
+dubitatur. Ergo supponitur "aliquid" commune ad illarn. Sed nichil
+est commune ad partes’ 2contradictionis nisi disiunctio 13.Ergo
+supponitur ibi disiunctio inter partes contradictionis. Sed non est ibi
+aliquid’ 4per quod supponati.ir ista disiunctio nisi per hanc con
+iunctionem 15‘an’. Ergo hec conuunctio ‘an’ disiungit inter partes’ 6
+contradictionis. Sed hoc rnodo semel ponitur. Ergo quando semel
+ponitur, disiungit inter dicta coritradictorie opposita. Quod con
+cedirnu s.</p>
+<p>Sed contra. Omnis disiunctio est adminus inter duo. Unde 1
+nichil est dictu ‘Sortes currit vel’, quia deficit 2alterum eKtremonum.
+Ergo nichil est dictu ‘tu scis an Sortes currat’, cum deficiat alteruin
+extrernorum. Solutio. Non est simile de hac dictione ‘an’ et de hac
+dictione ‘vel’, quia hec dictio ‘an’ est dictio interrogativa et disiunctiva.
+Et idea ratione interrogationis adiuncte disiunctioni,
+quando adiungitur uni parti contradictionis 3,dat intelligere alterarn,
+quia qui dubitat de uno oppositorurn, dubitat de reliquo. Sed hec
+dictio ‘vel’ tanturn est disiunctiva et non interrogativa. Et idea non
+dat intelligere alterum 4extremoruin.</p>
+<p>Item. Obicitur circa 1secundarn partein regale quia: Multorurn
+non est dubitatio una sed plures, nisi illa inulta opponantur aliquo
+genere oppositionis. Sed curn dicitur ‘tu scis an Sortes currat an Plato
+disputet’, ista 2scilicet ‘Sortem 5currere’ et ‘Platonein disputare’ non
+opponuntur aliquo genere oppositionis. Ergo non est eorurn dubitatio
+una. Ergo hec dictio ‘an’ non disiungit inter ea. Ergo non disiungit
+inter dicta inventa quando bis ponitur. Sed contra. Omne illud quod 4
+queritur per 5interrogationem 6,solvitur 7"per" illud qua in respon
+sione dato questio 8terininatur. Sed dato utrolibet predictoruni enun
+tiabiliuin questio terminatur. Ergo indifferenter queritur hoc vel
+illud. Ergo hec dictio ‘an’ disiungit inter ea, quia 9 solum disiungit
+[N7lrb] inter ea de quibus querit. Sed hec sunt dicta inventa. Ergo 1°
+quando his ponitur, [P79rb] disiungit inter dicta 11 inventa. Quod
+concedirnus.</p>
+<p>Ad hoc quod obicit in contrarium, dicendum quod ‘dubitatio
+una’ et ‘interrogatio’ una’ et ‘responsio una’ sunt dupliciter. Quia uno
+modo est responsio una simpliciter, Ut quando queritur unum de uno
+secundurn se et absolute (Ut curn queritur 2‘curritne Sortes?’ et 3
+respondetur ‘sic’ ‘vel ‘non’). Alio autein rnodo est 4 responsio una non
+simpliciter sed per suppositionem, ut cum. queritur 5‘curritne Sortes
+vel Plato?’; hic enirn oportet supponere quod alter 6istorum currat ad
+hoc Ut detur responsio una. Et similiter ‘dubitatio una” 7et etiam
+‘interrogatio una’ sunt dupliciter, scilicet simpliciter et per suppo
+sitionem. Ut cum queritur ‘tu scis an Sortes currat an Plato disputet’,
+non est interrogatio una neque dubitatio sirnpliciter sed per suppo
+sitionem, ut quod uterque 8illoruin sit et 1°quod respondens sciat de
+alter 1illorum. </p>
+</div>
+<div>
+  <head>LJIrunz equaliter se habeat ad omnes suos actus</head>
+<p>Circa quinturn obicitur 1quod hec dictio ‘an’ non debeat exer
+cere istos tres actus qui sunt disiungere 2,interrogare et dubitare, quia
+unius actus unurn est instrrnnentum proprium et econverso. Ergo si
+hec dictic ‘an’ est instrurnenturn interrogandi, non erit instrumen
+turn dubitandi neque disiungendi 4.Et dicendurri quad instrumen
+turn idern secundum [T42vb1 substantiam et secundum rationern
+non potest esse instrumenturn diversorurn actuurn sese non conse
+quentium 5.Sed instrurnenturn idem secundurn substantiarn et
+diversuni secundum rationern p0 test esse actuum simpliciter diver
+soruin. Unde sicut 6pu.lrno est instrurnenturn ternperandi calorern
+cordis per respirationern (Ct h7oc secundum quoci est attractivus
+aeris) et etiam 8est instrurnerituin loquendi repercutiendo 9aera ad
+v1oca0lern arteriam (et h1o1c inquanturn est expulsivus et repercus
+s1iv2us aeris); et ita secundurn a1li3ud est instrurnenturn temperandi
+caloreni cordis et secunduin aliud est iristrumentuni loquendi, —
+similiter hec coniunctio ‘an’ secundum quod disiungit, continetur
+sub specie disiunctivarurn coniunctiona 4,secundurn autem quod
+per itps5arn interrogamus, continetur sub specie interrogativarurn
+coniunctionurn; secundum autem quod per ipsarn dubitarnus,
+[IsJ7Iva] continetur s1u6b specie dubitativaruin. [P79oal Et sic seinper
+est coniunctio cadem secundurn substantiam, d1iff7ert autem secun
+dum rationern Ct speciem, curn s1i8t diversarurn specieruin secun
+dum quod per’ 9ipsam exercenius tres predictos 2°actus.</p>
+<p>Et nota quod per prius est disiunctiva et per posterius’ interro
+gativa et dubitativa, quia sernper disiungit sed non sem.per interrogat
+vel dubitat. Et nota quod hec dictio ‘an’ p2etit alteram parteni deter
+rninate eoruni inter que disiungit. Et propter hoc solet dici quod 3
+oportet quod respondens scia.t 4alteram partem determinate. Qu.od 5
+probatur sic. Respondens° Irlagis certus 7debet 8esse de questione
+quam interrogans, quia respondens debet certificare interrogan tern
+de questione. Sed interrogans 9scit alteram parteni in 10 genere sive
+in communi. Ergo oportet quod” respondens sciat alteram partein
+specialiter’ 2etdetenninate. Quod con cedimus.</p>
+<p>Sed contra. Sicut contingit scire universale ignorando particula
+re (Ut scio hoininexn in universali esse in Yspania’, tainen 2nulluin
+particularem s3cio ibi esse), — siiniliter contingit scire disiunctuni
+sive disiunctionein ignoranclo quarnlibet partein disiunctionis.
+Probatio. Scio astra esse paria vel irnparia, tarnen n4eque scio hanc
+parteni neque illani. Ergo cum d.ico ‘tu scis an Sortes currit an Plato
+disputet’, n5on oportet quod respondens sciat alteram partem
+determinate. Et dicenduin quod h6oc ultinturn argumentum non
+tenet. Si enini hec dictio ‘an’ esset tantum thsiunctiva, beiie opor
+t.1eret Sed quia non solum est disiunctiva sed etiarn interrogativa,
+ideo non tenet, q8uia quicumque interrogat p9etit certificari eo ipso
+quod interrogat’°. Et ideo cuin hec dictio ‘an’ sit interrogativa alterius
+d1,isiunc1toruiri oportet quod importet pethionern alterius disiunc
+tt.or2um Et propter h1uius3modi petitionern oportet quod respondens
+sciat alteram partem determinate. Et ita arguniennim predicturn
+impeditur propter interrogationein huius dictionis ‘an’.</p>
+</div>
+<div>
+  <head>Sophisniata</head>
+<p>Queritur de hoc s1ophisniate TU SCIS AN OMNIS H2OMO S3IT
+SORTES AN DIFFERAT A4E ILLO. Probatio. Tu scis an Sortes sit
+Sortes an [PZ9ub] differat [NZOvb] ab jib. Tu scis an P5lato sit Sortes
+an differat ab jib et sic de s6.ingulis Ergo prima vera. Contra. Tn scis
+an oninis horno sit Sortes an difTerat ab j.7ib Ergo tu scis oinnem
+honilnem esse Sortein a8n oinnem hominem differre a9 Sorte; quo
+rum utrunique est falsuni.</p>
+<p>Solutio. Prima falsa sirnpliciter. probatio peccat secundurn
+consequens ab insufficienti, quia in hac ptropositione ‘tu scis an
+omnis horno sit Sortes an differat ab [T43ra] jib’ est duplex universa
+litas, q2uoniam in una parte disiunctionis est una distributio et alia
+in altera. Unde sensus e3st ‘tu scis an ornnis homo sit S4ortes an
+o5mnis homo differat a Sorte’. Sed non sumuntur ornnes singulares
+harunt duarurn distributionuin in ipsa p,6robatione quia preter i7llas
+quas suinit, d8eberet surnere istas ‘tu scis an Sortes sit Sortes an
+omnis homo differat a Sorte’, ‘tu scis an Plato sit Sortes an oninis
+honto differat a Sorte’ (et hec disiunctiva est falsa, quia utraque pars
+eius est falsa) et s9irniliter omnes alie que relinquuntur’ .
+Et hoc modo deberet 1surnere oinnes particulares” prime distributionis
+secunda 13 distributione 14integra’ 5permanente. Et etiarn deberet
+econverso surnere oinnes particulares’ 6secunde distributionis ita
+quod prima distributio integra perrnaneat’ 7.Ut ‘tu scis art ornnis
+homo sit Sortes an Sortes differat a Sorte’ 18et ‘tu scis an omnis homo
+sit Sortes an Plato differat a Sorte’ et sic de allis. A1io 19 etiam 20 niodo
+deberet surnere particulares 21,scilicet accipiendo singulares 22unius
+cum omnibus singuiaribus alterius, ut ‘tu scis an Sortes 23sit Sortes an
+Sortes differat a. Sorte’ et ‘2L4u scis an Plato sit Sortes an Sortes differat a
+Sorte’ et sic de aliis. Sed haruni oninium nullam accepit 2.Et ita
+procedit ab insufficienti. Unde peccat secundum consequens 26.</p>
+<p>Item. Posito quod Sortes vel Plato inentiatur 1sed tu nescias uter 2
+eorum inentiatur, queritur de hoc sophisinate TU SCIS AN DE
+MENTIENTE SIT FALSUM SORTEM ESSE ILLUM. Probatio. Hec
+negativa 3est vera ‘non de 4 mentiente est falsuiri Sortem esse 5ilium’
+utroque [N72ra] casu contingente, scilicet sive Sortes mentiatur sive
+Plato. Quia Sorte mentiente hec est vera [P8Ora] ‘non de mentiente
+est falsurn Sortem esse ilium’ (idest ‘Sortern esse mentientern’),
+immo est verum cle Sorte. Item Platone mentiente hec est vera ‘non
+de mentiente est falsuin Sortem esse ilium’ (idest ‘Sortein esse
+Platonen-i mentientem’), quia 6licet sit falsuni Sortem esse Platonern,
+non tam en est’ 7falsum de Piatone, quia non est enuntiabile de eo.
+Unde neque verum neque falsum de eo est 8, propter hoc 9 quod
+enuntiabile dicitur 10 sexnper de re subiecti terrnini, srve de co quod
+subicitur, et non de co quad predicatur, ut 1 ‘horninern esse lapidern’
+est enuntiabile de honäne et non de lapide, sed ‘lapidem esse hotni
+nem’ est enuntiabile de lapide et non de hoinine. Et sic patet quod
+utroque casu contingente hec est vera ‘non de rnentiente est falsum
+Sortem esse ilium’. lit hoc s1c2is et etiam scis ex ypothesi quod plures
+casus non possum contingere 13.Ergo tu scis hanc, scilicet 14 ‘non 15
+de inentiente est’ 6etc.’. Et hec est altera pars prime disiunctive, quia
+hec dictio ‘an’ semel 17 posita disiungit inter opposita. Ergo hec est
+vera ‘tu scis an de mentiente sit falsum Sortem esse ilium an non de
+rnentiente sit faisum Sortem esse ilium’, quia hums disjunctive 18
+altera pars est vera.</p>
+<p>Contra. Tn scis an de mentiente sit falsum Sortem 1esse ilium.
+Ergo tu scis an de inentiente sit f’alsum ilium esse Sortem (per
+locum a convertibili, Ut ‘si Sortes est ille, ille est Sortes’, sicut 2‘5j
+horno est animal, et animal est horno’). Sed conclusic est dubia et
+non 3certa, quia Sorte rnentiente hec negativa 4est vera ‘non de
+rnentiente est faisum ilium 5esse Sortem’, idest ‘mentienteni 6esse
+Sortern’. Sed Platone mentiente falsa est, quia sensus est ‘non 7de
+nientiente est falsurn ilium 8esse Sortem’ (idest ‘Platonein esse
+Sortein’), quia hoc est falsum de mentiente, eoquod ‘Platonem esse
+Sortein’ est falsuin de [T43rb1 Platone. Ergo predicta negativa est
+dubia, curn sit vera uno c9asu contingente et a1li0o faisa et nte1scis
+quis casus debeat contingere’ 2.Ergo sua opposita est dubia, quia quis
+quis’ 3dubitat de uno oppositorum, necesse est ipsuln de reliquo d.ubi
+tare. Ergo hec est falsa ‘tu scis an de inentiente sit faisurn [W72rb]
+illu 4esse Sortein. Ergo prima’ 5est falsa ex 16 qua sequitur.
+20 Solutio. Prima est siinpliciter vera, hec scilicet ‘tu scis an de
+mentiente sit faisum Sortein esse illuin’. Et probatio bene tenet. Sed
+prim urn argumenturn improbationis pe cc at secundurn sophisrna
+acciclentis. Sicut hic t: ‘tu scis quod 2de homine [P80th] est enun
+riabile hoininem esse substantiam; ergo tu scis quod de homine est
+en untiabile 3substantiam esse hoininem’. Quod 4falsurn est, quia 5
+iicet 6‘hoininern esse substantiam’ Ct ‘substantiarn esse hominern’
+convertantur, non tamen quod subicitur in uno 1, subicitur 8in
+reiiquo 9.Untie 10est unurn enuntiabile de hoinine et non de sub
+stantia (quia homo subicitur in eo) et a1teruin est enuntiabile de
+substantia et non de honiine, quia substantia subicitur in eo 11 .</p>
+</div>
+</div>
+<div>
+  <head>B. DE HAG CONIUNCTIONE ‘VEL’</head>
+<p>Habito tde hac coniunctione disiunctiva 2‘an’ consequenter
+queritur 3de hac dictione ‘vel’. Circa quam prirno queritur quid
+significet hec dictio 4‘vel’; secundo autem 5queritur utrum suum
+significatum 6sit’ ens sirnpliciter vel non; tertio utrum res huius
+dictionis ‘vel’ sit in genere vel non; quarto qua.liter differat ab aliis
+coniunctionibus disiunctivis; quinto utruni disiunctio 8faciat termi
+num 9disiunctum 0predicabilem” de pluribus.</p>
+<div>
+  <head>Quid sigzficet hec dictio ‘vel’</head>
+<p>Circa primum queritur’ quia: Ut patet per diffinitionern con
+iunctionis, hec coniunctio ‘ye!’ signiflcat coinparationem que est
+secundurn sirnul aut secunduin prius e2t posterius. Sed non signi
+ficat coniparationem que e3st secunduin prius e4t posterius, quia sic
+esset dictio consecutiva 5.Ergo significat coinparationem que est
+secundurn simul. Ergo significat res simul esse. Sed contra. Dicit 6
+Boetius quod hoc sapit disiunctiva coniunctio quod e7a inter que
+coniurigit simul esse non permittit 8.Ergo hec coniunctio 9‘vel’ non
+ponit res siinul esse. Ergo non significat coinparationem que 1°est
+secundurn sirnul. Item ad idern. Priscianus diffinit coniunctionern
+disiunctivarn d1ice1ns “disjunctive coniunctiones sunt que, quarnvis
+dictiones coniungant, sensus tamen disiungunt et alterarn quidern
+rem esse, alterain vero non esse significant”’ 2• Sed diffinitio supe
+rioris convenit cuilibet [N72va1 inferiori. Ergo oportet quod h1e3c
+diffinitio intelligatur in hac coniunctione ‘vel’. Ergo hec coniunctio
+‘vel’ non ponit res sirnul esse. Ergo non significat coniparationern
+que est secunduin sitnul.</p>
+<p>Et dicendum quod hec coniunctio ‘vel’ significat coinpara
+tionem rerurn’ simul existentiuin disiungendo. Et hec coinparatio
+est disiunctio 2ipsorum disiunctorum equaliter se habens ad
+utrumque, quia hec coniunctio ‘vel’ non znagis se habet ad unurn
+disiunctorum [P8Ova] quarn ad alterum quantum est tie se, Ut curn
+dicitur ‘Sortes vel Plato’. Ad illud autem quod obicit per Boetiurn,
+dicendum quod ubicurnque 3est disiunctio, duo exiguntur, scilicet ea que disiunguntur
+et illud respectu cuius est disiunctio. Unde 4 cuni dicitur ‘Sortes vel Plato currit’
+5Sortes vel Plato sunt disiuncta et disiunguntur respectu huius actus ‘currit’.
+Unde hec coniunctio ‘vel’ ponit ipsa° disiuncta siinul esse et illud respectu cuius est disiunctio,
+non ponit sirnul 7esse in eis. Unde Sortes et Plato sirnul ponuntur
+secundum se, non tarnen simul ponuntur sub cursu. Et idec quod
+dicit Boethis, intelligenduin est quoad illud respectu cuius est
+[T43va1 disiunctio. Ad illud autem quod obicit de diffanitione
+coniunctionis disiunctive, dicendum quod ‘simul’ est duobus rnoclis.
+Quia uno rnodo est simul contra 8prius et posterius in consequendo.
+Et sic ornnes coniunctiones disjunctive dicunt res simul esse,
+eoquod n9on ponunt unum tamquam antecedens Ct reliquum tam
+quam consequens. Abc autein inodo dicitur ‘siinul’ secundum
+participationem unius rei, ut Si Sortes et Plato participant albedinein,
+dicuntur esse simul in participatione albedinis. Et hoc modo dicit
+Priscianus quod 1°coniunctiones disjunctive disiungunt sensus et
+aiterain quidem rein esse, alteram vero non esse significant.</p>
+</div>
+<div>
+  <head>Utrum suun sificatun sit en.s simpticiter</head>
+<p>Circa secundum queritur tquia: Quod iinportatur per hanc
+dictionem ‘vel’ repperitur in e2nte (ut ‘hoino vel asinus’) et in non
+ente (Ut ‘chimera vel hircocerwus’). Ergo non est ens sirnpliciter.
+kern ad idem. Quicquid est ens simpliciter, aut est substantia aut
+quantitas et sic de aliis. Sed hec coniunctio ‘vel’ non [.N72vb] signi
+ficat substantiam neque quantitatein et sic de aliis. Ergo significa
+t3urn eius non est ens sin-ipliciter sed quodainmodo. Quod conce
+diinus dicentes quod significat respectuin quendam repertum tan-i
+in ente quani i4n non-ente.</p>
+</div>
+<div>
+  <head>Utrum res huius dictionis ‘vel’sit iiz genere vel non</head>
+<p>Circa tertium otbicitur quia: Cum ornnes relationes s2int in Ad
+aliquid (sive in predicarnento Relationis), sed bec dictio ‘vel’ non
+dick rem absolu tam sed respectivam (quia nichil est dictu ‘Sortes
+currit vel’ propter hoc quod deficit [P8Ovb] alterurn extrernoruin),
+ergo dicit relationeiri. Ergo est i3n Ad aliquid (sive in predicainento
+Relationis). Item. Hec dictio ‘vel’ equaliter se habet quantum est de
+se ad utrumque extremoruin. S4ed dicit comparationein unius ad
+alterum. Ergo dicit relationem secundurn equiparantia.m. Ergo est in
+genere Relationis. Sed obicitur in contrariurn quod nulla comparatio
+que est secundum siniul a5nt secundum. prius et posterius, est in
+aliquo predicainento°. Sed omnis res cuiuslibet coniunctionis est
+compaiatio que est secunduin sin-jul a7nt s8ecundurn prius e9t poste
+rius. Ergo nulla res a1°licuius coniunctionis est in aliquo predica
+inento (et est sillogisinus in secundo prime). Ergo s1ignifi1catum
+huius dictionis ‘vel’ non est in aliquc genere. Quod concedimus.</p>
+<p>Ad prilnum autem quod obicit dicenduin quod ‘comparatio’
+sive ‘respectus’ est duplex. Quia quedain stint comparationes que sunt
+res siinpliciter existentes Ut pater—filius, duplum—dimidium. Et
+tales coinparationes sunt in predicamento Relationis, eoquod sunt’
+relationes. Alie autetn sunt comparationes que non sunt res siinpli
+citer existentes, eoquod sunt tam existcntiuin quaxn non-existenthim.
+Et huiusrnodi cornparationes non sunt in genere Relationis. E2t tales
+sunt significationes coniu.nctionum disiunctivaruin. lfnde non
+sequitur quod quarnvis hec coniunctio ‘vel’ dicat rein respectivain,
+quod propter hoc sit in Ad aliquid (sive in genere Relationis).</p>
+<p>Ad aliud dicendurn quod ‘cornparatio secunduni equalitatein’
+est duplex. Quia quedam est q1ue est ab anirna tanturn dun-i anmma
+apprehendit significata partiurn orationis. Et talis comparatio secun
+dun equalitatem non est in Ad aliquid, quia non est ens siinpliciter
+sed [N73ra] quodaininodo, cuin sit ipsoruin s2ignificatorurn et
+contingat significare tarn ens quain non-ens. Ergo c3oniparationes
+significatoruin non possunt esse simpliciter e.4ntes Ergo non sunt in genere 5.
+Et huiusmodi coinparatio significatur per coniunctionem
+disiunctivam. Alia autern est cornparatio secundurn equalitatein que
+solum [T43vb] sequitur rem coinpietam et perfectain in esse, Ut ami
+Cu S—V1C1flUS 6,sixnilis—equalis. Et huiusm odi coinparatio secun
+dum equalitatem est equipa.rantia’7. Et est 8 species Relationis. Unde
+est in genere Relationis.</p>
+</div>
+<div>
+  <head>Qualiterdzfferat ab aliis coniunctioizibus di.siunctivis</head>
+<p>Circa quartum obicitur quia’: Si iste coniunctiones 2‘vel’, ‘-ye’,
+‘aut’, ‘-ne’, ‘an’, ‘utrum’ non superfinunt, oportet eas differre a se
+invicein, [P8lraJ aut Si non differunt, oportet quod alique earuin
+superfluarit. Et propter hoc queritur qualiter hec coniunctio 3‘vel’
+differat ab aliis coniunctionibus disiunctivis. Et dicendurn quod iste
+coniunctiones ‘vel’, ‘-ye’, ‘aut’ 4differunt ab istis tribus, scilicet ‘an’ 5,
+‘-ne’, ‘utrum’, per hoc quod iste ties possunt esse medium per 6quod
+unus actus transit’ 7supra aliurn acturn, Ut ‘SC1O an Sortes currat’ et 9
+‘scis 1°utrum’ 1Sortes currat’ et ‘scit utrum Sortes currat’ et ‘putasne
+Sortes currat’. Sed ‘vel’ et ‘-ye’ et ‘aut’ non possunt esse medium quo
+anus actus possit’ 2transire supra aliurn actuin 13.Nichil enirn’ 4est
+dictu ‘1sc5is vel Sortes currit’, ‘scisve Sortes currit’ 1e6t ‘scis aut Sortes
+currit’, Ut actus sciendi intelligatur transire supra hoc quod dico
+‘Sortem currere’, sicut ex alia parte bene 1’7dicebatur ‘tu scis an Sortes
+currat’ idest ‘tu scis Sortern currere vel non currere’. Alia etiarn est
+differentia quia ille ties sunt interrogative, sed ‘vel’, ‘-ye’ et ‘aut’ non
+sunt interrogative, irnrno tantu.m disjunctive.</p>
+<p>Item. Nec coniunctio ‘vel’ disiungit res q’ue debent rnovere
+intellectum speculativurn vel quarnlibet aliam virtutern cognosciti
+yarn’ non 2rnotam ab affectu vel ab appetitu, sed prout 3est cognosci—
+tiva 4tantum. Sed hec coniunctio 5‘aut’ disiungit res anotivas 6practici
+intellectus vel ipsius affectus vel etiam motivas 7ipsius appetitus
+sensibilis. [N73rb] kern. Hec coniunctio ‘-ye’ differt ab hiis 8duabus,
+scilicet ‘vel’ et ‘aut’, quia heC est disiunctiva encletica, iIle 9vero non,
+sed s’unt tantum disjunctive. Enclesis autern est inclinatio; unde ‘1enc1e0ticum’
+idest ‘1.inclina1tivum’ Et sic iste tres differunt inter se
+et ab hti2is tribus interrogativis.</p>
+<p>Item. Hec coniunctio ‘-ye’ differt ab hiis duabus ‘an’ et ‘utruni’
+quia ‘-ye” est interrogativa encletica, ‘an’ vero et ‘utrwn’ non sunt
+encletice. Enclesis autern in solis tribus repperitur coniunctionibus
+que dicuntur encletice ‘-que’, ‘-ne’, ‘-ye’. Et quia attrahunt accentum
+precedentis dictionis ad ultiinarn sillabatu (Ut ‘2,putasne’ ‘dixitve’,
+‘)3amavi,tque’ ideo sequuntur seniper prirnam dictionem illius
+clausule in qua ponuntur. Et ideo d4icuntur a gramaticis subjunctive.</p>
+</div>
+<div>
+  <head>Utrum disiunctiofaciat terminnm disiunctumpredicabilem depluribvs</head>
+<p>Circa quinturn obicitur quod terminus d1isiunctus predicatur de
+utraque sui parte, ut ‘Sortes est Sortes vel Plato’ et ‘Plato est Sortes vel
+Plato’. Ergo terminus disiunctus est terminus coinmunis ad utruin
+que disiunctorum. Ergo est predicabiis tie phiribus. Sed obicitur in
+contrarium quia: Quicquid predicatur de pluribus est genus vel
+[P8lrbJ species v2eI differeratia vel propriuxn vel accidens v3el diffi
+nitlo. Sed terminus disiunctus nullum istorum est, quia o4rnnia ista
+sunt e5,ntia terminus v6ero disiunctus repperitur tam in ente quam
+in non-ente. Ergo terminus disiunctus non est predicabilis de
+pluribus.</p>
+<p>Solutio. Communitas predicationis’ est duobus rnodis. Quia uno
+modo est quando res [T44ra] una participata a pluribus predicatur de
+pluribus vel substantialiter vel accidentaliter. Et tunc oportet quod sit
+unuin de quinque predicabilibus vel d.2iffinitio Alio autein rnodo
+communitas predicationis est quando non predicatur res una, s5ed
+complexic pl’uriurn reruni i4ndifferenter ponendo UflUfli et remo
+vendo reliquuiri. Et hoc modo terminus disiunctus est predicabilis
+de pluribus, Ut ‘Sortes vel Plato’ et sic de aliis. Et quia hec coniunctio
+‘vel’ tie n5atura sua i6ndeterminate ponit unum disiunctoruni et
+removet reliquuin respectu a7licuius tertii (Ct sic e8st disiunctiva),
+ideo proprie sunlitur cum disjunctive tenetur, minus [A773va] vero
+proprie quando tenetur subdisiunctive; et dicitur subdisiunctive
+teneri quando utraque pars disiunctionis est vera,</p>
+<p>Item. Videtur quod terminus disiunctus debeat esse aliquod’ de
+quinque p2redicabilibus quia: Quicquid recipit supra se distributia
+nem, est unurn de quinque predicabilibus. Sed terminus disiunctus recipit supra se distributionern,
+Ergo terminus disiunctus est unurn
+de quinque predicabilibus. Maior patet q5:uia ‘Omnis’ e4t ‘nullus’ C5L
+consimilia u6niversaliter consignificant. Sed nichil sumitur univer
+saliter nisi universale. Ergo tantuni sunt dispositiones universalis.
+S7ed universale dividitur per quinque predicabiia. Ergo quicquid
+recipit supra se distributionem etc. Et hec fuit major. Minor v8ero
+patet, quia aliter non esset hec vera ‘oirine rationale vel irrationale
+est animal’ et econverso.</p>
+<p>Solutio. In terrnino d1isiuncto duo sunt: unum est ipsa disiunc
+tio et aliud ipsi terinini qui disiunguntur. Unde terminus disiunctus
+ratione d2isiunctionis nuinquani potest recipere d.3istributionern Sed
+ratione terrninoruirt qui disiunguntur, aliquando potest, aliquando
+non, q4uia quando terinini disiuncti sunt singulares non p5otest re
+cipere distributionern; nichil enini est dictu ‘oinnis Sortes v6el Plato’.
+Quando autem terinini qui disiunguntur sunt universales, tunc
+terminus disiunctus potest recipere distributioneni, Ut ‘OfllfllS honio
+v7el asinus est homo’. Sed tunc oratio est duplex, eoquod potest reci..
+pere distributionem pro altera parte tan turn. Et sic èst vera hec
+‘oinnis hoino vel asinus [P8Iva] est hoino’, et h8ic est sen.sus: ‘omnis
+horno est homo vel omnis asinus est homo’; et sic est propositio dis
+iunctiva. Alio autern modo potest recipere distributionein pro utraque
+p9arte sirnul. Et sic est falsa hec ‘omnis hoino vel asinus est homo’; et
+est categorica et est sensus: ‘tarn hoino quam asinus universaliter est
+horno’. Tertio autem inodo toturn disiunctum potest recipere distribu
+tioneni s°tupra se, p1’rout convenit utrique parti disiunctionis. Et sic
+hec est vera ‘onine rationale vel irrationale est animal’, q2uia’ natura
+aniinalis adequatur cum disiuncto quod est ‘rationale vel irrationa
+le’. Et sic [Z’173ub] patet qualiter terminus disiunctus s3i totum dis
+iunctum potest recipere supra se distributionem et qualiter non. Patet
+etiam quod in sillogismo q1ue4rrL facit rnaior et minor sunt duplices.</p>
+</div>
+<div>
+  <head>Sophismata</head>
+<p>Secundum predicta queritur de hoc sophismate QUICQUID
+EST VEL NON EST, EST. Probatio. ‘Quicquid est, est’; hec est Vera.
+Sed verum potest d1isiungi a quolibet a2lio a vero. Ergo prima vera.
+Contra. Quicquid est vel non est, est. Sed Cesar est vel non est. Ergo Cesar est.
+Solutio. Prima duplex, eoquod potest esse divisa; et est sen
+sus: ‘quicquid est, est vel quicquid [T44rb] non est, est’. Et sic est vera,
+q3uia pro altera parte; et sic est disiunctiva. V4e1 potest esse composita,
+et est sensus ‘5quicquid est vel non est, est’ idest ‘tam onine iflud
+quod est quarn oinne illud quod non est, est’. Et sic est falsa et sic est
+categorica. Unde est ibi sophisina compositionis, quia composita est
+falsa.</p>
+<p>Item. Queritur de hoc sophisinate OMNIS PROPOSITIO VEL
+EIUS CONTRADICTORIA EST VERA. Probatio. Ista propositio’
+‘Sortes currit’ vel eius contradictoria est vera. Et ha propositio ‘Plato
+disputat’ vel eius contradictoria est vera, et sic de a2.iiis Ergo omnis
+propositio vel eius contradictoria e3st vera. Contra. Omnis propositio
+vel eius contradictoria e4st vera. Sed non oinais propositie est vera.
+Ergo orunis eius contradictoria est vera. Quod falsurn est.</p>
+<p>Solutio. Prima duplex, eoquod distributio potest cadere supra
+propositionem s1’umptam absolute. Et sic distribuit ipsam pro qualibet
+particulari propositione; et sic est fa1sa et divisa., quia hec est
+disiunctiva cuius utraque pars est falsa. Vel distributio potest cadere
+supra propositionein n2on absolute sumptani sed comparatam ad su
+am contradictoriaru. Et hoc niodo adhuc est duplex. Quia uno niodo
+iste terminus d5isiunctus ‘propositio vel eius contradictoria’ potest
+subici predicate pro utraque parte universaliter, sicut in hiis ‘oinne
+rationale vel irrationale est animal’ et econverso; ‘omne par vel mi
+par est nuinerus’ vel econverso; ‘orn.ne rectum [P8Iv1J vel curvurn
+est linea’ et econverso. Et s4ic prima adhuc est faisa, quia. hoc modo
+sensus est ‘omnis propositio vel ems contradictoria est vera’ idest
+‘omnes propositiones et e5amm contradictorie [.N74ra] sunt vere in
+s,7iinul’ quod est impossibile. Alio autem modo iste terminus dis
+i8unctus ‘propositio vel eius c9ontradictonia’ subicitur huic predicate,
+scilicet ‘esse verum’, non pro utraque parte disiunctionis insiniul et
+universaliter, sed pro utraque indeterminate, ita quod aliquando sit
+veritas pro aliquibus singularibus unius partis disiunctionis, aliquan
+1d0o pro stingu1laribus a1lter2ius partis disiunctionis; et sic est vera.
+Ut s1i stent sex propositiones, scilicet ‘Deus est’, ‘horno est la.pis’, ‘Sor
+tes est asinus’, 1e4t cum istis sint earurn contradictorie, tunc cum
+dicitur ‘hec propositio “Deus est” vel eius contradictoria est vera, illa
+propositio, scilicet “homo est lapis” vel eius contradictoria est vera’
+(et sic de aliis tam aflirmativis quam negativis, ut quelibet illarum
+sex accipiatur tam affIrmativa t5quain negativa in disiunctione ad
+suam oppositarn), — aliquando est veritas ex utn6a parte disiunctio
+nis, aliquando ex altera. Et sic probat Et sic distribuitur ‘propositio’l?
+pro omni affirmativa 18in disiunctione ad suarn negativain et pro
+onini negativa in disiunctione ad suani affirniativam. Unde tres
+sunt sensus in predicta oratione t9.Et secundu.m primum est ibi 20
+sophisma divisionis, q2u1ia t2un2c est divisa et falsa (2e3t est tunc
+propositio disiunctiva). Aliis autern duobus modis est categorica. Et
+p2rin4-io corum est falsa, s2ecu5ndo vera.</p>
+</div>
+</div>
+<div><head>C. DE CONIUNCTIONE COPULATIVA</head>
+<p>In precedentibus dictum est de coniunctionibus 1-interrogativis
+Ct disiunctivis. Nunc autem dicenduin est de hac coniunctione ‘Ct’.
+Circa quarn prilno queritur quid significet; secundo utrurn res eius
+s2it ens simpliciter vel non; tertio utrurn res ems sit [T44ua] in
+genere vel non; quarto queritur cuiusniodi unitas f3iat per hanc
+coniunct:ionem copulativam ‘et’; quinto 4,cuxn habeat copulare diver
+sa, queritur que sint iHa 5cliversa; sexto queritur 6propter quid, quando
+preponitur, genlinatur.</p>
+
+<div>
+  <head>Quid signficet hec caniunctio ‘et’</head>
+<p>Circa primuni queritur quid significet hec coniunctio ‘et’ quia’:
+Hec coniunctio ‘et’ clicitur copulativa ab actu copulandi quem exer
+cet. Sed nulla dictio significat actuin quem exercet, sicut nullum
+instrurnenturn significat acturn suuni. Ergo curn hec dictio ‘et’
+exerceat copulationem, [N74rb] (vel acturn copulandi), tunc hec
+coniunctio ‘et’ non potest significare copialationern. [P82raj Item ad
+idem 2.Hec coniunctio ‘et’ est pars orationis reperta ad copulandum
+ceteras partes orationis 3.Sed curn dico quod est pars orationis reperta
+ad copulanduin alias partes, in hoc attribuo 4ei duo: unuin est 5 quod
+est pars orationis, aliud est quod habet 6ex natura sua copulare ceteras
+panes. Sed s7ua signiflcatio debetur ei per hoc quod est pars orationis,
+copulatio vero 8debetur ei ratione finis 9ad quem est 10 et propter
+quein” inventa fuit 12.Qui’ 3scilicet finis est copulare panes alias.
+Ergo signiflcatio huius t4coniunctionis 15‘et’ non est copulatio’ 6.Ergo
+non significat copulationem. Quod 17 concedimus.</p>
+<p>Ad illud quod queritur’, dicendum quod hec coniunctio ‘et’
+significat comparationem 2que 3est "secundum" siniul sive secun
+durn 4snnultatein 5.Et ad istam simultatem sequitur copulatio, sicut
+ad hoc quod dico ‘non cuin alio’ sequitur exclusio. Unde cum dico
+‘Sortes et Plato sunt albi’, hec 6coniunctio ‘et’ dicit siinultatem vel
+unitatern eorum 7in albedine, et ideo copulat istos respectu albe
+dinis. Et nota quod hec coniunctio 9‘et’ non dicit simul 10in tempore,
+quia sic esset hec falsa ‘Adam et Moe fuerunt homines’ 11,quia non
+fuerunt in eodem tempore, quia rieque in tempore Ade t2 neque in
+tempore Noê t5.Ergo non 14 dicit sirnul in texupore. Item ad idem.
+Bene t5 dicitur 16 ‘ille cucurrit 17hen et curnit modo et’ 8 curret cras’.
+Sed cursus t9 hesternus 20et hodiernus et crastinus non sunt in eo—
+dem ternpore. Ergo hec coniunctio ‘et’ non dicit 21 sitnul in tenipore.
+Quod concedimus dicentes quod. hec coniunctio 2‘Ct’ dicit primo et
+per se simultatem 23pluriurn subiectorum in uno accidente de pan 24
+quantum est de Se, vel pluriurri accidentiurn in uno subiecto, Ut
+‘Sortes et Plato sunt albi’ ‘ve1 25 ‘Sortes sedet 26 et disputat’. Circa secun
+dum et circa tertium queratur Ct solvatur sicut prius de hac coniunc
+tione ‘vel’.</p>
+</div>
+<div>
+  <head>Guiusmodi 2rnitasfiat per hanc c.,niuiictioizein ‘et’</head>
+<p>Circa quartum obicitur quia’: Omne 2totum ha.bet in se aliquam
+unitatem. Sed oninis terminus copulatus (Ut ‘Sortes et Plato’) est quod
+dam totuni. Ergo habet in se aliquani unitatein (in primo prune 3).
+Sed obicitur [N7lva] in contrarium quod 4non est unum 5genere
+neque unuan specie neque ununi nuniero (quia neque unum nomi
+ne vel diffinitioxie) neque unum proprio neque unurn accidente.
+Ergo non habet in se aliquani unitatem. Omnes enirn premisse per
+se manifeste sunt. Et ideo supponantur 6.</p>
+<p>Et dicenduin quod ‘unuin’ dicitur multipliciter. Quia est quod
+darn unurn quod est 1 ex materia et forma, ut homo est ex corpore
+[T44vb] humano (quod est eius materia) et ex aniina intellectiva
+(que est eius forina). Alio autem inodo est unurn continuatione 2,Ut
+linea, superflcies, tempus et quocilibet con tinu urn. Tertio autem
+rnodo est unurn insertu 5,Ut in arbore cx rarno 4unius arboris et
+trunco alterius arboris fit unum per 5 insertionem. Alio autem inodo
+est unum contiguatione 6,sicut sunt duo corpora inter que non est
+medium, sicut contiguatur digitus digito quando 7nichil 8est in
+rnedio. Alio autem modo est unuin aggregatione, ut acervus lapi
+durn. Alio autem rnodo est unum collatione sicut ex came et osse
+fit unurn per quoddain medium quod non 1°est omnino caro neque
+omnino Os, sicut sunt nervi et cartillagines. Dico ergo quod hec
+coniunctio ‘et’ facit unitatein aggregationis et non aliain cx predictis.
+Unde terminus copulatus” est unurn aggregatione’ 2.</p>
+<p>Ad illud autem quod obicit 1in contrariuni (dividendo unum
+per unum genere et unum specie Ct SiC de aliis), dicendum quod
+unum 2ibi non dividitur quoad ornnes suas significationes, sed
+tanturri quoad illas 3secundurn quas sumuntur 4quatuor predicata 5in
+Topicis, et annexa comm. Quatuor autem predicata de quibus agitur
+in Topicis hec sunt: diffinitio, proprium, genus, acciclens; annexa
+comm sunt alia predicata reducibilia ad hec. Ut ‘idern genere’
+reducitur ad genus et etiain differentia reducitur ad genus; cornpara
+tiones vero accidentis 6(ut ‘melior’, ‘fortior’, ‘iustior’, ‘utilior’ et ‘peior’,
+et sic 7 de aliis) reducuntur ad predicatuni dc accidente; idern autem
+simpliciter et diversum reducuntur ad predicatuiri [N74vb] de 8diffi
+nitione.</p>
+<p>[P82va] Item. Nota quod licet hec coniunctio ‘Ct’ debeat
+copulare diversa, non tainen copulat quelibet diversa, quia non potest
+copulare adiectivum substantivo nec econverso (Ut ‘honto Ct albus currit’)
+propter hoc quod d1e se dicit associationexn aliquorum d2e
+pan. Unde equaliter respicit utruinque eictreinoruin. Et ideo primo et
+per se vel copulat duas substantias 3uni accidents vel duo 4accidentia
+uni substantie, Ut ‘Sortes et Plato surLt albi’, ‘hoino 6legit et disputat’.</p>
+</div>
+<div>
+  <head>Quam diversitatem exigzt h.ec anziunetio et’</head>
+<p>Circa quinturn queritur quia: Videtur i1ani ex predictis quod
+hec coniunctio ‘et’ non possit copulare quelibet diversa, quia non
+potest copulare adiectivum substantivo 2,Ut prius patuit. Ergo non
+copulat quelibet diversa. Et propter hoc queritur quam diversitatein
+exigat hec 3coniunctio 4‘et’. Et dicendum, sicut iain patet ex 5 predic
+tis, quod exigit 6diversitatein substantiaruni de 7 pan se habentium
+vel etiam 8accidentium 9‘vel habitudinuin. Et universaliter debet
+copulare diversa d° pan se liabentia, Ut ‘Sortes et Plato’ v1etl ‘albus
+et niger’, vel ‘ab ilk 1e2t in jib’; et sic dc aliis habitudinibus, acciden-.
+t1ib3us et substantiis.</p>
+<p>Sed tunc queritur utrurn sufliciat ei cliversitas suppositoruln
+curn uriitate significationis, Ut ‘horno et homo currunt”. Et videtur
+quod sic quia: Omne 2plurale gerninat singulare in terininis {T45va]
+corninunibus (Ut rernoveantur signa universalia, narn ‘omnis’ non
+geininat suuirt singulare). Sed bene dicitur ‘homines sunt’. Ergo
+bene dicitur 3‘hoino et homo sunt’. Et similiter bene dicitur ‘horni
+nes currunt’. Ergo bene dicitur 3‘homo et hoino clirrunt’; et sic de
+aliis 4.Item ad idern. Dicit Boetius in libro suo De Trrnitate quod talia
+sunt predicata qualia subiecta permiserint. Quod probat quia: Cuni
+dicitur ‘homo est iustus’, ‘lJeus 5est iustus’, hoc nomen. ‘iustus’ pre
+dicat de hon’iine iustitiam accidentalem, d6e Dco autem predicat
+divinain 7essentiarn. Econverso tamen potest dici quod talia sunt 8
+subiecta qualia perrniserint predicata. Sed aim dicitur ‘homo et
+homo currant’, predicatum exigit quod iste terminus ‘hoino’ inde
+finite 9sumptus teneatur pro diversis. Sed si pro diversis teneatur,
+berte dicitur. [N75ra] Ergo’° recte dicitur ‘homno et hoino currunt’.
+Quod concedimus. Sciendum11 autem quod convenientius copulat diversa supposita12 et
+diversa significata de13 pari se habentia (ut 'homo et equus currunt') quam diversa supposita
+cum unitate significationis (ut 'homo et homo currunt')</p>
+</div>
+<div>
+  <head>Propter quid, quando preponitur, geminetur</head>
+  <p>Circa sextum queritur quia1: Omnis copulativ coniunctio, nisi sit encletica,
+    equaliter se habet ad utrumque extremorum. Sed quando preponitur uni, magis se habeat
+    ad illud cui preponitur. Ergo2 hec coniunctio 'et' equaliter se habet ad illud cui
+    preponitur. Ergo numquam debet3 preponi. Sed si non preponitur, non geminatur.
+    Ergo numquam debet geminari. Et dicendum quod hec4 coniunctio 'et' equaliter respicit5
+    utrumque extremorum. Et ideo quando6 preponitur uni extremorum: quia7
+    magis se habet ad illud cui preponitur, propter8 hoc oportet quod preponatur
+    alteri ut equaliter se habeat ad utrumque extremorum. Et hec est9 causa propter10
+    quam quando preponitur, geminatur.</p>
+  </div>
+    <div>
+      <head>Sophismata</head>
+    <p>Secundum predicta queritur de hoc sophismate OMNE NON_ANIMAL QUOD ET SORTES
+    SUNT DUO, NON EST SORTES. Probatio. Hoc non-animal quod et Sortes sunt duo,
+    non est Sortes (demonstrato ligno). Illud non-animal quod et Sortes sunt duo,
+    non est Sortes (demonstrato lapide), et sic de aliis. Ergo omne non-animal
+    quod est Sortes et duo, non est Sortes. Contra. Omne non-animal quod et SORTES
+    sunt duo non est Sortes (locus1 a convertibili, quia 'non-animal' et 'aliud quam animal'equipollent).
+    Sed Sortes est aliud quam animal quod et Sortes sunt duo. Ergo Sortes non
+    est Sortes (in quarto prime).</p>
+    <p>Solutio. Prima siinpliciter est vera. Et irnprobatio non valet. Nec
+est sillogismus’ quern facit, s2ed paralogisnius, quia major et minor
+sunt duplices. Quia h3ec propositio que erat niaior (4scilicer ‘omne
+aliud quarn animal quod et Sortes sunt duo, non est Sortes’) est
+duplex, eoquod hoc relativum ‘quod’ potest referre hunc tenninum
+‘aliud’ vel hunc terrninum ‘animal’. Si autem referat istuni termi
+num ‘,6aliud’ sic est major vera et est sensus: ‘omne aliud ab anirnali
+quod (scilicet aliud ab anirnali) et Sortes sunt duo, non est Sortes’. Et
+hoc est veruin, quia nichil est a7liud ab animali nisi lapis et lignum
+et cetera inaniinata omnia, quorum nullum [lV75rbj est Sortes. Si
+autem referat istum terrninum ‘,8animal’ sic maior est falsa et est
+sensus: ‘omnne aliud quarn animal quod (scilicet animal) [P83ra] et
+Sortes sunt duo, non est Sortes’. Hoc a9utein falsum est, quia Sortes
+non facit numerum secum, sed omnis alii homines faciunt nume
+rum curn Sorte, et alia animalia. Et ita Sortes est aliud a quolibet
+[T45rb] anirnali faciente numerum cum Sorte. Et sic S1or0tes corn
+prehenditur i1’n hac distributione ‘omne aliud. quarn animal quod
+(scilicet a2)nirnai’ etc.’, secun dumn quod hoc relativuin ‘quod’ refert
+istum terniinunt ‘animal’. Unde hoc modo nzaior dicit quod Sortes
+non est Sortes. Econverso auteni dicendum est de minori. E3t’ ut
+melius pateat falsitas maioris in sensu secundo, ponatur quod Sortes
+sit et nullurn aliud animal s1i4t nisi Plato et unus equus. Tunc
+nullurn aliud animal est q1uo5d faciat nunierurn cum Sorte nisi
+Plato et ille cquus. Et Sortes aliud est ab illis duobus. Et sic hec est
+falsa ‘omne aliud quain i1116a duo animalia que (scilicet a’1nim)alia
+faciunt nurneruin cum Sorte, non est Sortes’.</p>
+<p>Item. Queritur de hoc sophismate OMNE’ ENUNTIAIILE
+DIFFERT AB ALIQUO ET SUUM OPPOSITU1 EST COMPONI
+B2ILE ILLI. Probatio. Hoc enuntiabile ‘Sortem esse’ differt ab aliquo Ct
+suumn oppositum est componibile illi, quia differt ab hoc enuntiabili
+‘equurn currere’ et suurn oppositurn, sciicet ‘Sortein non esse’, est
+coinponibile illi, quia potest stare cum illo: simul enim possunt esse
+vera hec dua enuntiabilia, scilicet ‘Sortem non esse’ et ‘equum
+currere’. Istud enuntiabile, scilicet ‘hominem legere’, differt ab auquo
+et suuiri oppositum est coinponibile illi, Ct sic de aliis. Ergo
+prima vera. Contra. Hec est quedam copulativa cuius utraque pars est
+falsa. E3rgo i4psa est falsa. Solutio. Prima falsa. Et probatio peccat
+secundum figurarn dictionis a pluribus "suppositionibus deter-.
+minatis ad unarn 5huius terinini ‘aliquo’. Et etiam est ibi accidens per
+quandam regulam in Distributionibus habitarn quia, quanivis hec
+distributio ‘onine enuntiabile’ secunduin se convertibiliter sequatur
+ad suas partes singulares omnes, tainen secundum quod partes stant
+sub hoc predicato quod est ‘differre ab aliquo’, sic non sequitur ad
+illas, sed est ibi accidens.</p>
+</div>
+</div>
+<div>
+  <head>D DE NAC DICTIONE ‘NISI’</head>
+
+<div>
+  <head>Introductio</head>
+<p>Loquentes coinmuniter ponunt quod hec dictio 1‘nisi’ per se et
+proprie tenetur consecutive et non exceptive. [W75va] Et [P83rb] ideo
+circa hanc dictioriem ‘nisi’ prirno queratur utruni possit teneri cx
+ceptive vel non; secundo queratur utruin hec dictio ‘nisi’ Ct hec ora
+tb ‘Si rkOfl’ equipolleant ad invicem, cum hec dictio ‘nisi’ compona
+tur CC ‘Si’ et ‘non’; tertio queritur quot sint genera dictionuni instand—
+varuin et qualiter differant in genere; quarto queritur quare potius ex
+hoc adverbio negandi ‘non’ per compositionem flat dictio instantiva
+que 2est exceptiva quam alia dictio instantiva alterius generis; quinto
+queritur quare hec dictio ‘nisi’, secundum quod est con secutiva, vult
+seinper adiungi verbo subiunctivi rnodi.
+</p>
+<div>
+  <head> Utrum hec dictio ‘nisi’ pssit teneri exceptive </head>
+<p>Circa priniuin obicitur quod 1aliquando teneatur exceptive quia:
+Instantia 2aliquando fit in toto, Ut ‘Sortes currit’, ‘nullus homo currit’;
+hic enini 3fit instantia in toto contra partem; aliquando 4fit instantia
+in parte contra 5totum, ut 6 cum dicitur ‘oinnis hoino currit’, ‘Sortes
+non currit’ vel ‘quidam homo non currit’; hic enirn fertur instantia in parte contra totunt.
+Sed posito quod Sortes currat et nichil aliud,
+tunc hec est vera ‘nullus horno currit nisi Sortes’. Sed ibi est instantia
+extrahendo7partexn a toto. Sed non est possibile ferre instantiarn
+extrahendo8partem a toto nisi per dictionexn exceptivam. Ergo hec
+dictio ‘nisi’ in predicta oratione tenetur exceptive. Item9ad [T4Yva]
+idem. Cum dicitur ‘nullus horno currit nisi iste’0asinus’, hec oratia
+est impropria. Sed Si hec dictio ‘nisi’ teneatur consecutive, esset pro
+pria sed esset falsa. Ergo hec dictio ‘nisi’ non tenetur ibi consecutive.
+Sed tenetur consecutive vel exceptive. Ergo tenetur ex:ceptive. Item ad
+idem. Consequentia est duplex11.Quia’2queda.ni est consequentia
+simplex’3,ut ‘si honto currit, animal currit’. Alia autern est conse
+quentia uS flUfl Ut ‘51 veneris rnecuin14,ibo ad ecclesiant’. Sed ex
+nulla earum licet inferre15consequens ve116 antecedens. Quia ex pri
+ma consequentia non sequitur ‘ergo homo currit’ (quod. est antece
+dens) neque sequitur ‘ergo animal currit’ (quod est consequens). Et
+ex altera consequentia, que est consequentia ut rzuizc, non17 sequitur
+‘ergo venies18 niecuin’ (quod est antecedens) neque’9sequitur ‘ergo
+ibo ad ecclesiani’ (quod est consequens). Ergo ex riulla earum Sequi
+tur consequens neque antecedens. Sed cum dicitur ‘nullus homo
+currit20 nisi Sortes’, [A775vb} ex h ac beite sequitur ‘ergo Sortes currit’.
+Ergo hec dictio ‘nisi’ non tenetur ibi consecutive. Et tenetur21 con
+secutive vel exceptive. Ergo tenetur exceptive.</p>
+<p>Quod concedimus dicentes quod [P83va] aliquando tenetur
+exceptive, Ut in prcd.ictis orationibus et consirnilibus, et non sejriperi
+tenetur consecutive. Sed contra. Hec dictio2‘nisi’ componitur ex 4si’
+et ‘non’. Sed neque ‘Si’ neque ‘non’ sun t dictiones exceptrve neque
+habent naturairi3exceptionis. Ergo hec4 dictio ‘nisi’ non habebit
+naturarn5exceptionis, cuin con-iposituirl non habeat naturain au
+guam6nisi a suis componentibus. Ergo hec7 dictio ‘nisi’ numquain
+tenetur exceptive. Et tenetur exceptive vel consecutive. Ergo tenetur
+consecutive. Item. On-mis dictio exceptiva dicit habitudinem partis
+ad toturn. Sed nulla coniunctio dicit habitudineni partis ad totum.
+Ergo nulla coniunctio est dictio exceptiva (in secundo secunde).
+Ergo hec dictio ‘nisi’ non est d8ictio exceptiva. S9ed est exceptiva vel
+consecutiva. Ergo Ca consecutiva.</p>
+<p>Et dicenduni, sicut dictum est p,1rius quod hec dictio ‘nisi’
+aliquando tenetur exceptive, aliquando consecutive. Ad illud autem
+quod obicit in con.trariurn, dicenduin quod, sicut o,2bicit hec dictio
+‘nisi’ componitur CX ‘Si’ et ‘non’. Sed hoc adverbium ‘non’ semper
+fert instantiam e3i cui adiungitur, cum s4ernper contradicat ci. Et sic
+est dictio instantiva et fert instantiam aliquando in toto, aliquando in
+parte, sicut diximus prius. Sed per c5ornpositionem t6rahitur ad.
+instantiam que est in parte, extrahendo partern a toto. Et hoc sufficit
+ad dictionem exceptivarn, ut ‘nullus h7onto nisi Sortes’. Et ideo hec
+dictio ‘nisi’ aliquando tenetur exceptive, aliquanclo consecutive. Et sic
+patet quod, quarnvis hoc adverbiurn ‘8non’ n9on sit dictio exceptiva,
+habet tamen naturam i,0nstantie’ que (scilicet natura instantiva) per
+ctornp1ositionem t1rah2itur ad n1atu3ram dictionuni exceptivaruni
+in hac dictione ‘nisi’. Ad secundum quod obicit in contrariurn,
+dicendum quod non sillogizat in secundo secunde, sed potius para
+logizat, quia minor paralogisrni predicti est [N76ra} duplex, scilicet
+hec ‘nulla coniunctio dicit habitudinem partis ad totum’, eoquod
+quedam sunt coniunctiones que habent in se naturam duplicern.
+Sicut ille coniunctiones que sunt composite cx coniunctione et ex
+aliis partibus orationis, ut hec coniunctio ‘quapropter’, que est corn
+posita cx hoc nomine ‘qua’ Ct ex hac prepositione ‘propter’; et sic
+intellectus eius con stituitur cx iritellectibus i11lar4um dictionuin. Hec
+autem coniunctio ‘nisi’ coinposita. est, Ut dictum est, cx ‘non’ et ‘Si’.
+Unde habet in se naturam instantie que est secundum partem, ut
+dictum fuit prius. [T45vb] Et p1e5r hoc dicit h6abitudinein’ partis ad
+t1.otu7m Et sic habet in se duplicem naturain, s8cilicct’ naturarn
+instantivain r1atio9ne adverbii ex quo componitur, et naturarn conse
+c2utiv0am ratione coniunctionis, unde dicitur coniunctio consecutiva21.</p>
+</div>
+<div>
+  <head>Utrinn ‘nisi’ et ‘Si flOfl’ equipolleant ad invicem</head>
+<p>Circa secundum nota quod, sicut patet ex predictis’, hec dictio
+‘nisi’ aliquando tenetur exceptive, aliquando consecutive. Et secun
+dum quod tenetur consecutive, hec dictio2‘nisi’ et hec Oratlo ‘si non’
+equipollent, Ut ‘non currit nisi inoveatur’ iciest ‘non currit Si non
+rnoveatur’ . Secundurn autem quod hec dictio ‘nisi’ tenetur exceptive,
+tunc3significat aliud quazn hec oratio ‘
+si non’ et non sigaifica.t
+idern, curn tunc significet habitudinena partis ad toturu, Ut ‘flOfl
+cum4hoc’; sicut enirri dictio exciusiva significat hoc "totum" ‘
+non cuin alio’, sirniliter econverso dictio excepuva signiftcat hoc5totuin
+‘non cuni hoc’. </p>
+</div>
+<div>
+  <head>Qpot sint genera dictionvin instarztivantnz</head>
+<p>Circa tertiurn nota quod tria sunt genera dictionum instan
+th’aruin. Quia. quedam stint exclusive; et iste instant exc1udendo.
+Alie sunt exceptive; et iste instant excipiendo. Alie sunt contra
+dictorie sive contradicentes; et per istas fit instantia contradicendo.
+Nota etiarn quod in genere sic differunt1quia2 exclusive instant
+scraper in toto excludendo3ipsurn (ut ‘solus Sortes’4),exceptive vero
+instant semper in parte, extrahendo5partern a toto (Ut ‘nullus honro
+nisi Sortes’); contradictorie vel contradicentes instant [N76rb] indif
+ferenter aliquando in paste, aliquando in toto, removend.o aliquid a
+toto6vel a parte7 (Ut ‘quidam homo curnit, nullus horno currit’;
+‘omnis homo currit; quidarn hoirto non currit’).</p>
+</div>
+<div>
+  <head>De co?npositiorre huius dictionis ‘nisi’</head>
+<p>Circa quarturn obicitur quiat:Curn hec dictio ‘non’ intelligatur
+in qualibet dictione instantiva (Ut in exciusivis et in exceptivis
+thctionibus et2 in contradicentibus) et ita3 sit pnincipiuin 4ornnium.
+earuin, ergo, sicut per compositionein 5ex6ea fit dictio exceptiva,
+sic7 etiam ex ea debet lien dictio instanth’a alterius generis, ut exciusiva.
+Et dicendum quod non est idern inodus intelligendi hanc dictio
+nem ‘non’ in qualibet 8dictione instantiva. Unde non est uno inodo
+principium omnium dictionum instantivarum. {P84raJ Quia dupli
+citer est una dictio principiuin alterius, quia mm niodo per irnpo
+sitionem, a9lio modo per compositioneni. Unde dico quod in dictio
+nibus exciusivis per impositionern earurn intelligitur negatio, quia
+‘tantum’ et ‘solus’ cx sua irnpositione significant ‘non 1°aim alio’. Et
+ita t’iste dictiones exceplive ‘preter’, ‘preterquarn’ simuliter habent
+per 12 impositionern negationei:n’ 3de intellectu suo. Sed iste dictio—
+tn4es contradicentes ‘nullus’, ‘nichil’, ‘neuter’ et etiain hec d1jc5tjo
+exceptiva ‘nisi’ per compositionem habent negationern t6de intel
+lectu suo. Et sic patet quod non est ideni rnodus cointelligendi’ 7
+negationem in omnibus dictionibus instantivis. Unde non oportet, si
+in quibusdarn est per compositionem, quocl’ 8in aiiis sit sirniliter per
+compositionem.</p>
+<p>Item. Queritur quare ex hoc aclverbio ‘non’ Ct CX hac coniunc
+tione ‘si’ potius’ fiat dictio exceptiva per compositionem quaxn exclu
+siva, curn hoc adverbiutn ‘non’ 2sit instantivuin 3Ct instantia reppe
+riatur tam in exclusivis 4quam in exceptivis 5,quainvis differenter 6.
+Et dicenduin quod hoc adverbiuiri ‘non’ negativurn est, quod 7negat;
+Ct 8 per ordinationcin 9ipsius [T46ra] ad 10 hanc dictionern ‘si’ intel
+ligitur adversatio. U1ndte in hac dictione ‘nisi’ intelligitur negatio et
+adversatio. Et propter’ 2hoc est dictio exceptiva, quia adversatur
+preiacenti’ 3in aliqua parte ipsius.</p>
+<p>Item. Curn hec 1 dictio ‘nisi’ sernper sit composita cx ‘non’ 2et
+‘Si’ et [N76va] aliquando sit exceptiva, aliquando vero consecutiva,
+oportet ergo quod diversimode fiat compositio huius dictionis ‘nisi’
+cx suis componentibus. Quod concedimus dicentes quod quando hec
+dictio ‘nisi’ est consecutiva, consecutio cadit supra negationern; et
+tunc consecutio est completiva huius dictionis ‘nisi’. Et tunc hec
+dictio ‘nisi’ secundurn Priscianuiri continetur sub coniunctione con
+tinuativa 3Ct secundurn Donatum sub coniunctione causali. Ut ‘non currit nisi
+4 moveatur’ idest ‘5 non Inoveatur, non currit’. Quando
+autem est exceptiva, tunc negatio cadit supra consecutionein. Et sic
+negatio transinutat 6compositioneni in alterain specieni, quia 7in
+dictionem exceptivam. Et sic secunduni diversos inodos coinpo
+sitionis est hec dictio ‘nisi’ alterius et alterius speciei.</p>
+<p>S1i auteni queratur utrum instantia repperiatur equaliter in
+tribus 2predictis generibus dictionum 3instantivarum, dicenduni 4
+quad non, quia per prius est instantia in dictionibus instantivis 5
+contradicentibus (quia 6hic 7 niaxinia 8est oppositio, cum ibi sit
+contradictio) et per posterius instantia repperitur in dictionibus
+exceptivis. [P84r61 Et tanien in hiis plus est de instantia quam in
+exclusivis, quia quanivis excepturn 9non immediate contradicat sue
+toti, tanien bene 10 sequitur contradictio. Ut ‘omnis homo preter
+Sortem currit’; ex hoc sequitur quod Sortes non currat 11 et 12 ulterius
+sequitur quod horno 13 non 14 currat, quia si Sortes non 15 currit,
+horno 16non currit (et est locus a parte subiectiva). Sed in dictionibus
+exciusivis id quod exciuditur non contradicit ei a quo fit exclusio. Ut
+‘solus Sortes currit’ idest ‘Sortes currit 17et nuflus alius a Sorte currit’;
+iste enini due ‘Sortes currit’, ‘nullus alius a. Sorte currit’ non contra
+dicunt neque prinio neque ex consequenti. Et ideo minus est de
+instantia in dictionibus exclusivis et plus in dictionibus exceptivis, e t
+maxinie in contradicentibus 18.</p>
+</div>
+<div>
+  <head>Quare hec dictio conseczctiva ‘nisi’ vull semper adiuzg’i verbo sztbitrnctivi modi</head>
+<p>Circa quin turn obicitur sic. Coniunctio nata est coniungere
+ceteras partes orationis. Ergo tam nomina quam verba et sic de aiiis
+partibus, et quoslibet nunieros et quaslibet’ personas et quelibet 2tern
+pora et quoslibet 3niodos et sic de aliis accidentibus sub hiis partibus
+et sub aliis. Ergo hec dictio ‘nisi’ secundurn [N76vb1 quod est
+coniunctio 4consecutiva, male deterrninatur tantuni 5ad inodum subiunctivuin 6.Et dicendum quod negatio 7que est in hac 8dictione
+‘nisi’, non est negatio absoluta sed respectiva, secundum quod hec
+dictio ‘nisi’ est dictio consecutiva. Et huius causa est quia negatio et
+consecutio uniuntur i9n intellectu uno huius dictionis ‘nisi’. Et’°
+quia intellectus est in consecutione, ideo negario est in consecutione,
+quia unitur 1’in intellectu uno cum ipsa consecutione, ut diximus. Et
+i1de2o negatio non est ibi absoluta sed respectiva. Unde curn negatio
+debeat deterrninare verbuni, ideo 3negatio absoluta debet 14 deter
+ntinare verbunz absolutuni Ct negatio respectiva’ 5deterniinabit 16
+verbuiri respectivum. Et ideo, quia inter ornnes modos verborum
+solus rnodus subiunctivus dicit rem suam respectivarn ‘, sive in
+respectu sive in comparatione ad aliud, ideo hec d1ic8tio ‘nisi’,
+secundurn quod est consecutiva, debet adiungi verbo subiunctivi t9
+modi.</p>
+</div>
+<div>
+  <head>Sophismatez</head>
+<p>Secundum predicta queritur de hoc sophisniate NICHIL EST
+VERUM [T46rb] NISI IN HOC INSTANTI. Probatio. Quicquid est
+verum, est verum in hoc instanti. Ergo nichil est verum nisi in hoc
+instanti. Contra.. Nichil est verum nisi in hoc instanti. Ergo te esse
+asinum non est verurn tnisi in hoc instanti, Ergo te [P84va] esse
+asinum est verum in hoc instanti. Ergo tu es asinus. Vel sic potest
+probari. Hec est falsa ‘nichil est -verum’. Et non est instantia nisi pro
+v2ero in hoc instanti. Ergo facta exceptione pro jib erit vera. Ergo hec
+est vera ‘nichil est veruiri nisi in hoc instanti’.</p>
+<p>Solutio, Prima duplex, eoquod hec dictio ‘nisi’ potest teneri
+exceptive vel consecutive. Et utroque inodo est vera sumpto ‘instanti’
+communiter ad ipsuni instans, sive ad ipsum runc, et ad tenipus
+presens. Sed tunc t distinguenda est prima, quia aliter et aliter
+respondendurn est ad argurnenta sequentia irnprobationis 2.Prius 3
+a.utem videndum 4est utrumque sensurn prime quam respondeamus
+improbationi 5.Unde sensus 6prime secundum quod est exceptiva, est
+talis ‘nichil est veruin nisi in hoc instanti’ idest ‘nichil est veruin preter verum in hoc
+instanti’. Et hoc modo est vera sumpto
+‘vero’ comrnuniter ad verurn quod est in 7 hoc instanti et ad verurn
+quod est in teinpore, sicut ‘instans’ suinebatur communiter ad in
+stans et ad tempus 8.Si autern teneatur consecutive prima, tun.c est
+sensus ‘nichil est verurn nisi in hoc instanti’ idest ‘nichil est verum
+si non est verum in hoc instanti’. Et iterum 9hoc noclo prima est
+vera.</p>
+<p>Habita ergo distinctione 1prime 2respondeo 3improbationi 4
+dicendo quod, prout prima est exceptiva, sic priniurn argum.enturn
+improbationis non tenet, hoc scilicet ‘nichil est verurn nisi in hoc
+instanti; ergo 6te esse asinum non est verum nisi in hoc instanti’,
+quia est ibi sophisma accidentis (sicut hic ‘nullus homo preter
+Sortern currit; ergo Plato preter Sortein non 7currit’), quia hoc modo
+prima est categorica et hec distributio ‘nichil’ comprehendit sub 8se
+tarn vera quam falsa, tarn cornplexa quam irnconiplexa. Unde
+verum in hoc instanti excipitur ab illa distributione 9sic sumpta.
+Unde verurn in hoc instanti est pars illius distributionis 10.Sed non
+est pars huius quod dic 1‘te esse asinurn’ (sicut Sortes eratt2 pars
+hums distributionis ‘nullus homo’ sed non erat pars Platonis). Si
+autern prima teneatur consecutive, tunc primum argumenturn
+irnprobationis 15bene tenet, hoc scilicet ‘nichil est verurn nisil4 in
+hoc instanti; ergo te esse asinum non est verum nisi m hoc instanti’,
+quia sensus est ‘nichil est verurn, si’ 5 non est verum in hoc instanti;
+ergo te esse asinurn non est verum, Si flO1 est verum in hoc
+instanti’. [P84vb] Sed aliud 16 quod sequitur non tenet, hoc scilicet ‘te
+esse asinum non est verum nisi in hoc instanti; ergo te esse asinuin
+est verum in hoc instanti’, quia sensus est ‘te esse asinu.m non est
+verum Si 11011 est veruin in hoc instanti; ergo te esse asinuin est
+verum in hoc instanti’, quia vel nulla est iN apparentia Ct argu
+menturn est penitus disparatum, vel est ibi quid et siiripliciter propter
+hoc quod ex nulla conditionali licet inferre antecedens vel conse
+quens. Ut ‘si horno currit, animal 1’1currit’; ex hac non sequitur
+[T46va] ‘ergo homo t8currit’ vel ‘ergo 19animal currit’. Sirniiter non
+sequitur ‘te esse asinuni non20 est veruni si2I non est verum in hoc instanti;
+ergo 22 te esse asinum est verum in hoc instanti’, quia ponit
+ibi antecedens 23,et sic 24 est ibi quid et simpliciter. Potes tamen 25 dicere
+quod 26 nulla est ibi 27 apparentia, quia ex negativo 28 antecedente et
+negativo 29 consequente infert antecedens affirmaturn. Ut ‘si 30 non
+est animal, non est homo; ergo est animal’; in hoc enim argumen
+to aut nulla est apparentia, Ut dixinius, aut 32 , si est ibi 33 apparentia, est
+ibi quid et simpliciter.</p>
+<p>Item. Queritur de hoc sophisinate NULLUS HOMO LEGIT
+PARISIUS NISI IPSE SIT ASINUS. Probatio. Hec est falsa ‘aliquis 1
+horno legit Parisius nisi ipse sit asinus’. Ergo sua contradictoria est
+vera, hec scilicet ‘non aliquis horno legit Parisius nisi ipse sit
+asinus’. Sed ‘non aliquis’ et ‘nullus’ equipollent. Ergo prima vera.
+Contra. Nullus homo legit Parisius nisi ipse sit asinus. Ergo (a
+destructione consequentis) si aliquis homo legit Parisius, ipse est
+asinus. Quod falsum est. Ergo prima falsa.</p>
+<p>Solutio. Prima siinpliciter est falsa. Et hec est duplex ‘non
+aiiquis homo legit Parisius nisi ipse sit asinus’, eoquod negatio potest
+determinare verbum consequentis secundurn se et absolute, quod est
+‘legit’. Et sic est falsa. Et sic equipollet prime, quia hoc 1 modo ‘non
+aliquis’ et ‘nullus’ equipollent. Sed 2in 3 hoc sensu ista propositio ‘non
+aliquis homo legit Parisius etc.’ non contradicit huic ‘aliquis homo
+legit Parisius etc.’, quia 4utraque 5est 6falsa. Vel negatio potest deter
+minare verburn consequentis, quoci est ‘legit’, non’’ secundurn se et
+absolute sed in comparatione ad antecedens. Et sic est vera et
+contradicit huic ‘aliquis homo legit Parisius etc.’. Sed 8hoc inodo non
+equipollet prime.</p>
+<p>Item. Queritur de hoc sophisniate MULLUS HONO MORITUR
+NISI UNUS SOLUS HOMO NORIATUR. Probatio. Hec est falsa
+[P85ra1 ‘aliquis hoino rnoritur nisi unus solus homo rnoriatur’. Ergo
+sua contradictoria erit. vera, hec scilicet ‘non aliquis homo moritur
+etc.’. Sed ‘non aliquis’ Ct ‘nullus’ equipollent. Ergo prima vera.
+Contra. Antecedens est possibile’ e2t consequens impossibile. Ergo conditionalis ea falsa.
+Quod autein antecedens sit p3ossibile [N77va]
+patet per hoc quod habet duas causas veritatis, vel plures, quia unum
+solum horninem n4on mon est verum si duo inoriuntur v5el si
+plures nioriuntur quarn duo vel etiain Si o6rnnes moriuntur. Et sem
+p7er consequens est falsuni, scilicet ‘nullus hoino moritur’. Solutic
+est eadem q8ue in precedenti sophismate.</p>
+</div>
+</div>
+<div>
+  <head>E. DE CONIUNCTIONE REDUPLICATIVA</head>
+
+<div>
+  <head>De hac reduplicatione ‘in eo quod’</head>
+
+<p>Modus reduplicationis diversificatur secunduin diversitatem
+causarum. Et ideo dicitur comniuniter quod htec recluplicatio ‘in cc
+quod’ habet diversas i2ntentiones secundurn diversitatem causaruni.
+Et propter hoc circa cain queritur primo de distinctione ipsius
+secunduiri diversa genera causarurn; secundo queritur utrum redu
+plicatio debeat poni ad subiectum vel ad predicatuin in propositione;
+tertio queritur ad quid ponatur in sillogisrno, videlicet utruni ad
+inaioreni e4xtremitatem vel ad m5inorem v6el ad medium.</p>
+</div>
+<div>
+  <head>De distinctione ipsius secundwrz diversa genera caisarwn</head>
+<p>Circa primurn scienduni est, sicutt [T46vb) conirnuniter solet
+did, quod hec reduplicatio ‘in cc quod’ aliquando dicit causam effi
+cientein. Ut ‘Sortes et Plato in cc quod sunt albi, sunt sirniles’, quia
+albedo in diversis s1ubiectis est causa efficiens s2irnilitudinis Comm.;
+et ‘in eo quod sol lucet super terrarn, cst dies’ et ‘in eo quad terra est
+obiecta inter solern et lunain, est eclipsis’. Aliquando dicit c3ausarn
+rnaterialem. Ut ‘corpus rerum animatarurn in eo quod est corpus
+organicum, est perfectibile per anirnam’. A4liquando dicit causain
+forrnalem. Ut ‘anima in cc quod est aninia, est perfectio c5orporis
+organici potentia vitam habentis’ et ‘Sortes in eo quod albedo est in
+ipso, Ca albus’; anirria enim forina est instrumentalis corporis poten
+tia vitam habentis et albedo forrna est albi. Aliquando a6utein didt
+causam finalern. Ut ‘sanitas in eo quod sanitas, finis est medicine et
+o7ninium corurn que ordinantur ad ipsam’ c8c ‘virtus in eo quod im
+ponit° necessitateni operationibus’° precedentibus, [P85rb] finis est
+c1arum”</p>
+</div>
+<div>
+  <head>Sophismata</head>
+<p>Secundurn predicta queritur de hoc sophisinate ALIQUA IN
+EO QUOD CONVENIUNT, DIFFERUNT 1.Probatio. Aliqua in eo
+quod conveniunt, sunt. In eo quod sunt, sunt multa. In eo quod sunt
+inulta, differunt. Ergo a primo: aliqua 2in eo quod conveniunt,
+differunt. Contra 3.Convenire et differre sunt opposita. Ergo unum
+non est causa alterius. Ergo prima est falsa, quia hec reduplicatio ‘in
+eo quod’ dicit quod convenire est causa eius quod est differre.</p>
+<p>Solutio. Prima sirnpliciter est falsa. Et solvendum est ad pro
+bationern per interelnptionem 1huius ‘in cc quod sunt, sunt rnulta’,
+quia f2alsa est. Quod patet quia: Sicut omnes particulares homines in
+eo quod sunt homines, participant naturam unam et reducuntur a3d
+unitateiri speciei (unde 4dicit Porphirius quod participatione speciei
+plures horn i5ncs unus homo), similiter aliqua, s6ive oinnia, in eo
+quod sunt 7, participant naturairi entis et reducuntur ad unitatem
+entis. Et ita in eo quod sunt, non sequitur quoci sint rnulta, sed potius
+sequitur quod sint unurn in e8o quod sunt.</p>
+<p>Si q1uis obiciat quod irripossibile est convenire nisi ea que
+differunt quia 2:Convenientia est secundum quod rnulta. Et 3inter se
+differentia participant naturam aliquarn tunam eis communern.
+Ergo necesse e5st si conveniunt, quod differant. Ergo aliqua in eo
+quod conveniunt, differunt, — dicenduni quod, sicut obicit, hec est
+vera ‘si aliqua conveniunt, differunt’, nec tamen prima est vera, quia
+conclitio 6non dicit causarn, sed hec deterininatio ‘in eo quod’ click
+causarn et convenientia non est causa differentie, Ut dictum est.
+Unde sicut hec est vera ‘si Sortes est, risibile est’ et tarnen hec est
+falsa ‘Sortes in eo quod Sortes 7,risibile est’ 8,irnmo in eo quod homo,
+— sinüliter hec est vera ‘Si aliqua conveniunt, differunt’, tamen hec
+est falsa ‘aliqua in eo quod conveniurit, differunt.</p>
+<p>Item. Queritur de hoc sophisinate EQUIVOCA IN EO QUOD
+EQUWOCA, SUNT UNWOCA. Probatio. Equivoca in eo quod equi
+voca, participant nomen ‘equivoci’ et rationem eius. Sed quecumque
+participant nomen et ra.tioncm a1,licuius univocantur [I”178ra] in eo.
+Ergo equivoca in eo quod equivoca, univocantur in e.2quivoco Sed
+quecumque [P85va1 univocantur i3n aliquo, [T47ra] sunt univoca.
+Ergo equivoca in eo quod equivoca, sunt univoca. Contra. Equivocum
+et univocurn sunt opposita. Sed nulluin o4ppositurn est causa alterius.
+Ergo hec est falsa ‘equivoca in co quod equivoca, stint univoca’, quia
+hec deterininatio ‘in eo quod’ significat quod subiectum e5ius est
+causa predicati. Quod falsum est.</p>
+<p>Solutio. Prima sinipliciter est falsa. Et concedo quod equivoca in
+eo quod equivoca, univocantur in equivoco. Nec tarnen sequitur ex
+hoc quod sint’ univoca neque quod u2nivocentur in a3,liquo quia
+u4nivocari in equivoco non est u5nivocari simpliciter sed secunclum
+quid. Et ideo probatio peccat secunduni quid et simpliciter. Q7uod
+auteni u8nivocari in equivoco non sit u9nivocari simpliciter sed
+secundum q1,u0id patet quia”: Quecuinque u1,nivoc2aritur partici
+pant noinen unurn et rationem unam; et hoc est univocari sinipli
+citer. Sed quecuinque univoca.ntur in equivoco, p1artic3ipaiit nomen
+unum et rationes diversas. Et ideo univocari in equivoco non est
+univocari sinipliciter, sed potius equivocari.</p>
+</div>
+<div>
+  <head>Utrum redplicati.o debeat poni eid subiecturn vet ad predicatum</head>
+<p>Circa secuncluni nota quod reduplicaiio in propositione secun
+durn Se, et Ut magis proprie d1icain in enuntiatione, d2ebet poni ad
+subiectum, cum subiectuni sit causa predicati v3el habeat in se
+causam predicati, ut ‘Sortes in eo quod honio est risibile’ et ‘triangu
+lus in eo quod triangulus habet tres angulos equales duobus rectis’ et
+‘4animal in eo quod habet p5,ulrnonem respirat’ et ‘6animal in eo
+quod habet cor, habet sanguinern’.</p>
+</div>
+<div>
+  <head>Ad quid reduplicatio ponaur in sillogismo</head>
+<p>Circa tertium vero n1ota quod reduplicatio in sillogismo debet
+poni ad waiorern extremitatem et non ad medium neque ad
+minorern e,2xtremitatein Ut ‘ornnis hoino est risibile in co quod
+homo; sed Sortes est hoino; ergo Sortes est risibile in eo quod bourn’.
+E3xemplurn autem Aristotilis est hoc ‘cuiuslibet boni est disciplina
+in eo quod bonuin; sed omnis iustitia est b4;onum ergo i5ustitie est
+disciplina [.N78rb] in eo quod bonurn’ (in prirno prime). Et s6ic
+reduplicatio solum ponitur ad maiorern extreinitatem et non ad
+medium, Et subiungit causam d7icens “nani bonum in eo quoci
+bonum p8redicari de iustitia est falsurn et n9on intelligibile”, quia
+propter hoc quod ponitur idern CSSC causa sui i1psi0uS est falsum Ct
+quia intellectus non [P85vb] potest comnprehendere” idemn in essen
+tia esse diversum in essentia et prius et posterius n1atu2ra seipso, ideo
+est non intelligibile. Et hec omrania sequuntur inconvenientia cx hac
+propositione ‘iustitia est bonumn in eo quod bonum’, Ut reduplicetur
+p3redicatuml ad seipsum, quia terniini communes p1redic4antur
+ratione essentie et subiciuntur ratione substantie. Ut ‘honio est
+homo’: ‘horno’ enimn in predicato dicit essentiarn, Ut vult a1,r5s in
+subiecto dicit s1.ubsta6ntiairi E1ad7em autein essentia non potest esse
+causa sui ipsius, q1u8ia. sic esset in seipsa eadem et diversa et prior et
+posterior natura, quia e1ss9et causa et effectus.</p>
+<p>Quod autem terminus dticens quid u2t ‘homo’, ‘animal’ et
+con similes p3redicentur ratione essentie et s4ubiciantur ratione sub
+stantie, patet per o5rdinationem p6redicamentalem secunduin rec
+tam linearn. Q7uia secundurn quod homo ordinatur in l8inea pre
+d9icamentali supra Sortem Ct Platonem et supra alia individua, sic
+[T4 7rb] nominat essentiam et ratione illius predicatur. Sed secun
+dumn quod horno inclinatur ad individua in quibus est, sic nomninat
+substantiam, sicut h1o2c individuurn vagumn quod est aliquis liomo.
+Et ideo quando ‘homo’ subicitur ratione alicuius inferioruin, t3un
+dicitur subici ratione substan tie.</p>
+</div>
+</div>
+<div>
+  <head>F. DE HAG CONIUNCTIONE ‘QUIN’</head>
+<div>
+  <head>Introductio</head>
+<p>Nurnerus coniunctionuin i1n specie secundum Donatum est
+quinarius, secunduni Priscianum vero rnulto plures s2unt species
+coniunctionuni. Inter 3quas numerantur species causalium tam a
+Prisciano guam a Donato et species rationaliuni, quas Priscianus
+appellat collectivas sive rationales. Sed secundurn Donatu.m hec
+dictio 4‘quin’ continetur sub causalibus, secundurn 5Priscianuin vero
+continetur s6ub collectivis s7ive sub rationalibus. 1-lanc autein
+diversitatem adpresens obmjttamus 8,quia pertinet [N78vaJ ad gra
+rnaticum. Unde primo intendinius qucrere circa hanc coniunctio
+nem 9 ‘quin’ utrum significet consequentiain; secundo 1°autem,
+habito qu.od significet consequentia.m, queritur” utrum significet
+consequentiam aliquam a1n2 con sequentiam coininuniter ad oni
+n1e3s consequentias; tertio autern queritur utrurn hec dictio ‘quin’
+s4it’ coinposita ex hiis dictionibus ‘quod’, ‘non’; quarto queritur utruin
+equipolleat eis sire convertatur cui 5illis; quinto autern queritur
+quare hec dictio 16 ‘gum’ coniungatur semper verbo subiunctivi 17
+inodi.</p>
+</div>
+<div>
+  <head>Utrum signficet cirnsequentiam</head>
+<p>Circa primurn obicitur 1quia: Ut vult Priscianus, oinnis con
+iunctio signiftcat vim vel ordineiri; e2t coniunctiones significant
+vim quando res aliquas significant simul esse (Ut ‘US et fortis fuit
+Eneas’); ordinem auteni significant [P86ra] coniunctiones 3quando
+consequentiarn 4aliquarurn 5rerurn deinonstrant 6(Ut ‘Si ambulat,
+niovetur’). Sed hec coniunctio ‘quin’ non significat res sirnul esse.
+Ergo significat consequentiarn 7aliquarurn reruni. Ergo hec con-
+iunctio ‘quin’ significat consequentiain. Item ad idem. Hec est vera
+‘non e8st homo quin sit animal’. Et in hac orationc significatur quod
+non potest esse homo ita quod non sit animal. Ergo significatur quod
+homo non p9otest esse sine animaii. S1e0d si homo non potest esse
+sine animali, tunc animal de necessitate sequitur ad h1.omi1nem
+Ergo significatur ibi quod animal de necessitate sequitur ad homi
+nem. Sed hec coniunctio ‘quin’ non potest significare hoc nisi sit
+d1ic2tio consecutiva. Et sic significat consequentiain. Ergo hec con
+iunctio ‘quin’ significat consequentiarn. Item ad ideni. Dicit Prisci
+anus quoci collective coniunctiones sive rationales s3unt que per
+illationem cdlligunt s.4upradictum’ Et exemplificat 1d5e istis ‘ergo’,
+‘igitur’, ‘itaque’, ‘quin’ et de pluribus aliis. Ergo hec dictio ‘quin’ est
+i1llativa 6 Sed in omni illatione intelligitur con sequentia. Ergo in
+hac dictione ‘quin’ intelligitur con sequentia. Sed obicitur in contra
+rium quia: Conirnuniter recipiuntur iste proposition es ‘iste non audit
+l1ectio7nein quin dormiat’, ‘iste non coiriedit quin bibat’ et con
+similes. Sed in eis unurn non de necessitate sequitur ad alteruni.
+Ergo hec dictio ‘quin’ non significat c5.onsecu8tionem.</p>
+<p>Et dicendum quod hec dictio ‘quin’ dicit consecutionem
+illationis. Unde est ciictio consecutiva sive illativa. Et conceditnus
+onines rationes ad hoc. Ad illud autein quod o2bicit in contrariutu
+(quod comrnuniter p3onitur esse v4era hec ‘iste non audit lectionern
+quin [T47va] dormiat’, et consimiles), dicendurn quod duplex est
+consequentia: una est corisequentia simplex° (Ut ‘si hoino est, animal
+est’), alia e7st consequentia Ut flUTZC (Ut ‘Si veneris ad rue, i8bo tecum’).
+Et hoc secundo niodo non s9equitur de necessitate unurn ad alterum.</p>
+<p>Item. Videtur quod non significet consecutionem, quia est
+collectiva sive rationalis secunduni Priscianum. Ergo significat illa
+tionem. Ergo non significat consecutionem. Et dicendum quod.
+ornne illatum inquantum est illaturn, sequitur et ornne inferens
+inquantum est inferens, antecedit. linde in omni illatione con
+s1ecutio et antecessio intelliguntur. Et ideo hec dictio ‘quin’ significat consecutionern
+per illationein sive in illatione. Et ita 2 significat 8
+unuin per alteruin sive [P86rb] in altero. Et ideo h4oc non est signi
+ficare plura sed unum.</p>
+<p>Item. Curn hec dictio ‘quin’ sit illativa et in omni illatione per
+prius intelligatur antecessio quarn consecutio (quia inferens causat
+cx se illaturn, et non econverso), ergo hec dictio ‘quin’ per prius
+significabit antecessionem quam consecutionern. Et dicendum quad
+hec dictio ‘quin’ per prius significat con secutionem, antecessionein
+vero t non significat nisi ex consequenti, propter hoc quod conse
+cutio 2non potest esse sine antecedente 3.Ad aliu.d autem quod obicit 4
+(quad in illatione per prius est antecessio et per posterius consecutio),
+dicendurn quod veruin est. Tamen thctiones illative rnagis se
+habent ad consecutionem quain ad antecessionem, eouod illatio
+respicit conclusionem 5Ut obiectum sive Ut 6 terrninum ad quem et
+respicit prernissas ut cx quibus e7st SVC Ut terininum a quo. Et quia
+rnotus rnagis habet rationern et speciem a8 terinino ad quem est
+quam a tennino a quo est, ideo illatio essentialius 9coinpa.ratur ad id
+quod infertur sive ad conclusionem 10 quam ad illud quad infert 11
+sive ad premissas, propterl 2hoc quad conclusio 13 est ut 14 coinple
+tivuni [N79ra] et’ 5 perfectivurn’ 6illationis. Et propter hoc hec 17 d.ictio
+‘quin’, cum sit illativa, inagis Sc habet 18 ad consecutionem 19 quarn.
+a2d0 antecessionem.</p>
+<p>Et’ nota quod prernisse quoad cognitionein 2suani sunt causa
+efliciens cognitionis 5ipsius conclusionis. Sed ipse 4preinisse quoad
+substantiam suam 5sunt uno modo causa rnaterialis substantie con
+clusionis et alio modo quoad substantiain suam sunt causa efficiens
+substantie 6conclusionis, quia eedem premisse qucad extrernitates
+suas sunt rnateria conclusionis: descinditur’ eniin 8xnaior extreniitas
+a9 premissis Ct etiain minor ut ex 10 eis flat coniunctio t1 taxnquam cx
+m.atcria 12 . Sed prernisse, quoad "ad" 13medium ordinatur utraque ex
+tremitas, secundum suama substantiam sunt causa efficiens sub
+stantie conchisionis, propter hoc quod medium est tota virtus preinis
+saruin, per quam virtutern educitur t4 substantia conclusionis a
+non 15-esse in esse. Fit sic patet quod prernisse orb modo sunt
+16conclusionis et duobus niodis sunt causa efficiens. Nota
+etiam quod in sillogisrnis disparatis (Ut ‘omnis homo est lapis;
+ornnis capra’ 8est hom 9;ergo orunis capra est lapis’) Ct universali
+tel in quolibet sillogismo ec falsis, premisse non [P86va] sunt causa
+efficiens quoad cognitionein 20,[T47vb] sed sunt 2’causa efficiens
+quoad substantiam et etiarn sunt causa niaterialis, sicut dictum est.</p>
+</div>
+<div>
+  <head>Utrum signzjicet coizsequeztiam comniuniter dictam</head>
+<p>Circa secunduni obicitur quod cum hec dictio ‘quin’ dicat corn
+parationem unius ad alterurn tantuin, sed 1 in comparatione tinius ad
+alteruin est tantum 2consecutio simplex 3et non composita, ergo hec
+dictio ‘quin’ solum dicit consecutionein 4siinplicein, sive conse
+quentiam sirnplicern, et non cornpositam. Quod concedinius dicen
+tes quod consecutionis alia est simplex (Ut ‘si horno est, animal est’),
+sicut dictum fuit in faHacia consequentis; alia 5 est corriposita sive
+plures, Ut illa que est secundurn oppositiones, sicut illa que est in ipso
+sive econtrario 6.Uncle dicimus quod hec dictio ‘quin’ non significat
+consequentiam 1communiter ad sirnplicein Ct ad coinpositam, sed
+tantum significat illam qtie est simplex. Huius 8autern que est sini
+plex, alia est 9 consequentia sive t°consecutio simplex (Ut dictum est
+prius), alia ‘vero 11 ut nunc. tJnde hec dictio ‘quin’ [N79rb] non signi
+ficat consequeritiairi comrnuniter ad omnes alias 12 consequentias,
+sed tantuin significat consequentiam 13simplicem. Et idea14 au
+quando dicit consequentiam siinplicem, aliquando’ 5 ut nunc.</p>
+</div>
+<div>
+  <head>Utrurn sit composita ex ‘quod’et ‘non’</head>
+<p>Circa tertiuin obicitur quod’, si hec dictio ‘quin’ est composita
+ex hac dictione ‘quod’ et hoc adverbio ‘non’, ergo est composita ex
+noniine et adverbio 3.Ergo debet esse nomen vel adverbium, CUITi
+omnis dictio 4cornposita 5trahat 6significationem a7 suis componen.
+tibus. Et dicimus 8quod hec dictio 9‘quin’ est dictio 10simplex (sicut ego credo)
+habens de intellectu suo consecutionen cuin negatione
+ex natura sue impositionis”. Sed quia cornmuniter dicitur quod est
+composita ex hac dictione ‘quod’ et ex hoc adverbio ‘non’, ideo
+sustinendo illoruni positionern respondendurn est aliter. U1n3de
+d1icii4nus quod hec dictio ‘quin’ est coniunctio et est c5omposita’ cx
+hoc noinine infinito ‘quod’ et ex hoc adverbio ‘non’. S6ed’ con
+iunctiones corn.posite diversas habent c7.oinpositiones’ Quedarn
+enim coinponuntur ex aliis coniunctionibus (Ut ‘atque’, ‘etenini’,
+‘siquidem’ et consimiles); alie vero componuntur ex pronominibu.s
+(ut ‘ideo’); alie vero ex noinine et prepositione (1U8t ‘quapropter’); alie
+ex pluribus noininibus curn prepositione (Ut ‘quarnobrem’); alie e9x’
+verbis (Ut ‘viclelicet’, ‘scilicet’); alie cx adverbio electivo (Ut
+‘quarriquam’); alie cx adverbio et v2er0bo (Ut ‘qua.mvis’). H2o1c etiain
+videtur innuere Priscianus in M2aiori Voluinlize, in tractatu De con
+izrnctione, deterininando de specie coniunctionis sive potestate dicens
+“inveniun tur noniina vel pronoinina ye! p2reposi3tiones vel aciverbia
+q2u4e loco c2ausa5liurn accipiuntur coniunctionuni”.</p>
+<p>Ad illud autem quod obicit (quod dictio coniposita trahit signi
+f1Icationeni suam. a suis cozuponenlibus, ergo [P86vb] h2ec dictio
+‘quin’ erit noinen ‘vel adverbium), dicen.duin qu.od non sequitur
+quod propter hoc sit norrien vel adverbiurn, q3uia dictio cornposita
+m4ultapliciter trahit significationem a suis cornponentibus. Quia
+aliquando ex partialibus intellectibus c5oniponentiuin fit unus intel
+lectus compositus in eodem genere (Ut ‘Irlagnaninius’, ‘oinni
+potens’); aliquando autem componentia [tV79va] sunt diversorum
+generurn, composituin autem manet in genere alterius eorum (Ut
+‘quisque’; hoc est [7’48ra] noinen c6ornpositurn cx noznine et con
+junctione); aliqua.ndo autem dictio coinposita e7st alterius generis
+quam utruznque cornpositoruin (Ut ‘8quare’ e9st cornpositum ex duobus
+nominibus). Et hoc est propter hoc quod aliquando alteruni corn
+poncntiurn’° est conipletivum sigrtificationis dictionis composite (et
+tunc composituin inanet in eodem genere cuni suo completivo, Ut
+‘1,rnagna1ninius’ ‘centinianus’); aliquando vero intellectus dictionis
+composite non fit ex intellectibus partialibus componentiuin’ 2,sed fit
+cx habitudinibus 15 aut ex 14 coinparationibus coniponentium. Unde
+quia isti duo 15 ablativi ‘qua’ et ‘re’ dicunt 16 habitudinem cause
+ratione’ 7sue causalitatis 18et preterea iste abhtivus ‘qua’ est interro
+gativum, ideo ex Iiiis duabus compa.rationibus, scilicet ex interroga
+tione et causalitate, constituitur unus intellectus adverbialis 19per
+conipositionem 2°illorurn ablativoruni. Et sic 21 fit adverbiurn interro
+gativum cause 22 quod est ‘quare’. Et sic dictio composita multi
+pliciter 23 trahit significationein suam 24 a suis componentibus. Et
+ideo 25 non sequitur quod dictio composita sernper sit eiusdein
+generis cum suis componentibus. Siniiliter dico quod huic nomini
+‘quod’ 26aliquando accidit relatio, aliquando interrogatio, aliquando
+infinitatio. Unde e2x7 eo secundum quod est noinen infinitum, et cx
+negatione constituitur unus intellectus ordinativus vel coniunctivus
+plurium dictionum vel orationum. Et sic fit coniunctio.</p>
+<p>Item ad idem. Nomen significat substantiam. Coniunctio 1vero
+dicit associationern 2que est secundum simul vel que est secunduin
+prius et posterius. Hec aiiteiri associatio est tam substantiarujn 3quam
+accidentiurn quarn ornnis eius quod significatur 4,sive sit ens sive
+non-ens. Sed cx: substantia non potest fieri respectus sive associatio
+predicta. Ergo hec coniunctio 5‘quin’ non est coniposita cx hoc 6
+nornine infinito ‘quod’ et ex hoc adverbio ‘non’. Solutio autern patet
+ex predictis. Quia’ compositio huius coniunctionis 8‘quin’, que 9est
+[N79vb] cx hoc nomine infinito ‘quod’ et cx hoc adverbio ‘non’,
+non 10 est ratione substantie significate per hoc nomen ‘quod’,
+immo 1t ratione 12 comparationis’ 3Ut 14 ratione infinitatis que accidit
+i1p5si substantie, sicut dictum fuit prius de hoc adverbio ‘quare’ et de
+consirnilibus (Ut ‘quamobrem’, ‘cotidie’, ‘pridie’, ‘ipresentiar’ 16
+et consimulia). [P8Zra] Et sic aliquando fit conipositio ex significa
+tionibus cornponentium, aliquando non 17 ex significationibus corn
+ponentium’ 8sed ex habitudinibus eorundern.</p>
+</div>
+<div>
+  <head>Utrum equipolleal eis .sive convertatur cum els</head>
+<p>Circa quartum obicitur quod hoc nomen ‘quoci’ significat
+substantiarn infinitam cum articulo subiunctivo secundum Prisci
+anum, quia’ ‘qui’ apud nos idem 2est quod ‘ostis’ 3apud Grecos; et 4 ‘Os’
+est articulus subiunctivus et ‘tis’ 5est nornen infinitum. Sed onmnis
+articulus significat 6relationern, nulla autemn coniunctio significat
+relationem. Ergo nulla coniunctio habet na.turam articuli (in secun
+do secunde). Ergo ad hanc 7coniunctionem ‘quin’ non sequitur
+‘quod non’. Non 8ergo convertuntur, quia antecedens semnper ponit
+consequens et ita 9supponit’° semper naturam sui consequentis. Et 1’
+dicendunm quod’ 2‘quin’ et ‘quod non’ non 13 convertuntur, quia ad
+‘quin’ sequitur ‘quod non’ et non econverso. Ciiiiis ca.usa est quia
+‘quin’ dicit consequentiam inter negationes sive unius negative ad
+alteram 14 (ut 15 ‘non currit quin rnoveatur’), sed ‘quod non’ aliquando
+acliungitur affirmativis (Ut ‘iste dicit [T48th] tibi quod non venias’,
+quod’° non potest facere ‘quin’; nichil enim est dictu ‘iste dicit tibi
+quin venias’). Aliquando autem 1’adiungitur negativis, Ut ‘iste non
+currit quod non moveatur’ Ct ‘non est horno quod’ 8non sit animal’.
+Et hoc secundo modo ‘quod non’ et ‘quin’ equipollent et conver
+tufltur, ut ‘si non est Imomno quod non sit animal, ergo non est hoino
+quin sit animal’ et econverso.</p>
+<p>Ad illud autern quod obicit, dicendum quod relatio signiflcata
+per articulumn alia est et diversa a relatione signiflcata per noinina
+vel per’ pronoxnina relativa, quia relatio nomninis vel prorlominis
+vult quod aliquod 2antecedens precedat 3cuius [N8OraJ fiat recordatio 4
+per re1ativurn, ut ‘Sortes currit et ille disputat’. Et sic relativurn
+nonminis vel 6 pronominis numnquam ordinatur simnul curn suo ante
+cedente sed seniper posterius naturaliter ordinatur. Relatio autem
+articuli alterius generis est, quia articulus vult adiungi suppositis 7
+ponendo quandamn discretionem 8circa supposita, sicut sillabice
+adiectiones que ponunt quandain discretionem circa pronomina, Ut
+‘egornet’, ‘tuternet’. Sed in hoc differunt quad articulus non post-poriitur
+supposito, sicut sillabica adiectio pronornini, imino articulus
+preponitur suppositis. Et etiam ex articulo et supposito non fit dictio
+una, sicut cx illa parte. Unde articulus sinnil sumitur cuni suppo
+sito. Dico ergo quod articulus nichil dicit de relatione nisi in hoc
+quod siznul s1um0itur cum su.pposito et signifIcat discretionem
+quandam fIeri circa ipsu’. Et quia discretio non est neque intelli
+gitur sine e1o2 cuius est discretio, ideo discretio s3uppositi’ non potest
+esse neque intelligi nisi per suppositurn. Et ideo articulus dick rela
+tionem ad ipsuni s.4uppositum’ Et sic patet quod alia est relatio
+articuli et alia norninis vel pronominis. [P87th] Quod a1ute5rn arti
+culus simul suniatur cum supposito pa.tet in lingua materna (in qua
+habemus articulos, quarnvis non habeairtus eos in latina), q6uia’ in
+ea sexnper articuli coniunguntur1” suppositis. Et ideo relatio impor
+tata per articulurn n1o8n inipedit c9olnpositionern’ huius coniunc
+tionis ‘quin’ n2°eque convertibilitatern eius c2urtn hac o2rati2one
+‘quod non’, sicut dixirnus.</p>
+<p>Item. Probo quod relatio articuli a1ia est a relatione huius
+norninis ‘qui’ (non p2rout sumitur relative), quia: Hoc nonien ‘qui’
+secunduin quod tenetur infinite (Ut ‘qui tirannu interficiet, pre
+m4ium accipiet’) non tenetur relative neque dicit relationem ad all
+quod antecedens, sed adhuc habet de intellectu suo articuluin. Sed
+articulus d5icebat relationem suppositi. Ergo relatio articuli separatur
+a relatione que est recordatio rei preclicte. [1’[8Orb] Ergo relatio
+articuli alia est et diversa a relatione norninis vel pronoininis. Quod
+concediinus.</p>
+</div>
+<div>
+  <head>Quare seinper coiniurzgatztr verbo stthiuizctivi modi</head>
+<p>Circa quintuin o.1bicieba.tur Et s2olvatur sicut prius de hac
+c3oniunctione ‘nisi’ propter quid adiungitur seniper verbo sub
+iunctivi inodi quando e4rat dictio consecutiva. Item. Nota quod hec
+dictio ‘quin’ sive hec oratio ‘quod non’ prout convertun tur, dicun t
+consecutionern unius negative ad a5lterain negativarn, propter hoc
+quod de intentione earum est quod ponunt unuiri universaliter in altero
+affirmative, v6el affirniatio unius sequitur ad affirmationem
+alterius. U7t’ ‘non est hoino quin sit animal; ergo quilibet homo est
+animal’ vel ‘si est homo, est animal’; et ‘non est domus quin sit
+panes; ergo si doinus est, panes est’. Sed cuni 8aflirma.tio sequitur 9ad
+afflrrnationein, per consequentiam econtrario t0negatio sequitur ad
+negationeni, ut ‘si est hoxrio, est animal; ergo non est homo, si non
+est animal’ vel ‘non est homo quin sit animal’.</p>
+</div>
+<div>
+  <head>Sophismata</head>
+<p>Secundum predicta queritur de hoc sophisinate TU NON
+POTES VERE NEGARE TE NON ESSE ASINUM. Probatlo. Te non
+esse asinuin est necessariurn. Sed tu non potes vere negare neces
+sarium. Ergo tu non potes vere negare te non esse asinum. Contra.
+Tu non potes vere negare te non esse asinum. Ergo t1u non potes
+vere negare quod. non sis 2 asinus. Ergo 3Lu non potes vere negare
+quin sis asinus. Ergo Lu es asinus. Solutio. Prima duplex secundum
+communiter 4loquentes. Dicunt 5enirn quod ‘negare’ 6equivocumn est
+in hac oratione. Unde unus sensus est ‘tu non potes vere negare etc.’
+idest ‘tu non potes vere’7 negationem 8huius proferre (sive negatio
+neni hanc dicere, quod ideni est) “te non esse asinuin”’. E9t sic est
+falsa, quia vere tu potes dicere hanc negationem ‘te non esse asi
+nurn’. Alius sensus est ‘tu non potes vere negare te non esse asinuin’
+idest ‘tu non [P87va] potes vere negationeiri 1°huius proferre’, quia”
+negatio huius ‘te non esse asinum.’ hec est ‘non: tu non es asinus’,
+que equipollet huic ‘tu es asinus’. Et hoc non potes vere thcere. Et sic
+[N8Ova] est Vera.</p>
+<p>Sed h1ec solutio nulla est, quia negare est actus egrediens ab
+hac potentia 2activa que est negativurn 3.Sed sicut potentia 4acthra du
+plicemn habet comparationern, unam scilicet ad illud a quo est (sive
+ad illud per quod est Ut ad ipsun-t agens), a.lia v5ero ad illuci ad quod
+est ut ad ipsum obiectum i6n quod transit actio’7 julius, siiniiter actus
+ipsius 8poten tie duas habet cornparationes et etiatri easdem 9non
+alias. Ergo ad idern obiecturn 0comparatur actus ad quod potentia activa.
+Ergo cuiusculnque” obiecti est hec potentia atc2tiva que est
+negativurn 13,eiusdem obiecti est actus iste qui’ 4est negare. Sed ista
+potentia’ 5que est negativurn, est ipsius predicati a subiecto, quia 16
+negativurn semper est negativum alicuius et ab aliquo. Ergo iste
+actus qui est negare, sernper e1r7it ipsius predicati et a subiecto. Ergo
+semper est eiusclein rationis. Ergo univocum’ 8.Ergo nichil dicunt.
+Item ad idem. Sicut iste actus qui est videre 1, non est 20 equivocuin
+ad visionens 21 albedinis Ct ad visionern nigredinis, quanrvis sint
+opposita, similiter ‘negare’ non est equivocum ad n2eg2are quod
+I2ib3et predicatum, sive fuerit prius affirmatum sive negatuin, quia,
+sive fuerit tale sive tale, seinper reinovetur a subiecto. Ergo negare
+non equivocatur ad dicere negationein h2a4nc ‘tu non es asinus’, in
+qua negabatur 25 predicatum prius 26aflirmatum, et ad dicere negatio
+nern huius ‘tu non es asinus’, 27 qua reinovebatur 28predicatum 29
+negaturn sic: ‘ergo 3°non tu non es asinus’. Ergo 31 nichil clicunt 32 .
+Item ad ideni. Aristotiles docet repperire multiplicitatern i3n3 casi
+bus. Ut si ‘sanativum’ dicitur ruultipliciter de effectivo, conservativo
+et preparativo, e3rg4o et ‘sanare’ dicitur niultipliciter 3d5e effectivo,
+conservativo et preparativo. E3°t econverso: si ‘sanare’ dicitur multi
+pliciter de effectivo, conservativo, preparativo, et ‘sanativum’ 37eodem
+modo dicetur 38multipliciter de eisdein 39 . Ergo Si UflUIfl casualium 40
+n4o1n dicitur multipliciter, neque reliquuzn (a [N8th’b] destructione
+consequentis) . Sed 2‘negativurn’ 43 non dicitur 44multipliciter. Ergo 45
+neque ‘negare’ (4a6 casibus). Item a4d ideni. Sumatuir o4ra8tio in
+s4ecu9ndo sensu quein ponunt. Et s5i0c adhuc remanet [Tl8vb] pro
+batio et improbatio. Ergo non 5’solvunt.</p>
+<p>Quod concedirnus dicentes predictam solutionem nullani esse.
+Unde dicimus 1quod prima est vera simpliciter, sed conclusio
+immediate sequens est duplex secundum asnphiboliam, hec scilicet
+‘tu non potes vere negare quod non sis asinus’, eoquod hoc verbuin ‘negare’
+habet constructiones 2secunduni diversas habitudines curn
+hoc quod sequitur, scilicet ‘quod non sis asinus’. Q.uia hoc quod dico
+‘quod non sis asinus’ potest esse obiectuin supra quod transit ipsum
+negare (et est sensus ‘iii non [P87vb] potes vere negate quod non sis
+asinus’ idest ‘tu non potes vere negare istud necessanurn quod non
+sis asinus’); et sic est vera. Alio autem modo construitur 3cum hoc
+verbo ‘negare’ non i4n ratione obiecti sed i5n ratione finis (Ct est
+sensus ‘tu non potes vere negare quod non sis asinus’ idest ‘tu non
+potes vere negare aliquid propter quod 6non sis asinus’); et sic est
+falsa, quia sive 7 te neges esse irrationale vel te esse brutam 8,ex hoc 9
+sequitur quod non sis asinus. Et sic est ibi amphibolia ex diversa 1°
+ratione construendi unurri curn altero.</p>
+<p>Sed ad ilIud targurnenturn quod sequitur (scilicet ‘tu non potes
+vere negare quod non sis asinus; ergo tu non potes vere negate quin
+sis asinus’) potest dici quod non sequitur, quia ‘quin’ 2et ‘quod non’
+n3on convertuntur, s4icut dictum est prius, nisi secundurn quod
+dicunt consecutionern 5.Sed° ego dico hanc conclusionexn’ secun
+darn, scilicet ‘tu non potes vere negare quin sis asiniis’ e8sse dupli
+cern, sicut et predictain 9,eadem duplicitate. Unde secundum quod
+‘quin’ et ‘quod non’ dicunt consecutionei 0et convertuntur in ratio
+ne finis, sic bene sequitur ‘tu non potes vere negare quod” non sis
+asinus; ergo t2u non potes vere negare quin sis asinus; e1rg3o
+[W8lraJ tu es asinus’. Sed ille sunt false, sicut dictum est. Et ex f1al4so
+bene 15 sequitur falsum. Et non sequitur ad primax illo rnodo, sicut’ 6
+dictum est. Si autem fiat 17 constructio 18 in ratione obiecti, tunc vere
+sunt i11e 19 due sequentes conclusiones 20,Ut dictum est, sicut et prima.
+Sed ultunurn arguinentum non valet, hoc scilicet ‘tu non potes vere
+negare quin sis asinus; ergo iii es asinus’. Et 2’hoc modo nulla est iii
+habitudo, sicut neque hic ‘tu non potes vere negare hoininenx n2o2n
+esse asinum; ergo homo est asinus’, iinmo potius sequitur oppositurn
+sic: ‘ergo horno non est asinus’. Et sirniliter in proposito, quia sicut
+‘hoininern n2o3n esse asinuin’ est obiecturn ipsius negate, simiiter
+‘quin sis 24 asians’ est obiectunx eiusdcrn 25negate 26 jib respectu 27
+Unde d2ebe8ret inferre oppositum eius quod i2,nf9ert sic ‘ergo iii
+n3o0n Cs asinus’.</p>
+<p>Item. P1robo quad prima est falsa quia: Nec est vera ‘2tu non
+potes vere enuntiare te esse asinuin; ergo tu non potes vere negare te
+e3sse asinurn’ (a genere, quia ‘vere enuntiare’ commune est ad ‘vere
+afftrmare’ et ad ‘vere negare’). Sed si tu non potes vere negare te
+esse asinurn, ergo tu potes v5ere negare suum oppositum, idest ‘te
+non esse asinurn’. Ergo hec est vera ‘tu p6otes vere negare te n7on
+esse asinurn’. Ergo cius con tradictoria. est faisa, hec scilicet ‘tu non
+potes vere negare te n8on esse asinum’. Sed hec est prima. Ergo
+prima falsa.</p>
+<p>Solutio. Prima est vera sinipliciter. Et ratio sua peccat in prima
+i.tllatione Neque est ibi locus a genere, quia quanivis ‘2vere enun
+tiare’ sit commune ad ‘vere a3ffirmare’ ett ad ‘vere n,5egare’ tanien
+‘vere enuntiare te esse asinuin’ non est commune, quia e6nuntiare te
+esse asinurn h7oc est a,8fflrmare eoquocl enuntiare contrahitur per
+obiectum. [T49raJ linde sicut nullum est argumenturn ‘tu non potes
+vere [P88ra] a9ffirrnare te e1s0se asinum; ergo tu non pates vere
+negare i1llu1d idemn’ neque est ibi aliqua apparentia, quia oppositum
+d1ebe2ret [.N8lrb] inferre, — similiter in proposito nullumn est argu.
+menturn neque aliqua apparentia inferendo sic: ‘tu non potes vere
+enuntiare te esse asinum; ergo tu non pates vere n3egare’ te e1s4se
+asinum’. Q,uod autein e1nun5tiare ctont6rahatur per obiecturn ad
+affirmare, patet quia: Actus dupliciter contrahitur. lJno eniin modo
+per differentias sumnptas a parte agentis, aLio autern niodo per
+differentias sumptas a parte obiecti. Ut sentire v1is7u. idemn est quod
+videre, sentire v1e8ro auditu idern est quad audire et sentire g9ustu’
+idem est quod gustare, Ct sic de aliis; ergo contrahitur a2°ctus per
+differentias sumptas a parte agentis. A parte vero obiecti contraliitur
+sic: sen tire coloratuin idem est quad videre, sen tire vera sonum
+idem est quod audire, et sic de aliis; ergo contrahitur actus a parte
+obiecti. Ergo omnis a2ct1us habens obiectuin dupliciter contrahitur,
+2U2t dictum est. Ergo enuntiare contrahitur d2upli3citer quia enun
+tiare a2ffirm4ative idem est quod affirmare et enuntiare n2ega5tive
+idem est quad negare; et sunt iste differentie sumpte a parte agentis.
+I2te6m enuntiare horninem esse animal idern est quad affirmare ipsuln
+et enuntiare horninein non esse lapidem idem est quod
+negare; et est ista contractio facta a parte obiecti.</p>
+<p>Item. Queritur de hoc sophisinate IN NULLO’ TEMPORE
+ALIQUID EST VERUM Q.UIN IPSUM 2SIT NECESSARIUM 3.
+Probatio. In nuIlo 4tempore ‘deum esse’ est verum quin ipsum sit
+necessarium 5.Ergo prima vera. Contra. In nuilo tempore aliquid est
+vernm. quin ipsum sit necessanuni. Ergo in quoculnque 6tenipore
+aliquid est verum, et 7 ipsum est necessariiun. Ergo in quocumque 8
+tempore te sedere est verum, et 9 ipsum est necessarium. Quod fal
+sum est.</p>
+<p>Solutio. Prima est siinpliciter falsa. Qiia sensus est: ‘in nulIo t
+tenipore aliquid est verurn, s2i non sit necessariuin’. 11cc autern falsa
+est, quia ad 3 antecedens non sequitur consequens, coquod ad negatio
+nein speciei non sequitur negatio generis; necessitas auteni est
+species veritatis. Probatio autem peccat secunduin consequens, qula
+bene sequitur ‘in nub tempore deum esse est verum quin ipsuln 4sit
+necessarium’, et econverso: ‘si Deum esse non est necessariuin, in
+nullo tempore est verum’. Unde vera est [W8lva] illa propositio 5
+quani pnrno 6sumit, scilicet 7hec ‘in nullo teinpore Deum esse est
+veruin quin ipsum sit necessariuzn’, quia veritas in Deo convertitur
+cam sua necessitate. Sed in aliis veritas et necessitas non conver
+tuntur, sed veritas est in plus quam necessitas. Unde est ibi
+conseqiens ab inferiori ad superius ncgando 8,sicut hic ‘in nullo
+tenipore est homo quin sit risibile; ergo in nullo tempore est animal
+quin sit risibile’.</p>
+</div>
+</div>
+      </div>
+    </body>
+  </text>
+</TEI>

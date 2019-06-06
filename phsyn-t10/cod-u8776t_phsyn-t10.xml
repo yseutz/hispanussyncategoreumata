@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus Secundus [Tarragona transcription]</title>
+      	<author>Petrus Hispanus</author>
+        <editor>Joana Gomes</editor>
+        <respStmt>
+          <name>Jeffrey C. Witt</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+        	<title>Tractatus Secundus [Tarragona transcription]</title>
+          <date when="2019-06-05">June 5, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority><ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref></authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+    		<pb ed="#T" n="27-v"/>
+        <pb ed="#T" n="b"/>
+    	</div>
+    </front>
+    <body>
+      <div xml:id="phsyn-t10">
+        <head>TRACTATUS DECIMUS</head>
+        <div><head>DE RESPONSIONIBUS</head>
+        <div><head>De interrogatione et resfxmsione</head>
+        <p>Responsio sequitur’ interrogationem, quia interrogatio est peti
+        tio responsionis. Et est ab interrogante 2[N83vb] Ut 3 a causa efficiente.
+        Quia ergo interrogatio 4per interrogantein 5cognoscitur sicut per
+        suam 6causam, scienduin quod bene interrogans 7quinque debet
+        facere. Primum e8st invenire locurn a quo [P9OraJ sive per quem
+        debet arguere. cundum est 9 formare 0interrogationes” sive propo
+        sitiones secunduin 12locum prim repertuln. Tertiuin auteul est
+        ordinare eas ad se invicern. Quarturn est proponere eas ad alterum,
+        ut a3d’ respondentem. Quinturn auteni est Ut cogat ipsurn respon
+        dentem dicere iznprobabilia’ 4.Uride Si bene vis opponere oportet te
+        f1ac5ere predicta quinque, vel saltern quatuor priora ex eis. Hec
+        autem quinque cleteriniriat Aristotiles in octavo Topicorwn; quatuor
+        quidem in principio octavi, quin turn autem in capitulo De respon
+        sione.</p></div>
+        <div><head>De’ modis wiutianis</head>
+        <p>Sequitur auteni videre inodos solutionis 1in genere. Solutio
+        num 2ergo alia est 3 recta, alia vero 4apparens. Apparens 5quidem
+        solutio fit inultis inodis. Quia quedarn est a6d interrogantern, U7t
+        quando interrogans 8iinpeditur ne procedat ad suairi conclusionen-i,
+        quamvis verarn habeat rationem. Alia autem est solutio a9d terripus,
+        1U0t quando solutio que datur ad proposituni, indiget inaiori inqui
+        sitione et maiori tempore quaxn ipsum 1’proposituni; hec autem que
+        eget’ 2pluris ternporis quarn propositum, est pessirna’ 3omnium solu
+        tionurn. Et utraque istarurn solutionum 14apparentiurn 5dicitur ad
+        honzine,n.</p>
+        <p>Recta vera solutio1dicitur solutio ad orationeni. Et ditilnitur
+        etiain2sic in secundo Elenchorum: “recta quideni solutio est niani
+        festatio falsi sillogisini et propter quid3est falsus”. Species autern sive
+        partes recte solutionis sunt due, quia4alia est per interemptioneni,
+        alia vero5per divisionem6.Solutio quidein per interemptionem est
+        quando interimitu.r aliqua premissarum propter sui falsitatern. Solu
+        do auteni per divisionern est quando snanifestatur quod conclusio
+        non sequitur ex premissis propter aliquam fallaciain in dictione vel
+        extra dictionem. Unde7solutia per interemptionem debetur orationi
+        que8procedit ex falsis9;[iV8lraJ solutio10per divisioneint1debetur12
+        orationi peccanti’3secunduni aliquarn fallaciam in dictione vel
+        extra dictionem.</p>
+        <p>Quotienscurnque ergo vis orationem1aliquani solvere, sive in
+        sophisrnatibus sive in aliis, prirno considera utrum conclusio sit vera
+        vel falsa. Quoriiain2si est falsa, non potest probari nisi sophistice; et
+        sic3 ad probationem solvendum est per divisionein. Aut probabitur4
+        per fallaciani5;et tunc ad ipsain probationem solvendum per inte
+        remptionein; iinprobatio autem vera debet esse. Si autein conclusio
+        vera sit, tunc recta debet esse probatio, sed improbatio peccabit
+        secunduin aliquani fallaciam; et tunc solvenduni est per divisia
+        nem. Aut6accipiet aliquod falsurn; tunc solvencluin per interemp
+        tioneni.</p></div>
+        <div><head>De divisione siflogjsmonim a pare coizdusioizis</head>
+        <p>[P90th] Terrninatis 1sincategoreuma.tibus et habitis eis que2
+        exiguntur ad oppositionern in genere et visis modis solutionuni in
+        coirirnuni, consequenter dicendum est de divisione sillogismoruin
+        a parte conclusionis. Sciendurn ergo [T5Ovb] quad sillogisrnoruni
+        alii sunt universales, alii particulares. Universales autem dicuntur3
+        qui habent conclusionern universalem, sicut patet in printo et
+        secundo4prime figure et etiam5in prima et secundo secunde6
+        figure. Particulares autem dicuntur qui habent conclusionern
+        particularein, sicut patet in reliquis sillogisinis ornnium figurarum.
+        Nota ergo quod universaies semper plura sillogizant sive plures
+        habent sernper conclusiones, quia habent suam propriain’ conclu
+        sionem et etiam concludunt c2onversam sue conclusionis; et etiam
+        concludunt particularem proprie conclusionis; preter autem has ties
+        conclusiones sillogismi universales negativi concludunt quartam
+        conclusionem; et hec e3st particularis propositio converse sue proprie
+        conclusionis. Verbi gratia secundus prime i4nfert suain propriam
+        conclusionein s5:ic ‘6nullum animal est lapis; omnis homo est ani
+        mal; ergo nullus hoirio est lapis’. Et conchidit conversam sue con
+        clusionis sic: ‘ergo nullus lapis est homo’. Et concludit particularem
+        s7ue p8roprie conclusionis sic: ‘ergo quidam homo non est lapis’. Et
+        concluditur particulareni sue converse proprie con clusionis sic:
+        ‘ergo quidarn lapis non est homo’.</p>
+        <p>Et iste q’uatuor conclusiones sequuntur [N84rb] ex dizabus pre
+        missis in predicto sillogisino positis’. Et sic ornnes universales
+        n2egativi quatuor habent con clusiones. Sed universales a3ffirmativi
+        habent tres, scilicet propriam conclusionem u4niversalem et s5uam
+        particularern et suam conversarn. U6nde nota quod quintus prime
+        continetur sub primo, quia nichil aliud coiicludit n8isi conversam
+        conclusionis prinzi. Et sextus prime continetur sub secundo, quia
+        nichil concludit nisi conversam conclusionis secundi. E9adem
+        ratione septimus continetur sub tertio. Unde intellige quod <name>Aristotiles</name>
+        non scparavit quintum’° a prirno neque sextuin a secundo
+        neque septimurn a tertio, sed tius. Unde <ref><name>Aristotiles</name> in primo
+        <title>Priorum</title></ref>, u1b2i deterruinat generationexn sillogisinorum, nullam
+        facit mentionein de illis tribus, scilicet de quinto et sexto et septimo,
+        sed solum dicit in p3rincipio’ secundi <title>Priorum</title> quod u4niversales’
+        sillogisrni o1mn5es sernper p1lu6ra sillogizant, i1de7st plures habent
+        conclusiones, Ut dixixnus. Et ab jib loco extraxit e1o8s Boetius. Item.
+        Particularium sillogismorum affirmativi plures habent conclusio
+        nes, quia suam p9ropriain’ conclusionem et conversani eius. Et ideo,
+        sicut dixirnus, septimus° prime continetur sub tertio. Sed particu
+        lares negativi unam solam habent conclusionem, [P9OvaJ eoquod
+        p2artic1ularis negativa non convertitur.</p></div>
+        <div><head>De ostenswne sillogisnwrum</head>
+        <p>Visa 1 divisionc 2sillogisinorum a parte conclusionis 3quoacl
+        quantitatem 4et qualitatern in precedenti lectione 5(non 6quoad prin
+        cipia sillogismorum, que sunt inodus et figura, quia’ divisio sillogis
+        inorurn 8a parte figurarum et modorurn habita f9uit prius in Tractatu
+        sillogismorwn, assignando figuras tres et rnocios proprios eorun
+        dem°), — consequenter scienduiri quod omnis sillogismus osten
+        ditur duobus modis, quia ostenditur convertendo et etiam d1uce1ndo
+        ad irnpossibile (sive’ 2per sillogisrnusrn conversi’ruIn et per sub
+        gismum ad irnpossibile).</p>
+        <p>Notandurn etiarn 1quod. eodein inodo ordinantur terrnini 2et
+        propositiones in si1logisrno conversivo et in sillogisrno ad inipos
+        sibile. {I’184va] Sed differunt duobus inodis. Prima differentia est in
+        hoc quod sillogisinus conversivus fit a3lio sillogismo prius facto,
+        suruendo oppositum conclusionis curn altera prernissarum ad interi
+        rnendum reliquani, sed aliquando rnaiorem, aliquando v4ero inino
+        rem. Verbi gratia Si accipiatur 5oppositum conclusionis cum niinori,
+        interiiriit 6maiorern. Ut ‘ornne animal est substantia; oninis homo
+        est animal; ergo omnis homo est substantia’. Oppositurn autem
+        conclusionis est hoc ‘quidam homo non est substantia’. E8x hoc ergo
+        curn ininori [T5lraJ potes 9interimere maiorern sillogizando in
+        quinto tertie sic: ‘quidani home non est substantia; omnis home est
+        animal; ergo quoddarn animal non est substantia’; et hec conclusio
+        contradicit maiori alterius sillogismi. Si vero accipiatur’° idein
+        oppositum cuin maiori, interimit rninorem. sillogizando in quarto
+        secunde sic: ‘omne animal est substantia; quidam hoino non est
+        substantia; ergo quidairi homo non est animal’; e1t hec con clusio
+        interirnit mninorern prinmi sillogisnii. Et sic sillogisrnus conversivus
+        fit semnper silbogismo’ 2alio t3 prius facto. Sed 14 sillogizando ad
+        impossibile non est necesse alium prius facere sillogisrnumn, sed
+        solurn sumpta aliqua propositione’: si16 ex ea d1uc7at "responden
+        tern" ad maius inconveniens quad’ 8sit cognitumn esse falsuni
+        (1un9de suuni oppositurn erit mnanifeste verunm), et propter hoc
+        interiinat20propositionem2’quam prius sumebat, — tunc erit sub
+        gismus ad iinpossibile. Ut22 Si tu3des propositionern hanc scilicet
+        quod ‘arbores non habent animam’ et24 cx hoc concludat25impos
+        sibile26 magis inariifestum sic: ‘ergo arbores non nutriuntur27neque
+        augmentantur’; sed hoc est iinpossibile; ergo inipossibile est arbores
+        [P9Ovbl non habere anixnam, — sic factus est sillogismus ad inipos-.
+        sibile. Secunda autern differentia est quod sillogismus conversivus
+        est ad ostendenduin illationem28 esse necessariain; silbogismus
+        vero29 ad impossibile est ad ostenderidurn proposituin esse falsurn;
+        unde ex consequenti est ad ostendendum oppositum propositi31esse
+        verum.</p>
+        <p>Sciendum ergo’ quod quilibet sillogismus cuiuslibet figure
+        potest ostendi quoad2suam illationem per sillogismuin conversivuiri,
+        ut dixirnus, et etiam quelibet conclusio cuiuslibet sillogis
+        mi potest ostendi quoad suam veritatem per sillogisinum ad impos
+        sibile, Ut dictum est. Si autem aliquis in3 istis voluerit esse prornptus,
+        oportet eum frequenter exercitari4in huiusmodi silbogismis.</p>
+      </div>
+      </div>
+    </div>
+    </body>
+  </text>
+</TEI>

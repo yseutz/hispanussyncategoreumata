@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus Quartus [Tarragona transcription]</title>
+      	<author>Petrus Hispanus</author>
+        <editor>Joana Gomes</editor>
+        <respStmt>
+          <name>Jeffrey C. Witt</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+        	<title>Tractatus Quartus [Tarragona transcription]</title>
+          <date when="2019-06-05">June 6, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority><ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref></authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+    		<pb ed="#T" n="27-v"/>
+        <pb ed="#T" n="b"/>
+    	</div>
+    </front>
+    <body>
+      <div xml:id="phsyn-t4">
+        <head>TRACTATUS QUARTUS</head>
+<head>DE DICTIONIBUS EXCEPT1VIS</head>
+<div><head>Introductio</head>
+<p>Sequitur’ de dictionibus exceptivis, Ut ‘preter’, ‘preterquan-i’ et
+‘nisi’. Et prirno queritur quid significet [N55ra1 dictio exceptiva;
+secundo propter quid dicatur dictio exceptiva; tertio que et quot sint
+cause que exiguntur ad exceptionem; quarto quain habitudinem sive
+quarn coniparationem denotet dictio exceptiva; quinto cu.m seinper
+excipiat partern rnultitudinis, a qua inultitudine d2ebeat excipere;
+sexto utrurn propositio exceptiva sit. universalis vel singularis; septi
+mo quornodo sumatur sub ea, sive quoinodo sit s3;illogizabilis octavo
+et ultiino queritur de constructione ipsius.</p></div>
+<div><head>Quid sigrtzjicet dictio exceptiva</head>
+<p>Circa primurn nota quod hec dictio ‘preter’ non significat
+exceptionein, s1icut q2uidam dicunt, q3uia neque s4ignificat earn ut
+c5onceptam neque Ut exercitam. Quod probatur cisdern rationibus
+q6uibus ostendebatur prius q7uod hec dictio ‘solus’ non significat
+[P63ra1 e8xclusionem ut conceptarn neque Ut exercitarn. Rein. Osten
+ditur per hoc quod neutro niodo signiflcat exceptionemn hec dictio
+‘preter’, q9:uia Nulla prepositio’° significat affecturn vel etxer1citiuxn
+sed tanturn significat habitudineni c1asu2alis ad acturn. Ergo hec
+dictio ‘preter’ non significat exceptionein Ut a1ffec3turn vel 1U4t
+exercitiuni. Et quod non signhficat earn Ut c5onceptam’ patet sicut
+pnus de dictionibus exciusivis. Et sic hec dictio ‘preter’ nullo m1o6do
+significat exceptionem. Quod concedirnus dicentes quod liec dictio
+‘preter’ signifacat instantiam in parte sive ‘non curn h1.o7c’ Et ideo
+dicitur dictio in stan tiva.</p>
+<p>Sed tunc obicitur quod cum sit instantia propositio propositioni’
+contraria (Ut est in Secundo Priorum) et hec est aut universalis aut particularis, ergo contingit instantiam ferre2non solurn in parte sed
+etiam in toto. Ergo sicut habemus dictionem3instantivarn in parte,
+sicut ‘preter’4,ita debemus habere dictionem instantivarn in toto.
+Quod concedimus dicentes quod dictiones exceptive (ut ‘preter’ et
+consimiles) ferunt instantiam in parte, dictiories vero exclusive (Ut
+‘tanturri’, ‘solus’ et consirniles) ferunt instantiam in toto, quia iste
+reniovent partein a toto, ut ‘oninis honio preter Sortem’5,ille vero
+econtrario reniovent totum a parte, Ut ‘tantum Sortes’ idest6Sortes et
+nullus alius hoino. Et7sic patet primum.</p></div>
+<div><head>Qytare dictio dicatzr exceptiva</head>
+<p>Secundi vero patet solutio per predicta, quia hec dictio ‘preter’ et
+consimiles dicuntur exceptive non1ab exceptione ut2 significata (
+Ut obiecturn est) sed ab exceptione Ut5 exercita, sicut ‘tantuin’4et ‘
+solus’ dicuntur exclusive non5 ab exciusione Ut6 significata sed "Ut"
+exercita.</p></div>
+<div><head>Que et quot sint cause exceptionis</head>
+<p>Circa tertiuin queriturtque et quot sint cause que
+exiguntur ad exceptionem. Videtur enirn2quod sint tria3,quia non
+potest fieri exceptio nisi aliquid excipiatur Ct ab4 aliquo et respectu
+alicuius. Ut curn dicitur ‘onmis homo preter Sorteni currit’, ‘Sortes’
+est exceptuin et hec distributio5‘oninis honio’ est6id a quo [P63rb]
+excipitur, et iste actus qui’7est ‘currere’ est id8respectu cuius excipitur.
+Ergo ista tria necessaria sunt ad exceptionem. Et dicenduin quod
+quinque exiguntur9ad exceptionem. Unum est excipiens (et hec est
+aniina) et alteruni est instrumentuni10excipiendi1’(et }
+iec est dictio
+exceptiva, [T34rb] ut ‘preter’ et consimiles); et etiarn12exiguntur illa
+tria de quibus obicit13,scilicet quod excipitur et a
+quo excipitur et
+respectu cuiust4.Unde predicta tria de quibus obiciebat’5,exiguntur
+sed non sufficiunt ad exceptionern, quia predicta quinque oportet’ 6
+semper concurrere ad hoc quod’ 7fiat exceptio.
+6 Sed obicitur quod hec dictio ‘preter’ non semper tenetur excep
+tive sed quandoque tenetur diminutive, sicut quidam dicunt, quia 1:
+Hec est vera ‘decem preter unum sunt 2novern’. Sed. ex denaric non 3
+potest 4fieri novenarius nisi per diminutionein denarii numeri 5.
+Ergo oportet quod hec dictio ‘preter’ teneatur ibi diminutive 6.Et sic
+hec dictio ‘preter’ equivocatur ad exceptionem et’ dirninutionem.
+Sed contra. Ornnis pars est semper 8in suo toto secundum habitu
+dinem per 9 quam 1°habitudinem est pars, Ut 51 in actu est pars, et
+secundurn actum est in suo toto; et si in habitu est pars, Ct secundurn
+ha.bitum est in suo toto. Ergo pars’ secunduin quod est pars, non
+potest esse extra suum toturn t2.Ergo si ponatur extra suunt totum,
+tunc non erit extra secunduni se sed respectu alicuius alterius. Sed
+sicut unitas est pars denarii, ita unurn est pars decern. Ergo unur 4
+non potestz 5excipi at6 decem nisi respectu alicuius tertii 17.Ergo cum
+dicitur ‘decent preter unuin sunt novem’, ibi est quod excipitur (quia
+unum) et a quo excipitur (quia decem) Ct respectu cu.iu.s (quia re
+spectu huius t8 actus, scilicet ‘esse novem” 9),et etiarn excipiens quad
+excipit (scilicet 2°intellectus) et instrumentum per quad excipit 21.
+Ergo ibi sunt quinque cause predicte. Que suffIciunt ad exceptionem.
+Ergo tenetur ibi exceptive et non diminutive. Et sic in omnibus
+consiinilibus. [P63va] Et s2i2c seinper tenetur [N55va] exceptive.
+Quod concedimus.</p></div>
+<div><head>Quam habitudize,n denotet dictio exceptiva</head>
+<p>Circa quartuln queritur in hunc raodum. Cuni ubicuinque est 1
+exceptio, excipiatur 2aliquid ab aliquo quod fert 3instantiam secun
+dum partem eius 4 a quo excipitur, necesse est ergo quod id quod
+excipitur sit pars eius a quo excipitur; et 5 etiain 6sit 7secundum actum.
+in eo 8a quo excipitur. Sed cum pars subiectiva e9t pars in modo non
+ferant instantiam contra suurn totum, quia 1°non sunt actualiter in
+suo toto, ideo neutra haruin potest excipi a suo to to. Ergo oportet quad dictio exceptiva dicat habitudinem partis actuai.iter existentis in toto 1t
+ad suurn totum. Et ideo omnes 2iste sunt incongrue ‘homo preter
+Sortem currit’, ‘Plato preter Sortern currit’, quia exceptum non est
+actualiter pars eius a quo fit e:xceptio. Et ita dictio ex:ceptiva non
+repperit habitudinern ad13 quam naturaliter’ 4ordinetur 15.
+8 Rein. Nulla pars fert instantiam contra suum totum nisi per sui 1
+negationern contradicat ei. Sed pars subiectiva per sui negationem
+non contradicit toti, quia Sorte non existente adhuc 2est hoino 3.Et
+siiniliter de parte in inodo. Ergo relinquitur quod partes omnes 4
+aliorurn generurn contradicant 5suo toti per sui negationein 6.Sect
+ille’ 7 sunt actualiter in suo 8 toto, ut patet in toto integrali et toto in
+quantitate. Ergo liec dictio ‘preter’ solum dicit habitudinem partis
+actualiter existentis in suo toto ad 9suuxn toturn. Item10.Nulla pars 11
+fert instantiam toti nisi sequatur ad ipsuni. Sed nulla pars sequitur ad
+suuin toturn nisi actualiter sit in12 ipso. Ergo nulla 13 pars fert
+instantiarn contra suuin totuni nisi actualiter sit in ipso. Ergo hec
+dictio ‘preter’ dicit coniparationem’ 4partis actualiter existentis in suo
+toto ad suurn totuin. Quod concedimus.</p></div>
+<div><head>De quibusdain regulis</head>
+<p>Ex hiis patent plures regule. Prima talis est:
+<seg type="rule">opoitet exception secundwrz 1naturam aclualiler continen in eo a qtso fit exceptio, cC
+reozoven [T34va; P63vb] ab ipso respectll predwali vet alicuius tertii.</seg>
+Ut hic 2:‘oinnis liomo preter Sortern currit’. Secunda regula est talis:
+<seg type="rule">quotienscumque tot excipiiontur 3quot s74ponurdur, 10c141i0 ext i7nftropliL2 4etfalsa.</seg>
+Ut ‘omnis hoino preter omneni [N55vb] horninern currit’ 5.Gum
+enini excepturn non stat 6 in ratione partis, non repperit 7dictio
+e:xceptiva coinparationeni quain exigit; et sic est ibi improprietas 8.Et
+cum predicatum ponatur in quolibet et removeatur 9a quolibet, oportet
+ipsani esse falsarn. Tertia regula talis est:
+<seg type="rule">contra bEam falsam non ext’° dare instantiam</seg> Ut ‘ornnis homo preter omnem hoininem est lapis’. Propositio
+autem tota falsa est que est contraria vere , Ut vult Aristotiles in
+Secirndo PriorlAm. Ut ‘omnis homo est asinus’; hec est contraria vere,
+idest habet falsitatem pro qualibet sui parte. Unde a tali non potest
+fieri exceptio, quia o1porteret e1xcip2ere quamlibet sui parteln. Et
+sic o1nr4nia exciperentur quecumque s5upposita’ esscnt. Quod est
+contra secundam regulam.</p></div>
+<div><head>Sophismata</head>
+<p>Secundurn predicta queritur de hoc sophisinate OMNE
+ANIMAL PRETER HOMINEM EST IRRATIONALE. Probatio. Hec
+est falsa ‘onme aniinal est irrationale’. Et non est instantia nisi in’
+hornine. Ergo facta exceptione p2ro eo est vera. Ergo hec est vera
+‘omne animal preter hominem est irrationale’. Contra. Omne
+animal preter hoiniriem est irrationale. Ergo omne animal preter
+hunc hominem est irrationale. Q3uod falsuni est.</p>
+<p>Solutio. Prima vera. Et’ probatio bene tenet. Sed improbatio
+peccat secundum figuram dictionis a s2implici ad personalein, quia
+iste accusativus ‘horninem’ post dictionein exceptivarn habet simpli
+cern suppositionein, aim sit terminus comniunis curn dicit ‘onme
+animal preter horninern est irrationale’. Sed cuin dicit ‘ornne
+animal preter hunc hominem’, iste accusativus ‘hunc hoiriinem’
+habet personalem s.3uppositionern Et sic est ibi figura dictionis. Item.
+Est ibi conseq1Aens ab inferiori ad superius cum distributione (sicut
+hic: ‘omnis horno; [P64ra] ergo ornne animaJ’), quia in hac propo
+sitione ‘omne animal preter hominem est irrationale’ ista distributio
+‘4omne animal’ comprehendit i5n se omne a6nimal aliud ab hoini
+ne tanturn. Sed curn dicitur ‘ornne animal preter hunc horninern’,
+ista distributio ‘omne animal’ comprehendit i1n se omne animal
+aliud ab isto homine Ct ita cornprehendit ornnia animalia q8ue prius
+comprehendebat, et etiarn omnes homines alios ab isto hornine. Et
+sic a9ugmentatur suppositio, sicut hic: ‘omne animal aliud ab homi
+ne; ergo omne animal aliud ab isto homine’.</p>
+<p>Idem autein est i1udiciuxn de hoc sophisinate OMNE ENUN
+TIABILE PRETER VERUM EST FALSUM. Et p2enitus eadem e3st
+probatio et improbatio, et omnino eadem est solutio a de bus OMNE
+ANIMAL PRETER SANUM [N56ra] EST EGRUM; OMNIS QUAN
+TITAS PRETER CONTINUAM EST DISCRETA; OMNE CORPUS
+PRETER INANIMATUM EST ANIMATUM.</p></div>
+<div><head>A qua multitudine excipiat dictio exceptiva</head>
+<p>Circa quintum queritur a qua [P38vb] rnultitudine h1abeat
+excipere dictio exceptiva, quia non excipit i2ndifferenter a q3ualibet
+rnultitudine. Nichil eniin esset dictu ‘hornines preter Sorteni cur
+runt’. Ergo non excipit a multitudine que est in nomine pluralis
+numeri. Et etiam nichil est dictu ‘turba preter Sorteni currit’. Ergo
+non excipit a muithudine nominis collectivi.</p>
+<p>Et dicenduin quod d2uplex est multitudo. Qu.ia quedarn est
+multitude que est rnodus intelligendi. Et hec est in nornine pluralis
+numeri; omnia enim accidentia partium orationis sunt modi intelli
+g.3endi Et ab hac niultitudine que est rnodus intelligendi, non cxci
+pit dictio [T34vb] exceptiva. A4lia auteni est multitudo qi.ie non est
+rnodus intelligendi sed e5st multitudo rei. Et hec i6terum est duplex.
+Quia est quedani potentialis. Et hec est in quolibet universali, quia
+quodlibet universale potentia habet in se s1ua individua. Et iteruni
+a8b ista non p9otest excipere dictio exceptiva. Et ideo nichil est dictu
+‘hoino preter Sortem currit’. Aiia autern est multitudo rei que’° est
+multitude [P64rb] actualis. Et hec est in toto in quantitate, quando
+universale quod sumitur universaliter, continet sub se plura indivi
+dua, ut ‘ornnis homo’ v1e11 ‘ornne animal’. H1e2c est etiam inultitudo
+que est in tote integrali et in aliis toils habentibus naturam horum.</p>
+<p>Et ab hac multitudine excipit dictio exceptiva. Que est inultitudo
+a,1ctualis quia hanc e.2xigit Q3uod s4ic probatur. Dictum est enim in
+predictis quod dictio exceptiva semper e5xcipit partem actualiter existentem in suo toto a6 suo toto. Ergo cum oporteat parteni aliarn 7
+vel alias relinqui in8 ipso toto, quia non possunt tot excipi 9quot
+supponuntur, oportet tunc quod illa alia pars ve1 10 il1e 11 alie partes
+actualiter sint in suo toto. Ergo dictio exceptiva semper exigit’ 2multi
+tudinern partium actualiter existentiuin in suo toto. Item. Ornnes 13
+partes in quas dividitur toturn, ita14 se habent ad toturn quod si una est
+actualiter in15 toto, et omnes alie; et si una’ 6potentia’ 7,et oinnes alie,
+Ut patet inductive 18in toto universali et in toto integrali et in aliis 19
+totis. [N56rb] Sed dictio exceptiva nata est excipere partes in quas
+totum dividitur. Sed excipit partem actualiter existentern in toto. Ergo
+oportet i’bi esse 20 aliain partern vel alias partes actualiter existentes 2t.
+Ergo dictio exceptiva exigit 22 multitudinem partium actualiter exis
+tentium in suo toto. Item. Dictio exceptiva in actu excipit. Ergo in actu
+invenit quod excipit a toto. Sed non inveniret 23 in actu quod.
+exciperet 2tnisi actualiter esset in toto. Ergo quod excipit 25,actuaiiter
+est in toto. Sed nichil actualiter est in toto nisi pars actualis. Ergo
+dictio exceptiva semper excipit partem actualiter existentena in toto.
+Et26 est idern quod prius. Qiod autem dictio exceptiva excipiat2 7a quo
+libet toto habente in se multitudineni actualem, patet inductive 28in
+quolibet toto.</p></div>
+<div><head>De toto in quantitate, cum sophisnzatibus</head>
+<p>Et primo patet in toto in quantitate, [P64va1 Ut ‘ornnis homo
+preter Sortern currit’: hic enirn a toto in qixantitate eccipitur pars eius.
+Et etiarn in hoc sophismate OMNIS HOMO PRETER SORTEM EX
+CIPITUR, posito 1quod oinnes alii a Sorte excipiantur respectu au
+cuius predicati Ct Sortes non. Probatio prime. 11cc est falsa ‘ornnis
+homo excipitur’. Et non est instantia nisi in Sorte. Ergo facta.
+exceptionc pro Sorte 2erit vera. Ergo 5hec est vera ‘ornnis hoino preter
+Sortein excipitur’. Contra. In hac propositione dictio exceptiva adiungitur ‘Sorti’. Ergo excipit ipsum 4respectu predicati. Ergo Sortes
+excipitur. Ergo prima falsa.</p>
+<p>Solutio. Prima vera simpliciter t.Et improbatio peccat secundum
+quid et simpliciter, quia excipere ab exceptione non est excipere
+sirnpliciter sed secundum quid, sicut privare 2a privatione non est
+privare sirnpliciter sed secundurn quid; immo 3potius est 4 dare
+habiturn 5,ut privare 6a. cecitate est dare visum 7.Ergo excipi ab
+exceptione non est excipi sirnpliciter sed secundum quid. Et ideo,
+licet Sortes excipiatur respectu 8huius predicati ‘excipi’ 9(sicut est in
+prima), non tamen excipitur siinpliciter 10.Et ideo est ibi fallacia 11
+secundum quid et sirnpliciter. Et sic patet quod [T35raJ exceptio fit a
+toto in quanthate.</p></div>
+<div><head>De toto integra ii, cum sophisrizatibus</head>
+<p>Patet etiam quod fit a toto integrali, ut TOTA DOMTJS PRETER
+[W56va] PA.RIETEM EST ALBA et TOTUS SORTES PRETER
+PEDEM POTEST CONTINERJ AR’ ARCHA,, posito quod 2totus Sortes
+possit intrare archam 3,ita quod archa non possit recipere pedem eius
+cuin eo. Probatio prime. Hec est falsa ‘totus Sortes potest contineri ab
+archa’. Et non est instant.ia nisi in pede 5.Ergo facta exceptione pro
+pede 6edt vera. Ergo 7hec est 8vera ‘totus Sortes preter pedem potest
+contineri ab archa’. Contra. Pes Sortis potest contineri ab archa. Non
+ergo totus 9Sortes preter pedem potest contineri ab archa. Ergo prima
+falsa.</p>
+<p>Solutio. Prima vera simpliciter. Et irnprobatio peccat secunduin
+accidens, quia duplici de causa pars excipitur a toto respectu pre
+dicati. Aliquando enim’ excipitur pars [P64vb] a toto respectu pre
+dicati eoquod pars secundum se non vere subicitur predicato. Ut hic:
+‘ornne animal preter homineiri est irrationale’: ‘homo’ excipitur a
+suc toto, quia non vere subicitur ‘irrationali’ 2.Hec enim est falsa
+‘homo est irrationale’ 3.Aliquando autem pars excipitur a suo toto
+eoquod, quamvis recipiat predicatum secundum se, non tamen 4
+recipit ipsum prout est in suo toto. Et sic pes Sortis bene° potest locari
+in archa secun durn se, sed 7prout est unitus 81fl 9 suo toto sive curn suo toto, n0on’ potest locari in archa. Unde cum dicit iinprobando”
+‘pes Sortis potest c2ontineri’ ab archa; non ergo totus Sortes p1re5ter
+pedem potest contineri ab archa’, peccat secundurn accidens, quia,
+quainvis pes possit c1onti4neri s1ecun5dum se, non tamen ut e1s6t in
+suo toto. Sicut h1:i7c ‘cognosco Coriscuiri; non e8rgo ignoro venien
+tern’. Licet enim cognoscam Coriscum secundum se, ignoro tamen
+ipsum p9rout’ est veniens; Ct SiC est ibi acddens.</p></div>
+<div><head>De toto in loco et toto in tempore</head>
+<p>Item. Patet quod a toto in loco potest lien exceptio, ut ‘pluit
+ubique preterquarn hic’. Et etiaan a toto in tempore, ut ‘phuit’ semper
+preterquam hen’.</p></div>
+<div><head>De toto numerali, cuin sophisnzatibus</head>
+<p>Et sic patet quod dictio e1xceptiva excipit sen’iper a s2uo toto
+habente in se inultitudinein a.3ctualem Patet etiarn hoc in toto
+numerali, Ut ‘4decern preter unum c.5urrunt’ E6t etiam in hoc
+sophismate DECEM PRETER QUINQ.UE SUNT QUINQUE. Q7uod
+sic probatur. Hec est falsa ‘decem sunt quinque’. S8ed non est
+instantia nisi pro quinque. Ergo facta exceptione [N56vb1 p9ro quin
+que erit vera. Ergo hec est vera ‘decem preter quinque sunt quinque’.
+Contra. Decern preter quinque sunt quinque. Ergo quinque non sunt
+quinque, quia predicaturn semper removetur ab excepto.
+22 Solutio. Prima est vera simpliciter. Et improbatio’ peccat secun
+dum accidens, quia, sicut patet, pars duobus modis causat falsitatein
+in oratione. Uno enirn macdo quia predicatuni non convenit p2arti
+secundum se (et sic est falsa hec ‘omnis homo currit’ Sorte non
+currente), alio autein rnodo causat [P65raJ falsitatem in oration e,
+quia, licet predicatuni c3onveniat parti secundum se, non tarnen
+convenit ci ut est in suo toto (et sic est falsa hec ‘totus Sortes potest
+locari in archa’, cuni pes Sortis non possit in ea esse curn Sorte). Et
+s4icut falsitas causatur per partem indifferenter, sive hoc niodo sive
+jib, s5irniliter indifferenter contingit excipere partem a toto, au
+quando hoc inodo, aliquando jib, u6t sicut causatur f7alsitas in oratione 8per partem, ita 9per eundein modurn fiat 10 exceptio circa 11
+partem.</p>
+<p>Dicenduin ergo’ breviter quod prima 2simpliciter est vera. Et
+iniprobatio peccat secundurn accidens, quia ‘esse quinque’ predica
+tur de quinque secundum se (Ut ‘quinque sunt quinque’) sed non
+predicatur de qu.inque secundum quod quinque sunt [T3irb] sub
+forma totius. Et ita peccat secundurn accidens, sicut prius patuit de
+hoc sophismate ‘totus Sortes preter pedern potest locari 4in archa’.</p>
+<p>Ad’ illud au tern quod obicit quod predicatum semper 2remove
+tur ab excepto, dicenduin quod non est verum, quia quando falsitas
+causatur in oratione per partern eoquod predicatum non convenit
+parti 3,tunc predicatum rewiovetur ab excepto. Sed quando causatur
+falsitas in oratione eoquod, licet predicatum conveniat parti 5secu.n—
+durn se, non ta.men convenit ei Ut est in suo toto, tunc predicatum.
+non contingit reinoveri ab 6excepto. Et sic 7 est in proposito. Unde non
+sequitur ‘deceni preter quinque sunt quinque; ergo quinque non sunt
+quinque’.</p></div>
+<div><head>Utrum exceptiva sit universalis vet singularis</head>
+<p>Circa se:xtuin sic obicitur. Propositio universalis est que onini 1
+aut 2 nulli inesse significat, ut est in Prinio Prionem. Sed propositie
+exceptiva non significat inesse oinni aut nulli, quia ponit instantiani
+in aliquo 5vel in aliquibus. Ergo propositio exceptiva non est
+universalis. kern ad idern. Solet dan talis 4 regula:
+<seg type="rule">dictio exaptives vult invenire distnbutioae,ri 5inobilem ci redden earn i,nmobilenz.</seg>
+Ergo cuin dicitur ‘ornnis hoino preter Sortem currit’ 6,hec
+distributio ‘omnis horno preter Sorteiri’ 7est irrnnobilis. Ergo non stat
+in ratione universalis, curn contingat fieri inotum sub qualibet
+universali. Et patet quod non est indefinita neque particularis. Ergo 8
+est singularis. 26 Et dicendum quod propositio universalis est duplex. Quia
+quedarn est completa et alia inconipleta. Coinpieta est illa in qua
+subiecturn pro qualibet sui parte recipit predicaturn, ut ‘omnis homo
+albus currit’; hic enim ‘homo atlbus’ subicitur cursui pro quolibet
+homine albo. Inconipleta est illa in qua subicitur subiectum non pro
+q2u.alibet sui parte sed pro q.5uibusdani Et sic omnis exceptiva est
+universalis, U4t ‘omnis homo preter Sortem currit’. Primo autent
+modo nulla exceptiva est universalis. Ad prinium autem argumen
+turn dicenduin quod obicitur de propositione universah completa et
+perfecta. Secundi autem argurnenti patebit solutio in s5eptima
+questione.</p></div>
+<div><head>Quomodo exceptiva sit siliDgizabilis</head>
+<p>Circa septimum’ sic obicitur. Cuin dicitur sic ‘oninis hoino
+preter Sortem currit; sed Plato est h2;omo ergo Plato preter Sortem
+currit’, nulla est talis illatio neque sic potest fieri sillogismus. Ergo
+non est sillogizabilis p3ropositio exceptiva. Item ad idern. Cun ornnis
+exceptiva sit irnmobilis (per regulam precedentem), ergo non potest
+fieri suniptio sub e.4a Ergo non est sillogizabilis.
+28 Et dicendum quod propositio exceptiva e1st s,2illogizabilis sic:
+<seg type="example">omnis hoino p.ter Sortem currit
+Plato at homo
+ergo Plato currit</seg>
+quia i4sta determinatio ‘preter Sortem’ non debet surrii ad medium
+neque in conclusione, eoquod est determinatio subiecti in cornpara
+done ad predicatum et nulla talis deterrninatio s5umitur ad medium
+neque in conclusione, sed solurn debet sumi detcrminatio eius quod
+est subiectum, quia hec est absoluta, alia a6utem est respectiva.</p>
+<p>Ad aliud autern dicendum quod propositio exceptiva est xnobi
+us, quia est sillogizabilis, sicut dictum est, assumendo omnes partes
+alias ab excepto. Unde predictain regulam dicirnus esse falsani, v1el
+salteni erit intefligenda quantum ad exceptum, hoc est quad nulla
+pars potest assunii 2cum 3excepto. Unde non sequitur ‘omnis homo
+preter Sortem currit; ergo Plato preter Sortem currit; ergo Virgiius
+preter Sortein currit, et sic de aliis’.</p></div>
+<div><head>Saphisma</head>
+<p>Secundum predicta queritur de hoc sophisrnate SORTES MS
+VIDIT’ O1VINEM HOMINEM PRETER 2[T35va] PLATONEM, posito
+quod Sortes una vice viderit 3oninern hominem preter 4Platoneni et
+alia v-ice ornnem hominem. Probatio prime. H5ec est falsa ‘Sortes bis
+v-idit 6omnern horninein’ 7.Et 8 non est instantia nisi in Platone. Ergo
+facta exceptione pro e9o e1r0it vera. Ergo hec est vera ‘Sortes his ‘vidit
+omnern honiinern preter Platonern’. Contra. Sortes his vidit omnem.
+horninern preter Platonem. Ergo bis non vidit Platoneni. Ergo una
+vice et alia vice non vidit Platoneiri. Quod falsuin est.</p>
+<p>Solutio. Prima duplex, eoquoci hec dictio ‘his’ potest deterrninare
+hoc verbuni ‘videre’ [lV57rbJ prout transit 1supra accusativum sequen
+ten-i cum sua deterininatione facta per exceptionem. Et tunc est
+sensus Sortes -vidit onnem hoininem preter Platernein, et hoc bis. Et t2unc
+sequitur quod nulla vice viderit 3Platonem. Et sic est falsa. Et sic hec
+dictio ‘preter’ excipit ab hoc quod est ‘videre ornneni hominem’. Et
+sic prius 4advenit hec dictio ‘preter’ in oratione 5.AJio autem inodo
+hec dictio ‘his’ potest deterrninare tantum hoc quod e6st ‘videre
+omnern horninem’. Et tunc h7ec dictio ‘preter’ excipit ab eo quod est
+‘bis videre onmem hoininem’. Et sic est vera, quia non bis vidit
+Platonem. Et sic hec dictio ‘bis’ prius 8 intelligitur advenire in
+oratione quam hec dictio ‘preter’.</p></div>
+<div><head>De quibusdam regulis</head>
+<p>Ex predictis patent plures regule. Quarum prima talis est:
+<seg type="rule">cuiuslibet exceptwe 2iiere sisa preiacens cot falsa.</seg>
+Preiacens autem exceptive est illa propositio 5a4 qua removetur
+falsitas per dictionem exceptivain. Unde hic: ‘omne animal est irrationale’ 5est preiacens falsa huius exceptive vere ‘omne animal preter horninem 6est irrationale’. \
+Alia regula est talis: <seg type="rule"> si aliqua ro/osztio est vera sine exceptione, erit falsa apPosita exceptione.</seg>
+</p></div>
+<div><head>Sophisma</head>
+<p>Item. Queritur de hoc sophismate QUELIBET’ VIGIN-TI PRETER DECEIVE SUNT DECEIVE.
+Probatio. Ista viginti preter decem sunt decem, illa 2viginti preter decem. sunt decem, et sic de aliis. Ergo prima vera. Contra. Preiacens est tota falsa. Ergo non potest verificari per dictionem 5exceptivam,
+per hanc regulam: <seg type="rule">Contra totamfalsam non cot 4dare 5instantiam.</seg></p>
+<p>34 Solutio. Prima falsa simpliciter’. Probatio autem peccat secundum accidens, sicut in hoc sophismate OMNE COLORATUM PR.ETER UNUM CURRIT.
+Probatio. Omne album preter unu.m. currit. Oinne nigrum preter 2u.num currit. Omne inedio colore coloratum preter unurn currit, posito quod iste tres sunt vere.
+Ergo omne coloratum preter unurn currit. Contra. Prima est tota falsa. Ergo non potest verificari per exceptionen1 3.Patet autern accidens nisi in uno Ct conclusio habeat instantiain in tribus,
+scilicet in uno albo et in alio nigro et in tertio 4medio colore colorato.</p></div>
+<div><head>De constiuctione dictionis exceptive</head>
+<p>Circa octavuni obicitur quod hec dictio ‘preter’ non construatur
+cum accusativo c,1asu quia comparatio iniportata per hanc dictionem
+‘preter’ []‘157va] est ipsius actus vel respectu actus. Ergo determinat
+actum. Sed actus habet s2ignificari per verbum.. Ergo hec dictio
+‘preter’ dcterniinat verbum. Ergo est adverbiuni. Ergo non est prepo
+sitio neque verbuin, cuni sint partes o3rationis d4iverse ab adverbio.
+Ergo non [T35vb] construitur cum accusativo.</p>
+<p>Et’ dicendurn quod ‘preter’ non est adverbium sed prepositio,
+quia adverbia determinant i2psum verbum ratione actus vel ratione
+alicuins comparationis debite ipsi actui, cum adverbiuin sits Ut verbo
+adiectum. Sed prepositiones non dicunt c4omparationein actus, imino
+dicunt coniparationeni substantie oblique signifIcate ad actum vel
+respectu actus. Et sic differunt prepositiones et adverbia. Unde non
+sequitur, s5i dicat comparationeni aliquani respectu actus, quoci ideo°
+sit adverbiuin, irnrno potius sequitur quod non sit adverbium.</p>
+<p>Rein. Cuai dicitur ‘iste currit ibi’, hoc adverbiurn ‘ibi’ dicit
+determ in ationern actus. Se d e adem de terminatio significatur
+[P66rai in J.iac oratione ‘iste currit in jib loco’. Ergo ista prepositio
+‘1in’ dicit eandern conipa.rationem cum hoc adverbio ‘ibi’. Ergo est
+adverbiuni, cuin dicat eandem comparationern. Et s2imiliter de aliis
+preposition ibus, U3t ‘transivit iliac’ idest per illam partein; et ‘movetur
+sur sum’ idest ezd locum superiorem; Ct ‘currit vebociter’ idest cum
+velocitauç et ‘factum est celitus’ idest a celo; et ‘divinitus’ idest a Deo.
+Ergo prepositiones idem significant cum adverbiis, q4uia similiter
+e5st in omnibus a.liis p.6repositionibus Ergo prepositiones non diffe
+runt ab adverbiis. Ergo hec dictio ‘preter’ est adverbiurn. Ergo non
+construitur cum accusativo</p>
+<p>Et dicendum quod hoc adverbiu.m. ‘velociter’ dicit velocitatem
+ut determinationein actus cuin dico ‘currit velociter’. Sed si dicam
+‘curnt cum velocitate’, hec prepositio ‘curn’ non dicit velocitateni ut
+determinationem actus sed dicit comparationern unius ad alterurn,
+ut v1elocitatis ad actum. Sirniliter hoc adverbiuin ‘ibi’ dicit locum ut
+deterininationeni actus, s2ed h3ec prepositio ‘in’ non dicit locurn Ut determinationem actus sed dicit comparationein ipsius loci ad
+actuxn qui lit in eo; et sic de aliis. Unde prepositiones non significant
+idem cu.m adverbiis. Unde hec dictio 4‘preter’ non est
+adverbium sed prepositio.</p>
+<p>Item. Hec dictio ‘preter’ rernovet verbum personale ab excepto.
+Sed verbum alicuius persone’ non reinovetur nisi a nominativo.
+Ergo hec dictio ‘preter’ construitur cum nominativo 2.</p>
+<p>Et dicendum quod dupliciter removetur verburn personale ab
+aliquo casuali. Quia uno inodo removetur eoquod negatur compo—
+sitio’ unius ad alteru:in; et sic seinper reinovetur verbuin personale a
+nominativo, Ut ‘ego non curro’, ‘tu non legis’ 2,‘ille non disputat’, et
+similiter 3in plurali 4.Alio autem inodo removetur verbum personale
+ab aliquo casuali propter hoc quod illud casuale extrahitur ab aliquo
+recipiente in se ilium actum; et sic 5 semper reniovet’ur actus 6ab
+excepto per hanc dictionem ‘preter’. Sed hoc est valde ex con
+sequenti 7,quia primo hec dictio ‘preter’ extrahit partem a toto (Ut
+‘ornnis homo [F66rb] preter Sortem’), secun do actus ponitur in toto a
+quo fit exceptio (Ut ‘orunis horno preter Sortem currit’), tertio quia
+actus positus in toto non reperiebat 8partern que prius remota erat a
+toto respectu. ipsius actus. Ideo consequebatur rernotio 9ipsius actus a
+parte excepta 10.Sicut cum vidisti pluviarn venientein, prirrio remo—
+visti librurn a fenestra, secundo cecidit pluvia super fenestraxn,
+tertio t1 sequitur 12 quod non sit recepta in libro vel quod non
+ceciderit 3supra librum.</p></div>
+<div><head>De hiis dictionibus ‘f.rreterqualri’ et ‘nisi’</head>
+<p>Sciendum autem quod quecurnque tsunt dicta de hac dictione
+‘preter’, omnnia debent intelligi 2de hac dictione ‘preterquam’ et tie
+hac dictione ‘nisi’, secundum q’uod est dictio exceptiva. Excepto hoc
+quod hec dictio ‘preter’ semper excipit in accusativo casu (Ut dictum.
+est), sed ‘preterqualn’ et ‘nisi’ seinper excipiunt in eodem casu in
+quo est totum a quo fit exceptio. Ut ‘nullus horno curnt preterquam
+Sortes’ vel ‘nisi Sortes’; ‘nullius hominis miserior preterquam
+Sortis’ vel ‘nisi Sortis’; ‘nu1li homini p4arco preterquani Sorti’ vel ‘nisi Sorti’;
+‘nuihim honiinetn video preterquam Sortemu’ vel ‘nisi 5cr-t5;eni’ ‘a nullo Imominc didici preterquam a Sorte’ vel ‘nisi a S.6orte’</p></div>
+</div>
+    </body>
+  </text>
+</TEI>
