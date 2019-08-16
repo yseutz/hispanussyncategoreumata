@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,39 +18,41 @@
         </edition>
       </editionStmt>
       <publicationStmt>
-        <publisher>Petrus Hispanus Project in collaboration with LombardPress</publisher>
-        <pubPlace/>
+        <authority><ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus
+          Works</ref></authority>
         <availability status="free">
-          <p>Public Domain</p>
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+            >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
         </availability>
-        <date when="2016-06-21">June 21, 2016</date>
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="T"></witness>
-          <witness xml:id="P"></witness>
-          <witness xml:id="N"></witness>
-          <witness xml:id="R"></witness>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod
+            2</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="public-draft">
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
       <listChange>
-        <change when="2015-11-05" who="#JW" status="draft" n="0.0.0-dev">
-          <note type="validating-schema">lbp-0.0.1</note>
+        <change when="2019-06-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
         </change>
       </listChange>
     </revisionDesc>
-    
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div xml:id="includeList">
-        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/workscited.xml" xpointer="worksCited"/>
-        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/Prosopography.xml" xpointer="prosopography"/>
-      </div>
-      <div xml:id="startOn">
-        <cb ed="#T25rb"/>
+      <div xml:id="starts-on">
+        <pb ed="#T" n="25-r"/>
+        <cb ed="#T" n="b"/>
       </div>
     </front>
     <body>
@@ -78,7 +78,10 @@
               <rdg wit="#H">consimilia</rdg>
             </app>) 
             causatur veritas vel falsitas 
-            in oratione. Ergo dictiones sincategorematica <cb ed="#T25va"/> significant res 
+            in oratione. Ergo dictiones sincategorematica 
+            <pb ed="#T" n="25-v"/>
+            <cb ed="#T" n="a"/>
+            significant res 
             aliquas. Sed non significant res subicibiles vel predicabiles. Ergo 
             significant res que sunt dispositiones subicibilium vel 
             <app>
@@ -114,7 +117,9 @@
             <mentioned>contingenter</mentioned> et sic 
             de aliis) et ille non subiciuntur neque predicantur, quia sunt ipsius 
             subiecti in comparatione ad predicatum et econverso. Et tales dispositiones 
-            significantur per dictiones sincategorematicas; <cb ed="#N" n="42ra"/> 
+            significantur per dictiones sincategorematicas; 
+            <pb ed="#N" n="42-r"/>
+            <cb ed="#N" n="a"/>
             dicunt enim comparationes sive habitudines subiecti inquantum 
             subicibile et predicati inquantum predicabile. Et dicitur 
             sincategoreuma a <mentioned>sin</mentioned>, quod est <mentioned>con</mentioned>, et <mentioned>categoreuma</mentioned>, quod est 
@@ -203,9 +208,9 @@
             diffinitur per numerum et[19] <mentioned>rectum</mentioned> per lineam. Est enim par: 
             numerus divisibilis[20] in duo equalia; rectum[21] vero est[22]; linea cuius 
             medium non exit ab extremis.
-            <cb ed="#T" n="25vb"/>
+            <cb ed="#T" n="b"/><!--T25vb-->
             Tertius autem 
-            <cb ed="#N" n="42rb"/> 
+            <cb ed="#N" n="b"/><!-- N42rb--> 
             modus 
             est quando propria passio predicatur de proprio subiecto, ut rectum 
             vel curvum de linea et par[23] vel impar de numero et habere tres 
@@ -239,7 +244,9 @@
             est de affirmatione quam de negatione. Et sic prius dicendum 
             est de <mentioned>est</mentioned> quam de <mentioned>non</mentioned>.</p>
           <p>Nota ergo[1] quod hoc 
-            <cb ed="#P" n="51va"/> verbum <mentioned>est</mentioned>[2] consignificat compositionem,[3] 
+            <pb ed="#P" n="51-v"/>
+            <cb ed="#P" n="a"/>
+            verbum <mentioned>est</mentioned>[2] consignificat compositionem,[3] 
             et etiam alia verba. Sed hoc verbum <mentioned>est</mentioned> per prius 
             consignificat[4] eam, cum natura prius sit aliis verbis et in eis intelligatur. 
             Sed compositio non solum repperitur in verbo sed etiam[5] in 
