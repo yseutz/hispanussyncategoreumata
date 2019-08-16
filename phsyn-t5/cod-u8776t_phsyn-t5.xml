@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.mg" type="application/xml" schematypens="http://relamg.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.mg" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -22,7 +22,7 @@
             Works</ref></authority>
         <availability status="free">
           <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+              >Attribution-NonCommercial-ShareAlike 4.0 Intemational (CC BY-NC-SA 4.0)</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -34,7 +34,7 @@
     </fileDesc>
     <encodingDesc>
       <schemaRef n="lbp-diplomatic-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.mg"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a diplomatic edition. </p>
@@ -64,124 +64,124 @@
           <p xml:id="phsyn-t5-d1e117">Dicto de dictionibus eicceptiv-is dicenduin est de thctionibus
             consecutivis. Et prilno de hac dictione ‘si’. De qua primo queritur quid signifIcet;
             secundo quot sint species’ consecutionis sive conse quen tie; tertio utrum in
-            conditionali 2contingat fieri descensuin sub antecedente vel consequente; quarto
-            qualiter 3sumatur contradic toria 4propositionis conditionalis; quinto utrurn
-            impossibile antecedat ad quidlibet sive ex iinpossibili sequatur quidlibet.</p>
+            conditionali 2contingat fieri descensum sub antecedente vel consequente; quarto
+            qualiter 3sumatur contradic toria 4propositionis conditionalis; quinto utrum
+            impossibile antecedat ad quidlibet sive ex impossibili sequatur quidlibet.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e120">
           <head xml:id="phsyn-t5-Hd1e121">Quid sign/Icet hec dictio ‘si’</head>
           <p xml:id="phsyn-t5-d1e124">Circa primum sic obicitur quod hec dictio ‘si’ flOfl
             significat substantiam. Quia substantia dicitur quatuor modis; uno modo substantia
-            dicitur materia (Ut rnateria Sortis vel ignis’ vel aliorum elementoruin); alio autcin
-            rnodo substantia dicitur forrna (Ut forina Sortis et aliarum reruin naturaliurn
-            2);tertio auteni 5inodo substantia dicitur cornpositum [P66va] cx hiis, scilicet ex
-            rnateria et forma (Ut Sortes et alia individua); quarto autem modo substantia dicitur
+            dicitur materia (Ut materia Sortis vel ignis’ vel aliorum elementorum); alio autem
+            modo substantia dicitur forma (Ut forma Sortis et aliarum rerum naturalium
+            2);tertio autem 5modo substantia dicitur compositum [P66va] cx hiis, scilicet ex
+            materia et forma (Ut Sortes et alia individua); quarto autem modo substantia dicitur
             essentia dicens quid sive predicabile de pluribus (Ut homo, animal et consimilia). Sed 4
-            hec dictio ‘si’ nullo predictorum 5modorum signi ficat substantiam. Ergo hec dictio ‘si’
+            hec dictio ‘si’ nullo predictorum 5modorum significat substantiam. Ergo hec dictio ‘si’
             substantiam non significat. Quod concediimus.</p>
           <p xml:id="phsyn-t5-d1e127">Item. Quidam dicunt quod hec dictio ‘si’ significat causalita
-            tern, alii vero antecessionel, alii autem consecutionem 2.Et videtur quad significet
-            causalitatern, quia dicitur coniunctio causalis, et nonnisi 3a4 significatione 5cause
+            tem, alii vero antecessionel, alii autem consecutionem 2.Et videtur quad significet
+            causalitatem, quia dicitur coniunctio causalis, et non nisi 3a4 significatione 5cause
             vel causalitatis. Ergo hec dictio ‘si’ significat causalitatem. Item. Videtur quod magis
             significet ante cessionem quam consecutionem, quia magis se tenet cumn ante cedente quam
-            cum 6consequente a parte rei. Cuius signum est quod 7 sernper adiungitur antecedenti (et
-            non consequenti), ut ‘animai est, si horno est’. Sed sernper antecessio est forrna
-            antecedentis et con secutio consequentis. Ergo inagis se tenet cuin antecedente 8quain
-            cum consequente. Ergo s9i hec dicito ‘si’ significat alterum istorum, rnagis significat
+            cum 6consequente a parte rei. Cuius signum est quod 7 semper adiungitur antecedenti (et
+            non consequenti), ut ‘animai est, si homo est’. Sed semper antecessio est forma
+            antecedentis et con secutio consequentis. Ergo magis se tenet cum antecedente 8quam
+            cum consequente. Ergo s9i hec dicito ‘si’ significat alterum istorum, magis significat
             antecessionem quam consecutionem.</p>
-          <p xml:id="phsyn-t5-d1e130">Item ad idem. ‘Causa’ dicitur dupliciter. Quia quedarn est
-            causa que’ est causa rei quoad esse 2,et hec est causa essendi, Ut COUS et aniina sunt
-            causa hominis quoad [N58rb1 esse et sol lucens super terram est causa cJ.iei quoad esse.
+          <p xml:id="phsyn-t5-d1e130">Item ad idem. ‘Causa’ dicitur dupliciter. Quia quedam est
+            causa que’ est causa rei quoad esse 2,et hec est causa essendi, Ut COUS et anima sunt
+            causa hommis quoad [N58rb1 esse et sol lucens super terram est causa cJ.iei quoad esse.
             Alia autem est causa que est causa consequendi. Et sic in qualibet conditionali
             antecedens est causa consequentis, non essendi sed consequendi; et in quolibet argu
             mento premisse sunt causa 5conclusionis 4.Et sic est causa duplex:, scilicet causa
-            essendi et causa consequendi. Sed utroque istoruin rnodorum causa inquanturri causa est
-            antecedens, Ct causaturn inquantum. causatuin est consequens. Sed hec dictio ‘Si’
-            significat causain vel causalitatern. Ergo significat antecessionem et non
-            consecutionem. Item. Videtur quod signifIcet consecutionem, per diffinitioneni.
+            essendi et causa consequendi. Sed utroque istorum modorum causa inquanturri causa est
+            antecedens, Ct causatum inquantum. causatum est consequens. Sed hec dictio ‘Si’
+            significat causam vel causalitatem. Ergo significat antecessionem et non
+            consecutionem. Item. Videtur quod signifIcet consecutionem, per diffmitionem.
             coniunctionis datam a Prisciano sic: “coniunctio est pars orationis indeclinabilis
-            coniunctiva aliarum partium vim vel ordinem dernonstrans “. Et Priscianus exponit sic:
+            coniunctiva aliarum partium vim vel ordinem demonstrans “. Et Priscianus exponit sic:
             vim significant ille coniunctiones [P66vb1 que significant res aliquas simul esse (Ut
             ‘pius 5Ct fortis fuit Erteas’); ordinemn significant 6coniunctiones quan do monstrant
-            7consequentiarn aliquaruxn 8rerun (Ut ‘Si ambulat, nrovetur’). Sed hec dictio ‘Si’ et
-            consirniles significant ordinein. Ergo significant consequentias rerum sive
+            7consequentiam aliquarum 8rerun (Ut ‘Si ambulat, nrovetur’). Sed hec dictio ‘Si’ et
+            consimiles significant ordinem. Ergo significant consequentias rerum sive
             consecutioneni 9.Non 10 ergo antecessionemn.</p>
-          <p xml:id="phsyn-t5-d1e133">Et dicendurn quod hec dictio ‘si’ significat causalitatem sive
-            antecessionem. Et hoc 1 non est significare plura sed unumn, quia unurn significat 2in
-            altero sive per alterurn. Q,uia per hoc quod significat causalitatemn significat
-            3antecessioneni, quia, sicu.t in omni causa intelligitur antecedens natura, cum oninis
+          <p xml:id="phsyn-t5-d1e133">Et dicendum quod hec dictio ‘si’ significat causalitatem sive
+            antecessionem. Et hoc 1 non est significare plura sed unumn, quia unum significat 2in
+            altero sive per alterum. Q,uia per hoc quod significat causalitatemn significat
+            3antecessioneni, quia, sicu.t in omni causa intelligitur antecedens natura, cum onmis
             causa sit prior natura suo 4effectu, ita 5 in causalitate intelligitur antecessio. Unde
             6hec d.ictio ‘si’ significat causaiitatem secundum 7quod in ea intelligitur antecessio.
-            Et sic8 significat causalitatern in 9 anteces— sione sive per antecessionern. Unde 10
+            Et sic8 significat causalitatem in 9 anteces— sione sive per antecessionem. Unde 10
             non significat duo sed unum. 6 "Ad" argumenta autem quibus ostenditur quod’ significat
-            causalitatern sive antecessionern, concedirnus quod significat, sicu.t dictum est, unum
-            in altero sive per alterurn. Ad argurnen turn autem probans quod hec dictio ‘si’
-            significet 2consecutioneni dicendum quod non significat consecutionem sed significat
-            antecessionem (Ut dixirnus), quia3ad antecessionem sequitur consecutio.</p>
+            causalitatem sive antecessionem, concedimus quod significat, sicu.t dictum est, unum
+            in altero sive per alterum. Ad argumen tum autem probans quod hec dictio ‘si’
+            significet 2consecutionem dicendum quod non significat consecutionem sed significat
+            antecessionem (Ut diximus), quia3ad antecessionem sequitur consecutio.</p>
           <p xml:id="phsyn-t5-d1e136">Et nota quod unum sequitur ad alterum’ est multiplex’. Quia
             quedani sequuntur2eoquod sunt essentialiter predicabilia, Ut diffinitio et3 genus et4
-            differentie5ad speciern. Alia autem sequun tur6 eoquod sunt partes integrates, Ut panes’
-            7ad domum et8 cetere partes eius. Alia autern sequuntur quia9sunt partes essentiales10,
-            quaruvis non sint partes integraies, ut corpus hunianuin et anima intellectiva ad
-            honiinein. Et dicuntur partes integrales11 quaruin quelibet habet quantitateni. Et ideo
-            corpus et aniina non sunt partes integrales quia, licet corpus habeat quantitateni,
-            tanien anima non habet quantitatem’2.Sed sunt partes essentialest3aninialis ve114
-            viventis, quia anima repperitur’5in hontinibus ut intellectiva tan turnt6et in brutis
-            ut17 sensitiv 8tantuni19Ct20 in terre nascentibus ut vegetativa2’tanturn. Alia autem
+            differentie5ad speciem. Alia autem sequun tur6 eoquod sunt partes integrates, Ut panes’
+            7ad domum et8 cetere partes eius. Alia autem sequuntur quia9sunt partes essentiales10,
+            quaruvis non sint partes integraies, ut corpus hunianum et anima intellectiva ad
+            honimem. Et dicuntur partes integrales11 quarum quelibet habet quantitateni. Et ideo
+            corpus et anima non sunt partes integrales quia, licet corpus habeat quantitateni,
+            tanien anima non habet quantitatem’2.Sed sunt partes essentialest3animalis ve114
+            viventis, quia anima repperitur’5in hontinibus ut intellectiva tan tumt6et in brutis
+            ut17 sensitiv 8tantuni19Ct20 in terre nascentibus ut vegetativa2’tantum. Alia autem
             sequuntur22quia23 sunt subiecta propria accidentiuni, vel econverso quia sunt24 propria
-            accidentia25 subiectoriira. Et sic sequitur linea ad rectum vel curvuin, et26 nunierus
-            ad par vel irnpar, et corpus elementatum2 7ad colorein [P67ra1 tarnquam propria
-            subiecta, vel econverso rectum vel curvurn ad28 lineam, et29 par vel impar ad numeruin,
-            et color ad corpus3°ele mentatuin sicut accidentia31propria ad propria subiecta32.Sed
-            nullo predictorurn modorum consecutio33sequitur ad antecessionem.</p>
-          <p xml:id="phsyn-t5-d1e140">Alia autem sequuntur1quia dicuntur ad se in’vicern relative,
-            ut pater et filius, doniinus et servus. Et hoc modo consecutio sequitur2 ad
-            antecessionern. Sicut enim antecedens3et consequens stint ad aliquid, sirniliter
-            antecessio et consecutio ad se invicein dicuntur. Unde hec clictio ‘si’ significat
-            solurn 4antecessionern. Et5 quia omnis antecessio6consecutionis7est antecessio, ideo ad
+            accidentia25 subiectoriira. Et sic sequitur linea ad rectum vel curvum, et26 nunierus
+            ad par vel impar, et corpus elementatum2 7ad colorem tamquam propria
+            subiecta, vel econverso rectum vel curvum ad28 lineam, et29 par vel impar ad numerum,
+            et color ad corpus3°ele mentatum sicut accidentia31propria ad propria subiecta32.Sed
+            nullo predictorum modorum consecutio33sequitur ad antecessionem.</p>
+          <p xml:id="phsyn-t5-d1e140">Alia autem sequuntur1quia dicuntur ad se in’vicem relative,
+            ut pater et filius, dominus et servus. Et hoc modo consecutio sequitur2 ad
+            antecessionem. Sicut enim antecedens3et consequens stint ad aliquid, similiter
+            antecessio et consecutio ad se invicem dicuntur. Unde hec clictio ‘si’ significat
+            solum 4antecessionem. Et5 quia omnis antecessio6consecutionis7est antecessio, ideo ad
             significationem huius dictionis ‘si’ sequitur consecutio relative.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e143">
-          <head xml:id="phsyn-t5-Hd1e144">Quo: sint species c4rnsecutiolzis</head>
-          <p xml:id="phsyn-t5-d1e147">Circa s1ecunduin queritur quot sint species c,2onsecutionis
-            quia cuTn unum relatoru exigatur ad cognitionein altenus, oportet c4ognoscere
+          <head xml:id="phsyn-t5-Hd1e144">Quo: sint species c4msecutiolzis</head>
+          <p xml:id="phsyn-t5-d1e147">Circa s1ecundum queritur quot sint species c,2onsecutionis
+            quia cuTn unum relatoru exigatur ad cognitionem altenus, oportet c4ognoscere
             consecutionem et modos s5ive species c6onsecutionis ad hoc q7uod a8ntecessio
             cognoscatur. Et d.icendum quod consecutionis due sunt d,9ivisiones excedentes et
-            excesse. Una quideni divisio est ista: consecutionis alia e1s0t sirnul existentiuin, Ut
-            ‘SI hoino est, anirnai est’. Alia est existentiuin secundum prius et posterius; nani
-            aliquanclo sequitur quod est pnus, et aliquando quod est posterius. Et quod est prius,
-            sequitur dupliciter. Quia a1’iiquando i2n’ idemptitate teznporis, Ut ‘Si addiscit,
+            excesse. Una quideni divisio est ista: consecutionis alia e1s0t simul existentium, Ut
+            ‘SI homo est, animai est’. Alia est existentium secundum prius et posterius; nani
+            aliquando sequitur quod est pnus, et aliquando quod est posterius. Et quod est prius,
+            sequitur dupliciter. Quia a1’iiquando i2n’ idemptitate temporis, Ut ‘Si addiscit,
             ignorat’; p1ri8us enim est ignorare et sequitur a1d4 addiscere, quod’ est posterius te6t
-            in eodem tenipore, quia quando addiscit, i.7gnorat’ N1ic8hil enirn addiscirnus nisi quod
-            ignoramus. Aliquando a1ute9in sequitur p2°rius in diversi tate t2.empotris Et hoc
+            in eodem tenipore, quia quando addiscit, i.7gnorat’ N1ic8hil enim addiscimus nisi quod
+            ignoramus. Aliquando a1ute9m sequitur p2°rius in diversi tate t2.empotris Et hoc
             dupliciter. Uno modo sequitur prius in prete rito, Ut ‘51 fumus est, igiiis fuit’ et ‘si
-            panis est, f2ari2na fuit’; et hoc a2cc5idit maxime in c2au4sis non perrnanentibus et in
-            c2au5sis natura et teinpore a2nteced6entibus suum effectum. Alio autein modo prius
+            panis est, f2ari2na fuit’; et hoc a2cc5idit maxime in c2au4sis non permanentibus et in
+            c2au5sis natura et tempore a2nteced6entibus suum effectum. Alio autem modo prius
             sequitur in tempore futuro, 2u7t ‘2purg8atio et omnia a2li9a que f3inal0iter ordinantur
-            ad s3anita1texn s3;u2nt ergo sanitas erit’ (sanitas enirn causa finalis est
-            predictoruin). Causa enirn finalis semper natura prior est suo effectu; [P67rb]
+            ad s3anita1tem s3;u2nt ergo sanitas erit’ (sanitas enim causa finalis est
+            predictorum). Causa enim finalis semper natura prior est suo effectu; [P67rb]
             aliquando auteni e3s5t tenipore posterior.</p>
           <p xml:id="phsyn-t5-d1e150">Ex predictis ergo patet quod prius aliquando sequitur in
-            presenti, aliquando in preterito, aliquando in futuro. Hec autern diversitas
-            consecutionis accidit eoquod causa tripliciter comparatur ad suuin effectum. Aliquando
-            enirn causa est siinul tempore cuin suo effectu, quanwis non natura, Ut sol lucens super
-            terram cum die. Aliquando autem causa precedit effectum suurn tempore et natura, Ut
-            ignis furnum et racerni v.1inum Aiiquando auteni causa antecedit suuin effectum natura
+            presenti, aliquando in preterito, aliquando in futuro. Hec autem diversitas
+            consecutionis accidit eoquod causa tripliciter comparatur ad suum effectum. Aliquando
+            enim causa est simul tempore cum suo effectu, quanwis non natura, Ut sol lucens super
+            terram cum die. Aliquando autem causa precedit effectum suum tempore et natura, Ut
+            ignis fumum et racemi v.1inum Aiiquando auteni causa antecedit suum effectum natura
             et est posterior tempore; et hoc maxime s2olet acci dere in causa finali. Et sic patet
-            quod consecutionis alia est s3imul existentiurn, a4lia non sin-sul existentium. Secunda
-            vero divisic est ista: consecutionis alia est simplex, alia coinposita, sive secundum
+            quod consecutionis alia est s3imul existentium, a4lia non sin-sul existentium. Secunda
+            vero divisic est ista: consecutionis alia est simplex, alia composita, sive secundum
             oppositiones, Ut dictum fuit 5in tractatu Fallaciaram, in fallacia con sequentis.</p>
-          <p xml:id="phsyn-t5-d1e153">Hee 1 autem divisiones comparantur ad 2 se invicein Ut exce—
-            den tia 3 et excessa, quia utrumque meinbrum prime 4divisionis repperitur in 5 simplici
-            consequentia et in cornposita, et utrumque niembruni secu.nde 6divisionis repperitur 7in
-            eis que sirnul con sequuntur e8t in eis que consequuntur secundum prius et posterius. Ut
-            ‘Si panis est, farina fuit’ et ‘Si vinurn est, racerni fuerunt’. Et hee consequuntur
-            secixndum prius et posterius et etiarn ibi est simplex [N59ra} consequentia. Et in
-            eisdern 9potest formari colnposita 10 consequentia, Ut ‘si vinutu est, racerni fuerunt;
-            ergo’ 2si racenil non fuerunt, yin urn non est’ Similiter autem et in hiis terrninis 14
+          <p xml:id="phsyn-t5-d1e153">Hee 1 autem divisiones comparantur ad 2 se invicem Ut exce—
+            den tia 3 et excessa, quia utrumque membrum prime 4divisionis repperitur in 5 simplici
+            consequentia et in composita, et utrumque niembruni secu.nde 6divisionis repperitur 7in
+            eis que simul con sequuntur e8t in eis que consequuntur secundum prius et posterius. Ut
+            ‘Si panis est, farina fuit’ et ‘Si vinum est, racemi fuerunt’. Et hee consequuntur
+            secimdum prius et posterius et etiam ibi est simplex [N59ra} consequentia. Et in
+            eisdem 9potest formari colnposita 10 consequentia, Ut ‘si vinutu est, racemi fuerunt;
+            ergo’ 2si racenil non fuerunt, yin um non est’ Similiter autem et in hiis terminis 14
             qui simul consequuntur. Et ideo dicuntur iste divisiones excedentes et excesse quia
-            secundum quod ununi 15niernbrum prime divisionis repperitur in utroque secunde’ 6,sic
-            prima divisio est excedens et secunda 17 excessa; secundurn autein quod unum meinbrum 18
+            secundum quod ununi 15niembrum prime divisionis repperitur in utroque secunde’ 6,sic
+            prima divisio est excedens et secunda 17 excessa; secundum autem quod unum membrum 18
             secunde 19 divisionis repperitur in utroque prime, sic 20 secunda est excedens et prima
             2’excessa. Et quod dico de uno membro divisionis, similiter 22in telligatur de
             reliquo.</p>
@@ -190,281 +190,283 @@
           <head xml:id="phsyn-t5-Hd1e158">Sophisma</head>
           <p xml:id="phsyn-t5-d1e161">Secundum predicta queritur de hoc sophismate: SI NULLIJM
             TEMPUS’ EST, ALIQUOD TEMPUS EST. Probatio. Si nullmn tempus est, dies non est 2.Et si
-            dies non est, nox 3est 4.Et si flO3C est, aliquod teinpus est 5. [P67va] Ergo a. prixno:
-            ‘Si nullum ternpus est, aliquod tempus est’. Contra. Ibi 6 assignatur sequi oppositurn
+            dies non est, nox 3est 4.Et si flO3C est, aliquod tempus est 5. [P67va] Ergo a. primo:
+            ‘Si nullum tempus est, aliquod tempus est’. Contra. Ibi 6 assignatur sequi oppositum
             ad oppositum. Ergo locutio est impossibilis.</p>
-          <p xml:id="phsyn-t5-d1e164">Solutio. Prima falsa sinipliciter. Et dicunt quidarn quod in
+          <p xml:id="phsyn-t5-d1e164">Solutio. Prima falsa simpliciter. Et dicunt quidam quod in
             prima conditionali probationis est locus a toto in quantitate, in secunda 1vero
             conditionali est locus a contrariis immediatis, in tertia vero est locus a parte
             subiectiva. Et sic variatur 2habitudo inferendi Ct ita impeditur locus a primo ad
-            ultirnum. Et ponunt ibi sophisina 3 acciclentis propter variationern medii.</p>
+            ultimum. Et ponunt ibi sophisma 3 acciclentis propter variationem medii.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e167">
           <head xml:id="phsyn-t5-Hd1e168">De duabus maximis</head>
-          <p xml:id="phsyn-t5-d1e171">Sed t hoc destruitur per has duas maximas: <seg type="maxima"
-              >quicqtsid seqwhr ad consequems 2,sequitur ad antecedens.</seg> Ergo Si uftirnuni
-            consequens (scilicet 3aliquod teinpus esse 4)sequitur ad antecedentia interinedia, C5t
+          <p xml:id="phsyn-t5-d1e171">Sed t hoc destruitur per has duas maximas: <seg type="maxima">quicqtsid
+            seqwhr ad consequems 2,sequitur ad antecedens.</seg> Ergo Si uftimuni
+            consequens (scilicet 3aliquod tempus esse 4)sequitur ad antecedentia intermedia, C5t
             antecedentia intermedia. sequuntur ad printum antecedens (quod est nuihim tempus esse),
-            tunc oportet quod ultirnum 6consequens (quod est aliquod tempus esse) sequatur ad nullum
-            ternpus esse, quod est primum 7antecedens. Et sic necesse est priinarn esse verain, si
+            tunc oportet quod ultimum 6consequens (quod est aliquod tempus esse) sequatur ad nullum
+            tempus esse, quod est primum 7antecedens. Et sic necesse est primam esse veram, si
             habitudines probationis sum necessarie. Ergo a destructione consequentis: si prima non
             est vera 8,habitudines probationis non erunt necessarie.</p>
           <p xml:id="phsyn-t5-d1e177">Alia auteni maxima est ista: <seg type="maxima">quicquid
-              antecedit ad antecedens, (AT5rbJ antecedit ad consequens.</seg> Ergo si primu1rn
+              antecedit ad antecedens, (AT5rbJ antecedit ad consequens.</seg> Ergo si primu1m
             antecedens antecedit ad antecedentia intermedia et antecedenlia intermedia antecedunt ad
-            ultimum consequens, ergo 2 prirnum antecedens antecedit ad ultiniun consequens. Ergo Si
+            ultimum consequens, ergo 2 primum antecedens antecedit ad ultimum consequens. Ergo Si
             habitudines probationis sunt necessarie, prima est vera. N3ec inipe ditur locus a prima
-            ad ukiinurn propter diversas habitudines inter medias. Ergo si prima non est vera,
-            habitudines interniedie non sunt necessarie 4.Item ad idem. Si Sortes est animal
-            rationale mortale, Sortes est homo (a diffinitione). Et si Sortes est hoino, Sortes est
+            ad ukiinum propter diversas habitudines inter medias. Ergo si prima non est vera,
+            habitudines intermedie non sunt necessarie 4.Item ad idem. Si Sortes est animal
+            rationale mortale, Sortes est homo (a diffinitione). Et si Sortes est homo, Sortes est
             animal (a specie). Et si Sortes est animal, Sortes non est lapis Cab oppositis). Ergo a
             primo: si Sortes est animal rationale niortaic, Sortes non est lapis. Sed hoc bene
             sequitur et s5ic ibi sunt diverse habitudines locales. Ergo propter 6diversitatem
-            habitudinuin [P67vb] localium non irnpeditur 7processus a prinio ad ultimuni. Item ad
-            idem. In sillogisnio categorico non 8 exigitur quod eadem sit habitudo rnedii ad
-            irtaiorem extremitatein et minorein, ut <seg type="example">Nulla virtus est vitiwn
+            habitudinum localium non impeditur 7processus a primo ad ultimuni. Item ad
+            idem. In sillogisnio categorico non 8 exigitur quod eadem sit habitudo medii ad
+            irtaiorem extremitatem et minorem, ut <seg type="example">Nulla virtus est vitiwn
               omnis iustitia est virtus ergo nulla iustitia 9est vi1iui’.</seg> In hoc enim t0
-            sillogismo modii ad maiorern extremitatein est habitudo contrariorum, ininoris vero
-            extrernitatis ad medium est habitudo speciei ad genus. Haruni autem habitudinurn
-            localiuin una facit locum intrinsecum, alia extninsecunl 11.Ergo si inter omnes locos
+            sillogismo modii ad maiorem extremitatem est habitudo contrariorum, minoris vero
+            extremitatis ad medium est habitudo speciei ad genus. Haruni autem habitudinum
+            localium una facit locum intrinsecum, alia extninsecunl 11.Ergo si inter omnes locos
             maxime clifferunt intrinseci t2 et extrinseci sed 13 iste non inipediunt sillogismum
-            categoricum, ergo iste 4 eedern multo minus irnpediunt sillogismuni ypotheticurn. Et si
+            categoricum, ergo iste 4 eedem multo minus impediunt sillogismuni ypotheticum. Et si
             iste non inipe-. diunt, ergo neque alie habitudines, que’ 5magis coriveniunt. Et sic
-            arguendo’ 6a prixno ad ultirnurn non impeditur processus 17propter 18 diversas
-            habitiidines locales. Quod concedimus.</p>
-          <p xml:id="phsyn-t5-d1e186">Et dicenduin quod prima sirripliciter est falsa. Et prima
-            consequentia tenet uno inodo e1t alio rnodo non, quia hec propositio ‘dies non est’ (que
-            est pniinuin consequens) est duplex, eoquod potest esse negatio in genere (sive 2negatio
-            circa genus, quod idern est) vel potest esse negatio sirnpliciter.</p>
+            arguendo’ 6a primo ad ultimum non impeditur processus 17propter 18 diversas
+            habitudines locales. Quod concedimus.</p>
+          <p xml:id="phsyn-t5-d1e186">Et dicendum quod prima sirripliciter est falsa. Et prima
+            consequentia tenet uno modo e1t alio modo non, quia hec propositio ‘dies non est’ (que
+            est primum consequens) est duplex, eoquod potest esse negatio in genere (sive 2negatio
+            circa genus, quod idem est) vel potest esse negatio simpliciter.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e189">
           <head xml:id="phsyn-t5-Hd1e190">De negatione duplici</head>
-          <p xml:id="phsyn-t5-d1e193">Si est negatio in genere, sic ponit subiecturn suurn 1,quod
-            est ternpus communiter loquendo et 2 extenso nomine subiecti; et est sensus istius ‘dies
-            non est’ iste 3:teinpus est sed illud non est dies. Et ita non sequitur ex primo
-            antecedente, qua immediate contradicit ci. Et sic non sequitur ‘nulluin tempus est; ergo
+          <p xml:id="phsyn-t5-d1e193">Si est negatio in genere, sic ponit subiectum suum 1,quod
+            est tempus communiter loquendo et 2 extenso nomine subiecti; et est sensus istius ‘dies
+            non est’ iste 3:tempus est sed illud non est dies. Et ita non sequitur ex primo
+            antecedente, qua immediate contradicit ci. Et sic non sequitur ‘nullum tempus est; ergo
             dies non est’. Nec est ibi locus a toto in quantitate, sed erit 4 argumentum penitus
             5dis parat"or"um<!--had <>-->, sicut hic: ‘nullus homo currit; ergo aliquis homo currit’
-            6 Similiter est in proposito: ‘nulluni texnpus est; ergo aliquoci tempus est sed i7llud’
-            non est dies’. Si autern Sit negatio siinpliciter, tunc nichil ponit ista ‘dies non
+            6 Similiter est in proposito: ‘nulluni tempus est; ergo aliquoci tempus est sed i7llud’
+            non est dies’. Si autem Sit negatio simpliciter, tunc nichil ponit ista ‘dies non
             est’. Et sic sequitur ‘nullum t8empus est; ergo dies non est’; Ct sic est locus a toto
-            in quantitate. Similem distinctionem innuit Aristotiles in Primo P9osteriorum [P68rn)
+            in quantitate. Similem distinctionem innuit <ref><name>Aristotiles</name> in Primo <title>P9osteriorum</title></ref>
             huius quod dico ‘non-par’, quia si ‘non-par’ est negat.ioO in genere, i1ta ponit
-            subiecturn suuin, quod est numerus. Unde ‘2non-par” ponit n1,ume3ruin sed ille non est
+            subiectum suum, quod est numerus. Unde ‘2non-par” ponit n1,ume3rum sed ille non est
             par. Si vero ‘non-par’ sit negatio sim pliciter, sic nichil ponit.</p>
           <p xml:id="phsyn-t5-d1e198">Et sic patet quod hec est duplex ‘dies non est’. Et secundum
             quod est negatio in genere, non sequitur ex primo antecedente. Secun dum autem quod est
-            negatio sinipliciter, sic sequitur’. Econverso autean dicendurn de secunda conditionali
-            (scilicet de hac ‘si dies non est, nox e)2s,t’ quia secundurn quod hec ‘dies non est’
+            negatio simpliciter, sic sequitur’. Econverso autean dicendum de secunda conditionali
+            (scilicet de hac ‘si dies non est, nox e)2s,t’ quia secundum quod hec ‘dies non est’
             est negatio in genere, ita sequitur cx ea n3octem esse, quia destructo uno contra
             r4iorum immediatorum non sequitur alteruin nisi cum constantia subiecti. Unde oportet
             sic inferre: ‘dies non est; et teinpus est; ergo est nox’. Si vero hic: ‘dies non est’
-            sit negatio simpliciter, ita non sequi tur ex ea noctein esse neque hoc modo est ibi
+            sit negatio simpliciter, ita non sequi tur ex ea noctem esse neque hoc modo est ibi
             locus a contrariis.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e201">
           <head xml:id="phsyn-t5-Hd1e202">In quo sit tevipus ut in subiecto</head>
-          <p xml:id="phsyn-t5-d1e205">Item. Queritur in quo sit tempus Ut in subiecto. Quia, curn
-            omnia novern genera predicamentorutri alia a substantia s1int accidentia "2ct onmia
-            accidentia" sunt in subiecto, (quia nullurn accidens potest esse n3isi in subiecto; Ut
-            enim vult B4oetius acci den tis esse est inesse); sed tempus est accidens (5quia est
-            quantitas); ergo est in subiecto; et ideo queritur in quo subiecto sit. E6t dicendurn
-            quod t7einpus est in Inotu primi [N59vb1 mobilis (sive in motu Celi) U8t in subiecto,
-            vel est in priino inobili inquanturn mobile ut in subiecto (quia idem est dicere quod
-            sit in prinlo rnobili inquanturn est mobile sive in inotu prinii mobilis), eoquod ipsius
+          <p xml:id="phsyn-t5-d1e205">Item. Queritur in quo sit tempus Ut in subiecto. Quia, cum
+            omnia novem genera predicamentorutri alia a substantia s1int accidentia "2ct onmia
+            accidentia" sunt in subiecto, (quia nullum accidens potest esse n3isi in subiecto; Ut
+            enim vult <ref><name>B4oetius</name></ref> acci den tis esse est inesse); sed tempus est accidens (5quia est
+            quantitas); ergo est in subiecto; et ideo queritur in quo subiecto sit. E6t dicendum
+            quod t7empus est in motu primi [N59vb1 mobilis (sive in motu Celi) U8t in subiecto,
+            vel est in primo mobili inquantum mobile ut in subiecto (quia idem est dicere quod
+            sit in prmio mobili inquantum est mobile sive in motu primi mobilis), eoquod ipsius
             niobilis inquantun-1 est mobile perfectio est motus, Ut est in tertio Physicorum.</p>
           <p xml:id="phsyn-t5-d1e208">Item. Queritur, c1um nox et dies sint contraria immediata et
-            oninis contrarietas nata 2sit fieri circa aliquod 3idein subiectum, ergo nox et dies
+            onmis contrarietas nata 2sit fieri circa aliquod 3idem subiectum, ergo nox et dies
             erunt 4vicissim in 5 subiecto aiiquo. Et ideo quero 6‘quid est 7 illud’? Et dicendum
-            quod ‘nox’ et ‘dies’ suniuntur 8thipliciter. Quia uno rnodo dicitur dies illuminatio
+            quod ‘nox’ et ‘dies’ suniuntur 8thipliciter. Quia uno modo dicitur dies illuminatio
             aeris a latione, sive ex la.tione, s9olis i1n0 nostro hemisperio, et noxH dicitur
-            privatio illunii nationis aeris in nostro heinisperio, et hoc modo noic et dies sunt
+            privatio illunii nationis aeris in nostro hemisperio, et hoc modo noic et dies sunt
             contraria immediata et habent fieri vicissim circa aera Ut circa subiectum proprium Ct
-            circa latione1m2 solis super terrain {P68rbJ Ut circa causam efficientern. U1n3de sunt
+            circa latione1m2 solis super terram {P68rbJ Ut circa causam efficientem. U1n3de sunt
             in aere Ut ifl subiecto, et est ibi quintus modus ‘essendi in’. Et sunt in latione solis
-            super terrain Ut in causa efficiente; et est ibi sextus rnodus ‘essendi in’. Aiio etiain
-            14 inodo surnuntur ‘nox’ et ‘dies’. Secundum quell’ 5modum dies clicitur spatiurn
-            t1emp6oris rnensurantis lationein solis in nostro hernisperio, ex quo sol incipit
-            lu.cere in nostro hernisperio usque ad recessurn solis a7 nostro hemisperio; et nox
-            dicitur totuin ternpus adequaturn lationi solis in a1li8o hernisperio. Et sic nox et
-            dies sunt partes teinporis. Sed magis proprie sumuntur ‘nox’ et ‘dies’ prirno modo quarn
-            secundo t9.Hemisperiuin autem 20 est 21 illa inedietas celi que apparet super terrain
-            undique in circuitu. Et dicitur herni speriuin ab ‘hernis’ (quod est ‘dmmidium’) et
+            super terram Ut in causa efficiente; et est ibi sextus modus ‘essendi in’. Aiio etiam
+            14 modo sumuntur ‘nox’ et ‘dies’. Secundum quell’ 5modum dies clicitur spatium
+            t1emp6oris mensurantis lationem solis in nostro hemisperio, ex quo sol incipit
+            lu.cere in nostro hemisperio usque ad recessum solis a7 nostro hemisperio; et nox
+            dicitur totum tempus adequatum lationi solis in a1li8o hemisperio. Et sic nox et
+            dies sunt partes temporis. Sed magis proprie sumuntur ‘nox’ et ‘dies’ primo modo quam
+            secundo t9.Hemisperium autem 20 est 21 illa medietas celi que apparet super terram
+            undique in circuitu. Et dicitur hemi sperium ab ‘hemis’ (quod est ‘dmmidium’) et
             ‘spera, spere’, quasi ‘diirudia spera’ v2e21 ‘dimidium spere’.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e211">
           <head xml:id="phsyn-t5-Hd1e212">De predicatione m?Altiplici</head>
-          <p xml:id="phsyn-t5-d1e215">Item. Queritur utrum ternpus predicetur de nocte et die
-            secundum quod ‘nox’ et ‘dies’ suinuntur prirno modo. Et dicendurn quod predicatio est’
-            rnultis modis. Quedam enirn est superioris de inferiori: Ct hec est essentialis
-            predicatio, Ut ‘horno est animal’, ‘homno 2est risibile’ 3.Alia autem predicatio est
-            causalis, ut quando predicatur causa de effectu, ut ‘sanitas est adequatio 4humorurn’ et
+          <p xml:id="phsyn-t5-d1e215">Item. Queritur utrum tempus predicetur de nocte et die
+            secundum quod ‘nox’ et ‘dies’ sumuntur primo modo. Et dicendum quod predicatio est’
+            multis modis. Quedam enim est superioris de inferiori: Ct hec est essentialis
+            predicatio, Ut ‘homo est animal’, ‘homno 2est risibile’ 3.Alia autem predicatio est
+            causalis, ut quando predicatur causa de effectu, ut ‘sanitas est adequatio 4humorum’ et
             ‘dies est sol lucens super terram’. Alia autem est accidentis de subiecto, Ut ‘panes est
             albus’ et 5 ‘linea est rectum 6vel curvum’ 7.Alia est subiecti de propria 8passione, Ut
-            ‘par est numerus’ et ‘rectum est linea’. Et nullo istoruiri modonim ternpus predicatur
-            de nocte et die primo rnodo sumptis. Unde secundum has predicationes omnes bee est falsa
-            ‘dies est teinpus’ et hec siiniliter ‘nox est ternpus’. Alia predicatio est que est
+            ‘par est numerus’ et ‘rectum est linea’. Et nullo istoruiri modonim tempus predicatur
+            de nocte et die primo modo sumptis. Unde secundum has predicationes omnes bee est falsa
+            ‘dies est tempus’ et hec similiter ‘nox est tempus’. Alia predicatio est que est
             mensurantis, sive mensure, de mensurato, Ut hic 9:‘hoc 10 vinuru est qiiarta una’ (ibi
-            11 predicatur inensura de mensurato) vel ‘linea est quanta’ et ‘nutnerus est quantus’ et
-            ‘super flcies est quanta’. Et sic de omnibus speciebus quantitatis predicatur hoc inodo
+            11 predicatur mensura de mensurato) vel ‘linea est quanta’ et ‘nutnerus est quantus’ et
+            ‘super flcies est quanta’. Et sic de omnibus speciebus quantitatis predicatur hoc modo
             quantitas Ut mensura 12,et non ut genus, quia genus non potest predicari denominative de
-            specie. Et hoc rnodo ternpus predicatur de nocte et die secundo 13modo suinptis. Unde
-            hoc mode hec est vera ‘dies est tempus’. Et predicatur mensura de inensurato remote,
-            quia tempus prirno rnodo mensurat motuin prinhi mobilis et inotus printi mobilis
-            inensurat 14inotum solis. Unde ex consequenti tenipus rnensurat rnotum solis et 15 pen
-            6rnotuin solis ukerius mensurat noctern et diem.</p>
+            specie. Et hoc modo tempus predicatur de nocte et die secundo 13modo sumptis. Unde
+            hoc mode hec est vera ‘dies est tempus’. Et predicatur mensura de mensurato remote,
+            quia tempus primo modo mensurat motum primi mobilis et motus primi mobilis
+            mensurat 14motum solis. Unde ex consequenti tenipus mensurat motum solis et 15 pen
+            6motum solis ukerius mensurat noctem et diem.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e218">
           <head xml:id="phsyn-t5-Hd1e219">Quid sit te7npus</head>
-          <p xml:id="phsyn-t5-d1e222">Item. Queritur quid sit 1 tempus, quia 2: Cuin omne ternpus
+          <p xml:id="phsyn-t5-d1e222">Item. Queritur quid sit 1 tempus, quia 2: Cum omne tempus
             constet ex priori Ct posteriori, sed prius et posterius debeantur motui, ergo tenipus
-            est motus (et est sillogisinus in primo prime et 3 premisse intelliguntur 4universaliter
-            et transponuntur 5).Et dicen durn quod teinpus ita diffinitur ab Aristotile: “tempus est
-            nurnerus motus secundurn prius et posterius “. Nec tamen sequitur ‘ergo tempus est
+            est motus (et est sillogismus in primo prime et 3 premisse intelliguntur 4universaliter
+            et transponuntur 5).Et dicen dum quod tempus ita diffinitur ab <ref><name>Aristotile</name>: “tempus est
+            numerus motus secundum prius et posterius “</ref>. Nec tamen sequitur ‘ergo tempus est
             numerus’; nec etiam sequitur ‘ergo tenipus est discreta quantitas’, quia ratio nunieri
-            diniinuitur 6per sibi adiunctum, quia nurnerare rnoturn secunduin prius Ct posterius hoc
+            diniinuitur 6per sibi adiunctum, quia numerare motum secundum prius Ct posterius hoc
             est niensurare ipsum "secundurri prius Ct postenius"; sed mensurare secundum prius et
-            posterius ponit continuitatern et non discretionem, propter hoc quod prius et posterius
-            copulantur ad ipsum nunc 7.Unde iinpediuntur ille due illationes per quid et simph
+            posterius ponit continuitatem et non discretionem, propter hoc quod prius et posterius
+            copulantur ad ipsum nunc 7.Unde impediuntur ille due illationes per quid et simph
             titer.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e226">
           <head xml:id="phsyn-t5-Hd1e227">De prius’ et ‘posterius’</head>
-          <p xml:id="phsyn-t5-d1e230">Ad argumentum autem dicenduin quod non est silogismus in primo
-            prime, sed ettiarn paralogisinus contra p2rimum prime, eoquod medium equivocatur, quia
-            ‘prius’ et ‘posterius’ dicuntur dupliciter. Narn uno niodo prius et posterius sunt
-            partes ipsius mnotus et alio rnodo s5unt [N6Orb] partes temporis. Et sicut n4iotus
-            prixnus est causa temporis, i5ta prius et posterius in rnotu. sunt causa prioris et
+          <p xml:id="phsyn-t5-d1e230">Ad argumentum autem dicendum quod non est silogismus in primo
+            prime, sed ettiam paralogismus contra p2rimum prime, eoquod medium equivocatur, quia
+            ‘prius’ et ‘posterius’ dicuntur dupliciter. Nam uno niodo prius et posterius sunt
+            partes ipsius mnotus et alio modo s5unt [N6Orb] partes temporis. Et sicut n4iotus
+            primus est causa temporis, i5ta prius et posterius in motu. sunt causa prioris et
             posterioris in tempore. Et sicut mnotus est subiectum temporis, ha prius et posterius in
-            rnotu sunt subiectum prioris et posterioris in tempore.</p>
+            motu sunt subiectum prioris et posterioris in tempore.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e233">
-          <head xml:id="phsyn-t5-Hd1e234">De spalio, motu et teinore</head>
+          <head xml:id="phsyn-t5-Hd1e234">De spalio, motu et temore</head>
           <p xml:id="phsyn-t5-d1e237">Et nota quod tria stint que sibi invicemn proportionantur,
             scilicet [P69vb] spatiumn, mnotus et tempus. Motus enim adequatur spatio supra quod est,
             et tempus adequatur motui Ut subiecto siio. Ut si ymagineris tres lineas equales et
-            extensas ita quod secunda super ponatur prime et tertia secunde; siiniliter s1i
+            extensas ita quod secunda super ponatur prime et tertia secunde; similiter s1i
             ymagineris exten sionem spatii et motum supra spatium et temnpus supra mnotum. Sed in
-            hoc est differentia quod extensio spatii est perrnancns, extensio vero motus Ct
-            e2xtensio temporis sunt s3uccessive neque partes aliquas habent simul. S4irniliter si
+            hoc est differentia quod extensio spatii est permancns, extensio vero motus Ct
+            e2xtensio temporis sunt s3uccessive neque partes aliquas habent simul. S4imiliter si
             ymagineris sciphum plenum aqua et c5unz puncto acus protrahatur° linea in superficie
             aque ab una extremitate sciphi usque ad aliam, t7unc de linea illa neque pars p8reterita
-            est (quia iaxn deleta est) neque pars futura est (quia neque’° fit neque f1ac1ta est
+            est (quia iam deleta est) neque pars futura est (quia neque’° fit neque f1ac1ta est
             s1e2d fiet). Et sic de illa linea nichil est nisi illud in quo est p1unc3tus acus.
             Similiter e1s4t de motu et tempore, quia quod preteriit de utroque, i5am non est; quad
             autem futurum e1,s6t nondumn est sed erit. Unde de utroque n7’tulla pars est neque
-            aliquid est de ipsis nisi inclivisibile. U1n8de de tempore nichil est nisi nt,u9nc quod
-            neque est ternpus neque pars eius s2e0d inthvisibile in tempore et per hoc t2empus est.
+            aliquid est de ipsis nisi indivisibile. U1n8de de tempore nichil est nisi nt,u9nc quod
+            neque est tempus neque pars eius s2e0d inthvisibile in tempore et per hoc t2empus est.
             Et de mnotu nichil est nisi mobile quod fertur, q2uo2d neque estmotas neque pars eius
-            "sed indivisibile in mciii" et per hoc rnotus est. 25 Item. Nota quod inquantuin inotus
+            "sed indivisibile in mciii" et per hoc motus est. 25 Item. Nota quod inquantum motus
             per suam substantiam est causa temporis et per suam quanthatem 1dat tempori
-            2quantitatein, i3ta motus per prius est quantitas et per motum teinpus est quantitas, ut
+            2quantitatem, i3ta motus per prius est quantitas et per motum tempus est quantitas, ut
             est in quinto J’hilosophie 4prime, in capitulo de quantitate. Sed se cunclunt quod in
-            teinpore primo repperitur natura inensurandi et per tempus in inotu, s5ic teinpus per se
-            est quantitas et sic motus est quantitas per ternpus; et hoc niodo motus est quantitas
+            tempore primo repperitur natura mensurandi et per tempus in motu, s5ic tempus per se
+            est quantitas et sic motus est quantitas per tempus; et hoc niodo motus est quantitas
             per accidens.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e240">
           <head xml:id="phsyn-t5-Hd1e241">De numero et mensura</head>
-          <p xml:id="phsyn-t5-d1e244">Nota etiam 1quod curn dico ‘ties hornines’ vel ‘sex’ 2,duo
+          <p xml:id="phsyn-t5-d1e244">Nota etiam 1quod cum dico ‘ties homines’ vel ‘sex’ 2,duo
             dico, quia per hoc quod dico ‘homines’, dico substantias [N6Ova] homi num, per hoc
-            auteni quod dico ‘tres’ vel ‘sex’, dico rnensurarn eoruzn; Ct sic de omnibus aliis
-            numeralibus. Et sic intellige quod omnis nunierus et oirinis quantitas uno inodo est
-            mensura et alio modo res. Qu.ia est rnensura [P69ra] securiduin quod denorninat
+            auteni quod dico ‘tres’ vel ‘sex’, dico mensuram eorum; Ct sic de omnibus aliis
+            numeralibus. Et sic intellige quod omnis nunierus et omnis quantitas uno modo est
+            mensura et alio modo res. Qu.ia est mensura [P69ra] securidum quod denominat
             subiectum aiiquod 3,Ut ‘ties homines’, ‘quatuor 4equi’, ‘homo bicu bitus’ 5,‘columpna
-            tricubita’. lit res 6est secunduin quod est genus aut’ aliqua res specialis dicens
-            8quid. Similiter curn dico ‘inovetur a mane usque ad vesperain’ 9,duo 10 dico, quia per
-            hoc quod dico ‘inovetur’ dico rnotuzn, sed per hoc quod dico ‘a mane usque ad vesperarn’
-            dico mensurain inotus, que est tempus. TJnde quanta est extensio teniporis a inane usque
-            ad vesperairl, tantum intelligo moturn et extensionern eius. Et sic’’ per exten sionern’
-            2temporis intelligo quanta est extensio motus. Et sic tempus mensurat’ 3rnotuirz. Et
+            tricubita’. lit res 6est secundum quod est genus aut’ aliqua res specialis dicens
+            8quid. Similiter cum dico ‘movetur a mane usque ad vesperam’ 9,duo 10 dico, quia per
+            hoc quod dico ‘movetur’ dico motum, sed per hoc quod dico ‘a mane usque ad vesperam’
+            dico mensuram motus, que est tempus. TJnde quanta est extensio teniporis a mane usque
+            ad vesperairl, tantum intelligo motum et extensionem eius. Et sic’’ per exten sionem’
+            2temporis intelligo quanta est extensio motus. Et sic tempus mensurat’ 3motuirz. Et
             propter hoc dicebatur pnus in recta s1olut4ione sophismatis quod hec negatio ‘dies non
-            est’, prout est negatio in genere, ponebat subiectum suuin, quod est tenipus, extenso
-            nornine subiecti, quia non soluin appellatur ibi subiectum illud quod subicitur
+            est’, prout est negatio in genere, ponebat subiectum suum, quod est tenipus, extenso
+            nomine subiecti, quia non solum appellatur ibi subiectum illud quod subicitur
             accidenti 15, sed etiaxu id quod est mensura alicuius accidentis’ 6,ut diei. Et ha
-            noinen subiecti extenditur ad subiectuni et ad mensurain; et ob hoc dicebatur 17‘extenso
+            nomen subiecti extenditur ad subiectuni et ad mensuram; et ob hoc dicebatur 17‘extenso
             nomine subiecti’.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e247">
           <head xml:id="phsyn-t5-Hd1e248">Sophismata</head>
-          <p xml:id="phsyn-t5-d1e251">Item. Queritur de hoc sophisinate. SI NULIA PROPOSITIO EST
+          <p xml:id="phsyn-t5-d1e251">Item. Queritur de hoc sophismate. SI NULIA PROPOSITIO EST
             VERA, ALIQUA PROPOSI’TIO EST VERA. Probatio. Si’ nulla propo sitio est vera, ista
-            2propositio ‘hoano 3est’ non est vera (a totoin quanti tate). Et 4Si ista propositio
+            2propositio ‘hoano 3est’ non est vera (a totom quanti tate). Et 4Si ista propositio
             ‘homo 5est’ non estvera, sua contradictoria 6 crit vera (7a contradictorie oppositis).
             Et si s’ua contradictoria est vera, aliqua 8propositio est vera (a specie 9sive a parte
             subiectiva 1O).Ergo a primo: si nulla propositio est vera, aliqua propositio est vera.
-            Contra. I1bti assignatur oppositum sequi ad opposituin. Ergo locutio est impos
+            Contra. I1bti assignatur oppositum sequi ad oppositum. Ergo locutio est impos
             sibilis.</p>
           <p xml:id="phsyn-t5-d1e254">Solutio. Prima, scilicet hec ‘si nulla propositio est vera,
             aliqua propositio est vera’, uno modo est vera et alio modo est falsa. Et etiam prima
-            consequentia tenet uno modo et alio inodo non, eoquod prin-lum antecedens (scilicet
+            consequentia tenet uno modo et alio modo non, eoquod prm-lum antecedens (scilicet
             ‘nulla 1propositio est vera’) est duplex. Quia uno modo est negatio simpliciter. Et sic
-            non sequitur ‘Si nulla propositio est vera, ista propositio “horno est “non est vera’,
-            nec est ibi locus [iV6OvbJ a toto in quantitate, quia hoc 2 niodo prirnuxn antecedens
-            (scilicet ‘nulla propositio est vera’) neque 3ponit acci dens 4(quod est ‘verurn’) neque
+            non sequitur ‘Si nulla propositio est vera, ista propositio “homo est “non est vera’,
+            nec est ibi locus [iV6OvbJ a toto in quantitate, quia hoc 2 niodo primum antecedens
+            (scilicet ‘nulla propositio est vera’) neque 3ponit acci dens 4(quod est ‘verum’) neque
             subiectum eius (quod est ‘propositio’). Sed consequens ciusdem consequentie ponit
-            propositionern particu larem virtute demon stradonis, curn 5dicitur ‘ista propositio
-            “homo 6 est” non est vera’. Tunc enim antecedens removet tam propositio nern quani
-            veritatern eius Ct consequens [F6Wb] ponit propositionein virtute dernonstrationis,
+            propositionem particu larem virtute demon stradonis, cum 5dicitur ‘ista propositio
+            “homo 6 est” non est vera’. Tunc enim antecedens removet tam propositio nem quani
+            veritatem eius Ct consequens [F6Wb] ponit propositionem virtute demonstrationis,
             sicut dictum est. Et sic consequens contra dicit antecedenti, sicut 7 si diceret’ur ‘si
             nulla propositio est neque veritas eius 8,ista propositio 9“homo t0 est 11 “ct veritas
             eius non est’.</p>
-          <p xml:id="phsyn-t5-d1e257">Alio auteni rnodo primum antecedens (scilicet ‘nulla 1pro
-            positio est vera’) potest esse negatio in genere et sic ponit omnern propositionem et
-            removet veritatern 2ab omni propositione. Et hoc modo ponit oinnes 3con tradictorias
-            4simu.l esse falsas. Unde cx consequenti ponit oinnes 5contradictoria.s 6simul esse
-            veras, quia quandocunique una contradictoriaruin? est falsa 8,reliqua est vera 9. Unde
+          <p xml:id="phsyn-t5-d1e257">Alio auteni modo primum antecedens (scilicet ‘nulla 1pro
+            positio est vera’) potest esse negatio in genere et sic ponit omnem propositionem et
+            removet veritatem 2ab omni propositione. Et hoc modo ponit omnes 3con tradictorias
+            4simu.l esse falsas. Unde cx consequenti ponit omnes 5contradictoria.s 6simul esse
+            veras, quia quandocunique una contradictoriarum? est falsa 8,reliqua est vera 9. Unde
             1si hoc 11 modo est falsa, illol2 modo est vera; et si jib 13 modo est falsa, isto t4
-            modo est vera. tinde si utroque’ 5rnodo est falsa, utro que 16 inodo est vera. Et sic
-            prirnurn antecedens ponit et removet quanilibet contracLictioncm 17.Et ideo secundum
+            modo est vera unde si utroque’ 5modo est falsa, utro que 16 modo est vera. Et sic
+            primum antecedens ponit et removet quanilibet contracLictioncm 17.Et ideo secundum
             quod’ 8primum antecedens est20 negatio in genere, sic bene tenet prima2lconse quentia,
-            et omries alie a primo ad ultiinum. Et sic prima propositio est vera, hec22scilicet ‘Si
-            nulla propositio est vera, aliqua propositio est vera’. Ad improbationein auteni
-            solvendum hoc rnodo, scilicet23 secunclurn quod prirnum antecedens est negatio in
-            genere, dicen duin est quod non sequitur ibi24 oppositum ad opposituin sed sequitur una
-            pars [T36ra] contradictionis ad antececlens, quod claudit intra se quarnlibet25
+            et omries alie a primo ad ultimunum. Et sic prima propositio est vera, hec22scilicet ‘Si
+            nulla propositio est vera, aliqua propositio est vera’. Ad improbationem auteni
+            solvendum hoc modo, scilicet23 secunclum quod primum antecedens est negatio in
+            genere, dicen dum est quod non sequitur ibi24 oppositum ad oppositum sed sequitur una
+            pars <pb ed="#T" n="36-r"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/>contradictionis ad antececlens, quod claudit intra se quamlibet25
             contradictionem.</p>
-          <p xml:id="phsyn-t5-d1e260">Item. Queritur de hoc sophisinate. SI TU ES UBIQUE, 111 NON ES
+          <p xml:id="phsyn-t5-d1e260">Item. Queritur de hoc sophismate. SI TU ES UBIQUE, 111 NON ES
             UBIQUE. Probatio. Si tu es ubique, tu es hic (a toto in loco). Et situ1 es hic2,tu non
             es fbi (ab oppositis3).Et4 situ non es ibi, tu non es ubique (a parte in loco
-            destructive). Ergo a printo: situ es ubique, tu non es ubique. Contra. Ibi sequitur
-            oppositum ad oppositurn. Ergo locutio est5 impossibilis.</p>
+            destructive). Ergo a primo: situ es ubique, tu non es ubique. Contra. Ibi sequitur
+            oppositum ad oppositum. Ergo locutio est5 impossibilis.</p>
           <p xml:id="phsyn-t5-d1e263">Solutio. Quidam thcunt quod prima est duplex, eoquod ‘locus’
-            dicitur dupliciter, scilicet proprius et communis. Proprius autern locus est qizi
+            dicitur dupliciter, scilicet proprius et communis. Proprius autem locus est qizi
             adequatur rei1 et circuit [W6lrb] et2 continet rem undi que; Ct talis locus dicitur
-            circurnscriptivus3.Et hoc modo suinendo ‘locum’ irnpossibile est plura corpora esse in
-            eodem loco. Conununis autem locus dicitur in quo sunt plures4res siinul, Ut plures
-            hoinines in eadem domo ye! elementa et elementata5[P69va1 oninia6intra celurn. Uride
-            dicunt quod, si in antecedente sumatur locus conunu nis7et in conseqilente surnatur
-            locus circumscripthrus8,sic prima est vera. Si autem utrobique suinatur locus
+            circumscriptivus3.Et hoc modo sumendo ‘locum’ impossibile est plura corpora esse in
+            eodem loco. Conununis autem locus dicitur in quo sunt plures4res simul, Ut plures
+            homines in eadem domo ye! elementa et elementata5[P69va1 onmia6intra celum. Uride
+            dicunt quod, si in antecedente sumatur locus conunu nis7et in conseqilente sumatur
+            locus circumscripthrus8,sic prima est vera. Si autem utrobique sumatur locus
             circuniscriptivus° vel utro bique communis10,sic est falsa. Sed hec sohitio nulla estt1,
-            quia suinpto loco sernper’2circuniscriptive’3adhuc remanet sophisrna et
+            quia sumpto loco semper’2circuniscriptive’3adhuc remanet sophisma et
             procedit’4probatio et improbatio sicut prius. Et propter hoc dicendum quod prima est
             sirripliciter vera, quia primum antecedens (scilicet’5 ‘tu es ubique’) ex duplici pane
-            ponit con tradictionein prop ter hoc quod subiectum contradicit predicato (et hec est
-            una contradictio) et etiam ipsurn predicatuni ponit in se tot contradictiones quot sunt
+            ponit con tradictionem prop ter hoc quod subiectum contradicit predicato (et hec est
+            una contradictio) et etiam ipsum predicatuni ponit in se tot contradictiones quot sunt
             loca circuruscrip tiva16.</p>
           <p xml:id="phsyn-t5-d1e267">Quod auteni subiectum contradicat predicato patet, quia’ per2
-            hoc3 pronomen ‘tu’ positum4in subiecto dernonstrat5rem singu larem aptaln natani esse in
+            hoc3 pronomen ‘tu’ positum4in subiecto demonstrat5rem singularem aptaln natani esse in
             uno loco tantum et ita non ubique°, et predicatun ponit quod ubiqu.e. Et sic est
-            ibi8ubique et non ubique inter9subiectiim et predicaturn. Et sic subiectum contradicit
-            predi cato. Quod autern predicatum ponat in se contradictiones plures patet, quia, sicut
-            irnpossibile est plura corpora simul10esse in eodem loco circumscriptive, ita
-            irnpossibile est idein corpus esse11 in diversis locis circuinscriptive. Uncle quod’2est
-            hic circuniscriptive, non est ibi circuinscriptive, et quod est ibi circumscriptive, non
+            ibi8ubique et non ubique inter9subiectiim et predicatum. Et sic subiectum contradicit
+            predi cato. Quod autem predicatum ponat in se contradictiones plures patet, quia, sicut
+            impossibile est plura corpora simul10esse in eodem loco circumscriptive, ita
+            impossibile est idem corpus esse11 in diversis locis circumscriptive. Uncle quod’2est
+            hic circuniscriptive, non est ibi circumscriptive, et quod est ibi circumscriptive, non
             est hic circuniscriptive; et sic de quolibet alio13 bce. Unde14 ‘esse hic
             circumscriptive’ contradicit huic quod dico ‘esse ibi15 circumscrip tive’ et econverso;
-            Ct sic de omnibus aliis locis circurnscriptivis’6.Et sic ‘esse ubique’ ponit tot
-            contradictiones quot’8sunt loca particu lana circumscriptiva’9.Patet ergo quoci primurn
+            Ct sic de omnibus aliis locis circumscriptivis’6.Et sic ‘esse ubique’ ponit tot
+            contradictiones quot’8sunt loca particu lana circumscriptiva’9.Patet ergo quoci primum
             antecedens cx duplici parte ponit contradictionem. Et ideo per naturales conse quentias
             ex20 eo sequitur contradictio. Et propter hoc dicendum21est quod prima est vera. Ad
-            improbationein dicendum quod non sequi tur opposituni ad opposituin sed sequitur una
+            improbationem dicendum quod non sequi tur opposituni ad oppositum sed sequitur una
             pars cont.raclictionis ad antecedens, quod claudit22intra se utranique et plures
             alias.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e270">
           <head xml:id="phsyn-t5-Hd1e271">Utrum ca’ndilionalis sit sillogzzabilis</head>
-          <p xml:id="phsyn-t5-d1e274"> Circa tertiulra queritur in’ hunc modurn: Sillogis
+          <p xml:id="phsyn-t5-d1e274"> Circa tertiulra queritur in’ hunc modum: Sillogis
             nioruin2alius est categoricus, alius conditionalis3(ca.tegoricus est qui est ex
             categonicis propositionibus, conditionalis vero qui4 est5 cx conditionalibus
             propositionibus). Ergo propositio conditionalis est sillogizabilis6.Ergo necesse [P69v1)
@@ -473,14 +475,16 @@
         </div>
         <div xml:id="phsyn-t5-Dd1e277">
           <head xml:id="phsyn-t5-Hd1e278">De quibusdam regulis</head>
-          <p xml:id="phsyn-t5-d1e281">Unde dantur plures regule. Et prima [T36rb} talis est: <seg
+          <p xml:id="phsyn-t5-d1e281">Unde dantur plures regule. Et prima
+          <cb ed="#T" n="b"/>
+          <lb ed="#T"/> talis est: <seg
               type="rule">si termini communes ponantur in antecedente et consequente alicuius
               c2onditionalis sine distributione, s3ub antecedente contingit fieri descensum
               consequents inzinobili permanente.</seg> Ut ‘Si honto currit, a4nimal currit; ergo si
             Sortes currit, animal currit, e5t si Plato currit, animal currit’, et sic de aliis.
-            Secunda regula talis est: <seg type="rule">si termini communes ponantur cern
+            Secunda regula talis est: <seg type="rule">si termini communes ponantur cem
               distributione in antecedente et con.seqlsente, antecedens risanet immobile et sub
-              consequente o6portet jieri deicensu,re.</seg> Ut ‘si oinne animal c,8urrit omnis hoino
+              consequente o6portet jieri deicensu,re.</seg> Ut ‘si omne animal c,8urrit omnis homo
             currit; ergo si omne. animal currit, Sortes currit et Plato et Cicero’, et sic de aliis.
             Tertia regula talis est: <seg type="rule">si a9liquid sequitur ad aliud, destnzcto
               corisequente destruitur c°tt’ antecedens,</seg> Et ob hoc semper” tenet argumnentum a
@@ -490,156 +494,164 @@
             ergo animal est’. E7t” ob hoc tenet argumentuirl a positione antecedentis. Quinta regula
             est [4] talis: <seg type="rule">quicquid antecedit ad antecedens, antecedit act
               consequens.</seg> Ut ‘Si animal est, substantia est; sed si homo est, animal est; e8rg
-            Si hoino est, substantia est’. Sexta regula talis est: <seg type="rule">quicquid
+            Si homo est, substantia est’. Sexta regula talis est: <seg type="rule">quicquid
               sequitur ad consequens, sequitur ad aratecedens.</seg> Ut ‘Si homo est, animal est;
-            sed si animal est, substantia est; ergo si hoino est, substantia est’.</p>
+            sed si animal est, substantia est; ergo si homo est, substantia est’.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e304">
           <head xml:id="phsyn-t5-Hd1e305">Ad quid feratur negalio in conditionali</head>
           <p xml:id="phsyn-t5-d1e308">Circa quartum queritur 1ad quid feratur negatio ut 2 sulnatur
-            contradictoria alicuius conditionalis. Et videtur quod 3ad verburn con sequentis, quia,
-            Ut vult Boetius 4,antecedens cedit 5in determinati onern 6consequentis. Et ita verbum
-            consequentis ponitur et ante cedens determinat ipsurn. Sed quod ponitur in affirmativa,
+            contradictoria alicuius conditionalis. Et videtur quod 3ad verbum con sequentis, quia,
+            Ut vult Boetius 4,antecedens cedit 5in determinati onem 6consequentis. Et ita verbum
+            consequentis ponitur et ante cedens determinat ipsum. Sed quod ponitur in affirmativa,
             debet negari in negativa. Ergo negatio debet ferri’ ad verbum con sequentis Ut sumatur
             contradictoria ipsius conditionalis.</p>
           <p xml:id="phsyn-t5-d1e311">Sed obicitur in contrarium quia: ‘Consequens’ duo dicit,
-            scilicet tconsequens inquantuin consequens et id quod est con sequeris, sicut ‘pater’
-            uno [N6lva] modo dicit patrem inquantuxn 2 pater, et alio modo id quod est pater. Sed
+            scilicet tconsequens inquantum consequens et id quod est con sequeris, sicut ‘pater’
+            uno modo dicit patrem inquantum 2 pater, et alio modo id quod est pater. Sed
             consequens inquanturri consequens ad aliquid 3est, quia 4[P7Iha] ad antecedens, et
-            econverso. Et sic posito uno ponitur alteruin et destructo uno destruitur rehquurn,
-            c5urn sint relativa. Ergo non est maior ratio quare° negatio Inagis feratur ad
-            consequens quam ad antecedens. Similiter non habet f7ern negatio ad id quod e8st
+            econverso. Et sic posito uno ponitur alterum et destructo uno destruitur rehquum,
+            c5um sint relativa. Ergo non est maior ratio quare° negatio magis feratur ad
+            consequens quam ad antecedens. Similiter non habet f7em negatio ad id quod e8st
             consequens, quia sicut hec est falsa ‘Si Sortes legit, Plato legit’, similiter 9hec est
-            10 falsa ‘si Sortes legit’ L, Plato non legit’. Ergo nullo rnodo negatio debet fern ad
+            10 falsa ‘si Sortes legit’ L, Plato non legit’. Ergo nullo modo negatio debet fem ad
             consequens. Ergo non contingit contradicere conditionali 2.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e314">
           <head xml:id="phsyn-t5-Hd1e315">De consequente triplici</head>
-          <p xml:id="phsyn-t5-d1e318">Et dicendum quod ‘consequens” tribus inodis dicitur 2.Uno 3
-            enirn modo surnitur consequens inquantum consequens; et sic est ad aliquid et sic
-            correspondet cum antecedente et sic sirnul sunt natura consequens et antecedens, sicut
+          <p xml:id="phsyn-t5-d1e318">Et dicendum quod ‘consequens” tribus modis dicitur 2.Uno 3
+            enim modo sumitur consequens inquantum consequens; et sic est ad aliquid et sic
+            correspondet cum antecedente et sic simul sunt natura consequens et antecedens, sicut
             pater et filius. Et hoc irtodo negatio non fertur ad consequens Ut contradicat
-            conditionali 4.Alio autern modo ‘consequens’ d5icit id quod est consequens secundurn se
-            et absolute sumpturn. Et neque hoc modo negatio fertur ad cnsequens ut contradicat
-            conditionali. Unde sicut hec est falsa ‘si hon-rn currit 6,asinus currit’, similiter et
-            hec est falsa ‘si horno curnit, asinus non currit’, q7uia negatio f8ertur ad consequens
-            secundurn se sumpturn. Tertio auteni modo s9umitur id quod est consequens secundum quod
+            conditionali 4.Alio autem modo ‘consequens’ d5icit id quod est consequens secundum se
+            et absolute sumptum. Et neque hoc modo negatio fertur ad cnsequens ut contradicat
+            conditionali. Unde sicut hec est falsa ‘si hon-m currit 6,asinus currit’, similiter et
+            hec est falsa ‘si homo cumit, asinus non currit’, q7uia negatio f8ertur ad consequens
+            secundum se sumptum. Tertio auteni modo s9umitur id quod est consequens secundum quod
             determinatur per antecedens, quia’° in omni con ditionali c1onsequens’ ponitur sub
-            conditione, Ut ‘horno movetur, si currit’ et ‘animal est, si homo est’. Et hoc niodo
-            antecedens est deternzinatio consequentis.</p>
-          <p xml:id="phsyn-t5-d1e321">Et’ isto tertio niod.o negatio debet fern ad consequens ut
-            contradicat ipsi conditionali. Et isto tertio modo procedit prirnum argurnentum, duobus
-            autem modis aliis procedit argumentum factum in contrariurn. Unde contradictoria hums
-            ‘animal est, Si horno est’ est ista ‘non: animal est, si horno e2;st’ et est [T36va]
-            falsa, curn sua contraclictoria sit vera. Et contradictoria istius ‘si hoino currit,
-            asinus currit’ e3st ista ‘non: si hoino currit, asinus currit’; et est vera, cuin sua
-            contradictoria sit f.4alsa Sernper enirn negatio d5ebet preponi t6otali conditionali Ut
+            conditione, Ut ‘homo movetur, si currit’ et ‘animal est, si homo est’. Et hoc niodo
+            antecedens est determinatio consequentis.</p>
+          <p xml:id="phsyn-t5-d1e321">Et’ isto tertio niod.o negatio debet fem ad consequens ut
+            contradicat ipsi conditionali. Et isto tertio modo procedit primum argumentum, duobus
+            autem modis aliis procedit argumentum factum in contrarium. Unde contradictoria hums
+            ‘animal est, Si homo est’ est ista ‘non: animal est, si homo e2;st’ et est
+            <pb ed="#T" n="36-v"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/>
+            falsa, cum sua contraclictoria sit vera. Et contradictoria istius ‘si homo currit,
+            asinus currit’ e3st ista ‘non: si homo currit, asinus currit’; et est vera, cum sua
+            contradictoria sit f.4alsa Semper enim negatio d5ebet preponi t6otali conditionali Ut
             contradicat ei. Unde solet dan talis regula: <seg type="rule">quotieizscumque negatio
               preponitur alicisi propositioni tan categmice quan conditionali, s7craper corztradidt
               ei.</seg></p>
         </div>
         <div xml:id="phsyn-t5-Dd1e326">
           <head xml:id="phsyn-t5-Hd1e327">Utrum ex inzpossthili sequatur quidlibet</head>
-          <p xml:id="phsyn-t5-d1e330">Circa quin turn queritur utrurn ec impossibili sequatur
-            quidlibet sive i2inpossibile antecedat ad quidlibet. [P7Orb} Et ‘videtur quod sic, quia:
-            VerunEi et falsum sunt opposita, curn sint c.3ontraria S4ed unurn contrariorum destruit
-            alterum et econverso. E5rgo falsurn destruit verum et econverso. Et c6uin inipossibile
-            sit falsuni, imp7ossibile d8estruet verurn Ct econverso. Sed ad iinpossibile sequitur
-            verum. Ergo multo fortius ad ipsuni sequitur tam falsum quani iinpossibile, quia si9
-            q1°uad minus videtur sequi a1d1 irnpossibile sequitur a1d2 ipsuiri (1scil3icet quod
-            destruit ipsuni), ergo multo fortius quidlibet a1.liu4d Ergo ex inipossibili sequitur
-            quidlibet. Item. Omne veruni equaliter distat a1b5 irnpossibili, q1u6ia equaliter sibi
-            i1nvicem ‘ repugnant. Ergo qua ratione sequitur unurn verusn ex isnpossibili, et
-            quodlibet aliud. Sed u1nu8m verum sequitur ex irnpossibili, ut ‘si homo est asinus, homo
-            est animal’, Ergo quodlibet aliud verum sequitur ex iinpossibili.</p>
+          <p xml:id="phsyn-t5-d1e330">Circa que tum queritur utrum ec impossibili sequatur
+            quidlibet sive i2mpossibile antecedat ad quidlibet. [P7Orb} Et ‘videtur quod sic, quia:
+            VerunEi et falsum sunt opposita, cum sint c.3ontraria S4ed unum contrariorum destruit
+            alterum et econverso. E5rgo falsum destruit verum et econverso. Et c6um impossibile
+            sit falsum, imp7ossibile d8estruet verum Ct econverso. Sed ad impossibile sequitur
+            verum. Ergo multo fortius ad ipsuni sequitur tam falsum quani impossibile, quia si9
+            q1°uad minus videtur sequi a1d1 impossibile sequitur a1d2 ipsuiri (1scil3icet quod
+            destruit ipsum), ergo multo fortius quidlibet a1.liu4d Ergo ex impossibili sequitur
+            quidlibet. Item. Omne veruni equaliter distat a1b5 impossibili, q1u6ia equaliter sibi
+            i1nvicem ‘ repugnant. Ergo qua ratione sequitur unum verusn ex isnpossibili, et
+            quodlibet aliud. Sed u1nu8m verum sequitur ex impossibili, ut ‘si homo est asinus, homo
+            est animal’, Ergo quodlibet aliud verum sequitur ex impossibili.</p>
           <p xml:id="phsyn-t5-d1e333">Item. Probo quod ex hoc impossibili ‘Sortes est homo et non
-            est homo’ sequitur quodlibet aliud irnpossibile, quia si Sortes est horno et non est
-            homo, ergo’ Sortes est homo; et est locus a t,2oto quia contradictio t3oturn est ad
-            utramque sui partern. Sed si Sortes eSt h,4omo S5ortes est homo v6el asinus; et est
-            argunientum quasi a parte subiectiva, quia toturn disiunctuin commune est ad utranique
-            sal partem. Ergo a primo: si Sortes est homo et non est horno, Sortes est homo vel
-            asinus. Sed non est homo, quia si S7ortes est hoino et non est hoino, Sortes non est
-            homo (a toto integrali). Ergo Sortes est a.8sinus Et sic cx hoc iinpossibili ‘Sortes est
-            homo Ct non est homo’ Sequitur Sortern esse a.9sinuin Et’° codein modo potest probari
+            est homo’ sequitur quodlibet aliud impossibile, quia si Sortes est homo et non est
+            homo, ergo’ Sortes est homo; et est locus a t,2oto quia contradictio t3otum est ad
+            utramque sui partem. Sed si Sortes eSt h,4omo S5ortes est homo v6el asinus; et est
+            argunientum quasi a parte subiectiva, quia totum disiunctum commune est ad utranique
+            sal partem. Ergo a primo: si Sortes est homo et non est homo, Sortes est homo vel
+            asinus. Sed non est homo, quia si S7ortes est homo et non est homo, Sortes non est
+            homo (a toto integrali). Ergo Sortes est a.8sinus Et sic cx hoc impossibili ‘Sortes est
+            homo Ct non est homo’ Sequitur Sortem esse a.9sinum Et’° codein modo potest probari
             quod sequatur inde quocflibet a1li1ud impossibile. Et ita ex i2mpossibili’ sequitur
             quidlibet. Ergo i1mpos3sibile antecedit ad quidlibet.</p>
-          <p xml:id="phsyn-t5-d1e336">Sed obicitur in contrariuira quia: Cuin conclusio sit
-            arguinento vel arguinentis approbata propositio et oinne argulnentuin sit ratio
-            inferendi secundurn aliquam ye! aliquas habitudines (quia argu inentuin est ratio rci
-            dubie faciens fidem Ct f1ides non potest fieri de re d2ubia nisi per habitudinern vel
-            habitudines aliquas), necesse est ergo [iV62ral quod ubicuinque concluditur aliquid cx
+          <p xml:id="phsyn-t5-d1e336">Sed obicitur in contrariuira quia: Cum conclusio sit
+            argumento vel argumentis approbata propositio et omne argulnentum sit ratio
+            inferendi secundum aliquam ye! aliquas habitudines (quia argu inentum est ratio rci
+            dubie faciens fidem Ct f1ides non potest fieri de re d2ubia nisi per habitudmem vel
+            habitudines aliquas), necesse est ergo [iV62ral quod ubicumque concluditur aliquid cx
             altero et Sequi tur aliquid cx altero, quod ibi sit habitudo aliqua, vel habitudines
-            alique, propter quarn, vel propter quas, sequatur unurn cx altero. Sed istius [P7Ova]
-            impossibilis ‘horninein esse asinum’ non sunt habitudines a,3lique neque mediate neque
-            immediate, ad hoc irnpos sibile ‘albedinern esse nigredinemn’ vel ‘iustitiarn esse
-            iniustitiarn’. Ergo cx hoc impossibili ‘hominemn esse asinum’ non sequentur illa
+            alique, propter quam, vel propter quas, sequatur unum cx altero. Sed istius [P7Ova]
+            impossibilis ‘hominem esse asinum’ non sunt habitudines a,3lique neque mediate neque
+            immediate, ad hoc impos sibile ‘albedinem esse nigredinemn’ vel ‘iustitiam esse
+            iniustitiam’. Ergo cx hoc impossibili ‘hominemn esse asinum’ non sequentur illa
             impossibilia. Non ergo cx imnpossibili sequitur quidlibet. Item. Opor tet quod in loco a
             primo ad ultimum semper c4onfirmentur consecu tiones intermedie per aliquos locos
             intrinsecos vel extrinsecos vel mnedios. Sed multa s5unt vera et multa sun.t
             imnpossibilia que non possunt c6onfirmnari per aliquas habitudines locales ad hoc
-            impossi bile ‘homineiri esse asinurn’. Ergo cx h7oc impossibili non sequitur quidlibet
-            per locurn a primo ad ultinium neque per aliquein aliuin locum. Ergo non potest esse
+            impossi bile ‘hominem esse asinum’. Ergo ex h7oc impossibili non sequitur quidlibet
+            per locum a primo ad ultimum neque per aliquem alium locum. Ergo non potest esse
             quod ex impossibili sequatur quidlibet.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e339">
           <head xml:id="phsyn-t5-Hd1e340">De ‘impossibili’ lripliter sumpto</head>
-          <p xml:id="phsyn-t5-d1e343">Quad concediinus [T36vb] dicentes quod ‘ixnpossibile’ tria dat
-            intelligere. Unum est ipsum impossibile inquanturn inipossibile. Alterum est conipositio
-            reru.m que non possunt sibi i1nvicern convenire (Ut ‘homo est asinus’) ye! divisio rerum
-            s2ibi invicern n3ecessario convenientium (ut ‘homo non est animal’), quia ipsuin
-            iinpossibilc inquanturn est impossibile aliud est quam predicta compositio vel divisio
-            propter hoc quod, sicut veritas et falsitas sunt circa compositionem vel divisioriern
+          <p xml:id="phsyn-t5-d1e343">Quad concedimus
+          <cb ed="#T" n="b"/>
+          <lb ed="#T"/>dicentes quod ‘impossibile’ tria dat
+            intelligere. Unum est ipsum impossibile inquantum impossibile. Alterum est conipositio
+            reru.m que non possunt sibi i1nvicem convenire (Ut ‘homo est asinus’) ye! divisio rerum
+            s2ibi invicem n3ecessario convenientium (ut ‘homo non est animal’), quia ipsum
+            impossibilc inquantum est impossibile aliud est quam predicta compositio vel divisio
+            propter hoc quod, sicut veritas et falsitas sunt circa compositionem vel divisioriem
             s4icut circa subiectum extenso nomine ‘subiecti’ ad subiectuni et ad signum rei,
-            sirniliter neces s5itas Ct irnpossibilitas sunt circa compositionem vel divisionem.
-            P6atet ergo quad aliud est iinpossibile i7nquantum irupossibile, s8ive ipsa
+            similiter neces s5itas Ct impossibilitas sunt circa compositionem vel divisionem.
+            P6atet ergo quad aliud est impossibile i7nquantum irupossibile, s8ive ipsa
             in-ipossibilitas, et a.liud est compositio vel divisio circa q9uam est. Tertiuni autcln
             quod ‘impossibile’ dat intelligere est res ipsa que componitur vel dividitur, sive res
-            ipse que componuntur vel divi duntur, ut homo secundum se 1e0t asinus secunduin se curn
-            dicitur ‘horno est asinus’.</p>
-          <p xml:id="phsyn-t5-d1e346">Idea ergo dicenduni quod ex impossibili quoad duos prirnos
-            modos nichil sequitur. Unde ex impossibili inquantum [W62rbJ est iinpossibile nichil
-            sequitur neque ex cornpositione vel divisione circa quarn est impossibilitas aliquid
+            ipse que componuntur vel divi duntur, ut homo secundum se 1e0t asinus secundum se cum
+            dicitur ‘homo est asinus’.</p>
+          <p xml:id="phsyn-t5-d1e346">Idea ergo dicenduni quod ex impossibili quoad duos primos
+            modos nichil sequitur. Unde ex impossibili inquantum [W62rbJ est impossibile nichil
+            sequitur neque ex compositione vel divisione circa quam est impossibilitas aliquid
             sequitur. Et’ ita nichil signi ficant, q2uia i3psum impossibile inquantum est
-            iinpossibile nichil est et ipsa cornpositio vel divisio circa quarn est impossibilitas
+            impossibile nichil est et ipsa compositio vel divisio circa quam est impossibilitas
             nichil est. E4t ita nichil p.5onunt Sed ex rebus que subiacent predicte [F7Ovb]
             compositioni ye! divisioni sequitur a.6liquid Ut cum dicitur ‘homo est asinus’: quia
-            illa res que est asinus, est species aninialis et species semper ponit suurn genus, idea
+            illa res que est asinus, est species animalis et species semper ponit suum genus, idea
             sequitur ‘animal’ cx ‘asino’. Unde q7uando c8oncludit sic: ‘si homo est asinus, homo est
-            animal’, illud non e9st propter inipossibile inquanturn iinpossibile neque propter
-            conipositionern circa quani est irnpossibilitas, sed propter habitudi nem speciei ad
+            animal’, illud non e9st propter impossibile inquantum impossibile neque propter
+            conipositionem circa quani est impossibilitas, sed propter habitudi nem speciei ad
             genus, que est asini ad animal, qui’° scilicet asinus erat res subiacens iIlill
             compositioni. 44 Diccndum ergo breviter quod cx impossibili quoad duos priTnos modos
             nichil 1sequitur. Sed cx impossibili quoad istum tertium modum sequuntur tantum 2ista 3
             vera vel illa impossibilia cum quibus 4habet 5aliquam habitudinem. Ut ‘si homo est
             asinus, homo est animal’: sequitur 6verum 7isto tertio modo; et est locus a specie. Et
-            ‘Si homo est asinus, horno est animal rudibile’ 8:sequitur irnpossi— bile 9predicto
-            tertio modo; Ct est locus a descripto’°. Et sirniliter intelligendurn est de quolibet
-            alio iinpossibili”. Et ita patet quod cx irnpossibili non sequitur quidlibet.</p>
-          <p xml:id="phsyn-t5-d1e349">Ad prima duo argulnenta dicenduin quod non sequitur verurn cx
-            irnpossibili inquantum est impossibile, sicut dictum fuit prius. Sed sequitur ex rebus
-            quarutn coxnpositio vel divisio est impossiNlis, sicut dictum fuit prius. Sed hoc modo,
-            quamvis impossibile periinat verum et econverso, tamen 1res que subiacet 2compositioni
-            vel divisioni irnpossibli, non perimit 3verum nec econverso, sed potius ponit ipsurn. Et
-            etiam 4hoc modo non omnia vera equaliter distant ab irnpossibili, quia inagis distant
-            illa vera que nullarn habent habitu dinem ad ipsum irnpossibile, et minus distant illa
+            ‘Si homo est asinus, homo est animal rudibile’ 8:sequitur impossi— bile 9predicto
+            tertio modo; Ct est locus a descripto’°. Et similiter intelligendum est de quolibet
+            alio impossibili”. Et ita patet quod cx impossibili non sequitur quidlibet.</p>
+          <p xml:id="phsyn-t5-d1e349">Ad prima duo argulnenta dicendum quod non sequitur verum cx
+            impossibili inquantum est impossibile, sicut dictum fuit prius. Sed sequitur ex rebus
+            quarutn compositio vel divisio est impossibilis, sicut dictum fuit prius. Sed hoc modo,
+            quamvis impossibile perimat verum et econverso, tamen 1res que subiacet 2compositioni
+            vel divisioni impossibli, non perimit 3verum nec econverso, sed potius ponit ipsum. Et
+            etiam 4hoc modo non omnia vera equaliter distant ab impossibili, quia magis distant
+            illa vera que nullam habent habitudinem ad ipsum impossibile, et minus distant illa
             vera que habent aliquam habitudinem 5,vel aliquas habitudines, cum rebus subia centibus
-            compositioni vel divisioni irnpossibili.</p>
-          <p xml:id="phsyn-t5-d1e352">Ad tertiurn dicendum quod bene tenet argumentumi usque ad
-            illationem que fit a prirno ad ultimum dicendo sic: ‘ergo 2a prirno: si Sortes est homo
+            compositioni vel divisioni impossibili.</p>
+          <p xml:id="phsyn-t5-d1e352">Ad tertium dicendum quod bene tenet argumentumi usque ad
+            illationem que fit a primo ad ultimum dicendo sic: ‘ergo 2a primo: si Sortes est homo
             e5t non est homo, ergo Sortes est homo vel asinus’. Sed sequens 4illatio non tenet,
-            [W62va] quia non interiinit 5hanc ‘Sortes est honto’, quod 6oporteret ad hoc quod
-            sequeretur Sortem. esse asinum, curn hec sit vera. ‘Sortes est homo vel asinus’, quia
-            predicta contradictio, scilicet 7‘Sortes est homo et non est hoino’, equaliter interimit
-            8et ponit hanc [T37ra] scilicet ‘Sortes [P7Ira) est horno’. Et ita non 9rnagis
-            interirnit qu.arn ponit earn’ 0.Et propter hoc non interirnit alteram partern
-            disiunctive. Et ob hoc non est locus a divisione, et ideo t1 non sequitur a.rguxnentum.
-            Argurnenta vero probantia quod ex impossibili non sequitur quidlibet, concedimus; et
+            [W62va] quia non interimit 5hanc ‘Sortes est honto’, quod 6oporteret ad hoc quod
+            sequeretur Sortem. esse asinum, cum hec sit vera. ‘Sortes est homo vel asinus’, quia
+            predicta contradictio, scilicet 7‘Sortes est homo et non est homo’, equaliter interimit
+            8et ponit hanc
+            <pb ed="#T" n="37-r"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/>scilicet ‘Sortes est homo’. Et ita non 9magis
+            interimit qu.am ponit eam’ 0.Et propter hoc non interimit alteram partem
+            disiunctive. Et ob hoc non est locus a divisione, et ideo t1 non sequitur a.rgumentum.
+            Argumenta vero probantia quod ex impossibili non sequitur quidlibet, concedimus; et
             procedunt.</p>
         </div>
         <div xml:id="phsyn-t5-Dd1e355">
           <head xml:id="phsyn-t5-Hd1e356">Sophismata</head>
           <p xml:id="phsyn-t5-d1e359">Secundum preclicta queritur de hoc sophisruate SI NICHIL EST,
-            ALIQUID EST. Probatio. Si nichil est, nichil esse est verurn (et est locus a1 causa,
+            ALIQUID EST. Probatio. Si nichil est, nichil esse est verum (et est locus a1 causa,
             quia res est causa veritatis o,2rationis ‘ut est in P)3redicam.entis Sed si nichil esse
             est veruna, hoc enuntiabile, scilicet ‘nichil e,4sse’ est verum (a convertibili sive a
             pan). E5t si hoc enun tiabile est v,6erum aliquid est verum (a parte subiectiva). Et si
@@ -652,8 +664,8 @@
             ‘nichil est’ omnia r3emoveat et sic non r4elinquat artes aliquas neque scientias neque
             principia aliqua neque maxitnas neque locos neque causas aliquas neque effectus aliquos,
             ideo non est ibi locus 5a causa neque aliquis alii,is. Et ideo non tenet i6sta conse
-            quentia ‘Si nichil est, nichil esse est verurn’. Sed hoc nichil est, quia posito quod
-            nichil sit de rebus c1reatis (sicut erat ante rerurn creatio n8)em et ista distributio
+            quentia ‘Si nichil est, nichil esse est verum’. Sed hoc nichil est, quia posito quod
+            nichil sit de rebus c1reatis (sicut erat ante rerum creatio n8)em et ista distributio
             ‘nichil’ non c9on’uprehendat sub se nisi res creatas, tunc hec est vera ‘nichil est’,
             loquendo de rebus creatis; et etiani hec ‘nichil esse est veruin’. Et una non potest
             intelligi sine altera nec econverso. Ergo necessario una sequitur ad alteram et
@@ -661,27 +673,29 @@
           <p xml:id="phsyn-t5-d1e365">AIii autem dicunt quod prima ponit impossibile et ex
             impossibili sequitur quidlibet. Et ita ex prima sequitur aliquid esse. Sed hoc nichil
             est, quia ostensuin est prius quod ex inipossibili n1on sequitur quidlibet. Alii autein
-            dicunt quod prima i2nterirnit seipsa.m. Et ideo ponit suurn opposituni [N62vb1 (scilicet
-            aliquid esse), quia prima rernovet oranes res nature 3et moris et rationis. Et sic
-            rernovet omnem sillogismum et omnem propositionein, cum sint res ratio nis. Sed si
-            removet et perimit orunern propositionein, ergo et seip sam. Et ita interirnit seipsam.
+            dicunt quod prima i2nterimit seipsa.m. Et ideo ponit suum opposituni [N62vb1 (scilicet
+            aliquid esse), quia prima removet oranes res nature 3et moris et rationis. Et sic
+            removet omnem sillogismum et omnem propositionein, cum sint res ratio nis. Sed si
+            removet et perimit orunem propositionein, ergo et seip sam. Et ita interimit seipsam.
             Et ita sequitur ex ea e4t nichil esse et aliquid esse. [P7lrb] Sed hoc nichil est, quia
             sulnpta distributione pro rebus creatis (sicut dictum fuit prius), tunc hec est vera
-            ‘nichil est’, loquendo de statu qui erat ante rerum creationern. Ergo neque interimit se
+            ‘nichil est’, loquendo de statu qui erat ante rerum creationem. Ergo neque interimit se
             neque ponit suum opposituin.</p>
           <p xml:id="phsyn-t5-d1e368">Ad hoc autein quod obiciuat 1quod antecedens prime
             conditionalis removet res nature et res ruoris et res rationis; unde reinovet omnem
-            sillogisniuin et ornnem propositionem, ergo seipsarn, — dicendum quod non sequitur,
-            inuno 2est ibi quid el sirnpliciter, quia removet omnern sillogisrnuin et omnern
-            propositionern Ut sunt res. Ergo 3illa propositio ‘nichil est’ non 4suiriitur ut res sed
+            sillogisniuin et omnem propositionem, ergo seipsam, — dicendum quod non sequitur,
+            inuno 2est ibi quid el simpliciter, quia removet omnem sillogismuin et omnem
+            propositionem Ut sunt res. Ergo 3illa propositio ‘nichil est’ non 4suiriitur ut res sed
             sumitur ut signum rei vel sicut via 5 in rein. Et sic nichil negat de se sed de rebus in
-            tellectis per ipsarn. Simile autern est hic: posito quod ornnes propositiones
-            destruantur et nu.lla rernaneat, tunc si aliquis dicat ‘nulla propositio est’, verurn.
+            tellectis per ipsam. Simile autem est hic: posito quod omnes propositiones
+            destruantur et nu.lla remaneat, tunc si aliquis dicat ‘nulla propositio est’, verum.
             clicit et tanien ipse profert propositionem, hanc scilicet ‘nulla propositio est’. Nec
             ex hoc sequitur quod aliqua propositio sit, quia. hec 6propositio quam ipse profert
-            (scilicet ‘nulla [T37rb] propositio est’) non surnitur ut res sed SUmitur Ut signum 7et
-            Ut via ad omnes alias propositiones. linde esse istius non est nisi per esse illarurn.
-            Et ideo non facit nurneruin in esse curn illis. Et ideo non sequitur quod aliqua
+            (scilicet ‘nulla
+            <cb ed="#T" n="b"/>
+            <lb ed="#T"/>propositio est’) non sumitur ut res sed SUmitur Ut signum 7et
+            Ut via ad omnes alias propositiones. linde esse istius non est nisi per esse illarum.
+            Et ideo non facit numeruin in esse cum illis. Et ideo non sequitur quod aliqua
             propositio sit.</p>
           <p xml:id="phsyn-t5-d1e371">Et propter hoc dicendum quod prima est falsa, hec scilicet ‘si
             nichil est, aliquid est’. Et prima con.sequentia bene tenet, hec scilicet ‘Si nichil
@@ -690,46 +704,49 @@
             quia veritas propositionis ponit ventateni dicti, sicut effectus ponit causam. Et etiam
             secunda consequentia bene tenet, hec scilicet ‘si nichil esse est verum, hoc enuntiabile
             5est verum’. Sed tertia consequentia 6peccat 7secundum quid et simpliciter, hec sciicet
-            ‘si hoc enuntiabile est verum, aliquid est verurn’, [N63raJ qu.ia 8enuntiabile 9non
+            ‘si hoc enuntiabile est verum, aliquid est verum’, [N63raJ qu.ia 8enuntiabile 9non
             ponit esse 10 sin-ipliciter, sed iste terminus ‘aliquid’ ponit ens simpliciter. Et ideo
             incidit 11 quid el sinzpliciter. Patet etiain hoc aliter, quia cum dicit ‘si hoc
-            enuntiabile est verurn, aliquid est veruin’, per hoc pronornen ‘hoc’ 12 demon strat 13
+            enuntiabile est verum, aliquid est veruin’, per hoc pronomen ‘hoc’ 12 demon strat 13
             hoc enuntiabile ‘nichil esse’, quod’ 4nichil ponit in esse sed omnia reinovet. Et per’
-            5hoc consequens [P7lvaJ ‘aliquid estverum’ ponit rem sirnpliciter esse. Et sic pont ens
-            sirnpliciter. Unde si aliquis’ 6recte inspexeritl 7tertiain 18 conditionalem, videbit
+            5hoc consequens [P7lvaJ ‘aliquid estverum’ ponit rem simpliciter esse. Et sic pont ens
+            simpliciter. Unde si aliquis’ 6recte inspexeritl 7tertiain 18 conditionalem, videbit
             quod consequens eius contradicit antecedenti ipsius. Et ideo a1u9t nulla est i2b0i
             apparentia, aut, si est, incid.it quid et simpliciter.</p>
           <p xml:id="phsyn-t5-d1e375">Item. Queritur de hoc sophisruate SORTES DICJT VERUM, SI SOLUS
             PLATO LOQUITUR, posito quod Sortes dicat solum Plato nem loqui. Probatio 1prime. Sortes
-            dicit solum Platonern loqui. Sed. solurn Platonern loqui est verum, si solus Plato
+            dicit solum Platonem loqui. Sed. solum Platonem loqui est verum, si solus Plato
             loquitur. Ergo Sortes dick verum si solus Plato loquitur. Contra. Si solus Plato
             loquitur, nullus alms a Platone loquitur (a diffinito vel a descripto). Et si nullus
             alius a Platone loquitur, Sortes non loquitur (a toto in quan titate). Et si Sortes non
-            loquitur, Sortes 2non dicit verurn (a genere, qu.ia loqui superius est ad dicere veruni
-            et ad 3 dicere falsum. et ad ornnes locutiones speciales). Non ergo dicit Sortes verum,
+            loquitur, Sortes 2non dicit verum (a genere, qu.ia loqui superius est ad dicere veruni
+            et ad 3 dicere falsum. et ad omnes locutiones speciales). Non ergo dicit Sortes verum,
             si solus Plato loquitur.</p>
           <p xml:id="phsyn-t5-d1e378">Solutio. Prima est simpliciter falsa. Et probatio peccat
             secunduni accidens, quia, quamvis’ Sortes dicat soluni Platonem loqui et ilud sit verum,
             si solus Plato loquitur, non tainen dicit verum, si solus Plato loquitur. Sicut quamvis
             cognoscat eum qui est coopertus, Ut Coriscus 2, non tamen cognoscit coopertuirl 3,seci
-            est sophisiria accidentis. Et sirniliter in proposito, quia, sicut coopertum accidit
+            est sophisiria accidentis. Et similiter in proposito, quia, sicut coopertum accidit
             Corisco, similiter verum accidit ci quod est ‘solum Platonem loqui’. Unde prima est
             simpliciter falsa et ponit con tradictionein, quia pont solum Plato neni loqui et non
-            soluin Platonein loqui, et Sortem dicere veruin e4t non dicere verum, curn ornnes alii a
-            Platone excludantur respectu huius actus ‘loqui’. Unde probatio non probat earn. 54
-            Quidarn tamen dicunt 1quod, sicut prima ponit contradictio nein, sirniliter positio quam
-            facit, ponit contradictionern. Unde non est miruin si ex una contradictione vere 2
+            soluin Platonein loqui, et Sortem dicere veruin e4t non dicere verum, cum omnes alii a
+            Platone excludantur respectu huius actus ‘loqui’. Unde probatio non probat eam. 54
+            Quidam tamen dicunt 1quod, sicut prima ponit contradictio nein, similiter positio quam
+            facit, ponit contradictionem. Unde non est miruin si ex una contradictione vere 2
             sequatur altera. Sed isti decepti [N63rb] sunt per quid et simpliciter, quia cuin taceo
             Ct nichil dico, interroganti quid dicam vere respondeo ‘nichil dico’. Et ex hoc non
-            [P7lvb] sequitur ‘ergo dico aliquid’, imrno est quid el sinzpliciter, quia dictio rnea
-            non surnitur Ut res que significetur 3vel dicatur per [T3 7vaJ seipsarn, sed sumitur Ut
-            signuin aliarum rerurn 4.Similiter est 5 quod solo 6Platone loquente Sortes bene potest
+            [P7lvb] sequitur ‘ergo dico aliquid’, immo est quid el sinzpliciter, quia dictio mea
+            non sumitur Ut res que significetur 3vel dicatur per
+            <pb ed="#T" n="37-v"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/>seipsam, sed sumitur Ut
+            signuin aliarum rerum 4.Similiter est 5 quod solo 6Platone loquente Sortes bene potest
             hoc significare et dicere ‘solus Plato loquitur’. Nec ponit ista positio
             contradictionem, quia dictio Sortis sumitur ut signum aliaruin dictionum, u.nde non
             facit numerum cunt aliis dictionibus. Et ideo non sequitur ‘ergo alius a Platone
             loquitur’.</p>
           <p xml:id="phsyn-t5-d1e381">Item. Queritur de hoc sophisinate SI TU SCIS TE ESSE LAPIDEM,
-            TU NON SCIS TE ESSE LA1IDEM. Probatio. Si tu scis te esse lapidem, te esse lapidern’ est
+            TU NON SCIS TE ESSE LA1IDEM. Probatio. Si tu scis te esse lapidem, te esse lapidem’ est
             verum, quia 2nichil scitur nisi verum. Sed s3i te esse lapidein est verum, tu es lapis
             (per locuin a convertibili, quia dictum convertitur cuin propositione). Et si tu es
             lapis, tu nichil scis (ab oppositis). Et s4i nichil scis, tu non scis te esse lapidem (a
@@ -738,15 +755,15 @@
             impossibilis.</p>
           <p xml:id="phsyn-t5-d1e384">Solutio. Prima est simpliciter vera, quia consequens
             necessario sequitur ex antecedente per locales habitudines, sicut probatio mani festat.
-            Ad irnprobationern autem. solvendum per intereinptionein t, quia non sequitur ibi
+            Ad improbationem autem. solvendum per intereinptionein t, quia non sequitur ibi
             opposituiri ad oppositum, sed sequitur una pars contra.dictionis ad antecedens quod
-            claudit intra se utrarnque 2,quia hoc antecedens ‘tu scis te esse lapidem’ ratione 3rei
-            4 huius verbi ‘scire’ ponit scientiam in subiecto, sed ratione obiecti eiusdern verbi
+            claudit intra se utramque 2,quia hoc antecedens ‘tu scis te esse lapidem’ ratione 3rei
+            4 huius verbi ‘scire’ ponit scientiam in subiecto, sed ratione obiecti eiusdem verbi
             (quod scilicet obiectuin e5st te esse lapidein) privat scieatiain a subiecto. Et ita
-            ponit subiectum scire e6t non scire, et esse lapidein et non esse lapidern, e7t scire se
-            esse lapidern et non scire se esse lapi dern. Et ornnes istas contradictiories 8habet in
+            ponit subiectum scire e6t non scire, et esse lapidein et non esse lapidem, e7t scire se
+            esse lapidem et non scire se esse lapi dem. Et omnes istas contradictiories 8habet in
             se antecedens inte grantes 9ipsum’°, sicut totuni integrale habet in se suas partes inte
-            grales 11 . Unde ex prirno antecedente sequitur quelibet 12istaruin 13 contradictionum
+            grales 11 . Unde ex primo antecedente sequitur quelibet 12istaruin 13 contradictionum
             14per locales habinidines et non propter lP72ra] hoc quod e5x:’ impossibili sequitur
             [IsJ63vaJ quidlibet, sicut ex toto inte grali sequitur quelibet eius pars secundum
             consequentiam naturalem.</p>
