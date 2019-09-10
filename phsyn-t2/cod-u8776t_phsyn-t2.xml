@@ -28,8 +28,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod
-            2</witness>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Arxiu Historic Arxidiocesà, cod 2 (85)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -64,16 +63,17 @@
           <head xml:id="phsyn-t2-Hd1e115">De negatione in genere</head>
           <p xml:id="phsyn-t2-d1e118">Cum secundum diversitatem compositionum diversificetur,
             negatio, ideo post compositionem dicendum est de negatione. Primo autem sciendurn est
-            quod ‘negatio’ dicitur equivoce. Quia uno modo dicitur oratio negativa. Et est
+            quod <mentioned>negatio</mentioned> dicitur equivoce. Quia uno modo dicitur oratio negativa. Et est
             species enuntiationis: enuntiationum autem alia est oratio affirmativa, alia
-            negativa (Ut ‘homo currit’, ‘homo non currit’); et diffinitur sic: ‘negatio est
-            oratio nega tiva ab aliquo’. Alio autem modo dicitur negatio signum vel instrumentum
+            negativa (Ut <mentioned>homo currit</mentioned>, <mentioned>homo non currit</mentioned>); et diffinitur sic: <mentioned>negatio est
+            oratio negativa ab aliquo</mentioned>. Alio autem modo dicitur negatio signum vel instrumentum
             negandi. Et hoc modo dicitur tripliciter. Quia negatio ut est
-            instrumentum negandi, sumitur uno modo ut substantia (Ut in hoc nomine ‘negatio’),
-            alio autem modo sumitur negatio’ ut actus, ut in verbo vel in participio (Ut ‘nego,
-            -as’, vel ‘negans’ et ‘negatus’). Ex bus 16 duobus sumitur negatio ut concepta
+            instrumentum negandi, sumitur uno modo ut substantia (Ut in hoc nomine <mentioned>negatio</mentioned>),
+            alio autem modo sumitur negatio ut actus, ut in verbo vel in participio (ut <mentioned>nego,
+            -as</mentioned>, vel <mentioned>negans</mentioned> et <mentioned>negatus</mentioned>). Ex bus 16 duobus sumitur negatio ut concepta
             sive per modum conceptus. Alio autem modo sumitur negatio que est instrumentum
-            negandi ut exercita; et sic significatur per hanc particulam ‘non’. </p>
+            negandi ut exercita; et sic significatur per hanc particulam <mentioned>non</mentioned>. </p>
+
           <p xml:id="phsyn-t2-d1e121">Et nota quod conceptus et affectus1 differunt in hoc quod
             conceptus dicitur esse illud quod est in anima per similitudinem aliquam: cum enim
             cogito4 de coloribus et de hominibus tunc, similitudines eorum recipio in anima, et non
@@ -81,27 +81,30 @@
             veritatem est in anima vel in corpore. Ut cum laboro in egritudine, dolor est in
             anima mea secundum veritatem afficiens eam, et quando curro, cursus est in
             corpore secundum veritateam exercitus et afficiens ipsum corpus.</p>
+
           <p xml:id="phsyn-t2-d1e124">Item. Negatio isto1 ukimo amodo sumpta est duplex. Quia est
             quedam negatio que est termini, ut in nomine infinito; et est
             alia que est orationis. Et prima additur termino4 per compositionem, secunda per
             appositionem. Item. Negatio termini est duplex. Quia est quedam que facit
-            infinitum sive privativum (Ut ‘non-homo’, ‘non-lapis’) et est alia que facit verbum
-            infinitum sive privativum (Ut ‘non-currit’, ‘non-laborat’).</p>
+            infinitum sive privativum (Ut <mentioned>non-homo</mentioned>, <mentioned>non-lapis</mentioned>) et est alia que facit verbum
+            infinitum sive privativum (Ut <mentioned>non-currit</mentioned>, <mentioned>non-laborat</mentioned>).</p>
+
           <p xml:id="phsyn-t2-d1e127">Sed videtur quod neque qualitas accidentalis neque actus
             possit predicari de substantia, quia sunt diversa et diversa inquam tum diversa
             sunt repugnantia. Ergo unum non vere predicatur de altero. Ergo sicut hec est falsa:
-            ‘Sortes est albedo’, similiter sunt hec: ‘Sortes est albus’ et hec: ‘Sortes currit’
-            sicut et hec: ‘Sortes est cursus’. Et dicendum quod dupliciter contingit significari
+            <mentioned>Sortes est albedo</mentioned>, similiter sunt hec: <mentioned>Sortes est albus</mentioned> et hec: <mentioned>Sortes currit</mentioned>
+            sicut et hec: <mentioned>Sortes est cursus</mentioned>. Et dicendum quod dupliciter contingit significari
             diversa. Quia uno modo inquantum unum est oppositum alteri vel diversum ab eo
-            (Ut ‘Sortes’ ,‘albedo’, ‘cursus’); et sic unum non potest vere predicari de
-            altero. Mio 1autem modo contingit significari’
+            (Ut <mentioned>Sortes</mentioned> ,<mentioned>albedo</mentioned>, <mentioned>cursus</mentioned>); et sic unum non potest vere predicari de
+            altero. Alio autem modo contingit significari
             <pb ed="#T" n="28-r"/>
             <cb ed="#T" n="a"/>
-            <lb ed="#T"/> diversa prout unum est de altero (Ut ‘albus’, ‘currit’, ‘legit’) et
+            <lb ed="#T"/> diversa prout unum est de altero (Ut <mentioned>albus</mentioned>, <mentioned>currit</mentioned>, <mentioned>legit</mentioned>) et
             universaliter quecumque significantur in concretione ad substantiam, sive dicantur
-            denominative (ut ‘albus’,‘currit’) sive non’ (ut ‘studiosus’, ‘cursor’ et
-            ‘pugillator’ et consimilia, prout dicuntur ‘cursor’ et ‘pugillator’ a naturalibus
+            denominative (ut <mentioned>albus</mentioned>,<mentioned>currit</mentioned>) sive non’ (ut <mentioned>studiosus</mentioned>, <mentioned>cursor</mentioned> et
+            <mentioned>pugillator</mentioned> et consimilia, prout dicuntur <mentioned>cursor</mentioned> et <mentioned>pugillator</mentioned> a naturalibus
             potentiis). Et hoc modo unum diversum predicatur de altero.</p>
+
           <p xml:id="phsyn-t2-d1e137">Item. Cum triplex sit compositio, scilicet qualitatis ad
             substantiam et actus distantis a substantia cum3 substantia et actus uniti substantia,
             et cuilibet harum trium compositionum sua opponatur negatio, et
@@ -110,64 +113,70 @@
             sicut compositio duplex est in genere, quia est quedam termini, alia vero orationis,
             ut dictum est. Sed quia negatio illa est in specie quadruplex, eoquod negatio
             termini subdividitur: quedam enim est que removet qualitatem a substantia,
-            faciens nomen infinitum (Ut ‘non-homo’, ‘non-asinus’) et est alia que actum uni turn’
-            substantie removet a substantia, faciens participium infinitum (ut ‘non-currens’,
-            ‘non-.legens’), tertia vero actum distantem a substantia exteriori removet sive
-            privat a substantia intra, faciens verbum infinitum (ut ‘non-currit’, ‘non-laborat’)
+            faciens nomen infinitum (Ut <mentioned>non-homo</mentioned>, <mentioned>non-asinus</mentioned>) et est alia que actum unitum
+            substantie removet a substantia, faciens participium infinitum (ut <mentioned>non-currens</mentioned>,
+            <mentioned>non-.legens</mentioned>), tertia vero actum distantem a substantia exteriori removet sive
+            privat a substantia intra, faciens verbum infinitum (ut <mentioned>non-currit</mentioned>, <mentioned>non-laborat</mentioned>)
             quarta vero est orationis, Ut dictum est, faciens orationem negativam, sic negatio
             terrnini dividitur per partes tres. </p>
+
           <p xml:id="phsyn-t2-d1e140"> Ad illud autem quod obicit quod triplex est compositio,
             actus scilicet cum substantia, ergo ex opposito erit triplex negatio, —
             quod insufficienter dividit dicendum quod verum est, quia relinquit compositio nem actus distantis a
             substantia exteriori cum substantia intra. Et sic sunt quatuor compositiones. Unde ex
             opposito erunt quatuor negatio nes. Quod autem sint quatuor compositiones patet. Quia
             quedam est qualitatis cui substantia, Ut in quolibet nomine; et negatio ei opposita
-            facit nomen infinitum (Ut ‘non-homo’). Et alia est actus uniti substantie cum
-            substantia ut in participio; et negatio ei opposita facit participium infinitum (u t
-            ‘non-legens’). Tertia vero est actus distantis a substantia exteriori cum eadem
-            substantia exteriori (Ut ‘Sortes currit’); et negatio ei opposita facit orationem
-            negativam (Ut ‘Sortes non currit’). Quarta vero est actus distantis a substantia
+            facit nomen infinitum (Ut <mentioned>non-homo</mentioned>). Et alia est actus uniti substantie cum
+            substantia ut in participio; et negatio ei opposita facit participium infinitum (ut
+            <mentioned>non-legens</mentioned>). Tertia vero est actus distantis a substantia exteriori cum eadem
+            substantia exteriori (Ut <mentioned>Sortes currit</mentioned>); et negatio ei opposita facit orationem
+            negativam (Ut <mentioned>Sortes non currit</mentioned>). Quarta vero est actus distantis a substantia
             exteriori cum substantia intra, et negatio ei opposita facit verbum infinitum (ut
-            ‘non- currit’, ‘non-laborat’). Et sic sufficienter dividebat compositiones istas
+            <mentioned>non- currit</mentioned>, <mentioned>non-laborat</mentioned>). Et sic sufficienter dividebat compositiones istas
             in specie et negationes eis oppositas. </p>
+
           <p xml:id="phsyn-t2-d1e143"> Et nota quod verbum comparatur duplici substantie, scilicet
-            exteriori, que reddit ei suppositum (Ut ‘Sortes currit’) et substantie interiori,
-            que infinite intelligitur in ipso, quia ‘currit’ idem est quod ‘res currens’ et
-            ‘currens’ est ipse actus, res vero est substantia interius intellecta.</p>
+            exteriori, que reddit ei suppositum (Ut <mentioned>Sortes currit</mentioned>) et substantie interiori,
+            que infinite intelligitur in ipso, quia <mentioned>currit</mentioned> idem est quod <mentioned>res currens</mentioned> et
+            <mentioned>currens</mentioned> est ipse actus, res vero est substantia interius intellecta.</p>
         </div>
+
         <div xml:id="phsyn-t2-Dd1e146">
           <head xml:id="phsyn-t2-Hd1e148">De negatione in specie</head>
           <p xml:id="phsyn-t2-d1e151">Dicto de negatione in genere consequenter dicenduni est de
             unaquaque predictarum negationum in specie. Et primo de negatione nominis
             infiniti, cuni hec sit prior aliis.</p>
         </div>
+
         <div xml:id="phsyn-t2-Dd1e154">
           <head xml:id="phsyn-t2-Hd1e156">De negatione infinitante nomen</head>
           <p xml:id="phsyn-t2-d1e159">Circa quam primo queritur utrum nomen infinitum predicetur de
             quolibet quod est et quod non est. Et videtur quod non, quia: Sicut dicitur in <ref><title>Secundo
             Periherneneias</title></ref>, ad affirmationem in qua predicatur nomen infinitum, sequitur negatio
-            in qua predicatur nomen finitum, et non econverso (Ut ‘omnis homo est non-iustus;
-            ergo nullus homo est iustus’, et non econverso). Ergo affirmatio in qua predicatur
+            in qua predicatur nomen finitum, et non econverso (Ut <mentioned>omnis homo est non-iustus;
+            ergo nullus homo est iustus</mentioned>, et non econverso). Ergo affirmatio in qua predicatur
             nomen infinitum, ponit aliquid quia si nichil
             <cb ed="#T" n="b"/>
             <lb ed="#T"/>poneret, tunc converteretur cum negatione. Ergo infinitum solum
             predicatur de ente. Ergo non de quolibet quod est et quod’ non est. Ad idem. Cum
-            dicitur ‘homo est non-iustus’, hic ponitur ens, quia affirmatur compositio esse, neque
+            dicitur <mentioned>homo est non-iustus</mentioned>, hic ponitur ens, quia affirmatur compositio esse, neque
             negatur per negationem ipsius termini infiniti sequentem. Ergo nomen
             infinitum predicatur solum de ente. Ergo non de quolibet quod est et quod non
             est.</p>
-          <p xml:id="phsyn-t2-d1e166">Sed contra. ‘Homini’ opponitur aliquid secundum n1egationem et
-            aliquid secundum2 privationem, ut ‘mortuum’ opponitur ‘homini’ privative et ‘non-homo’
-            negative. Sed privatio plus participat de ente quam negatio. Ergo ‘mortuum’ plus
-            participat de ente q3uam ‘non homo’. Sed ‘mortuum’ predicatur de non-ente. Quare
-            multo fortius ‘non-homo’. Ergo nomen infinitum non solum predicatur de ente sed
+
+          <p xml:id="phsyn-t2-d1e166">Sed contra. <mentioned>Homini</mentioned> opponitur aliquid secundum n1egationem et
+            aliquid secundum2 privationem, ut <mentioned>mortuum</mentioned> opponitur <mentioned>homini</mentioned> privative et <mentioned>non-homo</mentioned>
+            negative. Sed privatio plus participat de ente quam negatio. Ergo <mentioned>mortuum</mentioned> plus
+            participat de ente q3uam <mentioned>non homo</mentioned>. Sed <mentioned>mortuum</mentioned> predicatur de non-ente. Quare
+            multo fortius <mentioned>non-homo</mentioned>. Ergo nomen infinitum non solum predicatur de ente sed
             de non-ente. Item ad idem. <name>Boetius</name> docet convertere universalem affirmativam
-            infinitando terminos nominis ut ‘omnis homo est ens; ergo omne non-ens est non-homo’.
-            Ergo ‘non-homo’ predicatur de quolibet non-ente. Ergo non solum de ente. Item. Ut est
-            in <title>Secundo Topicorum</title>: si ad ‘hominem’ sequitur ‘animal’, ergo per consequendam
-            econtrario ad ‘non-animal’ sequitur ‘non-homo’. Sed bene sequitur ‘si est homo, est
-            ens’. Ergo sequitur per consequentiam econtrario ‘si est non-ens, est non-homo’. Ergo
+            infinitando terminos nominis ut <mentioned>omnis homo est ens; ergo omne non-ens est non-homo</mentioned>.
+            Ergo <mentioned>non-homo</mentioned> predicatur de quolibet non-ente. Ergo non solum de ente. Item. Ut est
+            in <title>Secundo Topicorum</title>: si ad <mentioned>hominem</mentioned> sequitur <mentioned>animal</mentioned>, ergo per consequendam
+            econtrario ad <mentioned>non-animal</mentioned> sequitur <mentioned>non-homo</mentioned>. Sed bene sequitur <mentioned>si est homo, est
+            ens</mentioned>. Ergo sequitur per consequentiam econtrario <mentioned>si est non-ens, est non-homo</mentioned>. Ergo
             nomen infinitum non solum predicatur de ente sed etiam de non-ente.</p>
+
           <p xml:id="phsyn-t2-d1e169">Solutio solet dici quod in homine est duplex compositio. Quia
             quedam est compositio forme cum materia; homo enim et unum quodque aliud
             a primo constat ex materia et forma, vel vere vel proportionaliter Et est alia
@@ -180,44 +189,47 @@
             est ens per se quantitas vero est ens mensurativum qualitas vero
             est ens informativum (vel qualificativum) substantie, relatio vero est ens
             comparativum substantie, actio vero est ens medium per quod, sive secundum quod, unum
-            agit in aliud; et sic de aliis. Unde hec differentia ‘per se’ est differentia
-            substantie et ‘mensurativum substantie’ est differentia quantitatis, et sic de aliis.
+            agit in aliud; et sic de aliis. Unde hec differentia <mentioned>per se</mentioned> est differentia
+            substantie et <mentioned>mensurativum substantie</mentioned> est differentia quantitatis, et sic de aliis.
             Et sic per istas differentias, que non sunt specifice, differunt general generalissima
             inter Se.</p>
+
           <p xml:id="phsyn-t2-d1e172">Formetur autem argumentum sic: In homine est duplex compositio,
             scilicet forme cum materia et differentiarum cum primo predicabili, ut cum
             ente. Sed cuilibet compositioni opponitur sua negatio. Ergo duplici compositioni
-            existenti in homine duplex: opponitur negatio. Ergo negatio in hoc termino ‘non-homo’
+            existenti in homine duplex: opponitur negatio. Ergo negatio in hoc termino <mentioned>non-homo</mentioned>
             est duplex. Quia vel removebit compositionem que est differentiarum cum ente. Et sic
-            relinquitur ens, quia cum dicitur ‘ens per se corporeum animatum sensibile rationale
-            mortale’: si aggregatio istarum differentiarum removeatur (non dico quod unaqueque
+            relinquitur ens, quia cum dicitur <mentioned>ens per se corporeum animatum sensibile rationale
+            mortale</mentioned>: si aggregatio istarum differentiarum removeatur (non dico quod unaqueque
             removeatur, sed aggregatio eanum, que potest removeri pro una vel pro pluribus
             sive pro omnibus) tunc relinquitur ens (quia Si una sola removeatur i0am non sunt
             ibi omnes; vel si plures vel si omnes,
             <pb ed="#T" n="28-v"/>
             <cb ed="#T" n="a"/>
-            <lb ed="#T"/>semper aggregatio earum removetur). Et sic ‘non homo’ ponit ens et
-            predicatur solum de ente. Et sic ‘non-homo’ dicitur terminus privativus. Si autem
+            <lb ed="#T"/>semper aggregatio earum removetur). Et sic <mentioned>non homo</mentioned> ponit ens et
+            predicatur solum de ente. Et sic <mentioned>non-homo</mentioned> dicitur terminus privativus. Si autem
             negatio ista removeat compositionem forme cum materia, tunc nichil ponit actu, sed
-            tan tum ponit ens in potentia vel in opinione. Et sic ‘non-homo’ est terminus
-            negationis”. Et sic ‘non-homo’ ponit potentiale vel opinabile vel ymaginabile. Et sic
-            ‘non-homo’ predicatur de ente et de non-ente.
+            tan tum ponit ens in potentia vel in opinione. Et sic <mentioned>non-homo</mentioned> est terminus
+            negationis”. Et sic <mentioned>non-homo</mentioned> ponit potentiale vel opinabile vel ymaginabile. Et sic
+            <mentioned>non-homo</mentioned> predicatur de ente et de non-ente.
             Quod concedimus.</p>
+
           <p xml:id="phsyn-t2-d1e182">Dicendum ergo quod nomen dupliciter potest infmnitari, ut
-            osten sum est. Quia’ uno modo secundum privationem; et sic ‘non homo’ ponit ens,
-            removendo aggregationem differentiarurn a primo predicabili. Et sic ‘homo’ et
-            ‘non—homo’ Oppornuntur ut privatio et habitus et predicantur solum de ente. Alio
-            autem modo potest nomen infinitari, scilicet secundum negationem. Et sic ‘non-homo’
-            nichil ponit et est terminus negativus. Et sic ‘homo’ et ‘non-homo’ opponuntur ut
+            osten sum est. Quia uno modo secundum privationem; et sic <mentioned>non homo</mentioned> ponit ens,
+            removendo aggregationem differentiarurn a primo predicabili. Et sic <mentioned>homo</mentioned> et
+            <mentioned>non—homo</mentioned> Oppornuntur ut privatio et habitus et predicantur solum de ente. Alio
+            autem modo potest nomen infinitari, scilicet secundum negationem. Et sic <mentioned>non-homo</mentioned>
+            nichil ponit et est terminus negativus. Et sic <mentioned>homo</mentioned> et <mentioned>non-homo</mentioned> opponuntur ut
             affirmatio et negatio et predicantur de quolibet quod est et quod non est, ita quod
             hoc vel illud, sicut et quelibet contradictio. Et nota quod ille duplex: modus
             infinitandi terminum est solum in terminis specialibus, quia termini generates (Ut
-            ‘ens’ et ‘aliquid’) uno solo modo infinitantur, scilicet secundum negatio nem, quia in
-            eis non est duplex compositio sicut in specialibus. Unde ‘non-ens’ ‘non-aliquid’
+            <mentioned>ens</mentioned> et <mentioned>aliquid</mentioned>) uno solo modo infinitantur, scilicet secundum negatio nem, quia in
+            eis non est duplex compositio sicut in specialibus. Unde <mentioned>non-ens</mentioned> <mentioned>non-aliquid</mentioned>
             solum predicantur de non-ente. Nullus enim terminus infinitus potest predicari
-            ne eo cuius ad forma removetur per ipsum. Unde ‘non-homo’ non potest predicari de
-            homine neque ‘non-ens’ de ente. Nullum enim oppositorum predicari potest de
+            ne eo cuius ad forma removetur per ipsum. Unde <mentioned>non-homo</mentioned> non potest predicari de
+            homine neque <mentioned>non-ens</mentioned> de ente. Nullum enim oppositorum predicari potest de
             sibi opposito.</p>
+
           <p xml:id="phsyn-t2-d1e185">Ad illud autem quod obicit, quod ad affirmationem in qua
             predicatur nomen infinitum, sequitur negativa in qua predicatur nomen infinitum, et non
             econverso, unde nomen infinitum ponit ens, — dicendum sicut dictum est prius, quod
@@ -225,67 +237,71 @@
             et sic nichil ponit, vel quod est infinitum secundum privationem et sic ponit ens,
             sive sit substantiale (Ut homo, animal) sive accidentale (Ut album, iustum, rectum,
             curvum, par vel impar). Unde si predicetur terminus accidentalis infinitus secundum
-            privationem, sic relinquit subiectum accidentis in esse. Et sic ista: ‘homo est non
-            iustus’ et consimiles ponunt ens. Et sic ad ipsas sequitur negativa de predicato
-            finito, et non econverso (Ut ‘homo est non-iustus; ergo homo non est iustus’, et
+            privationem, sic relinquit subiectum accidentis in esse. Et sic ista: <mentioned>homo est non
+            iustus</mentioned> et consimiles ponunt ens. Et sic ad ipsas sequitur negativa de predicato
+            finito, et non econverso (Ut <mentioned>homo est non-iustus; ergo homo non est iustus</mentioned>, et
             non econverso). Et hoc determinat <ref><name>Aristotiles</name> in principio <title>Secundi Perihernzeneias</title></ref>
             dicendum est quod sic consequentur sibi invicem sicut dictum est in <ref><title>Prioribus</title></ref>. (Hoc
             etiam dicitur in fine Primi <title>Priorum</title> quod ad privativam affirmativam sequitur
-            negativa finita, et non econverso; Ut ‘hoc est inequale; ergo non est equale' ut dictum est, et non
-            econverso; ‘hoc est non-album; ergo non est album’, et non econverso). Si autem
+            negativa finita, et non econverso; Ut <mentioned>hoc est inequale; ergo non est equale</mentioned> ut dictum est, et non
+            econverso; <mentioned>hoc est non-album; ergo non est album</mentioned>, et non econverso). Si autem
             predicetur’ terminus accidentalis infinitus secundum negationem, tunc nichil ponit, ut
-            dictum est. Et sic convertitur cum negativa finita (Ut ‘omnis homo est non-iustus;
-            ergo nullus homo est justus’, et non econverso). similiter dicit in principio
+            dictum est. Et sic convertitur cum negativa finita (Ut <mentioned>omnis homo est non-iustus;
+            ergo nullus homo est justus</mentioned>, et non econverso). similiter dicit in principio
             <ref><title>Perihernzeneias</title></ref> paulum post quod ad negativam finitam sequitur
-            affirmativa infinita (Ut ‘nulhis homo est iustus; ergo omnis homo est non-iustus’).
+            affirmativa infinita (Ut <mentioned>nulhis homo est iustus; ergo omnis homo est non-iustus</mentioned>).
             Quod non possit esse nisi converterentur isto modo, scilicet
             <cb ed="#T" n="b"/>
             <lb ed="#T"/>secundum quod est nomen infinitum secundum negationem. Et similiter
-            intellige de termino infinito substantiali (Ut ‘non-homo’) sicut de accidentali (ut
-            ‘non-iustum’).</p>
-          <p xml:id="phsyn-t2-d1e192"> Ad illud autem quod postea obicit, quod in ista: ‘homo est
-            non iustus’ ponitur ens, cum affirmetur esse et remanet compositio affirmata et non
+            intellige de termino infinito substantiali (Ut <mentioned>non-homo</mentioned>) sicut de accidentali (ut
+            <mentioned>non-iustum</mentioned>).</p>
+
+          <p xml:id="phsyn-t2-d1e192"> Ad illud autem quod postea obicit, quod in ista: <mentioned>homo est
+            non iustus</mentioned> ponitur ens, cum affirmetur esse et remanet compositio affirmata et non
             negetur per negationem sequentem, — dicendum quod argumentum tripliciter peccat.
-            Quia uno modo secundum equivocationem huius nominis ‘non—iustus’, quod’ uno modo
+            Quia uno modo secundum equivocationem huius nominis <mentioned>non—iustus</mentioned>, quod uno modo
             ponit ens et alio modo non, ut dictum est prius. Et alio modo peccat secundum
-            consequens, sive secundum quid et simpliciter, quia non sequitur ‘affirmatur esse aut’
+            consequens, sive secundum quid et simpliciter, quia non sequitur <mentioned>affirmatur esse aut</mentioned>
             ipsa compositio; ergo est’, quia affirmatio est tam de ente quam de non-ente. Ergo
             in plus est affirmatio quam esse secundum rationem. Ergo est consequens. Unde secundum
-            quod ‘non-iustus’ est nomen infinitum secundum negationem, non sequitur ‘homo est
-            non-iustus; ergo homo est’. Preterea est ibi fallacia secundum quid et siinpliciter,
+            quod <mentioned>non-iustus</mentioned> est nomen infinitum secundum negationem, non sequitur <mentioned>homo est
+            non-iustus; ergo homo est</mentioned>. Preterea est ibi fallacia secundum quid et siinpliciter,
             quia quamvis sit ibi compositio affirmata, non tamen ponitur ens
             simpliciter sed diminu tum per determinationem sequentem. Unde sicut non sequitur
-            ‘ est opinabile; ergo est’, quamvis sit ibi compositio affirmata, ita non sequitur
-            ‘est non-iustus; ergo est’, cum diminuatur esse per determinationem nichil
-            ponentem, secundum quod ‘non-iustus’ est terminus negativus.</p>
+            <mentioned> est opinabile; ergo est</mentioned>, quamvis sit ibi compositio affirmata, ita non sequitur
+            <mentioned> est non-iustus; ergo est</mentioned>, cum diminuatur esse per determinationem nichil
+            ponentem, secundum quod <mentioned>non-iustus</mentioned> est terminus negativus.</p>
+
           <p xml:id="phsyn-t2-d1e195">Sciendum autem quod nullus terminus potest infinitari nisi
             subicibile vel predicabile. Et ideo signa universalia vel particularia. non possunt
             infinitari, quia sunt dispositiones subiecti inquantum subiectum est, et ita respiciunt
-            predicatum. Et ideo dicit <ref><name>Aristotiles</name></ref> quod hec negatio ‘non’ non est addenda huic signo
-            ‘omnis’, quia non significat universale sed quoniam universaliter.</p>
+            predicatum. Et ideo dicit <ref><name>Aristotiles</name></ref> quod hec negatio <mentioned>non</mentioned> non est addenda huic signo
+            <mentioned>omnis</mentioned>, quia non significat universale sed quoniam universaliter.</p>
         </div>
+
         <div xml:id="phsyn-t2-Dd1e199">
           <head xml:id="phsyn-t2-Hd1e201">De negatione infmitante verbum</head>
-          <p xml:id="phsyn-t2-d1e204">Dicto de negatione speciali’ nominis faciente nomen infinitum
+          <p xml:id="phsyn-t2-d1e204">Dicto de negatione speciali nominis faciente nomen infinitum
             consequenter dicendum de speciali negatione verbi faciente verbum infinitum, quia
             sicut nomen natura prius verbo, ita nomen infinitum natura prius verbo
             infinito. Primo ergo queritur de verbo infinito atrum predicetur de omni eo quod est
-            et q’uod non est. Et videtur quod sic. Quia, Ut vult <ref><name>Aristotiles</name></ref>, verbum infinitum
+            et quod non est. Et videtur quod sic. Quia, Ut vult <ref><name>Aristotiles</name></ref>, verbum infinitum
             similiter est in quolibet quod est et quod non est. Ergo predicatur de omni quod est
             et quod non est. Sed contra. Negatio que est in verbo infinito, relinquit
             compositionem affirmatam, removendo actum a substantia de qua predicatur actus.
-            Unde sensus huius ‘Cesar non currit’, secundum quod ‘non-currit’ est verbum infinitum,
+            Unde sensus huius <mentioned>Cesar non currit</mentioned>, secundum quod <mentioned>non-currit</mentioned> est verbum infinitum,
             est iste: Cesar est non-currens. Sed compositio affirmata ponit ens, quia ponit
             subiectum in esse. Ergo verbum infinitum ponit ens. Ergo solum predicatur de
             ente.</p>
+
           <p xml:id="phsyn-t2-d1e207">Et dicendum secundum quosdam quod verbum infinitum extra
             ora.tionem mnanet infinitum, sed in oratione non manet infinitum, sed fit semper
             oratio quando ponitur in oratione, quia negatio est una pars et verbum alia. Sed hoc
-            nichil est, q4uia moventur eoquod nesciunt distinguere in hac oratione ‘Cesar non
-            currit’ et in consimilibus, secundum quod sunt propositiones negative et secundum
+            nichil est, q4uia moventur eoquod nesciunt distinguere in hac oratione <mentioned>Cesar non
+            currit</mentioned> et in consimilibus, secundum quod sunt propositiones negative et secundum
             quod sunt de verbo infinito. Unde dicenduni. Quod verbum infinitum predicatur de
             quolibet quod est et quod non est et manet infinitum extra orationem et in oratione. Et
-            hec propositio ‘Cesar non currit’ et consiiniles, secundum quod sunt orationes negative,
+            hec propositio <mentioned>Cesar non currit</mentioned> et consiiniles, secundum quod sunt orationes negative,
             nichil ponunt; et compositio negatur nichil relinquendo, per eos secundum
             autem quod in eis ponitur verbum infinitum, compositio remanet affirmata unde isto
             modo secun dum quod in eis verbum infinitum, adhuc sunt duplices, quia verbum
@@ -294,19 +310,21 @@
             <cb ed="#T" n="a"/>
             <lb ed="#T"/>secundum negationem et sic nichil ponit; vel potest infinitari secundum
             privationem et sic ponit subiectum in esse, et sic ponit ens.</p>
+
           <p xml:id="phsyn-t2-d1e216">Ad illud autem quod obicit quod compositio affirmata ponit
             ens, quia ponit subiectum in esse, dicendum quod utrumque est falsum, quia compositio
             equaliter se habet ad compositionem entium et ad compositionem non-entium; unde
             neque ponit ens ipsa compositio neque ponit subiectum suum in esse. Et ita virtute compositionis
-            affirmate inquantum est affirmata, nichil ponitur’ Sed virtute
+            affirmate inquantum est affirmata, nichil ponitur. Sed virtute
             predicati aliquando ponitur subiectum in esse, Ut quando predicatum est ens
             simpliciter10, et aliquando non ponitur subiectum in esse, Ut quando predicatum’
-            est ens diminutum vel quodammodo. Et ideo sequitur ‘lapis est homo; ergo lapis
-            est’ et non sequitur ‘lapis est opinabile; ergo lapis est’. Unde sensus huius ‘Cesar
-            non currit’ secundum quod ‘currit’ est verbum infinitum, est iste: Cesar est
+            est ens diminutum vel quodammodo. Et ideo sequitur <mentioned>lapis est homo; ergo lapis
+            est</mentioned> et non sequitur <mentioned>lapis est opinabile; ergo lapis est</mentioned>. Unde sensus huius <mentioned>Cesar
+            non currit</mentioned> secundum quod <mentioned>currit</mentioned> est verbum infinitum, est iste: Cesar est
             non-currens.</p>
+
           <p xml:id="phsyn-t2-d1e219">Et similiter intellige de participio sicut et de verbo. Unde
-            ille due ‘Cesar non currit’, ‘Cesar est non-currens’ nichil ponunt secundum quod verbum
+            ille due <mentioned>Cesar non currit</mentioned>, <mentioned>Cesar est non-currens</mentioned> nichil ponunt secundum quod verbum
             et participium sunt termini negativi. Sed secundum quod sunt termini privativi, sic
             ponunt ens, quia ponunt subiectum in esse. Et virtute predicati et non
             compositionis, ut dictum est. De negatione infinitante participium satis patet ex
@@ -330,7 +348,8 @@
             remnovet modum. Ergo nulla negativa est alicuius modi. Ergo neque
             indicativi (locus a genere). Ergo nulla negativa est vera vel falsa; sola
             enim indicativa est qua est verum vel falsum.</p>
-          <p xml:id="phsyn-t2-d1e230">Solutio. Sicut hoc nomen ‘homo’ duplicem habet significationem,
+
+          <p xml:id="phsyn-t2-d1e230">Solutio. Sicut hoc nomen <mentioned>homo</mentioned> duplicem habet significationem,
             scilicet generalem et specialem2 (generalis significatio est significare
             substantiam curti qualitate, specialis vero ut significare hanc substantiant que est
             homo), et sic in verbo duplex est significatio, scilicet generalis et
@@ -350,20 +369,21 @@
             affirmationem, sic econverso affirmatio negationem. Et dicendum quod negatio apta
             nata est destruere quicquid repperit, quia negatio est actus destruens suum
             obiectum. Unde obiectum negationis, quod cumque fuerit, removetur per negationem. Et
-            quia negatio aliquando est obiectum negationis, aliquando negatur (Ut ‘non:
-            Sortes non currit’) et ideo negatio removetur per negationem, et ideo ex consequenti
+            quia negatio aliquando est obiectum negationis, aliquando negatur (Ut <mentioned>non:
+            Sortes non currit</mentioned>) et ideo negatio removetur per negationem, et ideo ex consequenti
             ponitur affirmatio, quia remota negatione ponitur affirmatio, eoquod necesse est
             semper esse affirmationem vel negationem. Et ideo due negationes equipollent
             affirmationi. Affirmatio autem non est apta nata destruere suum obiectum,
             sed ponit ipsum potius et conservat. Et ideo cum res affirmata, que est obiectum
             affirmationis, non removeatur per affirmationem, ob hoc due affirmationes non
             possunt equipollere negationi.</p>
+
           <p xml:id="phsyn-t2-d1e240">Ad illud autem quod obicit quod affirmatio removet negatio
             nem, sicut econverso, dicendum quod due comparationes sunt in affirmatione et due
             in negatione, diversimode comparate. Una enim comparatio affirmationis est ad illud
             quod affirmat, aliam 4 vero habet ad illud cui opponitur. Et ille due comparationes
             affirmationis sunt respectu eiusdem sed respectu diversorum. Verbi gratia, hec
-            affirmatio ‘Sortes currit’ afflrmat Sortem currere et compositio 6eius opponitur ei 7
+            affirmatio <mentioned>Sortes currit</mentioned> afflrmat Sortem currere et compositio 6eius opponitur ei 7
             que est Sortem non currere. Et ideo ratione compositionis non potest destruere suum
             obiectum. Sed due comparationes negationis sunt semper respectu eiusdem, quia negatio
             semper negat aliquid, sicut negatio affirmatio affirmat, et semper negatio opponitur alicui.
@@ -373,16 +393,18 @@
             affirmatione ad negationem et de negatione ad affirmationem, Ut am patet per hoc
             quod negatio opponitur affirmationi et negat eam, affirmatio opponitur negationi et
             non affirmat eam sed aliud, ut dictum est.</p>
+
           <p xml:id="phsyn-t2-d1e244">Item. Si aliquid
             non est susceptivum unius contrariorum, neque alterius. Ergo quod non potest affirmari,
-            non potent negari. Sed ista ‘Sortes non currit’ non potest affirmari, cum sit
+            non potent negari. Sed ista <mentioned>Sortes non currit</mentioned> non potest affirmari, cum sit
             negativa. Ergo non potest ei addi altera negatio ut per eam negetur. Ergo due
             negationes non equipollent affirmationi.</p>
+
           <p xml:id="phsyn-t2-d1e247">Ad hoc dicunt quidam quod negatio quodammodo est affirmatio, quia negatio
             habet in se aliquid de ente, sive de affirmatione, unde
             participat naturam affirmationis. Et ideo potest negari per negationem. Et ita huic
-            propositioni ‘Sortes non currit’ potest addi altera negatio sic: ‘non: Sortes non
-            currit’. Et ita due negationes equipollent affirmationi. Sed ego credo quod melius
+            propositioni <mentioned>Sortes non currit</mentioned> potest addi altera negatio sic: <mentioned>non: Sortes non
+            currit</mentioned>. Et ita due negationes equipollent affirmationi. Sed ego credo quod melius
             dicitur quod quamvis accidentia nature non possint reflecti supra se agendo in se
             (sicut ratio supra se cogitando se et videndo de se). Unde negatio, que est accidens causatum a ratione, potest
             reflecti supra negationem sive supra rem negatam. Et ideo negatio potest
@@ -390,23 +412,25 @@
             <pb ed="#T" n="29-v"/>
             <cb ed="#T" n="a"/>
             <lb ed="#T"/>
-            intelligi de accidentibus nature sive de contrariis nature (Ut ‘album-nigrum’,
-            ‘calidum-frigidum et consimulia). Item. Iste due ‘Sortes currit’, ‘non: Sortes non
-            currit’ equipollent sibi invicem et contradicunt huic ‘Sortes non currit’.
-            Sed <ref><name>Aristotiles</name></ref> quad unum uni opponitur. Ergo due propositiones non contradicunt
+            intelligi de accidentibus nature sive de contrariis nature (Ut <mentioned>album-nigrum</mentioned>,
+            <mentioned>calidum-frigidum</mentioned> et consimulia). Item. Iste due <mentioned>Sortes currit</mentioned>, <mentioned>non: Sortes non
+            currit</mentioned> equipollent sibi invicem et contradicunt huic <mentioned>Sortes non currit</mentioned>.
+            Sed <ref><name>Aristotiles</name></ref> quod unum uni opponitur. Ergo due propositiones non contradicunt
             uni.</p>
+
           <p xml:id="phsyn-t2-d1e250">Et dicendum quod dupliciter fit contradictio, scilicet primo
-            et ex consequenti. Unde in bus est primo contradictio ‘Sortes currit’, ‘Sortes non
-            currit’. Sed hec ‘non: Sortes non currit’ contradicit ex consequenti huic
-            ‘Sortes non currit’, quia, inquantum equipollet, et convertitur cum ista ‘Sortes
-            currit’. Unde intellige quod in contradictione prima semper altera7est aflirmatio et
+            et ex consequenti. Unde in bus est primo contradictio <mentioned>Sortes currit</mentioned>, <mentioned>Sortes non
+            currit</mentioned>. Sed hec <mentioned>non: Sortes non currit</mentioned> contradicit ex consequenti huic
+            <mentioned>Sortes non currit</mentioned>, quia, inquantum equipollet, et convertitur cum ista <mentioned>Sortes
+            currit</mentioned>. Unde intellige quod in contradictione prima semper altera7est aflirmatio et
             altera est negatio. Unde dicit <!--reference to Aristotles in other manuscripts-->quod contradictio est affirmatio et negatio
             opposite. Sed in contradictione que est ex consequenti, nega tb potest contradicere
             negationi.</p>
+
           <p xml:id="phsyn-t2-d1e253">Item. Nota quod negatio preposita sive postposita
-            termino singulari idem significat (Ut ‘Sortes non currit’ et ‘non: Sortes currit’).
-            Sed non similiter est in terminis communibus, quia hec est indefinita ‘homo
-            non currit’, hec autem est universalis negativa ‘non: homo currit’. Neque est in
+            termino singulari idem significat (Ut <mentioned>Sortes non currit</mentioned> et <mentioned>non: Sortes currit</mentioned>).
+            Sed non similiter est in terminis communibus, quia hec est indefinita <mentioned>homo
+            non currit</mentioned>, hec autem est universalis negativa <mentioned>non: homo currit</mentioned>. Neque est in
             contrarium quod dicit <ref><name>Aristotiles</name></ref>: “transposita nomina vel verba idem significant”. Et
             intelligit de aliis dictionibus, quia intelligit de dictione que subieibilis
             vel que est dispositio ipsius subicibilis vel predicabilis
@@ -414,74 +438,81 @@
             negationes et signa universalia. Negatio enim negat unum de altero et signum
             universale disponit subiectum in respectu ad predicatum.</p>
         </div>
+
         <div xml:id="phsyn-t2-Dd1e256">
           <head xml:id="phsyn-t2-Hd1e258">Sophismata</head>
           <p xml:id="phsyn-t2-d1e261">Item. Queritur de hoc sophisiriate NULLO HOMINE CURRENTE TU
-            ES ASINUS. Probatio. Hec est falsa ‘aliquo homine currente tu es asinus’. Ergo
-            eius contradictoria est vera, hec scilicet ‘non aliquo homine currente tu es asinus’.
-            Sed2 ‘non aliquo’ et ‘nullo’ equipollent, sicut ‘non aliquis’ et ‘nullus’. Ergo hec est
-            vera ‘nullo homine currente tu es asinus’. Sed contra. Nullo homine currente tu es
+            ES ASINUS. Probatio. Hec est falsa <mentioned>aliquo homine currente tu es asinus</mentioned>. Ergo
+            eius contradictoria est vera, hec scilicet <mentioned>non aliquo homine currente tu es asinus</mentioned>.
+            Sed2 <mentioned>non aliquo</mentioned> et <mentioned>nullo</mentioned> equipollent, sicut <mentioned>non aliquis</mentioned> et <mentioned>nullus</mentioned>. Ergo hec est
+            vera <mentioned>nullo homine currente tu es asinus</mentioned>. Sed contra. Nullo homine currente tu es
             asinus. Ergo dum multus homo currit, vel si nullus homo currit, vel quia nullus homo
             currit, tu es asinus. Quod falsum est.</p>
-          <p>30 Solutio, Prima falsa, hec scilicet ‘nullo
-            homine currente tu es asinus’. Quia’ ista per quam probat eam, peccat secundum divisionem,
-            hec scilicet ‘non aliquo homine currente tu es asinus’. Eoquod
-            negatio potest negare tantum participium (et sic est di’visa et falsa), vel potest
+
+          <p>30 Solutio, Prima falsa, hec scilicet <mentioned>nullo
+            homine currente tu es asinus</mentioned>. Quia ista per quam probat eam, peccat secundum divisionem,
+            hec scilicet <mentioned>non aliquo homine currente tu es asinus</mentioned>. Eoquod
+            negatio potest negare tantum participium (et sic est divisa et falsa), vel potest
             negare participium in comparatione act verbum sequens (et sic est composita et vera).
-            Et primo modo equipollet prime, scilicet huic ‘nullo homine currente tu es asinus’.
-            Sed hec est falsa ‘nullo homine etc.’, quia negatio que est in compositione huius
-            signi ‘nullo’, non potest fem ultra participium, per hanc regulam <seg type="rule">
+            Et primo modo equipollet prime, scilicet huic <mentioned>nullo homine currente tu es asinus</mentioned>.
+            Sed hec est falsa <mentioned>nullo homine etc.</mentioned>, quia negatio que est in compositione huius
+            signi <mentioned>nullo</mentioned>, non potest fem ultra participium, per hanc regulam <seg type="rule">
             quotienscumque negatio et distributio induduntur in termino uno, ad nichil
             potest ferri unum sine reliquo.</seg> Sed distributio non fertur ultra participium.
-            Ergo neque negatio. Et ita hec est falsa ‘nullo homine currente tu es
-            asinus’. Quare et sua equipollens sub modo quo ei equipollet. Et utraque est
-            affirmativa, hec scilicet aliquo homine currente etc.’ et ‘nullo homine
-            currente’, secundum quod equipollent. Et per hoc patet quod neutra earum
-            contradicit huic ‘aliquo homine currente etc’, quia affirmativa non contradict
+            Ergo neque negatio. Et ita hec est falsa <mentioned>nullo homine currente tu es
+            asinus</mentioned>. Quare et sua equipollens sub modo quo ei equipollet. Et utraque est
+            affirmativa, hec scilicet <mentioned>aliquo homine currente etc.</mentioned> et <mentioned>nullo homine
+            currente</mentioned>, secundum quod equipollent. Et per hoc patet quod neutra earum
+            contradicit huic <mentioned>aliquo homine currente etc</mentioned>, quia affirmativa non contradict
             affirmative.</p>
+
           <p xml:id="phsyn-t2-d1e267">Item. Queritur de hoc sophismate NICHIL NICHIL EST.
-            Eius contradictoria est falsa, hec scilicet ‘aliquid nichil est’. Ergo prima
+            Eius contradictoria est falsa, hec scilicet <mentioned>aliquid nichil est</mentioned>. Ergo prima
             vera. Contra. Nichil nichil est. Ergo nichil nulla substantia est. Et videtur
-            locus a genere sive a toto in quantitate, Ut ‘nichil est; ergo nulla substantia est’.
-            Sed conclusio est falsa, hec scilicet ‘nichil nulla substantia est’,
+            locus a genere sive a toto in quantitate, Ut <mentioned>nichil est; ergo nulla substantia est</mentioned>.
+            Sed conclusio est falsa, hec scilicet <mentioned>nichil nulla substantia est</mentioned>,
             <cb ed="#T" n="b"/>
-            <lb ed="#T"/>quia equipollet huic ‘quidlibet est aliqua substantia’, quod falsum est.
+            <lb ed="#T"/>quia equipollet huic <mentioned>quidlibet est aliqua substantia</mentioned>, quod falsum est.
             Ergo et prima ex qua sequitur, est falsa.</p>
-          <p xml:id="phsyn-t2-d1e274">Solutio. Prima vera, hec scilicet ‘nichil nichil est’, quia
-            [P56rb] equipollet huic ‘quidlibet est aliquid’, per illam regulam’: <seg type="rule">
+
+          <p xml:id="phsyn-t2-d1e274">Solutio. Prima vera, hec scilicet <mentioned>nichil nichil est</mentioned>, quia
+            [P56rb] equipollet huic <mentioned>quidlibet est aliquid</mentioned>, per illam regulam: <seg type="rule">
             quotimscumque duo signa universalia negativa ponintur in eadem locistione, ita quod
             unum in subiecto et alterum in predicato, primum equipollet sue contrario, reliquum
             suo contradictorio</seg>. Item. Improbatio peccat secundum consequens communiter
-            loquen do, quia sicut hic4 est consequens secundum communiter loquentes ‘quidlibet est
-            aliquid; ergo quidlibet est aliqua substantia’, similiter hic est consequens ‘nichil
-            nichil est; ergo nichil nulla substantia est’.</p>
+            loquen do, quia sicut hic4 est consequens secundum communiter loquentes <mentioned>quidlibet est
+            aliquid; ergo quidlibet est aliqua substantia</mentioned>, similiter hic est consequens <mentioned>nichil
+            nichil est; ergo nichil nulla substantia est</mentioned>.</p>
+
           <p xml:id="phsyn-t2-d1e280">Ad illud autem quod obicit quod videtur locus a
             genere sive a toto in quantitate, dicendum quod non est verum, immo est ibi fallacia
-            3secundum consequens, sicut hic ‘nullus homo est nullum animal; ergo nullus homo est
-            nullum risibile’. Quia in ista ‘omnis homo est nullum animal’ ‘animal’ removetur a
-            subiecto. Et cum apponitur alia negatio per hoc signum ‘nullus’, removetur
-            predicatum negatum sic: ‘nullus homo est nullum animal’. Sed removere
+            3secundum consequens, sicut hic <mentioned>nullus homo est nullum animal; ergo nullus homo est
+            nullum risibile</mentioned>. Quia in ista <mentioned>omnis homo est nullum animal</mentioned> <mentioned>animal</mentioned> removetur a
+            subiecto. Et cum apponitur alia negatio per hoc signum <mentioned>nullus</mentioned>, removetur
+            predicatum negatum sic: <mentioned>nullus homo est nullum animal</mentioned>. Sed removere
             predicatum a subiecto negatum est ponere ex consequenti in eodem affirmatum. Ergo
-            ista ‘nullus homo est nullum animal’ equipollet huic ‘omnis homo est aiiquod
-            animal’; et similiter ista ‘nullus homo est nullum risibile’ equipollet huic ‘on-in is
-            homo est aliquod risibile ‘. Hic autem ponunt consequens: ‘animal est; ergo risibile
-            est’, sicut hic: ‘animal currit; ergo homo currit’. Ergo hic: ‘omnis homo est
-            animal; ergo omnis homo est risibile’; et similiter in suis equipollentibus ‘nullus
-            homo [lV48va] est nullum animal; ergo nullus homo est nullum risibile’. Et
-            smiiliter est in proposito: ‘nichil nichil est; ergo nichil nulla sub stantia est’.</p>
+            ista <mentioned>nullus homo est nullum animal</mentioned> equipollet huic <mentioned>omnis homo est aiiquod
+            animal</mentioned>; et similiter ista <mentioned>nullus homo est nullum risibile</mentioned> equipollet huic <mentioned>on-in is
+            homo est aliquod risibile </mentioned>. Hic autem ponunt consequens: <mentioned>animal est; ergo risibile
+            est</mentioned>, sicut hic: <mentioned>animal currit; ergo homo currit</mentioned>. Ergo hic: <mentioned>omnis homo est
+            animal; ergo omnis homo est risibile</mentioned>; et similiter in suis equipollentibus <mentioned>nullus
+            homo [N48va] est nullum animal; ergo nullus homo est nullum risibile</mentioned>. Et
+            smiiliter est in proposito: <mentioned>nichil nichil est; ergo nichil nulla substantia est</mentioned>.</p>
+
           <p xml:id="phsyn-t2-d1e284">Et videtur quod conclusio improbationis sit vera, quia hec est
-            vera ‘nulla substantia est nichil’. Quod patet dupliciter, scilicet per predictam
-            regulam, quia equipollet huic ‘omnis substantia est aliquid; et etiam quia sua
-            contradictoria est falsa, hec scilicet ‘aliqua substantia est nichil’. Ergo hec est
-            vera ‘nulla substantia est nichil’. Ergo sua conversa est vera, hec scilicet ‘nichil est
-            nulla substantia’.</p>
-          <p xml:id="phsyn-t2-d1e287">Et dicendum quod non recte convertit hanc ‘nulla substantia
-            est nichil’, quia debet ponere signum subiecti supra totum predicatum et reduceret ad
-            subiectum, ut ‘nulla substantia est nichil: nullum ens nichil est substantia’. Sed
+            vera <mentioned>nulla substantia est nichil</mentioned>. Quod patet dupliciter, scilicet per predictam
+            regulam, quia equipollet huic <mentioned>omnis substantia est aliquid</mentioned>; et etiam quia sua
+            contradictoria est falsa, hec scilicet <mentioned>aliqua substantia est nichil</mentioned>. Ergo hec est
+            vera <mentioned>nulla substantia est nichil</mentioned>. Ergo sua conversa est vera, hec scilicet <mentioned>nichil est
+            nulla substantia</mentioned>.</p>
+
+          <p xml:id="phsyn-t2-d1e287">Et dicendum quod non recte convertit hanc <mentioned>nulla substantia
+            est nichil</mentioned>, quia debet ponere signum subiecti supra totum predicatum et reduceret ad
+            subiectum, ut <mentioned>nulla substantia est nichil: nullum ens nichil est substantia</mentioned>. Sed
             utraque istarum4 est vera. Et sic non probat conclusionem improbationis. Item. Quod
             conclusio improbationis sit falsa probatur dupliciter. Quia uno modo per predictam
-            regulam, et alio modo quia e5ms contradictoria est vera, hec scilicet ‘aliquid est
-            nulla substantia’, Ut albedo et quodlibet accidens.</p>
+            regulam, et alio modo quia e5ms contradictoria est vera, hec scilicet <mentioned>aliquid est
+            nulla substantia</mentioned>, Ut albedo et quodlibet accidens.</p>
         </div>
       </div>
     </body>

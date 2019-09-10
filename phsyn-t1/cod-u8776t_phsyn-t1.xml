@@ -24,7 +24,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Arxiu Historic Arxidiocesà, cod 2 (85)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -57,437 +57,457 @@
         <head xml:id="phsyn-t1-Hd1e111" type="question-title"><supplied>DE COMPOSITIONE</supplied></head>
         <div xml:id="phsyn-t1-Dd1e115">
           <head xml:id="phsyn-t1-Hd1e117"><supplied>De compositione in communi</supplied></head>
-          <p xml:id="phsyn-t1-d1e121">
-            <pc type="#pilcrow"/>Sciendum est quod compositio ad aliquid<!--this is in italic--> est quia compositio est
-            <lb ed="#T"/>compositorum compositio et composita sunt compositione composita;
-quare compositio in predicamento Relationis<!--this is in italic-->est. Dividitur
-autem compositio per duas partes. Compositionis autem alia
-est rerum, alia modorum significandi. Compositio vero modorum
-significandi pertinet ad gramaticum8 secundum quod in nomine
-est compositio qualitatis cum substantia et in participio et in verbo
-compositio11 actus cum substantia.</p>
+          <p xml:id="phsyn-t1-d1e121"><pc type="#pilcrow"/>Sciendum est quod compositio ad aliquid<!--this is in italic--> est quia compositio est
+          <lb ed="#T"/>compositorum compositio et composita sunt compositione composita;
+          quare compositio
+          <lb ed="#T"/>in predicamento relationis<!--this is in italic-->est.
+          <pc type="#pilcrow"/>Dividitur autem compositio per duas par
+          <lb ed="#T"/>tes. <pc type="#pilcrow"/>Compositionis autem alia est rerum, alia modorum significandi. Compositio
+          <lb ed="#T"/>vero modorum significandi pertinet ad gramaticum8 secundum quod in nomine
+          <lb ed="#T"/>est compositio qualitatis cum substantia et in participio et in verbo
+compositio actus cum substantia.</p>
 </div>
 <div xml:id="phsyn-t1-Dd1e129">
-<head xml:id="phsyn-t1-Hd1e131">De specialibus compositionibus</head>
-<p xml:id="phsyn-t1-d1e134">Compositio autem rerum fit quinque modis. Quia quedam est
-forme cum materia, ut anime cum corpore; alia accidentis1 cum
-substantia, ut coloris cum corpore; alia est potentiarum sive virtutum
-cum eo cuius sunt, ut intellectus et aliarum virtutum anime cum
-anima; alia est partium integralium ad se invicem in suo toto, ut
-partium linee in linea ad punctum et superficiei in superficie ad
-lineam; alia est differentiarum cum genere ad constitutionem
-speciei. Harum autem compositionum que sunt rerum, quedam
-pertinent ad naturalem, quedam vero ad metaphisicam, alie vero
-ad logicam. Item. Compositionis que est modorum significandi alia
-est qualitatis cum substantia, et hec significatur per nomen, sicut in
-hoc nomine 'homo' et in quolibet alio nomine; alia est actus cum
-substantia, de qua postea dicetur. Sed prius dicemus de qualitate
-nominis.</p>
+    <head xml:id="phsyn-t1-Hd1e131">
+      <supplied>De specialibus compositionibus</supplied>
+    </head>
+      <p xml:id="phsyn-t1-d1e134">
+      <pc type="#pilcrow"/>Compositio
+      <lb ed="#T"/>autem rerum fit quinque modis. Quia quedam est
+      forme cum materia, ut anime cum
+      <lb ed="#T"/>corpore; alia accidentis cum
+      substantia, ut coloris cum corpore; alia est
+      <lb ed="#T"/>potentiarum sive virtutum
+      cum eo cuius sunt, ut intellectus et aliarum
+      <lb ed="#T"/>virtutum anime cum
+      anima; alia est partium integralium ad se invicem
+      <lb ed="#T"/>in suo toto, ut
+      partium linee in linea ad punctum et superficie
+      <lb ed="#T"/>in superficie ad
+      lineam; alia est differentiarum cum genere ad constitutio<lb ed="#T"/>nem
+      speciei. Harum autem compositionum que sunt rerum, quedam
+      pertinent ad natura<lb ed="#T"/>lem, quedam vero ad metaphisicam, alie vero
+      ad logicam.
+      <pc type="#pilcrow"/>Item.
+      <lb ed="#T"/>Compositionis que est modorum significandi alia
+      est qualitatis cum substantia, et hec significatur
+      <lb ed="#T"/>per nomen, sicut in
+      hoc nomine <mentioned>homo</mentioned> et in quolibet alio nomine; alia est
+      <lb ed="#T"/>actus cum substantia, de qua postea dicetur. Sed prius dicemus de qualitate
+      <lb ed="#T"/>nominis.</p>
 </div>
 <div xml:id="phsyn-t1-Dd1e138">
-  <head xml:id="phsyn-t1-Hd1e140">De compositione substantiae cum qualitate</head>
-<p xml:id="phsyn-t1-d1e143">Omne ergo nomen significat substantiam cum qualitate. Verbi
-gratia, ut ita dicam, est res habens humanitatem<!--this is in italic-->; Et res est
-substantia eius, humanitas
-<pb ed="#T" n="26-r"/>
-<cb ed="#T" n="a"/>
-<lb ed="#T"/>autem, secundum quod significatur per hoc nomen3‘homo’, est qualitas eius, et non secundum
-quod significatur per hoc nomen ‘humanitas’, quia hoc nomen
-‘humanitas’ est nomen aliud Et diversum ab hoc nomine ‘homo’, et
-unum non est qualitas alterius neque econverso. Sed qualitas unius
-cuiusque nominis per ipsum nomen significatur; ‘homo’ enim
-significat suam substantiam et suam qualitateni et hec duo sunt
-unita in eo, ita quod unum significatur in altero sive per alterum.</p>
-<p xml:id="phsyn-t1-d1e152"> Sed obicitur circa1 qualitatem nommis, quia: Cum qualitas et
-substantia sint diversa omne nomen significat substantiam cum
-qualitate ,ergo omne nomen significat diversa; et est sillogismus
-in primo prime. Sed omnis dictio significans diversa est equivoca.
-Ergo omne nomen est equivocum. Et hoc est inconveniens. Non
-ergo in nomine est compositio qualitatis cum substantia.</p>
-<p xml:id="phsyn-t1-d1e155"> Solutio. Quatuor modis contingit significare diversa
-per dictionem eandem. Primo quando diversa 5equaliter
-significantur per eandem dictionem, Ut in hoc nomine’ ‘canis’.
-Secundo quando diversa significantur secundum prius et posterius,
-Ut in hoc nomine ‘sanum’, quod proprie non significat diversa sed
-rem unam secundum 9modos diversos; et smiiliter ‘ens’. Tertio
-modo significantur plura per dictionem unam quando unum significatur
-ex impositione et reliquum ex transsumptione, ut in hoc
-verbo ‘ridet’, quod ex impositione significat’ ridere et florere significat
-transsumptive. Et isti tres modi faciunt equivocationem.
-Quarto modo significantur diversa per dictionem unam quando
-unum est ratio intelligendi alterum, quod idean est), Ut forma est ratio sive
-principium intelligendi id cuius est, et cognosceridi ipsum.
-Ut figura triangularis oblonga sic disposita est ratio sive principium
-intelligendi cultellum et cognoscendi ipsum.</p>
-<p xml:id="phsyn-t1-d1e158"> Et hoc modo significat substantiam cum qualitate
-enim nominis est ratio sive principium intelligendi ipsum
-nomen et suam substantiam. Et sic qualitas 3significatur per nomen
-Ut thC11U intelligendi. Substantia vero 4significatur per ipsum
-nomen ut quod intelligitur per ipsam qualitatem. Et quia unum
-intelligitur per alterum, ideo non sunt ibi diverse significationes
-sed una. Et propter hoc iste modus significandi plura non facit
-equivocationem, sicut si video coloratum et suam magnitudinem
-non sunt due visiones sed una, quia color est ratio et principium
-videndi magnitudinem in qua est. Et ideo dictum antiquum:“ubi unum propter alterum ibi,tantum unum est”.</p>
-<p xml:id="phsyn-t1-d1e162"> Item. Queritur utrum compositio qualitatis cum substantia sit’
-aliquid vel non. Si non est aliquid ergo in nomine non est
-compositio qualitatis cum substantia 3. Si est aliquid et non est
-substantia neque qualitas, ergo est tertium ab istis. Ergo per nomen
-significantur tria. Ergo debet dici quod nomen significat substan
-dam cum qualitate et compositionem earum. Quod non est verum. </p>
-<p xml:id="phsyn-t1-d1e165"> Solutio. Compositio qualitatis cur. substantia est aliquid. Et in
-nomine non sunt nisi duo secundum rem, scilicet substantia et
-qualitas, tria vero secundum rationem, scilicet substantia et
-qualitas et compositio earum, quia qualitas se ipsa componitur cam
-substantia propter inclinationem quam habet act substantiam. Omnis
-enim forma et omnis qualitas, etiam et omne accidens, naturalem
-habet inclinationem ad id in quo est, quia non. habent esse actuale
-(sive esse in actu) nisi in eo in quo sunt. Unde de accidentibus dicit
-Boetius quod’ accidentis esse est inesse, hocest: accidentis esse
-<cb ed="#T" n="b"/> <!-- T26rb -->
-<lb ed="#T"/>est esse in alio. Similiter esse actuale ipsius forme est esse
-in materia. Unde qualitas nonimis per inclinationem quam habet
-ad substantiam nominis, stat in ratione 11compositionis; ipsa autem
-qualitas nominis secunduam se est unum compositorum. Et
-ideo dicendum quod cum qualitas secundum se et qualitas mch
-nata ad substantiam sint idem secundum rem et substantia
-nominis sit alterum extremorum17, propter hoc in nomime non sunt
-nisi duo secundum rem et tria secundum rationem, quia qualitas secundum se et qualitas inclinata, et substantia
-est tertium. Et ideo diximus quod in nomine erant duo secundum
-rem et tria secundum rationem. Unde quia gramaticus loquitur de rebus significatis per partes orationis,
-ideo dicitur23 quod nomen significat substantiam cum qualitate et non debet dici quad
-nomen 25 significat substantiam cum qualitate et compositionem
-earum.</p>
-<p xml:id="phsyn-t1-d1e174">Si autem aliquis querat quid est illa compositio, dicendum quad
-iam patet ex predictis, quia est inclinatio qualitatis ad substantiam. Et
-quia inclinatio unius ad alterum nichil est nisi per illud cuius est et
-per illud ad quad est, ideo ista compositio quamvis sit aliquid, tamen
-non est aliquid nisi per sua extrema. Non enim potest esse res
-aliqua media inter qualitatem et substantiam que componat unum
-cum altero, quia sic contingeret abire in infinitum. Oporteret enim
-quad illa res media ant esset substantia vel qualitas. Et sic , si esset
-substantia, oporteret ponere compositionem ipsius cum qualitate. Et
-sic esset ulterius questio de illa compositione utrum res esset
-aliqua; et simliter si esset qualitas.</p>
-<p xml:id="phsyn-t1-d1e177">Item. Queritur de compositione qualitatis cum substantia in
-nomine, quare non est duplex, scilicet unita et ut distans, sicut
-est quedam compositio actus uniti cum substantia (Ut in
-participio) et alia ut distans (sicut in verba). Quia 5videtur quod
-aliquando sit qualitas Ut unita substantie (Ut ‘homo albus’), au
-quando 8Ut distans (Ut ‘homo est albus’, quando ‘homo’ ponitur in
-subiecto et ‘albus’ in predicato). Ergo debet esse duplex compositio qualitatis cum substantia.</p>
-<p xml:id="phsyn-t1-d1e180">Et dicendum quod compositio actus cum substantia dicitur 1
-dupliciter (et non compositio qualitatis cum substantia), quia ‘actus’
-sumitur duobus modis. Uno modo sumitur secundum quad habet
-inclinationem ad substantiam, secundum quam inclinationem
-dicitur de altero. Verbum enim, Ut vult <ref><name>Aristotiles</name></ref>, est nota eorum
-que de altero predicantur. Alio autem modo sumitur ‘actus’ privatus
-illa inclinatione; et sic est in participio. Et quia ‘actus’ hiis duobus
-modis sumitur, ideo duplex est compositio actus cum substantia, Et
-una est in participio, alia in verbo, que est compositio actus ut distantis a substantia, eoquod verbum per eam est de altero ut
-predicatum de subiecto. Sed quia predicta inclinatio non potest esse
-in qualitate sed tantum in actu, eoquod anima non potest inclinari
-ad res ut enuntiet unum de altero nisi mediante actu et non
-niediante qualitate, idea qualitas non potest significari ut distans sed
-semper significatur ut unita. Et ideo non potest esse duplex compositio
-qualitatis cum substantia sedd tantum una. Que est in quolibet
-nomine. </p>
-<p xml:id="phsyn-t1-d1e183"> Ad illud autem quod obicitur de hac oratione imperfecta
-‘homo albus’ et de hac perfecta ‘homo est albus’ quia in una
-est qualitas unita et in alia distans, d2ico quod nulla est obiectio, q3uia
-loquimur de qualitate unita que est essentialis 4et que est ratio intelligendi
-illud
-<pb ed="#T" n="26-v"/>
-<cb ed="#T" n="a"/>
-<lb ed="#T"/> cuius est, scilicet substantiam. Et sic ‘homo’
-habet in se suam substantiam5 et suam qualitatem et ‘albus’ similiter
-suam substantiam et suam qualitatem. Et non loquitur de qualitate
-accidentali, de qua ipse obicit; ‘albus’ enim non dicit qualitatem
-essentialem homini neque est principium intelligendi hominem
-simpliciter sed hominem talem. Et ideo de qualitate accidentali
-unita suo subiecto nichil est ad propositum. In alia enim
-oratione perfecta que est ‘homo est albus’: quamvis sit qualitas
-distans: quia t1am5en hoc non est per inclinationem qualitatis
-ut sit de altero sed per inclinationem verbi ibi positi, similiter de
-illa nichil est ad propositum. </p>
-<p xml:id="phsyn-t1-d1e193"> Dicto de compositione in communi, cuius alia erat compositio
-rerum et alia compositio modorum, et item compositio modorum
-subdivitur, quoniam alia erat compositio qualitatis cum substantia, alia vero
-compositio actus cum substantia: cum habitum sit
-de compositione qualitatis cum substantia, consequenter dicendum
-est de compositione actus cum substantia. </p></div>
-<div xml:id="phsyn-t1-Dd1e197"><head xml:id="phsyn-t1-Hd1e198">De compositione actus cum substantia</head>
+  <head xml:id="phsyn-t1-Hd1e140"><supplied>De compositione substantiae cum qualitate</supplied></head>
+  <p xml:id="phsyn-t1-d1e143">Omne ergo nomen significat substantiam cum qualitate. Verbi gratia, ut
+      <lb ed="#T"/>ita dicam, est res habens humanitatem<!--this is in italic-->; Et res est
+      substantia eius, humanitas
+  <pb ed="#T" n="26-r"/>
+  <cb ed="#T" n="a"/>
+      <lb ed="#T"/>autem, secundum quod significatur per hoc nomen <add place="margin-right"><mentioned>homo</mentioned></add>,
+      est qualitas eius, et
+      <lb ed="#T"/>non secundum quod significatur per hoc nomen <mentioned>humanitas</mentioned>, quia hoc nomen
+      <mentioned>huma<lb ed="#T"/>nitas</mentioned> est nomen aliud et diversum ab hoc nomine <mentioned>homo</mentioned>, et unum
+      <lb ed="#T"/>non est qualitas alterius neque econverso. Sed qualitas uniuscuiusque nominis
+      <lb ed="#T"/>per ipsum nomen significatur; <mentioned>homo</mentioned> enim significat suam substantiam et suam
+      quali<lb ed="#T"/>tatem et hec duo sunt unita in eo, ita quod unum significatur
+      <lb ed="#T"/>in altero sive per alterum.</p>
 
-<p xml:id="phsyn-t1-d1e201">Compositionis vero actus cum substantia alia est actus uniti
-(ut in participio), alia est actus 5distans (ut in verbo). Quod autem
-in participio sit compositio actus uniti 7patet primo per significationem
-participii, quia: Participium significat actionem vel passionem.
-in subiecto vel substantiam sub passione et non significat
-tantum substantiam neque tantum actionem vel passionem;
-quare significat actum unitum substantie. Ergo in participio est
-compositio actus uniti cum substantia. Patet etiam inductione,
-quia: Hoc participium ‘legeris’ actionem significat cum substantia
-infinita; ‘legens’ enim est ‘qui legit’. Sed ‘qui’ dicit substantiam
-infinitam. Quare in eo intelligitur substantia infinita et actus determinatus.
-Et hec duo unita sunt. Ergo ‘legens’ habet in se compositionem
-actus uniti cum substantia; et sic de aliis participiis
-specialibus. Ergo participium simpliciter’ habet in se predictam.
-compositionem. Quod autem in verbo sit compositio actus 1u9t distantis
-patet per hoc quod actus significatus per verbum semper2 significatur
-ut de altero. Cum enim dico ‘currit’, oportet intelligere subiectum
-determinatum vel indeterimnatum de quo dicam ‘currit’
-et predicatum determinantum de suo subiecto.</p>
-<p xml:id="phsyn-t1-d1e204">Sed queritur, cum sit inclinatio qualitatis ad substantiam et sit
-inclinatio actus ad substantiam tam uniti quam distantis, qualiter
-differunt a se invicem ille inclinationes. Et dicendum quod inclinatio
-qualitatis nominis ad suam substantiam est inclinatio perfectivi
-(sive perfectiones) ad perfectibile quod per ipsam
-perfectionem perficitur. Quare substantialis qualitas complet et
-perficit substantiam nominis. Unde inclinatio qualitatis ad substantiam
-est inclinatio per quam perfectio unitur perfectibili ut site ex
-eis unum, quod est nomen. Inclinatio vero actus ipsius participii ad
-substantiam est inclinatio per quam actus unitur substantie infinite
-Ut sit in illa sicut in subiecto infinito. Inclinatio vero actus
-distantis sive verbi est inclinatio per quam actus sive verbum dicitur de
-aliquo ut predicatum de subiecto. Sic sunt ille tres inclinationes
-specie differentes. </p>
-<p xml:id="phsyn-t1-d1e207">Si autem aliquis querat qualiter differat compositio verbi a
-compositione nominis et a compositione que est in participio, dicen
-dunt quod differunt iste tres compositiones sicut
+<p xml:id="phsyn-t1-d1e152"><pc type="#pilcrow"/>Sed obicitur circa nominis qualitatem,
+      <lb ed="#T"/>quia: Cum qualitas et substantia sint diversa omne nomen significat substantiam
+      <lb ed="#T"/>cum qualitate, ergo omne nomen significat diversa; et est sillogismus in primo
+      <lb ed="#T"/>prime. Sed omnis dictio significans diversa est equivoca. Ergo omne nomen
+      <lb ed="#T"/>est equivocum. Et hoc est inconveniens. Non ergo in nomine est compositio
+      quali<lb ed="#T"/>tatis cum substantia.</p>
+
+<p xml:id="phsyn-t1-d1e155"> <pc type="#pilcrow"/>Solutio. Quatuor modis contingit significare
+      diver<lb ed="#T"/>sa per dictionem eandem. Primo quando diversa equaliter
+      significantur per eam, ut in hoc nomine <mentioned>canis</mentioned>.
+      <pc type="#pilcrow"/>Secundo quando diversa significantur secundum
+      <lb ed="#T"/>prius et posterius, ut in hoc nomine <mentioned>sanum</mentioned>, quod proprie non significat
+      diver<lb ed="#T"/>sa sed rem unam sed et diversos modos<!--rijk says there is a correction of "sed et" to "secundum" but I do not see it-->; et similiter <mentioned>ens</mentioned>.
+      <pc type="#pilcrow"/>Tertio modo
+      <lb ed="#T"/>significantur plura per dictionem unam quando unum significatur ex impositione
+      <lb ed="#T"/>et reliquum ex transsumptione, ut in hoc verbo <mentioned>ridet</mentioned>, quod ex impositione
+      <lb ed="#T"/>significat ridere et florere significat transsumptive. Et isti tres modi
+      fa<lb ed="#T"/>ciunt equivocationem. <pc type="#pilcrow"/>Quarto modo significantur diversa per dictionem unam
+      <lb ed="#T"/>quando unum est ratio intelligendi alterum, <add place="margin-left">sive quando unum est principium intelligendi alterum, quod idem est</add>, Ut forma est ratio
+      <lb ed="#T"/>sive principium intelligendi id cuius est, et cognoscendi ipsum. Ut figura
+      <lb ed="#T"/>triangularis oblonga sic disposita est ratio sive principium intelligendi
+      <lb ed="#T"/>cultellum et cognoscendi ipsum.</p>
+
+<p xml:id="phsyn-t1-d1e158"> Et hoc significat substantiam cum
+      qua<lb ed="#T"/>litate enim nominis est ratio sive principium intelligendi ipsum nomen
+      <lb ed="#T"/>et suam substantiam. Et sic significatur per nomen ut principium intelligendi.
+      <lb ed="#T"/>Substantia vero significatur per ipsum nomen ut quod intelligitur per ipsam qualitatem.
+      <lb ed="#T"/>Et quia unum intelligitur per alterum, ideo non sunt ibi diverse significationes sed
+      <lb ed="#T"/>una. Et propter hoc iste modus significandi plura non facit equivocationem, sicut
+      <lb ed="#T"/>si video coloratum et suam magnitudinem non sunt due
+      visi<lb ed="#T"/>ones sed una, quia color est ratio et principium videndi magnitudinem
+      <lb ed="#T"/>in qua est. Et ideo dictum est quod
+      <cit>
+        <quote type="paraphrase">ubi unum propter alterum,tantum unum est</quote>
+        <bibl>Aristotle, Topica, III, c2, 1117a 18</bibl>
+      </cit></p>
+
+<p xml:id="phsyn-t1-d1e162">
+  <lb ed="#T"/><pc type="#pilcrow"/>Item. Queritur utrum compositio qualitatis cum substantia sit’
+  aliquid vel non.
+  <lb ed="#T"/>Si non est aliquid ergo in nomine non est compositio qualitatis cum substantia.
+  <lb ed="#T"/><!--there is a empty space in this part of the ms-->Si est aliquid et non est substantia neque qualitas, ergo est tertium ab
+  <lb ed="#T"/>istis. Ergo per nomen significantur tria. Ergo debet dici quod nomen significat substantiam
+  <lb ed="#T"/>cum qualitate et compositionem earum. Quod non est verum. </p>
+<p xml:id="phsyn-t1-d1e165"> <pc type="#pilcrow"/>Solutio. Compositio
+  <lb ed="#T"/>qualitatis cum substantia est aliquid. Et in nomine non sunt nisi duo secundum rem, scilicet substantia
+  <lb ed="#T"/>et qualitas, tria vero secundum rationem, scilicet substantia et qualitas et compositio earum,
+  <lb ed="#T"/>quia qualitas se ipsa componitur cum substantia propter inclinationem quam habet
+  <lb ed="#T"/>ad substantiam. Omnis enim forma et omnis qualitas, et etiam4 omne accidens,
+  <lb ed="#T"/>naturalem habet inclinationem ad id in quo est, quia non habent esse
+  <lb ed="#T"/>actuale (sive esse in actu) nisi in eo in quo sunt. Unde de accidentibus
+  <lb ed="#T"/>dicit <ref><name>Boetius</name></ref> quod’ accidentis esse est inesse, hocest: accidentis esse
+<cb ed="#T" n="b"/> <!-- T26rb -->
+  <lb ed="#T"/>est esse in alio. Similiter esse actuale ipsius forme est esse in
+  <lb ed="#T"/>materia. Unde qualitas nonimis per inclinationem quam habet ad substantiam nominis,
+  <lb ed="#T"/>stat in ratione compositionis; ipsa autem qualitas nominis secunduam se est unum
+  <lb ed="#T"/>compositorum. Et ideo dicendum quod cum qualitas secundum se et qualitas inclinata
+  <lb ed="#T"/>ad substantiam sint idem secundum rem et substantia nominis sit alterum extremorum<!--ten letters lacuna, according to Rijk-->,
+  <lb ed="#T"/>propter hoc in nomime non sunt nisi duo secundum rem et
+  <lb ed="#T"/>tria secundum rationem, quia <add place="above-line">alterius rationis</add> est qualitas secundum se et qualitas inclinata, et
+  <lb ed="#T"/>substantia est tertium. Et ideo diximus quod in nomine erant duo secundum rem
+  <lb ed="#T"/>et tria secundum rationem. Unde quia gramaticus loquitur de rebus significatis
+  <lb ed="#T"/>per partes orationis,ideo debet dici quod nomen significat substantiam cum
+  <lb ed="#T"/>qualitate et non debet dici quod nomen significat substantiam cum qualitate et
+  compo<lb ed="#T"/>sitionem earum.</p>
+
+<p xml:id="phsyn-t1-d1e174"><pc type="#pilcrow"/>Si autem aliquis querat quid est illa compositio, dicendum quad iam
+  <lb ed="#T"/>patet ex predictis, quia est inclinatio qualitatis ad substantiam. Et quia
+  <lb ed="#T"/>inclinatio unius ad alterum nichil est nisi per illud cuius est et per illud
+  <lb ed="#T"/>ad quod est, ideo ista compositio quamvis sit aliquid, tamen non est aliquid nisi per sua
+  ex<lb ed="#T"/>trema. Non enim potest esse res aliqua media inter qualitatem et
+  <lb ed="#T"/>substantiam que componat unum cum altero, quia sic contingeret abire
+  <lb ed="#T"/>in infinitum. Oporteret enim quod illa res media ant esset substantia
+  <lb ed="#T"/>vel qualitas. Et sic, si esset substantia, oporteret ponere compositionem ipsius cum
+  <lb ed="#T"/>qualitate. Et sic esset ulterius questio de illa compositione utrum
+  <lb ed="#T"/>res esset aliqua; et simliter si esset qualitas.</p>
+
+<p xml:id="phsyn-t1-d1e177"><pc type="#pilcrow"/>Item. Queritur de
+  <lb ed="#T"/>compositione qualitatis cum substantia in nomine, quare non est duplex, scilicet unita
+  <lb ed="#T"/>et ut distans, sicut est quedam compositio actus uniti cum substantia (ut in participio)
+  <lb ed="#T"/>et alia ut distans (sicut in verba). Quia videtur quod aliquando sit
+  qua<lb ed="#T"/>litas ut unita substantie (ut <mentioned>homo albus</mentioned>),
+  aliquando ut distans (ut <mentioned>homo
+  <lb ed="#T"/>est albus</mentioned>, quando <mentioned>homo</mentioned>
+  ponitur in subiecto et <mentioned>albus</mentioned> in predicato). Ergo debet esse
+  <lb ed="#T"/>duplex compositio qualitatis cum substantia.</p>
+
+<p xml:id="phsyn-t1-d1e180"><pc type="#pilcrow"/>Et dicendum quod compositio actus
+  <lb ed="#T"/>cum substantia dicitur dupliciter (et non compositio qualitatis cum substantia), quia <mentioned>actus</mentioned>
+  <lb ed="#T"/>sumitur duobus modis. Uno modo sumitur secundum quod habet inclinationem ad
+  <lb ed="#T"/>substantiam, per quam inclinationem dicitur de altero. Verbum enim, ut vult
+  <lb ed="#T"/><ref><name>Aristotiles</name></ref>, est nota eorum que de altero predicantur. Alio autem modo sumitur <mentioned>actus</mentioned>
+  <lb ed="#T"/>privatus illa inclinatione; et sic est in participio. Et quia <mentioned>actus</mentioned> hiis
+  duo<lb ed="#T"/>bus modis sumitur, ideo duplex est compositio actus cum substantia, Et una est
+  <lb ed="#T"/>in participio, alia in verbo, que est compositio actus ut distantis a substantia,
+  <lb ed="#T"/>eo quod verbum per eam est de altero ut predicatum de subiecto. Sed quia
+  pre<lb ed="#T"/>dicta inclinatio non potest esse in qualitate sed tantum in actu,
+  <lb ed="#T"/>eoquod anima non potest inclinari ad res ut enuntiet unum de
+  al<lb ed="#T"/>tero nisi mediante actu et non mediante qualitate, idea qualitas non
+  <lb ed="#T"/>potest significari ut distans sed semper significatur ut unita. Et ideo
+  <lb ed="#T"/>non potest esse duplex compositio qualitatis cum substantia sedd tantum una. Que est in quolibet
+  <lb ed="#T"/>nomine. </p>
+
+<p xml:id="phsyn-t1-d1e183"><pc type="#pilcrow"/>Ad illud autem quod obicitur de hac oratione imperfecta <mentioned>homo albus</mentioned>
+  <lb ed="#T"/>et de hac perfecta <mentioned>homo est albus</mentioned> quia in una est qualitas unita
+  <lb ed="#T"/>et in alia distans, dico quod nulla est obiectio, quia loquimur de
+  qua<lb ed="#T"/>litate unita que est essentialis et que est ratio intelligendi illud
+<pb ed="#T" n="26-v"/>
+<cb ed="#T" n="a"/>cuius est, scilicet substantiam. Et sic <mentioned>homo</mentioned> habet in se suam substantiam
+  <lb ed="#T"/> et suam qualitatem et <mentioned>albus</mentioned> similiter
+  <lb ed="#T"/> suam substantiam et suam qualitatem.
+  <lb ed="#T"/> Et non loquitur de qualitate accidentali, de qua ipse obicit; <mentioned>albus</mentioned>
+  <lb ed="#T"/> enim non dicit qualitatem essentialem homini neque est principium intelligendi
+  <lb ed="#T"/> hominem simpliciter sed hominem talem. Et ideo de qualitate accidentali
+  <lb ed="#T"/> unita suo subiecto nichil est ad propositum. <pc type="#pilcrow"/>In alia enim oratione perfecta
+  <lb ed="#T"/> que est <mentioned>homo est albus</mentioned>: quamvis sit qualitas distans: quia
+  <lb ed="#T"/> tamen hoc non est per inclinationem qualitatis ut sit de altero
+  <lb ed="#T"/> sed per inclinationem verbi ibi positi, similiter de illa nichil est ad propositum. </p>
+
+<p xml:id="phsyn-t1-d1e193"><pc type="#pilcrow"/>Dicto de compositione in communi, cuius alia erat
+  <lb ed="#T"/>compositio rerum et alia compositio modorum, et item compositio modorum
+  subdivi<lb ed="#T"/><subst><del rend="expunctuation">ditur</del><add place="margin left">debatur</add></subst>, quoniam alia erat compositio qualitatis cum substantia, alia vero compositio actus
+  <lb ed="#T"/>cum substantia: cum habitum sit de compositione qualitatis cum substantia,
+  <lb ed="#T"/>consequenter dicendum est de compositione actus cum substantia. </p>
+</div>
+
+<div xml:id="phsyn-t1-Dd1e197">
+  <head xml:id="phsyn-t1-Hd1e198"><supplied>De compositione actus cum substantia</supplied></head>
+
+<p xml:id="phsyn-t1-d1e201"><pc type="#pilcrow"/>Compositionis vero
+  <lb ed="#T"/>actus cum substantia alia est actus uniti (ut in participio), alia est ut
+  <lb ed="#T"/>distans (ut in verbo). Quod autem in participio sit compositio actus uniti
+  <lb ed="#T"/>patet primo per significationem participii, quia: Participium significat actionem vel
+  <lb ed="#T"/>passionem in subiecto vel substantiam sub passione et non
+  <lb ed="#T"/>significat tantum substantiam neque tantum actionem vel passionem; quare significat actum
+  uni<lb ed="#T"/>tum substantia. Ergo in participio est compositio actus uniti cum substantia. Patet etiam
+  in<lb ed="#T"/>ductione,quia: Hoc participium <mentioned>legeris</mentioned> actionem significat cum substantia infinita;
+  <lb ed="#T"/><mentioned>legens</mentioned> enim est <mentioned>qui legit</mentioned>. Sed <mentioned>qui</mentioned> dicit substantiam infinitam. Quare
+  <lb ed="#T"/>in eo intelligitur substantia infinita et actus determinatus.Et hec duo unita sunt.
+  <lb ed="#T"/>Ergo <mentioned>legens</mentioned> habet in se compositionem actus uniti cum substantia; et sic de
+  <lb ed="#T"/>aliis participiis specialibus. Ergo participium simpliciter habet in se predictam.
+  <lb ed="#T"/>compositionem. <pc type="#pilcrow"/>Quod autem in verbo sit compositio actus ut distantis
+  <lb ed="#T"/>patet per hoc quod actus significatus per verbum semper significatur ut de altero.
+  <lb ed="#T"/>Cum enim dico <mentioned>currit</mentioned>, oportet intelligere subiectum determinatum vel indeterminatum de
+  <lb ed="#T"/>quo dicam <mentioned>currit</mentioned>et predicatum determinantum de suo subiecto.</p>
+
+<p xml:id="phsyn-t1-d1e204"><pc type="#pilcrow"/>Sed queritur, cum
+<lb ed="#T"/>sit inclinatio qualitatis ad substantiam et sit inclinatio actus
+<lb ed="#T"/>ad substantiam tam uniti quam distantis, qualiter differunt a se in
+<lb ed="#T"/>vicem ille inclinationes. Et dicendum quod inclinatio qualitatis
+<lb ed="#T"/>nominis ad suam substantiam est inclinatio perfectivi(sive per
+<lb ed="#T"/>fectiones) ad perfectibile quod per ipsam perfectionem perficitur.
+<lb ed="#T"/>Quare substantialis qualitas complet et perficit substantiam nominis. Unde
+incli<lb ed="#T"/>natio qualitatis ad substantiam est inclinatio per quam perfectio
+<lb ed="#T"/>unitur perfectibili ut site ex eis unum, quod est nomen. Inclinatio
+<lb ed="#T"/>vero actus ipsius participii ad substantiam est inclinatio per quam
+<lb ed="#T"/>actus unitur substantie infinite ut sit in illa sicut in subiecto infinito.
+<lb ed="#T"/><pc type="#pilcrow"/>Inclinatio vero actus distantis sive verbi est inclinatio per
+<lb ed="#T"/>quam actus sive verbum dicitur de aliquo ut predicatum de subiecto. Sic
+<lb ed="#T"/>sunt ille tres inclinationes specie differentes. </p>
+
+<p xml:id="phsyn-t1-d1e207">Si autem aliquis
+  <lb ed="#T"/>querat qualiter differat compositio verbi a compositione nominis et a
+  compositio<lb ed="#T"/>ne que est in participio, dicendunt quod differunt iste tres compositiones sicut
 <cb ed="#T" n="b"/> <!--[T26vb]-->
-<lb ed="#T"/>inclinationes differunt supradicte. Et per se loquendo n2on differunt iste tres
-compositiones sed differunt per hoc quod compositio verbi est subiectum veritatis
-et falsitatis, alie vero non, quia illa thfferentia sumpta est a posteriori;
-preterea compositio verbi non est in quodlibet modo subiectum veritatis et
-falsitatis, quia hoc est tantum in indicativo modo et non in aliis
-modis in quibus est compositio.</p>
-<p xml:id="phsyn-t1-d1e216">Item. Queritur de compositione verbi, cum habeat componere
-subiectum cum predicato quantum2 ad indicativum modum sive
-suppositum cum apposito quantum ad alios tres modos, quare potius
-importatur 5compositlo per alterum extremorum quam per utrum
-que, quia compositio equaliter se habet ad extrema, ergo
-compositio debet significari cum utroque extremorum, Item. Idem 8
-videtur a simili, quod compositio qualitatis cum substantia significatur
-cum utroque extremorum in nomine. Et in participio compositio
-actus uniti cum substantia fit cum utroque extremorum.
-Ergo in verbo debet esse similiter. Item. Habito quod ista
-compositio significetur cum altero extremorum queritur quare
-potius significatur per verbum (sive cum verbo) quam per nomen,
-cum equaliter se habeat ad utrumque</p>
-<p xml:id="phsyn-t1-d1e219">Et dicendum ad primum quod compositio duplicem habet
-comparationem. Unam enim habet ad substantiam et aliam ad
-obiectum, sive ad obiecta, sicut v4isio comparatur ad subiectum in
-quo est, sicut 5ad ipsum videns, et comparatur ad obiectumn
-suum, quod es t res visa (scilicet coloratum). Similiter compositio 8
-comparatur ad subiectum suum, quod est ipsum componens, et
-comparatur ad obiectum suum (sive ad obiecta), que sunt ipsa composita vel opposita, quia composita recipiunt
-supra se compositionem, sicut visibile visionem. Dico ergo quod
-compositio secundum comparationem quam habet ad obiectum
-(sive ad obiecta), equaliter se habet ad utrumque extremorum. Sed
-secundum comparationem quam habet ad subiectum, quod est
-ipsum componens, magis se habet ad unum quam ad alterum, quia ipsum componens sit anima et anima non possit compo
-nere nisi mediante actu, ideo magis se habet compositio ad actum quam
-ad reliquum extremorum. Et cum actus significetur per
-verbum et non per nomen, idea magis debet significari compositio
-per verbum quam per nomen. Et sic patet solutio prime et tertie
-questionis. Ad secundum dicendum quod non est simile de nomine
-et participio ad verbam, quia in verbo est compositio distantium, ut
-dictum est prius; et ideo compositio verbi non potuit significari cum
-utroque extremorum. Sed in participio et in nomine est compositio
-unitorum; et ideo in illis significatur compositio cum utroque extremorum.
-In verbo autem non potuit compositio significari cum utro
-que extremorum, quia compositio actus distantis est compositio per
-quam actus de altero ut predicatum de subiecto </p>
-<p xml:id="phsyn-t1-d1e223">Item. Queritur, cum in verbo sit compositio et inclinatio ad
-substantiam, utram compositio precedat natura inclinationem vel
-econverso inclinatio compositionem. Et videtur quod inclinatio
-precedat compositionem, quia: Cum actus non habeat esse nisi in
-subiecto, vel a subiecto, eoquod est proprium accidentis substantie
-inesse, ergo actus naturalem habet inclinationem ad substantiam,
-etsi non uniatur ei. Sed compositio actus cumn substantia non est
-nisi cum unitur actus substantie. Ergo inclinatio actus ad substantiam natura precedit compositionem actus cum substantia.</p>
-<p xml:id="phsyn-t1-d1e226"> Et dicendum quod actus habet duplicem inclinationem ad
-substantiam. Et una earum natura prior est’ compositione, alia vero
-n2atura posterior, quia cum omnis actus
+  <lb ed="#T"/>inclinationes differunt supradicte. Et per se loquendo non
+  <lb ed="#T"/>differunt iste tres compositiones sed differunt per hoc quod compositio
+  <lb ed="#T"/>verbi est subiectum veritatis et falsitatis, alie vero non, quia illa differentia
+  <lb ed="#T"/>sumpta est a posteriori; <pc type="#pilcrow"/>Preterea compositio verbi in quodlibet modo
+  <lb ed="#T"/>non non est modo subiectum veritatis uel falsitatis, quia hoc est tantum in
+  in<lb ed="#T"/>dicativo modo et non in aliis modis in quibus est compositio.</p>
+
+<p xml:id="phsyn-t1-d1e216"><pc type="#pilcrow"/>Item.
+  <lb ed="#T"/>Queritur de compositione verbi, cum habeat componere subiectum cum predicato
+  <lb ed="#T"/>quantum ad indicativum modum sive suppositum cum apposito quantum ad alios
+  <lb ed="#T"/>tres modos, quare potius importatur compositio per alterum extremorum quam per
+  utrum<lb ed="#T"/>que, quia compositio equaliter se habet ad extrema, ergo compositio debet significari
+  <lb ed="#T"/>cum utroque extremorum. <pc type="#pilcrow"/>Item. Idem videtur similiter, quod compositio qualitatis
+  <lb ed="#T"/> cum substantia significatur cum utroque extremorum in nomine. Et in participio compositio
+  <lb ed="#T"/>actus uniti cum substantia fit cum utroque extremorum.Ergo in verbo debet
+  <lb ed="#T"/>esse similiter. <pc type="#pilcrow"/>Item. Habito quod ista compositio significetur cum altero extremorum
+  <lb ed="#T"/>queritur quare potius significatur per verbum (sive cum verbo) quam per nomen,cum
+  equa<lb ed="#T"/>liter se habeat ad utrumque.</p>
+
+<p xml:id="phsyn-t1-d1e219">Et dicendum ad primum quod compositio duplicem
+  <lb ed="#T"/>habet comparationem. Unam enim habet ad substantiam et aliam habet ad
+  ob<lb ed="#T"/>iecta, sicut visio comparatur ad subiectum in quo est, sicut ad ipsum videns, et
+  <lb ed="#T"/>comparatur ad suum obiectum, que est res visa (scilicet coloratum). Similiter <add place="margin-right">compositio</add>
+  com<lb ed="#T"/>paratur ad subiectum suum, quod est componens, et comparatur ad obiectum suum
+  <lb ed="#T"/>ad obiecta, que sunt ipsa composita et opposita, quia composita recipiunt
+  <lb ed="#T"/>supra se compositionem, sicut visibile visionem. Dico ergo quod compositio secundum
+  <lb ed="#T"/>comparationem quam habet ad obiectum (sive ad obiecta), equaliter se
+  <lb ed="#T"/>habet ad utrumque extremorum. Sed secundum comparationem quam habet ad subiectum,
+  <lb ed="#T"/>quod est ipsum componens, magis se habet ad unum quam ad alterum,
+  <lb ed="#T"/>quia <add place="above line">cum</add> ipsum componens sit anima et anima non possit componere nisi mediante
+  <lb ed="#T"/>actu, ideo magis se habet compositio ad actum quam ad reliquum
+  ex<lb ed="#T"/>tremorum. Et cum actus significetur per verbum et non per nomen, idea magis
+  <lb ed="#T"/>debet significari compositio per verbum quam per nomen. Et sic patet solutio prime
+  <lb ed="#T"/>et tertie questionis. <pc type="#pilcrow"/>Ad secundum dicendum quod non est simile de nomine
+  <lb ed="#T"/>et participio ad verbum, quia in verbo est compositio distantium, ut dictum est prius;
+  <lb ed="#T"/>et ideo compositio verbi non potuit significari cum utroque extremorum. Sed
+  <lb ed="#T"/>in participio et in nomine est compositio unitorum; et ideo in illis significatur
+  <lb ed="#T"/>compositio cum utroque extremorum. In verbo autem non potuit compositio significari
+  <lb ed="#T"/>cum utroque extremorum, quia compositio actus distantis est compositio per quam
+  <lb ed="#T"/>actus de altero ut predicatum de subiecto </p>
+
+<p xml:id="phsyn-t1-d1e223"><pc type="#pilcrow"/>Item. Queritur, cum
+  <lb ed="#T"/>in verbo sit compositio et inclinatio ad substantiam, utram compositio precedat natura
+  <lb ed="#T"/>inclinationem vel econverso inclinatio compositionem quia: Cum actus non habeat
+  <lb ed="#T"/>esse nisi in subiecto, vel a subiecto, eoquod est proprium accidentis substantie inesse, ergo actus
+  natu<lb ed="#T"/>lem habet inclinationem ad substantiam, etsi non uniatur ei. Sed
+  com<lb ed="#T"/>positio actus cum substantia non est nisi cum unitur actus substantie. Ergo inclinatio
+  <lb ed="#T"/> actus ad substantiam natura precedit compositionem actus cum substantia.</p>
+
+<p xml:id="phsyn-t1-d1e226"><pc type="#pilcrow"/>Et dicendum quod
+  <lb ed="#T"/>actus habet duplicem inclinationem ad substantiam. Et una earum
+  <lb ed="#T"/>natura prior est compositione, alia vero natura posterior, quia cum omnis actus
 <pb ed="#T" n="27-r"/>
 <cb ed="#T" n="a"/>
-<lb ed="#T"/>sit a3ccidens et non
-econverso, ipsi actui debetur quedam inclinatio inquantum est
-accidens, cum omnne accidens naturaliter inclinetur ad
-suum subiectum; Et hec inclinatio natura precedit compositionem.
-Alia autem inclinatio debetur actui inquantum accidens est, non ut
-in subiecto sed de subiecto, ut anima inclinat se ad enuntiandum unum de altero; et hec inclinatio natura posterior est compositione.
-Et sic patet quod una inclinatio antecedit compositionem
-et alterum sequitur illam per naturam.</p>
-<p>Patet etiam hoc per operationes’ anime, quia: Cum anima
-apprehendit rerum siimulitudines prius cognoscit res sibi invicem
-convenire et postea consentit et deinde componit eas apud se et
-postea enuntiat unum de altero. Cum ergo anima prius consentiat
-quam componat et prius convenientiam videat quam consentiat et
-convenientia unius rei ad aliam rem causetur per naturalem inclinationem
-unius ad aliam, ideo oportet quod naturalis inclinatio
-actus inquantum est actus precedat compositionem actus cum
-substantia. Et item cum anima apud se prius natura componat
-quam inclinet se ad enuntiandum unum de altero mediante actu,
-ideo compositio actus cum substantia natura precedit inclinationem
-actus per quam anima inclinatur ut actus sit de substantia. Et per
-istam secundam inclinationem modus repperitur in verbo. </p>
-<p xml:id="phsyn-t1-d1e235">Et at planius pateat, nota quod eam verbum debebat
-imponi ad significandum, tunc anima prius apprehendebat
-actum de substantia et postea afficiebatur ad enuntiandum actum
-eundem de substantia. Et per istum affectum inclinabatur ad
-enuntiandum ipsum de substantia et per hanc inclinationem enuntiabat
-jam ipsum actum de substantia. Unde post apprehensionem
-actus de substantia prius natura est affectus anime respectu ipsius
-actus ut sit de substantia, quam inclinatio. Et per ipsum affectum
-causatur inclinatio ipsius anime ad enuntiandum. Et per istam
-inclinationem indicat anima vel imperat et sic de aliis. Ipsa autem
-indicatio vel imperatio vel optatio est modus. Unde quamvis ista
-tria, scilicet affectus et inclinatio et indicatio causaliter ordinentur:
-quia tamen posteriora sunt et accidunt ipsi actui qui est,
-vel esse debet, de substantia (et causa huius est quia tam affectus
-quam inclinatio quam indicatio non possunt esse nisi in respectu ad
-actum et ipse actus bene potest esse sine ipsis), — ideo signum
-imponebatur ad significandum ipsum actum, principaliter
-dat intelligere ipsum actum et predicta tria dat intelligere quasi
-accidentalia eidem actui. Et ideo dicimus quod verbum significat
-agere vel pati et consignificat affectus et inclinationes et modos. Et
-sic patet quod modus causatur ab inclinatione sicut a causa proxima
-efficiente et inclinatio ab effectu et omnia ista tria causantur
-a compositione actus cum substantia sicut a causa remota finali. Et
-causantur etiam eadem tria ab anima sicut ab efficiente remota
-ve1 initiali.</p>
-<p xml:id="phsyn-t1-d1e238">Nota etiam quod hec diffinitio modorum, scilicet modi sunt
-inclinationes animi varios affectus demonstrantes est causalis, sicut
-patet ex predictis. Unde inclinatio non predicatur de modis sicut
-genus sed causaliter. Unde inclinatio significat affectum sicut
-effectus suam causam et modus inclinationem et affectum tam
-quam effectus causam. Nota etiam quod generalis
+  <lb ed="#T"/>sit accidens et non econverso, ipsi actui debetur quedam inclinatio
+  in<lb ed="#T"/>quantum est accidens, cum omnne accidens naturaliter inclinetur ad suum
+  <lb ed="#T"/>subiectum; Et hec inclinatio natura precedit compositionem. Alia autem inclinatio
+  <lb ed="#T"/>debetur actui inquantum accidens est, non ut in subiecto sed de subiecto, ut
+  <lb ed="#T"/>anima inclinat se ad enuntiandum unum de altero; et hec inclinatio
+  <lb ed="#T"/>natura posterior est compositione. Et sic patet quod una inclinatio antecedit
+  <lb ed="#T"/>compositionem et alterum sequitur illam per naturam.</p>
+
+<p>Patet etiam hoc per operationes
+  <lb ed="#T"/>anime, quia: Cum anima apprehendit rerum siimulitudines prius <del rend="erasure"></del>
+  <lb ed="#T"/><del rend="erasure"></del>cognoscit res sibi invicem convenire et postea consentit
+  <lb ed="#T"/>et deinde componit eas apud se et postea enuntiat unum de
+  <lb ed="#T"/>altero. Cum ergo anima prius consentiat quam componat et prius convenientiam
+  <lb ed="#T"/>videat quam consentiat et convenientia unius rei ad aliam rem
+  <lb ed="#T"/>causetur per naturalem inclinationem unius ad aliam, ideo oportet quod
+  natura<lb ed="#T"/>lis inclinatio <subst><del rend="expunctuation">actus</del><add place="margin-left">accidens</add></subst> inquantum est actus precedat compositionem actus cum
+  <lb ed="#T"/>substantia. Et item cum anima apud se prius natura componat quam inclinet
+  <lb ed="#T"/>se ad enuntiandum unum de altero mediante actu, ideo compositio actus cum
+  <lb ed="#T"/>substantia natura precedit inclinationem actus per quam anima inclinatur ut actus sit
+  <lb ed="#T"/>de substantia. Et per istam secundam inclinationem modus repperitur in verbo. </p>
+
+<p xml:id="phsyn-t1-d1e235"><pc type="#pilcrow"/>Et ut planius pateat, nota quod eam verbum debebat imponi ad
+  <lb ed="#T"/>significandum, tunc anima prius apprehendebat actum de substantia et postea
+  aff<lb ed="#T"/>iciebatur ad enuntiandum actum eundem de substantia. Et per istum
+  aff<lb ed="#T"/>ectum inclinabatur ad enuntiandum ipsum de substantia et per hanc
+  inclinatio<lb ed="#T"/>nem enuntiabat jam ipsum actum de substantia. Unde post
+  apprehen<lb ed="#T"/>sionem actus de substantia prius natura est affectus anime respectu ipsius actus
+  <lb ed="#T"/>ut sit de substantia, quam inclinatio. Et per ipsum affectum causatur inclinatio
+  <lb ed="#T"/>ipsius anime ad enuntiandum. Et per istam inclinationem indicat anima vel
+  <lb ed="#T"/>imperat et sic de aliis. Ipsa autem indicatio vel imperatio vel
+  op<lb ed="#T"/>tatio est modus. Unde quamvis ista tria, scilicet affectus et inclinatio et
+  <lb ed="#T"/>indicatio causaliter ordinentur: quia tamen posteriora sunt et accidunt
+  <lb ed="#T"/>ipsi actui qui est, vel esse debet, de substantia (et causa huius est quia tam
+  <lb ed="#T"/>affectus quam inclinatio quam indicatio non possunt esse nisi in respectu ad <add place= "margin-left">quod</add><lb ed="#T"/>actum et ipse actus bene potest esse sine ipsis), — ideo signum imponebatur
+  <lb ed="#T"/>ad significandum ipsum actum, principaliter dat intelligere ipsum actum
+  <lb ed="#T"/>et predicta tria dat intelligere quasi accidentalia eidem actui. Et ideo
+  di<lb ed="#T"/>cimus quod verbum significat agere vel pati et consignificat affectus et
+  in<lb ed="#T"/>clinationes et modos. Et sic patet quod modus causatur ab inclinatione sicut a causa
+  <lb ed="#T"/>proxima efficiente et inclinatio ab effectu et omnia ista
+  <lb ed="#T"/>tria causantur a compositione actus cum substantia sicut a causa remota
+  fi<lb ed="#T"/>nali. Et causantur etiam eadem tria ab anima sicut ab efficiente
+  <lb ed="#T"/>remota vel initiali.</p>
+
+<p xml:id="phsyn-t1-d1e238"><pc type="#pilcrow"/>Nota etiam quod hec diffinitio modorum, scilicet modi sunt
+  <lb ed="#T"/>inclinationes animi varios affectus demonstrantes est causalis, sicut patet ex
+  <lb ed="#T"/>predictis. Unde inclinatio non predicatur de modis sicut genus sed causaliter. Unde
+  <lb ed="#T"/>inclinatio significat affectum sicut effectus suam causam et modus inclinationem
+  <lb ed="#T"/>et affectum tam quam effectus causam. <pc type="#pilcrow"/>Nota etiam quod generalis
 <cb ed="#T" n="b"/>
-<lb ed="#T"/>compositio in verbo debetur ipsi agere vel pati generaliter sumpto.
-Specialis autem compositio debetur ipsi agere vel pati specialiter sumpto
-et contracto.</p>
-<p xml:id="phsyn-t1-d1e245">Si quis obiciat quod cum anima afficiatur et inclinetur respectu.
-significati cuiuslibet partis, Ut ipsum signilicet et representet per
-suum signum, ergo quelibet pars orationis erit alicuius modi, cum
-propter hoc modus accidat verbo, — dicendum quod hec obiectio fit
-propter predicta male intellecta, quia non dixi quod predictus
-affectus et inclinatio et modus essent in anima respectu ipsius actus
-tantum sed respectu ipsius actus Ut est de substantia (sive respectu
-ipsius actus inquantum componitur cum substantia). Nulla autem
-pars orationis est de substantia nisi verbum, quia in nulla intelligitur compositio
-ipsius actus cum substantia exterion nisi in verbo.
-Et ideo inodus solummodo accidit verbo et nulli alii parti orationis12.</p>
-<p xml:id="phsyn-t1-d1e248">Item. Queritur qualiter intelligatur illa compositio quam 2dicit
-<ref><name>Aristotiles</name></ref> quad istam compositionem sine suis compositis non est intel
-ligere. Et dicendum quod compositio actus cum substantia intelli
-gitur per extrema, quia actus seipso inheret suo subiecto, sicut quod
-libet aliud accidens seipso inheret subiecto in quo est 4.Et non aliquo
-mediante, quia sic contingeret abire6 in infinitum,
-ut prius dictum est de qualitate nominis. Unde compositio
-actus cum substantia fit per inclinationm ipsius actus ad ipsam
-substantiam ut ad subiectuari suum. Et quia inclinatio unius ad alterum non potest intelligi nisi per illud quod inclinatur et per
-illud ad quod inclinatur, ideo compositio actus ad subiectum suum,
-que significat per verbum, non potest intelligi sine extremis.
-Ideo dicit <name>Aristotiles</name> quod ‘est’ significat quandam compositionem
-quam sine compositis non est intelligere, cum solum
-habeat intelligi per illud quod inclinatur et per illud cui inclinatur,
-quia inclinatio verbi, que est ipsius actus ad substantiam, remotis
-quod inclinatur et cui inclinatur, nichil est. Et ideo compositio sine
-extremis nichil est. Et quia unumquodque intelligitur per illud quod
-dat ei esse: cum extrema dent esse compositioni, ideo compositio
-habet intelligi per extrema, ut dictum est.</p>
-<p xml:id="phsyn-t1-d1e252">Nota etiam quod illa compositio secundum suam veritatem
-est in re et est quoddam indivisibile, in verbo autm est illa compositio ut in signo.
-Sicut sanitas secundum suam veritatem est in animali
-sicut in suo subiecto et est in urina sicut in signo. Nota etiam quod
-ista compositio est per inclinationem actus ad substantiam, inquantum
-actus est accidens substantie8; et9 precedit alteram inclinationem per quam actus est de aliquo, ut dictum est. </p>
-<p xml:id="phsyn-t1-d1e255">Rem. Queritur utrum compositio verbalis sit ens simpliciter
-vel non. Et videtur quad non, quia: Repperitur in rebus existentibus,
-Ut ‘homo est animal’, et in rebus non existentibus, ut ‘chimera est
-non-ens’. Ergo repperitur in eis per aliquod commune repertum in
-ipsis, quia, ut vult <ref><name>Aristotiles</name> in fine <title>Priorum</title></ref>: si aliqua passio
-consequitur aliqua diversa, oportet quod consequatur ea per au
-quod commune repertum in ipsis. Sed nichil est commune enti et
-non-enti nisi ens quodammodo. Ergo compositio sequitur
-ens quodammodo. Ergo et ipsa est ens quodammodo. Ergo non est
-ens simpliciter. Et dicendum quod compositio imnportata per verbum
-communiter se habet entium et ad compositionem
-non-entium. Unde prius sequitur ens quodamumodo, ut
-obiectum est. Et ipsa in commnuni est ens quodammodo et non simpliciter. </p>
-<p xml:id="phsyn-t1-d1e258">Item. Queritur utrum compositio verbalis in communi equaliter
+  <lb ed="#T"/>compositio in verbo debetur ipsi agere vel pati generaliter sumpto.
+  <lb ed="#T"/>Specialis autem compositio debetur ipsi agere vel pati specialiter sumpto
+  <lb ed="#T"/>et contracto.</p>
+
+<p xml:id="phsyn-t1-d1e245"><pc type="#pilcrow"/>Si quis obiciat quod cum anima afficiatur et
+  <lb ed="#T"/>inclinetur respectu significati cuiuslibet partis, Ut ipsum signilicet et representet
+  <lb ed="#T"/>per suum signum, ergo quelibet pars orationis erit alicuius modi, cum propter hoc
+  <lb ed="#T"/>modus accidat verbo, — dicendum quod hec obiectio fit propter predicta <add place="margin-right">male</add>
+  intell<lb ed="#T"/>ecta, sive eoquod non intelligat ea que predicta sunt, quia non dixi
+  <lb ed="#T"/>quod predictus affectus et inclinatio et modus essent in anima respectu ipsius
+  <lb ed="#T"/>actus tantum sed respectu ipsius actus ut est de substantia (sive respectu ipsius actus
+  in<lb ed="#T"/>quantum componitur cum substantia). Nulla autem pars orationis est de substantia nisi verbum,
+  <lb ed="#T"/>quia in nulla intelligitur compositio ipsius actus cum substantia exterion nisi in verbo. Et
+  <lb ed="#T"/>ideo modus solummodo accidit verbo et nulli alii parti orationis <add place="margin-right">et per istam secundam inclinationem reperitur></add>.</p>
+
+<p xml:id="phsyn-t1-d1e248"><pc type="#pilcrow"/>Item.
+  <lb ed="#T"/>Queritur qualiter intelligatur illa compositio quia dicit <ref><name>Aristotiles</name></ref> quod istam compositionem
+  <lb ed="#T"/>sine suis compositis non est intelligere.Et dicendum quod compositio actus cum
+  <lb ed="#T"/>substantia intelligitur per extrema, quia actus seipso inheret suo subiecto,
+  <lb ed="#T"/>sicut quod libet aliud accidens seipso inheret subiecto in quo est. Et non aliquo mediante,
+  <lb ed="#T"/>quia sic contingeret abire in infinitum, ut prius dictum est de qualitate
+  <lb ed="#T"/>nominis. Unde compositio actus cum substantia fit per inclinationm ipsius actus ad ipsam
+  <lb ed="#T"/>substantiam ut ad subiectuari suum. Et quia inclinatio unius ad alterum non
+  <lb ed="#T"/>potest intelligi nisi per illud quod inclinatur et per illud ad quod inclinatur,
+  <lb ed="#T"/><unclear reason="damage">ideo</unclear>compositio actus ad subiectum suum,que significat per verbum, non potest
+  intelli<lb ed="#T"/>gi sine extremis. Ideo dicit <name>Aristotiles</name> quod <mentioned>est</mentioned> significat quandam compositionem quam
+  <lb ed="#T"/>sine compositis non est intelligere, cum solum habeat intelligi per illud
+  <lb ed="#T"/>quod inclinatur et per illud cui inclinatur,quia inclinatio verbi, que est
+  <lb ed="#T"/>ipsius actus ad substantiam, remotis quod inclinatur et <del rend="erasure"></del> cui
+  in<lb ed="#T"/>clinatur, nichil est. Et ideo compositio sine extremis nichil est. Et quia unumquodque
+  <lb ed="#T"/>intelligitur per illud quod dat ei esse: cum extrema dent esse compositioni,
+  <lb ed="#T"/>ideo compositio habet intelligi per extrema, ut dictum est.</p>
+
+<p xml:id="phsyn-t1-d1e252"><pc type="#pilcrow"/>Nota etiam quod illa
+  <lb ed="#T"/>compositio secundum suam veritatem est in re et est quoddam indivisibile, in verbo autm est illa
+  <lb ed="#T"/>compositio ut in signo. Sicut sanitas secundum suam veritatem est in animali
+  <lb ed="#T"/>sicut in suo subiecto et est in urina sicut in signo. <pc type="#pilcrow"/>Nota etiam quod
+  <lb ed="#T"/>illa compositio est per inclinationem actus ad substantiam, inquantum actus
+  <lb ed="#T"/>est accidens substantie; et precedit alteram inclinationem per quam actus est
+  <lb ed="#T"/>de aliquo, ut dictum est. </p>
+
+<p xml:id="phsyn-t1-d1e255"><pc type="#pilcrow"/>Item. Queritur utrum compositio verbalis sit ens simpliciter
+<lb ed="#T"/>vel non. Et videtur quod non, quia: repperitur in rebus existentibus,ut <mentioned>homo est animal</mentioned>,
+<lb ed="#T"/>et in rebus non existentibus, ut <mentioned>chimera est non-ens</mentioned>. Ergo repperitur in eis per aliquod commune repertum in ipsis,
+<lb ed="#T"/>quia, ut vult <ref><name>Aristotiles</name> in fine <title>Priorum</title></ref>:
+<lb ed="#T"/>si aliqua passio consequitur aliqua diversa, oportet quod consequatur ea per
+<lb ed="#T"/>aliquod quod commune repertum in ipsis. Sed nichil est commune enti et non-enti nisi
+<lb ed="#T"/>ens quodammodo. Ergo compositio sequitur ens quodammodo. Ergo et ipsa est ens
+quodam<lb ed="#T"/>modo. Ergo non est ens simpliciter. <pc type="#pilcrow"/>Et dicendum quod compositio importata per
+<lb ed="#T"/>communiter se habet entium et ad compositionem non-entium. Unde prius sequitur verbum
+<lb ed="#T"/>ens quodammodo, ut obiectum est. Et ipsa in commnuni est ens quodammodo et non simpliciter.</p>
+
+<p xml:id="phsyn-t1-d1e258"><pc type="#pilcrow"/>Item. Queritur utrum compositio verbalis in communi equaliter
 <pb ed="#T" n="27-v"/>
 <cb ed="#T" n="a"/>
-<lb ed="#T"/>se habeat ad compositionem entium (Ut ‘homo est
-animal’) et ad compositionem non-entium (Ut ‘chimera est
-non-ens’) vel ipsa per prius dicatur de una et per posterius de alia. Et
-dicendum quad compositio in communi per prius convenit compositioni entem et per posterius non-entium.</p>
-<p xml:id="phsyn-t1-d1e267">Item. Videtur quod compositio in communi sit ens simpliciter
-et non quodammodo et sic non conveniat compositioni non
-entiuiu, quia videtur quod extrema ponantur secundum exigentiam
-compositionis, Ut compositio est ens simpliciter, et extrema. Unde
-videtur sequi: ‘homo est animal'; ergo homo est et animal est’. Et si
-compositio est ens quodammodo, et extrema. Unde non sequitur:
-chimera est non—ens; ergo chimera est’ vel ‘non-ens est’. Ergo si
-compositio in communi est ens quodammodo, oportet quod ectrema
-sua sint entia quodammodo’°- Ergo hec erit vera ‘Antichristus
-est homo’, cum ibi ponatur ‘homo’ quodammodo et hec
-est vera: ‘Antichristus est homo quodammodo’. Et ita iste due
-covertuntur: ‘Antichristus est homo’ et ‘Antichristus est homo quo
-dammodo’. Quod falsum est. Ergo illud ex quo sequitur, est falsum,
-scilicet quod compositio in commnuni sit ens quodammodo et non
-simpliciter.</p>
-<p xml:id="phsyn-t1-d1e270">Et dicendum quad compositio in commnuni est ens quodam
-modo, ut prius dictum est, et extrema eius in communi similiter sunt entia
-quodammodo. Sed compositio contracta ad illam partem e4ius que
-est compositio entium, est ens simpliciter. Unde in hac: ‘Antichristus est homo’
-contracta est ad compositionem entium. Unde non ponitur ibi ‘homo’ quodammodo sed’ simpliciter.
-Et ideo hec 'Antichristus est homo' non equipollet huic: ‘Antichristus est homo quodammodo’.</p>
-<p xml:id="phsyn-t1-d1e273">Ad i1llud autem quad obicit quod extrema ponantur secundum
-exigentiam compositionis, dicendum quad falsum est, quia cum
-extrema sint, non propter hoc sequitur quod compositio sit. Ut cum
-dico ‘homo est asinus’, extrema sunt, non tamen compositio est. Et
-si compositio est, non propter hoc sequitur quod extrema sint sibi invicem convenientia;
-Ut ‘chimera est non-ens’: illa compositio est, non’ tamen extrema sunt.
-Sed hoc sequitur: ‘ista extrema sunt sibi invicem convenientia; ergo
-compositio eorum est’; et est locus a causa; et econverso sequitur:
-‘compositio est; ergo extrema sunt sibi invicem convenientia; et est
-locus ab effectu, quia convenientia composotionis extremorum est causa
-et compositio est effectus convenientie extremorum.</p>
-<p xml:id="phsyn-t1-d1e277">Item. Videtur quod compositio in communi equaliter Se’ habeat
-ad compositionem entium et ad compositionem non-entium, quia:
-ille due sunt simpliciter vere: ‘homo est animal’ et ‘chimera est
-non-ens’. Ergo veritas earum simpliciter est ens. Ergo subiectum
-veritatis in utraque est ens simpliciter. Sed subiectum
-veritatis est compositio. Ergo compositio utrius simpliciter est
-ens. Sed in una est compositio entium, in altera vero non-entium.
-Ergo compositio non-entium simpliciter est ens. Ergo compositio in
-communi non magis se habet ad unam quam ad alteram. Et
-dicendum quod compositio in communi dicitur secundum prius et
-posterius de utraque iliarum compositionum, ut prius dictum est,
-quia per prius dicitur de compositione entium et per posterius de
-compositione non-entium.</p>
-<p xml:id="phsyn-t1-d1e280">Ad aliud autem quod obicit quod utraque earum est simpliciter
-vera, ergo veritas earunt simpliter est ens, dicendum quod
-non sequitur, quia veritas entium est ens simpliciter, veritas autem
-non-entium non
-<cb ed="#T" n="b"/>
-<lb ed="#T"/> est ens simpliciter sed quodammodo.
-Quod patet, quia veritas entium est p6er convenientiam extremorum,
-que est causa compositionis in affirmativa (Ut ‘homo
-est animal’), vel per repugnantiam extremorum, que est causa
-divisionis in negativa (ut "hic" ‘homo non est asinus’). Unde
-veritas entium erit per convenientiam ad compositionem
-vel divisionem; et etiam propter hoc quod extrema sunt
-simpliciter entia. Sed veritas non-entium non habet nisi alteram
-istarum causam, scilicet convenientiam extremorum ad compositionem
-vel divisionem. Et non habet entitatem eorundem, quia extrema non sunt entia,
-immo sunt non entia. Et ideo veritas non entium est ens quodammodo,
-veritas autem entium est ens simpliciter.
-Et ideo compositio entium est ens simpliciter, compositio
-autem non-entium est ens quodammodo.’ </p></div>
+<lb ed="#T"/>se habet ad compositionem entium (ut <mentioned>homo est animal</mentioned>) et ad
+com<pc type="#pilcrow"/>positionem non-entium (ut <mentioned>chimera est non-ens</mentioned>) vel ipsa per
+<pc type="#pilcrow"/>prius dicatur de una et per posterius de alia. <pc type="#pilcrow"/>Et
+<lb ed="#T"/>dicendum quod compositio in communi per prius convenit compositioni entem et
+<lb ed="#T"/>per posterius non-entium.</p>
 
+<p xml:id="phsyn-t1-d1e267"><pc type="#pilcrow"/>Item. Videtur quod compositio in communi sit
+<lb ed="#T"/>ens simpliciter et non quodammodo et sic non conveniat compositioni non
+<lb ed="#T"/>entium, quia videtur quod extrema ponantur secundum
+<lb ed="#T"/>exigentiam compositionis, ut compositio est ens simpliciter, et extrema. Unde videtur sequi:
+<lb ed="#T"/><mentioned>homo est animal; ergo homo est et animal est</mentioned>. Et si compositio est ens quodammodo, et
+<lb ed="#T"/>extrema<del rend="erasure"></del>. Unde non sequitur: <mentioned>chimera est non—ens; ergo chimera
+<lb ed="#T"/>est</mentioned> vel <mentioned>non-ens est</mentioned>. Ergo si compositio in communi est ens quodammodo,
+<lb ed="#T"/>oportet quod extrema sua sint entia quodammodo. <del rend="erasure"></del>
+<lb ed="#T"/><del rend="erasure"></del>Ergo hec erit vera <mentioned>Antichristus est homo</mentioned>, cum ibi ponatur
+<lb ed="#T"/><mentioned>homo</mentioned> quodammodo et hec est vera: <mentioned>Antichristus est homo quodammodo</mentioned>. Et ita iste due
+<lb ed="#T"/>covertuntur: <mentioned>Antichristus est homo</mentioned> et <mentioned>Antichristus est homo quo dammodo</mentioned>. Quod falsum
+<lb ed="#T"/>est. Ergo illud ex quo sequitur, est falsum, scilicet quod compositio in commnuni sit ens
+<lb ed="#T"/>quodammodo et non simpliciter.</p>
+
+<p xml:id="phsyn-t1-d1e270"><pc type="#pilcrow"/>Et dicendum quod compositio in commnuni est ens
+<lb ed="#T"/>quodammodo, ut prius dictum est, et extrema eius in communi similiter sunt
+<lb ed="#T"/>entia quodammodo. Sed compositio contracta ad illam partem eius que est compositio
+<lb ed="#T"/>entium, est ens simpliciter. Unde in hac: <mentioned>Antichristus est homo</mentioned> contracta
+<lb ed="#T"/>est ad compositionem entium. Unde non ponitur ibi <mentioned>homo</mentioned> quodammodo sed simpliciter.
+<lb ed="#T"/>Et ideo hec <mentioned>Antichristus est homo</mentioned> non equipollet huic: <mentioned>Antichristus
+<lb ed="#T"/>est homo quodammodo</mentioned>.</p>
+
+<p xml:id="phsyn-t1-d1e273"><pc type="#pilcrow"/>Ad aliud autem quod obicit quod extrema ponantur
+<lb ed="#T"/>secundum exigentiam compositionis, dicendum quod falsum est, quia cum extrema sunt,
+<lb ed="#T"/>non propter hoc sequitur quod compositio sit. Ut cum dico <mentioned>homo est asinus</mentioned>, extrema
+<lb ed="#T"/>sunt, non tamen compositio est. Et si compositio est, non propter hoc sequitur quod
+extre<lb ed="#T"/>ma sint <del rend= "expunctuation">sibi invicem convenientia</del>; Ut <mentioned>chimera est non-ens</mentioned>: illa compositio
+<lb ed="#T"/>est, non tamen extrema sunt. Sed hoc sequitur: <mentioned>ista extrema sunt sibi invicem
+<lb ed="#T"/>convenientia; ergo compositio eorum est</mentioned>; et est locus a causa; et econverso sequitur: compositio
+<lb ed="#T"/>est; ergo extrema sunt sibi invicem convenientia; et est locus ab
+eff<lb ed="#T"/>ectu, quia convenientia compositionis extremorum est causa et compositio est
+<lb ed="#T"/>effectus convenientie extremorum <!--Rijk says there is a correction here, but i do not see it in the ms-->.</p>
+
+<p xml:id="phsyn-t1-d1e277"><pc type="#pilcrow"/>Item. Videtur quod compositio in communi
+  <lb ed="#T"/>equaliter se habeat ad compositionem entium et ad compositionem non-entium,
+  <lb ed="#T"/>quia: ille due sunt simpliciter vere: <mentioned>homo est animal</mentioned> et <mentioned>chimera est
+non-ens</mentioned>.
+  <lb ed="#T"/>Ergo veritas <seg type="correction">eorum
+    <subst>
+      <del>o</del>
+      <add>a</add><!--not sure if this is the correct way of indicating this correction-->
+    </subst>
+    </seg> simpliciter est ens. Ergo subiectum veritatis in utraque est
+  <lb ed="#T"/>ens simpliciter. Sed subiectum veritatis est compositio. Ergo compositio utrius simpliciter
+  <lb ed="#T"/>est ens. Sed in una est compositio entium, in altera vero non-entium.
+  <lb ed="#T"/>Ergo compositio non-entium simpliciter est ens. Ergo compositio in communi non magis se
+  <lb ed="#T"/>habet ad unam quam ad alteram. <pc type="#pilcrow"/>Et dicendum quod compositio in communi
+  <lb ed="#T"/>dicitur secundum prius et posterius de utraque iliarum compositionum, ut prius dictum
+  <lb ed="#T"/>est, quia per prius dicitur de compositione entium et per posterius de
+  compositio<lb ed="#T"/>ne non-entium.</p>
+
+<p xml:id="phsyn-t1-d1e280"><pc type="#pilcrow"/>Ad aliud autem quod obicit quod utraque earum est
+  <lb ed="#T"/>simpliciter vera, ergo veritas earunt simpliter est ens, dicendum quod non sequitur, quia
+  <lb ed="#T"/>veritas entium est ens simpliciter, veritas autem non-entium non
+<cb ed="#T" n="b"/>
+  <lb ed="#T"/> est ens simpliciter sed quodammodo.Quod patet, quia veritas entium
+  <lb ed="#T"/>est per convenientiam extremorum,que est causa compositionis in affirmativa
+  <lb ed="#T"/>(Ut <mentioned>homo est animal</mentioned>), vel per repugnantiam extremorum, que est causa
+  divisio<lb ed="#T"/>nis in negativa <add place="margin-right">vera</add> (ut hic <mentioned>homo non est asinus</mentioned>). Unde veritas entium
+  <lb ed="#T"/>erit per convenientiam ad compositionem vel divisionem; et etiam propter hoc quod
+  ex<lb ed="#T"/>trema sunt simpliciter entia. Sed veritas non-entium non habet
+  <lb ed="#T"/>nisi alteram istarum causam, scilicet convenientiam extremorum ad compositionem
+  <lb ed="#T"/>vel divisionem. Et non habet entitatem eorundem, quia extrema non sunt
+  <lb ed="#T"/>entia,immo sunt non entia. Et ideo veritas non entium est ens
+  <lb ed="#T"/>quodammodo, veritas autem entium est ens simpliciter. Et ideo compositio entium
+  <lb ed="#T"/>est ens simpliciter, compositio autem non-entium est ens quodammodo.</p>
+</div>
       </div>
     </body>
   </text>
