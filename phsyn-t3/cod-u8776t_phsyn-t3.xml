@@ -193,7 +193,7 @@
             <pc type="#pilcrow"/>Secundum predicta queritur de hoc sophismate TANTUM UNUM EST.
             <lb ed="#T"/>Probatio. Unum est et nichil est quod non sit unum. Ergo tantum unum est. <pc type="#pilcrow"/> Contra.
             <lb ed="#T"/>Multa sunt. Non ergo tantum unum est. <pc type="#pilcrow"/>Item probatio prime, quia: ut dicit
-            <lb ed="#T"/><ref><name>Boetius</name></ref>,unumquodque simulac est, unum est. Ergo tantum unum est. <pc type="#pilcrow"/>Item
+            <lb ed="#T"/><ref><name>Boetius</name></ref> unumquodque simulac est, unum est. Ergo tantum unum est. <pc type="#pilcrow"/>Item
             <lb ed="#T"/>ad idem. Dicit <ref><name>Boetius</name></ref>: unumquodque ideo est quia unum numero est. Sed unum
             <lb ed="#T"/>numero est unum. Ergo unumquodque est unum. Ergo tantum unum est. <pc type="#pilcrow"/>Item
             <lb ed="#T"/>patet per regulam quandam. Que talis est: <seg type="rule"><pc type="#pilcrow"/>quotienscumque unum
@@ -204,7 +204,7 @@
           </p>
           <p xml:id="phsyn-t3-d1e177">
             <pc type="#pilcrow"/>Solutio.
-            <lb ed="#T"/>Prima duplex, quia hoc nomen <mentioned>unum</mentioned> est equivocum,eoquod est quedam
+            <lb ed="#T"/>Prima duplex, quia hoc nomen <mentioned>unum</mentioned> est equivocum, eoquod est quedam
             <lb ed="#T"/>unitas que est essentialis, ut illa per quam res exist in esse
             <lb ed="#T"/>speciali sive in esse specifico. Et hec unitas est per formam
             comple<lb ed="#T" break="no"/>tivam dantem esse rei in separando et distinguendo ipsam rem
