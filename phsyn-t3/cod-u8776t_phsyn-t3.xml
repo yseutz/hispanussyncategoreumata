@@ -11,6 +11,10 @@
           <name>Jeffrey C. Witt</name>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name>Joana Gomes</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -51,887 +55,1041 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#T" n="27-v"/>
-        <pb ed="#T" n="b"/>
+        <pb ed="#T" n="29-v"/>
+        <cb ed="#T" n="b"/>
       </div>
     </front>
     <body>
       <div xml:id="phsyn-t3">
-        <head xml:id="phsyn-t3-Hd1e107">TRACTATUS Tertius</head>
-        <head xml:id="phsyn-t3-Hd1e110">De de dictionibus exclusivis</head>
+        <head xml:id="phsyn-t3-Hd1e107"><supplied>TRACTATUS Tertius</supplied></head>
+        <head xml:id="phsyn-t3-Hd1e110"><supplied>De de dictionibus exclusivis</supplied></head>
         <div xml:id="phsyn-t3-Dd1e113">
-          <head xml:id="phsyn-t3-Hd1e114">Introductio</head>
-          <p xml:id="phsyn-t3-d1e117">Dicto de negatione et affirmatione consequenter dicendum est
-            de dictionibus exclusivis, Ut ‘tantum’, ‘solus’. Circa quas primo queritur propter
-            quid dicatur dictio exclusiva et quid significet dictio exclusiva; secundo quod et que
-            sunt cause exclusionis que exiguntur ad esse exclusionis; tertio quot sunt
-            partes8 sive species exclusionis; quarto queritur, descendendo ad quandam causam
-            exclusionis, scilicet ad illud quod excluditur, que sunt ea que debent excludi;
-            quintum et ultimum erit de differentia harum dictionum ‘tantum’ et ‘solus’ in suis
-            exclusionibus.</p>
-        </div>
-        <div xml:id="phsyn-t3-Dd1e120">
-          <head xml:id="phsyn-t3-Hd1e121">Quare dicatur dictio exclusiva</head>
-          <p xml:id="phsyn-t3-d1e124">Circa primum ergo queritur quare dicatur dictio exclusiva.
-            Et dicunt quidam quod dictio dicitur exclusiva quia significat exclusionem. Sed
-            contra. Nulla dictio significat actum quem exercet, ut2 iste terminus ‘homo’ non
-            significat suppositionem quam exercet supponendo pro hoc et pro illo, et sic de aliis dictionibus. Ergo
-            nulla dictio significat actum quem exercet; et est inductio et est locus a partibus
-            sufficienter enumeratis. Sed ‘tantum’ et ‘solus’ exercent 8 exclusionem. Ergo
-            [N48vb] non significant eam.</p>
-          <p xml:id="phsyn-t3-d1e127">Item. Exclusio intelligitur dupliciter; scilicet ut concepta
-            <pb ed="#T" n="30r"/>
-            <cb ed="#T" n="a"/>
-            <lb ed="#T"/> et Ut’ exercita, sicut cursus significatur ut per hoc nomen ‘cursus’
-            et per hoc verbum ‘curro, -ris’; aliter autem cursus significatur ut exercitus, ut
-            cum aliquis exercet ipsum in currendo. Similiter exclusio intelligitur ut
-            concepta, sicut per hoc nomen ‘exclusio, -nis’ et per hoc verbum ‘excludo, -dis’;
-            aliter autem intelligitur ut exercita, ut per has dictiones ‘solus’ et ‘tantum’.</p>
-          <p xml:id="phsyn-t3-d1e130"> Si ergo ‘solus’ et ‘tantum’ significant exclusionem, aut
-            significant1 ut conceptam aut ut exercitam Sed si significant eam ut conceptam, ergo iste
-            dictiones ‘exclusio, -nis’ et ‘excludo, -dis' erunt dictiones exclusive.
-            Quod falsum est. Ergo non significant eam ut conceptam. Neque ut exercitam, quia
-            sicut se habet dictio in communi ad actum suum communem, quam exercet, dictio specialis
-            ‘solus’ non significat exclusionem
-            sed exercet ipsam. Ergo dictiones exclusive non significant
-            exclusionem ut’ exercitam neque ut concepta ut probatum est. Ergo nullo modo
-            significant exclusionem.</p>
-          <p xml:id="phsyn-t3-d1e133">Quod concedimus dicentes quod dictiones exclusive dicuntur
-            exclusive non quia significant’ exclusionem sed quia excercent eam, ut ‘tantum’,
-            ‘solus’ dicuntur dictiones exclusive ab exclusione exercita et non ab exclusione
-            significata. Sicut securis dicitur incisiva ab incisione exercita et non ab incisione
-            significata. ‘Securis’ enim nullo modo significat incisionem sed significat securim
-            et exercet incisionem sive ipsum scindere.</p>
-        </div>
-        <div xml:id="phsyn-t3-Dd1e136">
-          <head xml:id="phsyn-t3-Hd1e137">Quid significet dictio exclusiva</head>
-          <p xml:id="phsyn-t3-d1e140">Ad aliud autem’ quod queritur quid significet dictio
-            exclusiva, dicendum quod significat idem quod hec oratio ‘non cum alio’, sive
-            privationem associationis totius ad partem ut ‘solus Sortes currit’, idest
-            Sortes currit et nichil aliud vel Sortes currit et nullus alias h.onw ewnit, Et sic
-            pars ponitur et totum removetur, quia ponitur Sortes et removetur quilibet alius
-            homo, vel quidlibet aliud, a Sorte. Et ita totum non associatur parti sue. Et sic
-            dictio exclusiva privat associationem totius ad partem per suam
-            significationem. Et ideo dicitur significare privationem associationis totius ad
-            partem. Sed ad istam privationem sequitur exclusio omnium aliorum, sicut proprius
-            actus sequitur ad illud per quod exercetur. Et ideo exclusio importatur per dictionem
-            exclusivam, non ut significata sed ut exercita. Et sic primum.</p>
-        </div>
-        <div xml:id="phsyn-t3-Dd1e144">
-          <head xml:id="phsyn-t3-Hd1e145">Quot et que sint cause exclusionis</head>
-          <p xml:id="phsyn-t3-d1e148">Circa secundum queritur in hunc modum. Associatio et privatio
-            associationis opponuntur ut privatio et habitus. Sed privatio diffinitur per
-            habitum, quia cecitas est privatio visus in oculo et per hoc habet esse. Ergo
-            privatio associationis est per ea per que est associatio, et per illa habebit esse.
-            Sed ad associationem exigitur quod associatur et cui associetur et in quo
-            associetur. Ergo ad privationem associationis exiguntur eadem tria. Quod concedimus.
+          <head xml:id="phsyn-t3-Hd1e114"><supplied>Introductio</supplied></head>
+          <p xml:id="phsyn-t3-d1e117">
+            <lb ed="#T"/>Dicto de negatione et affirmatione consequenter dicendum est de
+            <lb ed="#T"/>dictionibus exclusivis, ut <mentioned>tantum</mentioned>, <mentioned>solus</mentioned>. circa quas primo queritur
+            <lb ed="#T"/>propter quid dicatur dictio exclusiva et quid significet dictio exclusiva. <pc type="#pilcrow"/> secundo
+            <lb ed="#T"/>quod et que sunt cause exclusionis que exiguntur ad esse exclusionis;
+            <lb ed="#T"/><pc type="#pilcrow"/> tertio quot sunt partes sive species exclusionis; <pc type="#pilcrow"/>quarto queritur,
+            des<lb ed="#T" break="no"/>cendendo ad quandam causam exclusionis, scilicet ad illud quod
+            exclu<lb ed="#T" break="no"/>ditur, que sunt ea que debent excludi;
+            <pc type="#pilcrow"/>quintum et ultimum erit
+            <lb ed="#T"/>de differentia harum dictionum <mentioned>tantum</mentioned> et <mentioned>solus</mentioned> in suis exclusionibus.
           </p>
         </div>
-        <div><p>Unde dicendum quod ad exclusionem que sequitur ad predictam privationem, quatuor
-            euguntur, scilicet quod excluditur et a quo excluditur et respectu cuius
-            excludutur; et quartum est 4ipse actus excludendi. Verbi gratia ‘solus Sortes currit’;
-            alii a Sorte excluduntur ut a subiecto et respectu cursus; et actus excludendi
-            per hanc dictionem ‘solus’. Et hec quatuor cause exiguntur
+        <div xml:id="phsyn-t3-Dd1e120">
+          <head xml:id="phsyn-t3-Hd1e121"><supplied>Quare dicatur dictio exclusiva</supplied></head>
+          <p xml:id="phsyn-t3-d1e124">
+            Circa
+            <lb ed="#T"/>primum ergo queritur quare dicatur dictio
+            <lb ed="#T"/>exclusiva. Et dicunt quidam quod dictio dicitur exclusiva quia significat exclusionem. <pc type="#pilcrow"/>Sed contra. Nulla dictio significat
+            <lb ed="#T"/>actum quem exercet,
+            <add place="botton-margin" hand="other">ut iste terminus <mentioned>homo</mentioned> non significat suppositionem quam
+            <lb ed="#T"/>exercet supponendo pro hoc et pro illo, et ergo
+            <lb ed="#T"/>de aliis sed significat hominem et
+            <lb ed="#T"/>exerceret suppositionem et de a
+            <lb ed="#T"/>liis dictionibus. Ergo nulla
+            <lb ed="#T"/>dictio significat
+            <lb ed="#T"/>actum quem
+            <lb ed="#T"/>exercet</add>;
+            et est inductio et est locus a partibus
+            suffici<lb ed="#T" break="no"/>enter enumeratis. Sed <mentioned>tantum</mentioned> et <mentioned>solus</mentioned> exercent exclusionem. Ergo [N48vb] non
+            <lb ed="#T"/>significant eam.
+          </p>
+          <p xml:id="phsyn-t3-d1e127">
+            <pc type="#pilcrow"/>Item. Exclusio intelligitur dupliciter; scilicet ut concepta
+            <pb ed="#T" n="30-r"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/>et ut exercita, sicut cursus significatur ut <add place= "left-margin">conceptus</add> per hoc nomen <mentioned>cursus</mentioned>
+            <lb ed="#T"/>et per hoc verbum <mentioned>curro, -ris</mentioned>; aliter autem cursus significatur ut exercitus,
+            <lb ed="#T"/>ut cum aliquis exercet ipsum in currendo. Similiter exclusio intelligitur ut concepta,
+            <lb ed="#T"/>sicut per hoc nomen <mentioned>exclusio, -nis</mentioned> et per hoc verbum <mentioned>excludo, -dis</mentioned>;
+            <lb ed="#T"/>aliter autem intelligitur ut exercita, ut per has dictiones <mentioned>solus</mentioned> et <mentioned>tantum</mentioned>.
+          </p>
+          <p xml:id="phsyn-t3-d1e130"> 
+            Si ergo <mentioned>solus</mentioned> et <mentioned>tantum</mentioned> significant exclusionem, aut significant eam hoc modo
+            <lb ed="#T"/>vel illo. Sed si significant eam ut conceptam ergo iste dictiones 
+            <mentioned>exclusio<lb ed="#T" break="no"/>nis</mentioned> <add place="margin-left">et <mentioned>exclusus</mentioned></add> et excludo dic erunt dictiones exclusive quod falsum est.
+            <lb ed="#T"/>Ergo non significant eam ut conceptam. Neque ut exercitam, quia sicut se habet
+            <lb ed="#T"/>dictio in communi ad actum suum communem, <subst><add place="margin-left">qui est significare</add> <del rend="expunctuation">quam exercet</del></subst> similiter dictio specialis
+            <lb ed="#T"/>se habet ad actum suum specialem. Sed dictio in communi non significat actum suum
+            <lb ed="#T"/>communem; dictio enim non significat significare sed exercet ipsum. <add place="margin-left"> Ergo dictio specialis non significat actum suum specialem proprium sed exercet ipsum.</add> ergo hec dictio 
+            <lb ed="#T"/><mentioned>solus</mentioned> non significat exclusionem sed exercet eam. Ergo dictiones exclusive
+            <lb ed="#T"/>non significant exclusionem ut exercitam neque ut concepta ut probatum est.
+            <lb ed="#T"/>Ergo nullo modo significant exclusionem.
+          </p>
+          <p xml:id="phsyn-t3-d1e133">
+            Quod concedimus dicentes quod dictiones
+            <lb ed="#T"/>exclusive dicuntur exclusive non quia significant  exclusionem sed quia
+            ex<lb ed="#T" break="no"/>cercent eam, ut <mentioned>tantum</mentioned>, <mentioned>solus</mentioned> dicuntur dictiones exclusive ab
+            exclusi<lb ed="#T" break="no"/>one exercita et non ab exclusione significata. Sicut securis
+            <lb ed="#T"/>dicitur incisiva ab incisione exercita et non ab incisione significata.
+            <lb ed="#T"/><mentioned>Securis</mentioned> enim nullo modo significat incisionem sed significat securim (sicut 'homo'
+            <lb ed="#T"/>hominem) et exercet incisionem sive ipsum scindere.
+          </p>
+        </div>
+        <div xml:id="phsyn-t3-Dd1e136">
+          <head xml:id="phsyn-t3-Hd1e137"><supplied>Quid significet dictio exclusiva</supplied></head>
+          <p xml:id="phsyn-t3-d1e140">
+            <pc type="#pilcrow"/>Ad aliud autem
+            <lb ed="#T"/>quod queritur quid significet dictio exclusiva, dicendum quod significat idem quod hec
+            <lb ed="#T"/>oratio <mentioned>non cum alio</mentioned>, sive privationem associationis totius ad
+            <lb ed="#T"/>partem ut <mentioned>solus Sortes currit</mentioned>, <!--italic in Rijk edition!-->idest Sortes currit et nichil aliud vel Sortes currit et nullus
+            <lb ed="#T"/>alias homo currit<!--italic!-->, Et sic pars ponitur et totum removetur, quia ponitur Sortes et removetur
+            <lb ed="#T"/>quilibet alius homo, vel quidlibet aliud, a Sorte. Et ita totum non associatur
+            <lb ed="#T"/>parti sue. Et sic dictio exclusiva privat associationem totius
+            <lb ed="#T"/>ad partem per suam significationem. Et ideo dicitur significare privationem
+            <lb ed="#T"/>associationis totius ad partem. Sed ad istam privationem sequitur
+            <lb ed="#T"/>exclusio omnium aliorum, sicut proprius actus sequitur ad illud per quod exercetur.
+            <lb ed="#T"/>Et ideo exclusio importatur per dictionem exclusivam, non ut significata
+            <lb ed="#T"/>sed ut exercita. Et sic <add place= "left-margin">patet</add> primum.
+          </p>
+        </div>
+        <div xml:id="phsyn-t3-Dd1e144">
+          <head xml:id="phsyn-t3-Hd1e145"><supplied>Quot et que sint cause exclusionis</supplied></head>
+          <p xml:id="phsyn-t3-d1e148">
+            <pc type="#pilcrow"/>Circa secundum queritur in hunc
+            <lb ed="#T"/>modum. Associatio et privatio associationis opponuntur ut
+            pri<lb ed="#T" break="no"/>vatio et habitus. Sed privatio diffinitur per habitum, quia cecitas
+            <lb ed="#T"/>est privatio visus in oculo et per hoc habet esse. Ergo privatio
+            ass<lb ed="#T" break="no"/>ociationis est per ea per que est associatio, et per illa
+            habe<lb ed="#T" break="no"/>bit esse. Sed ad associationem exigitur quod associatur et cui
+            <lb ed="#T"/>associetur et in quo associetur. Ergo ad privationem
+            associa<lb ed="#T" break="no"/>tionis exiguntur eadem tria. Quod concedimus.
+          </p>
+          <p><!-- TODO: missing paragraph id -->
+            Unde dicendum quod ad
+            exclusio<lb ed="#T" break="no"/>nem que sequitur ad predictam privationem, quatuor exiguntur, scilicet quod
+            <lb ed="#T"/>excluditur et a quo excluditur et respectu cuius excludutur; et
+            <lb ed="#T"/>quartum est ipse actus excludendi. Verbi gratia <mentioned>solus Sortes currit</mentioned>;
+            <lb ed="#T"/>alii a Sorte excluduntur ut a subiecto et respectu cursus; et actus
+            <lb ed="#T"/>excludendi <add place= "left-margin">importatur</add> per hanc dictionem <mentioned>solus</mentioned>. Et hec quatuor cause exigun
             <cb ed="#T" n="b"/>
-            <lb ed="#T"/>ad exclusionem simpliciter.</p>
+            <lb ed="#T"/>tur ad exclusionem simpliciter.
+          </p>
         </div>
         <div xml:id="phsyn-t3-Dd1e151">
-          <head xml:id="phsyn-t3-Hd1e152">De quibusdam regulis</head>
-          <p xml:id="phsyn-t3-d1e155">Ex predictis patet quedam regula. Que talis est: <seg
-              type="rule">ubicumque vere fit exclusio, semper id respectu cuius exclusio fit,
-              ponitur in eo a quo omnia alia excluduntur.</seg> Ut ‘tantum homo est risibile’:
-            hic enim ‘risibile’, respectu cuius fit exclusio, ponitur in ‘homine’, a quo omnia alia
-            excluduntur. Unde sequitur ‘tantum homo est risibile; ergo homo est risibile’; et
-            ‘tantum homo currit; ergo homo currit’.</p>
-          <p xml:id="phsyn-t3-d1e161">Ex predictis patet quedam regula. Que talis est: <seg
-              type="rule">omnis exclusiva vera relinquisit suam preiacentem veram.</seg> Ut patet
-            in predictis exemplis, Ut ‘solus Sortes currit; ergo Sortes currit’. Propositio autem
-            exclusiva est illa in qua ponitur dictio exclusiva (Ut ‘tantum’, ‘solus’), ut
-            ‘solus Sortes currit’ vel ‘tantum homo currit’; preiacens autem dicitur ipsa
-            propositio remota dictione exclusiva, Ut ‘Sortes currit’ vel ‘homo currit’.</p>
+          <head xml:id="phsyn-t3-Hd1e152"><supplied>De quibusdam regulis</supplied></head>
+          <p xml:id="phsyn-t3-d1e155">
+            <pc type="#pilcrow"/>Ex predictis patet quedam
+            <lb ed="#T"/>regula. Que talis est: <seg type="rule">ubicumque vere fit exclusio, semper id respectu cuius
+            <lb ed="#T"/>fit exclusio, ponitur in eo a quo omnia alia excluduntur.</seg>
+            <lb ed="#T"/>Ut <mentioned>tantum homo est risibile</mentioned>: hic enim <mentioned>risibile</mentioned>, respectu cuius fit exclusio, ponitur in <mentioned>homine</mentioned>,
+            <lb ed="#T"/>a quo omnia alia excluduntur. Unde sequitur <mentioned>tantum homo est risibile; ergo homo
+            <lb ed="#T"/>est risibile</mentioned>; et <mentioned>tantum homo currit; ergo homo currit</mentioned>.
+          </p>
+          <p xml:id="phsyn-t3-d1e161">
+            <pc type="#pilcrow"/>Ex predictis patet alia
+            <lb ed="#T"/>regula. Que talis est: <seg type="rule">omnis exclusiva vera relinquisit suam preiacentem
+            <lb ed="#T"/>veram.</seg> Ut patet in predictis exemplis, ut <mentioned>solus Sortes currit; ergo Sortes currit</mentioned>.
+            <lb ed="#T"/><pc type="#pilcrow"/>Propositio autem exclusiva est illa in qua ponitur dictio exclusiva
+            <lb ed="#T"/>(ut <mentioned>tantum</mentioned>, <mentioned>solus</mentioned>), ut <mentioned>solus Sortes currit</mentioned> vel <mentioned>tantum homo currit</mentioned>; preiacens autem dicitur
+            <lb ed="#T"/>ipsa propositio remota dictione exclusiva, ut <mentioned>Sortes currit</mentioned> vel <mentioned>homo currit</mentioned>.
+          </p>
         </div>
         <div xml:id="phsyn-t3-Dd1e167">
-          <head xml:id="phsyn-t3-Hd1e168">Sophisma</head>
-          <p xml:id="phsyn-t3-d1e171">Secundum predicta queritur de hoc sophismate TANTUM UNUM EST.
-            Probatio. Unum est et nichil est quod non sit unum. Ergo tantum unum est. Contra.
-            Multa sunt. Non ergo tantum unum est. Item probatio prime, quia: ut dicit <name>Boetius</name>,
-            unumquodque simulac est, unum est. Ergo tantum unum est. Item ad idem. Dicit
-            <name>Boetius</name>: unumquodque ideo est quia unum numero est. Sed unum numero est unum.
-            Ergo unumquodque est unum. Ergo tantum unum est idem patet per regulam
-            quandam. Que talis est: <seg type="rule">quotienscumque unum convertibilium
-            predicatur de altem si dictio exclusiva vere adiungatur uni, et reliquo.</seg>
-            Ut ‘tantum homo currit; ergo tantum risibile currit’, et econverso. Sed ‘unum’
-            convertitur cum ente. Ergo si dictio exclusiva vere adiungatur’ enti’, et uni. Sed
-            hec est vera ‘tantum unum est’. Ergo hec est vera. ‘tantum unum est’.</p>
-          <p xml:id="phsyn-t3-d1e177">Solutio. Prima duplex, quia hoc nomen ‘unum’ est equivocum,
-            eoquod est quedam unitas que est essentialis, ut illa per quam res exist in esse
-            speciali sive in esse specifico. Et hec unitas est per formam completivam dantem esse
-            rei in separando et distinguendo ipsam rem ab omnibus aliis in sua specie, ut Sortes
-            non solum est in specie hominis per suam formam completivam sed ipse etiam per ipsam
-            perficitur in suo esse proprio et separatur et distinguitur ab omnibus aliis
-            hominibus. Et hec est unitas essentialis. Alia autem est unitas accidentalis, que est
-            principium numeri. Unde sicut numerus accidit rebus que numerantur, similiter et unitas
-            per quam numerantur et que est principium numeri accidit eis. Quicquid enim
-            numeratur, per hanc unitatem numeratur, quia numerus nichil aliud est nisi9
-            aggregatio unitatum. Numerus enim est multitudo ex unitatibus aggregata.</p>
-          <p xml:id="phsyn-t3-d1e180">Et utraque istarum unitatum convertitur cum ‘ente’. Sed
-            differunt in hoc quod prima est essentialis (ut dictum est) et secunda accidentalis; et
-            in hoc quod secunda est in prima ut accidens in subiecto; unde secunda accidit
-            prime. Et sicut unitas essentialis sive unum accipiatur unitas accidentalis
-            sive unum accidentale, sic prima est falsa, quia
-            dictio exclusiva adiuncta parti numeram destruit totum, Ut ‘tantum duo currunt;
-            non ergo tria’; similiter tantum unum est non ergo duo vel ‘non ergo
-            multa’.</p>
-          <p xml:id="phsyn-t3-d1e183">Alii autem dicunt quod prima est duplex (hec scilicet ‘tantum
-            unum est’) eoquod potest fieri exclusio ratione suppositi (et sic est vera);
+          <head xml:id="phsyn-t3-Hd1e168"><supplied>Sophisma</supplied></head>
+          <p xml:id="phsyn-t3-d1e171">
+            <pc type="#pilcrow"/>Secundum predicta queritur de hoc sophismate TANTUM UNUM EST.
+            <lb ed="#T"/>Probatio. Unum est et nichil est quod non sit unum. Ergo tantum unum est. <pc type="#pilcrow"/> Contra.
+            <lb ed="#T"/>Multa sunt. Non ergo tantum unum est. <pc type="#pilcrow"/>Item probatio prime, quia: ut dicit
+            <lb ed="#T"/><ref><name>Boetius</name></ref>,unumquodque simulac est, unum est. Ergo tantum unum est. <pc type="#pilcrow"/>Item
+            <lb ed="#T"/>ad idem. Dicit <ref><name>Boetius</name></ref>: unumquodque ideo est quia unum numero est. Sed unum
+            <lb ed="#T"/>numero est unum. Ergo unumquodque est unum. Ergo tantum unum est. <pc type="#pilcrow"/>Item
+            <lb ed="#T"/>patet per regulam quandam. Que talis est: <seg type="rule"><pc type="#pilcrow"/>quotienscumque unum
+            <lb ed="#T"/>convertibilium predicatur de altem si dictio exclusiva vere adiungatur uni,
+            <lb ed="#T"/>et reliquo.</seg> Ut <mentioned>tantum homo currit; ergo tantum risibile currit</mentioned>, et econverso. Sed <mentioned>unum</mentioned> convertitur
+            <lb ed="#T"/>cum ente. Ergo si dictio exclusiva vere adiungatur <mentioned>enti</mentioned>, et uni.
+            <lb ed="#T"/>Sed hec est vera <mentioned>tantum unum est</mentioned>. Ergo hec est vera. <mentioned>tantum unum est</mentioned>.
+          </p>
+          <p xml:id="phsyn-t3-d1e177">
+            <pc type="#pilcrow"/>Solutio.
+            <lb ed="#T"/>Prima duplex, quia hoc nomen <mentioned>unum</mentioned> est equivocum,eoquod est quedam
+            <lb ed="#T"/>unitas que est essentialis, ut illa per quam res exist in esse
+            <lb ed="#T"/>speciali sive in esse specifico. Et hec unitas est per formam
+            comple<lb ed="#T" break="no"/>tivam dantem esse rei in separando et distinguendo ipsam rem
+            <lb ed="#T"/>ab omnibus aliis in sua specie, ut Sortes non solum est in specie
+            <lb ed="#T"/>hominis per suam formam completivam sed <subst><del rend="erasure"></del><add place="line">ipse</add></subst> etiam per ipsam perficitur
+            <lb ed="#T"/>in suo esse proprio et separatur et distinguitur ab omnibus aliis
+            <lb ed="#T"/>hominibus. Et hec est unitas essentialis. <pc type="#pilcrow"/>Alia autem est unitas
+            <lb ed="#T"/>accidentalis, que est principium numeri. Unde sicut numerus accidit rebus que
+            <lb ed="#T"/>numerantur, similiter et unitas per quam numerantur et que est principium
+            <lb ed="#T"/>numeri accidit eis. Quicquid enim numeratur, per hanc unitatem
+            nu<lb ed="#T" break="no"/>meratur, quia numerus nichil aliud est nisi aggregatio unitatum. Numerus enim
+            <lb ed="#T"/>est multitudo ex unitatibus aggregata.
+          </p>
+          <p xml:id="phsyn-t3-d1e180">
+            Et utraque istarum unitatum convertitur
+            <lb ed="#T"/>cum <mentioned>ente</mentioned>. Sed differunt in hoc quod prima est essentialis (ut
+            <lb ed="#T"/>dictum est) et secunda accidentalis; et in hoc quod secunda est in prima ut
+            acci<lb ed="#T" break="no"/>dens in subiecto; unde secunda accidit prime. Et sicut unitas dicitur equivoce
+            <lb ed="#T"/>similiter et unum. Dico ergo quod si accipiatur <add place= "right-margin">unitas essencialis sive unum essenciale, sic prima est vera. Si autem accipiatur</add> unitas accidentalis sive
+            <lb ed="#T"/>unum accidentale, sic prima est falsa, quia dictio exclusiva
+            ad<lb ed="#T" break="no"/>iuncta parti numeram destruit totum, ut <mentioned>tantum duo currunt; non
+            <lb ed="#T"/>ergo tria</mentioned>; similiter tantum unum est non ergo duo vel <mentioned>non ergo
+            mul<lb ed="#T" break="no"/>ta</mentioned>.
+          </p>
+
+          <p xml:id="phsyn-t3-d1e183">
+            <pc type="#pilcrow"/>Alii autem dicunt quod prima est duplex (hec scilicet <mentioned>tantum unum
+            <lb ed="#T"/>est</mentioned>) eoquod potest fieri exclusio ratione suppositi (et sic est vera);
             <pb ed="#T" n="30v"/>
             <cb ed="#T" n="a"/>
-            <lb ed="#T"/>
-            vel potest sive exclusio ratione accidentis sive forme (et sic est falsa) . Et tunc
-            sequitur5 non ergo multa sunt’. Sed primam solutionem credo esse meliorem.</p>
-          <p xml:id="phsyn-t3-d1e186">Ad probationem dicendum quod procedit secundum quod ‘unum’
-            dicit unitatem essentialem, quoniam quicquid est, per suum complementum est, quod dat ei
-            esse. Ut Sortes per suam formam completivam, que est anima ipsius, separatur et
-            differt a qualibet alia re; et dat ipsi unitatem essentialem. Et sic est de omnibus
-            aliis. Ad improbationem autem dicendum quod accipit unitatem accidentalem que per
-            sui aggregationem est principium numeri; et hoc modo tenet improbatio. Ad duo argumenta
-            sequentia. dicendum quod accipiunt ‘unum’ essentiale, sicut et”
-            probatio.</p>
-          <p xml:id="phsyn-t3-d1e190">Ad ultimum dicendum quod bene sequitur ‘tantum ens est;
-            ergo tantum unum est’, accipiendo ‘unum’ secundum unitatem essentialem. Sed non
-            sequitur ‘tantum ens est; ergo tantum unum est’, accipiendo <!--<‘unum’ secundum> -->
-            unitatem accidentalem (quam vis unitas accidentalis convertatur cum ‘ente’), quia
-            ‘unum accidentale’ dicit discretioriem sive rem discretam, cum sit principium
-            numeri; ‘ens’ vero dicit rem suam per modum substantie. Et ita peccat secundum
-            figuram dictionis. Sicut hic: ‘tantum homo currit; ergo tantum unus homo
-            currit’; hec4 autem est falsa ‘tantum unus homo currit’. Posito enim 5quad omnes
-            homines currant et nichil aliud currat, hec est vera ‘tantum homo currit’, hec autem
-            est falsa ‘tantum unus homo currit’. Et est figura dictionis (sicut dictum
-            est), quia ‘homo’ dicit rem suam per modum substantie, sed ‘unus’ addit discretionem
-            numeri circa ipsum. Preterea est ibi accidens. Quia cum esse conveniat uni et
-            inultis: quanivis dictio exclusiva vere adiungatur ‘end’ respectu esse (Ut
-            ‘tantum ens est’), non tamen potest vere adiungi ‘uni’ dicenti discretionem numera
-            1cm.Unde de hoc uno non posunt dicere ‘tantum unum est’, quia tunc
-            excluderet duo et tria et sic de allis, ascendendo ut ‘tantum unum 18;non ergo duo
-            neque tria’ et sic de allis. Unde ens est ibi res subiecta et unum est accidens
-            et exclusio assignatur convenire utrique sive fleri ab utroque.</p>
-          <p xml:id="phsyn-t3-d1e195">Ad aliud autem quod obicit per regulam convertibilium,
-            dicendum quod regula debet intelligi remoto accidente, sicut et ille regule omnes.
-            Quamvis enim regula sits sive maxima: <seg type="maxima">quicquid predicatur de
-            diffinitione, et de deffinito</seg>, non tamen sequitur ‘animal rationale mortale est
-            diffinitio; ergo homo est diffinitio’, quod est propter accidens, quod inipedit quod
-            sint species exclusionis</p>
-          <p xml:id="phsyn-t3-d1e201">Circa tertium queritur quot sint partes exclusionis. Et
-            solent poni due, quia ponitur duplex exclusio: una enim generalis et altera
-            specialis. Generalis exclusio ponitur coniniuniter quando excluditur diversum genere;
-            specialis vero quando excluditur diversum specie. Sed contra. ‘Diversum’ dicitur
-            tripliciter: diversum genere, diversum specie, diversum numero. Ergo si exclusio
-            dicitur generalis quia diversa 9genere excluduntur et specialis quia diversa specie
-            excluduntur, ergo debet esse alia exclusio numeralis eoquod diversa numero
-            excluduntur. Ergo non solum erunt due species, sive due partes, exclusionis sed etiam
-            erunt ties.</p>
-          <p xml:id="phsyn-t3-d1e204">Et dicendum quod non sunt nisi due partes 1exclusionis, scilicet
-            generalis et specialis. Sed non dicitur exclusio generalis eoquod diversa genere
-            excludantur, sed quia excluduntur a subiecto aliquo omnia que communicant in
-            aliquo genere, sive in aliquo generali ad omnia que sunt sicut in ente. Unde
-            hoc modo sensus huius ‘solus Sortes currit’ est talis: <!--Sortes..ens is in italic-->Sortes currit et nichil
+            <lb ed="#T"/>vel potest sive exclusio ratione accidentis sive forme (et sic est falsa) . Et tunc
+            sequitur non ergo multa sunt. Sed primam solutionem credo esse meliorem.</p>
+
+          <p xml:id="phsyn-t3-d1e186">
+            <pc type="#pilcrow"/>Ad probationem dicendum quod procedit secundum quod <mentioned>unum</mentioned>dicit
+            <lb ed="#T"/>unitatem essentialem, quoniam quicquid est, per suum complementum est,
+            <lb ed="#T"/>quod dat ei esse. Ut Sortes per suam formam completivam, que est anima
+            ip<lb ed="#T" break="no"/>sius, separatur et differt a qualibet alia re; et dat ipsi unitatem
+            essen<lb ed="#T" break="no"/>tialem. Et sic est de omnibus aliis. <pc type="#pilcrow"/>Ad improbationem autem dicendum
+            <lb ed="#T"/>quod accipit unitatem accidentalem que per sui aggregationem est
+            <lb ed="#T"/>principium numeri; et hoc modo tenet improbatio. <pc type="#pilcrow"/>Ad duo argumenta
+            <lb ed="#T"/>sequentia. dicendum quod accipiunt <mentioned>unum</mentioned> essentiale, sicut et” probatio.</p>
+
+          <p xml:id="phsyn-t3-d1e190"><lb ed="#T"/>Ad ultimum dicendum quod
+            <subst>
+              <del rend="erasure"></del>
+              <add place="line">bene</add>
+            </subst>
+            sequitur <mentioned>tantum ens est; ergo tantum unum est</mentioned>, <add place= "left-margin">accipiendo <mentioned>unum</mentioned> secundum unitatem essentialem. Sed non sequitur <mentioned>tantum ens est; ergo tantum unum est</mentioned></add>,
+            acci<lb ed="#T" break="no"/>piendo <!--<<mentioned>unum</mentioned> secundum rijks addition> --> unitatem accidentalem (quamvis unitas accidentalis convertatur cum <mentioned>ente</mentioned>),
+            <lb ed="#T"/>quia <mentioned>unum accidentale</mentioned> dicit discretioriem sive rem discretam, cum sit principium
+            <lb ed="#T"/>numeri; <mentioned>ens</mentioned> vero dicit rem suam per modum substantie. Et ita peccat secundum
+            fi<lb ed="#T" break="no"/>guram dictionis. Sicut hic: <mentioned>tantum homo currit; ergo tantum unus homo currit</mentioned>; Posito
+            <lb ed="#T"/>quod omnes homines currant et nichil aliud currat, hec est vera <mentioned>tantum homo currit</mentioned>,
+            <lb ed="#T"/>hec est falsa <mentioned>tantum unus homo currit</mentioned>. Et est figura dictionis (sicut dictum est), quia
+            <lb ed="#T"/><mentioned>homo</mentioned> dicit rem suam per modum substantie, sed <mentioned>unus</mentioned> addit discretionem numeri
+            <lb ed="#T"/>circa ipsum. <pc type="#pilcrow"/>Preterea est ibi accidens. Quia cum esse conveniat uni
+            <lb ed="#T"/>et multis: quamvis dictio exclusiva vere adiungatur <mentioned>end</mentioned> respectu esse
+            <lb ed="#T"/>(Ut <mentioned>tantum ens est</mentioned>), non tamen potest vere adiungi <mentioned>uni</mentioned> dicenti
+            discre<lb ed="#T" break="no"/>tionem numeralem. Unde de hoc uno non posunt dicere <mentioned>tantum unum est</mentioned>,
+            <lb ed="#T"/>quia tunc excluderet duo et tria et sic de allis, ascendendo
+            <lb ed="#T"/>ut <mentioned>tantum unum; non ergo duo neque tria</mentioned> et sic de allis. Unde ens
+            <lb ed="#T"/>est ibi res subiecta et unum est accidens et exclusio assignatur
+            con<lb ed="#T" break="no"/>venire utrique sive fleri ab utroque.</p>
+
+          <p xml:id="phsyn-t3-d1e195"><pc type="#pilcrow"/>Ad aliud autem quod obicit
+          <lb ed="#T"/>per regulam convertibilium, dicendum quod regula debet intelligi remoto accidente,
+            <lb ed="#T"/>sicut et ille regule omnes. Quamvis enim regula sits sive maxima: <seg type="maxima">quicquid predicatur
+            <lb ed="#T"/>de diffinitione, et de deffinito</seg>, non tamen sequitur <mentioned>animal rationale mortale est
+            <lb ed="#T"/>diffinitio; ergo homo est diffinitio</mentioned>, quod est propter accidens, quod impedit.</p>
+
+          <p xml:id="phsyn-t3-d1e201"><pc type="#pilcrow"/>
+            Cir<lb ed="#T" break="no"/>ca tertium queritur quot sint partes exclusionis. Et solent poni
+            <lb ed="#T"/>due, quia ponitur duplex exclusio: una enim generalis et altera specialis.
+            Ge<lb ed="#T" break="no"/>neralis exclusio ponitur coniniuniter quando excluditur diversum genere;
+            specia<lb ed="#T" break="no"/>lis vero quando excluditur diversum specie. <pc type="#pilcrow"/>Sed contra. <mentioned>Diversum</mentioned> dicitur tripliciter
+            <lb ed="#T"/>diversum genere, diversum specie, diversum numero. Ergo si exclusio
+            <lb ed="#T"/>dicitur generalis quia diversa genere excluduntur et specialis quia diversa
+            <lb ed="#T"/>specie excluduntur, ergo debet esse alia exclusio numeralis eoquod
+            di<lb ed="#T" break="no"/>versa numero excluduntur. Ergo non solum erunt due species, sive
+            <lb ed="#T"/>due partes, exclusionis sed etiam erunt ties.</p>
+
+          <p xml:id="phsyn-t3-d1e204"><pc type="#pilcrow"/>Et dicendum quod non
+            <lb ed="#T"/>sunt nisi due partes exclusionis, scilicet generalis et specialis. Sed non dicitur
+            ex<lb ed="#T" break="no"/>clusio generalis eoquod diversa genere excludantur, sed quia
+            ex<lb ed="#T" break="no"/>cluduntur a subiecto aliquo omnia que communicant in aliquo genere,
+            <lb ed="#T"/>sive in aliquo generali ad omnia que sunt sicut in ente. Unde
+            <lb ed="#T"/>hoc modo sensus huius <mentioned>solus Sortes currit</mentioned> est talis: <!--Sortes..ens is in italic in Rijk-->Sortes currit et nichil
             <cb ed="#T" n="b"/>
-            <lb ed="#T"/>
-            alium vel nullum aliud ens. Item. Specialis exclusio non dicitur eoquod excludatur
-            diversum specie sicut dicebatur, sed dicitur exclusio specialis quando ab aliquo
-            subiecto excluduntur quecumque communicant cum eo in aliqua specie, sive in aliquo
-            speciali. Et hoc modo sensus huius ‘solus Sortes currit’ est talis: <!--Sortes..homo is in italic-->Sortes curris et
-            nullus alius homo, ut excludantur alii particulares homines qui commnunicant cum
-            Sorte in homine. Et similiter ‘solus homo currit’, idest <!--homo..animal is in italic-->homo currit et nullum aliud
-            anima quia animalia communicant cum homine in animali. Et hec est specialis
-            exclusio. Si autem [IT5Ora] sensus huius ‘solus homo currit’ fuerit talis: <!--homo..aliud is in italic-->homo
-            currit et nichil aliud tunc est exclusio generalis.</p>
-          <p xml:id="phsyn-t3-d1e207">Ex predictis patet quod idem numero non potest excludi, vel
-            ea que communicant in eodem numero. Quia cum dicitur ‘solus homo currit’, ista ponit
-            quod homo currit, per regulam datam, que talis est <seg type="rule">omnis
-            exdusiva vera relinquit steam preiacentesn veram</seg> Et si excluderetur idem
-            numero cum homine, vel animal rationale mortale. Et
-            sic esset sensus solus homo currit et nullum risibile vel nullum animal rationale
-            mortale. Secundum hoc ponitur contradictio et ob hoc non potest fieri
-            exclusio numeralis.</p>
-          <p xml:id="phsyn-t3-d1e213">Ex predictis patet cum quecumque sunt diversa genere
-            vel diversa specie vel diversa numero, communicent in aliquo genere alia
-            omnia, Ut in ente, vel in aliquo<!--vel in aliquo between <>--> speciali sub ente, quia non possunt esse
-            nisi due partes exclusionis, scilicet generalis exclusio et specialis.</p>
+            <lb ed="#T"/>alium vel nullum aliud ens. <pc type="#pilcrow"/>Item. Specialis exclusio non dicitur
+            eo<lb ed="#T" break="no"/>quod excludatur diversum specie sicut dicebatur, sed dicitur exclusio
+            specia<lb ed="#T" break="no"/>lis quando ab aliquo subiecto excluduntur quecumque communicant cum eo in
+            <lb ed="#T"/>aliqua specie, sive in aliquo speciali. Et hoc modo sensus huius <mentioned>solus Sortes currit</mentioned>
+            <lb ed="#T"/>est talis: <!--Sortes..homo is in italic in rijk-->Sortes curris et nullus alius homo, ut excludantur alii particulares
+            <lb ed="#T"/>homines qui commnunicant cum Sorte in homine. Et similiter <mentioned>solus homo currit</mentioned>, idest <!--homo..animal is in italic in Rijk-->homo currit
+            <lb ed="#T"/>et nullum aliud anima quia animalia communicant cum homine in animali. Et hec est
+            spe<lb ed="#T" break="no"/>cialis exclusio. Si autem sensus huius <mentioned>solus homo currit</mentioned> fuerit talis: <!--homo..aliud is in italic in Rijk-->homo currit et
+            <lb ed="#T"/>nichil aliud tunc est exclusio generalis.</p>
+
+          <p xml:id="phsyn-t3-d1e207"><pc type="#pilcrow"/>Ex predictis patet quod idem numero
+            <lb ed="#T"/>non potest excludi, vel ea que communicant in eodem numero. Quia cum dicitur
+            <mentioned>so<lb ed="#T" break="no"/>lus homo currit</mentioned>, ista ponit quod homo currit, per regulam datam, que talis est <seg type="rule">omnis
+            ex<lb ed="#T" break="no"/>clusiva vera relinquit steam preiacentesn veram</seg> Et si excluderetur idem
+            <lb ed="#T"/>numero cum homine, vel animal rationale mortale. Et sic esset sensus solus homo currit
+            <lb ed="#T"/>et nullum risibile vel nullum animal rationale mortale. Secundum hoc ponitur contradictio
+            <lb ed="#T"/>et ob hoc non potest fieri exclusio numeralis.</p>
+
+          <p xml:id="phsyn-t3-d1e213"><pc type="#pilcrow"/>Ex predictis patet cum
+          que<lb ed="#T" break="no"/>cumque sunt diversa genere vel diversa specie vel diversa numero,
+            communi<lb ed="#T" break="no"/>cent in aliquo genere alia omnia, Ut in ente, vel in aliquo<!--vel in aliquo between <> in Rijk-->
+            <lb ed="#T"/>speciali sub ente, quia non possunt esse nisi due partes
+            exclusio<lb ed="#T" break="no"/>nis, scilicet generalis exclusio et specialis.</p>
         </div>
+
         <div xml:id="phsyn-t3-Dd1e216">
-          <head xml:id="phsyn-t3-Hd1e218">De quibusdam regulis</head>
-          <p xml:id="phsyn-t3-d1e221">De speciali exclusione solet dan talis regula: <seg
-              type="rule">quotienscumque fit specialis exclusio, non tenet argumentum ab inferiori ad
-            superius cum dictione exclusiva neque a superior ad inferius, neque a parte subiecti
-            neque a parte predicati <!--rule in italic and separated from the text-->.</seg>
-            Ut ‘solus Sortes currit; ergo solus homo currit’. Et similiter si fiat processus
-            a parte predicati, Ut ‘solus Sortes currit; ergo solus
-            Sortes movetur’, semper est ibi fallacia consequentis. Et sic patet quod non tenet
-            huiusmodi argumentatio, quia posito quod solis Sortes currat et quidam equus, tunc
-            hec est vera ‘solus Sortes currit’, faciendo specialem exclusionem, quia sensus est
-            <!--Sortes..homo is in italic-->Sortes currit et nullus alius homo; hec falsa ‘solus homo currit’, faciendo
-            specialem exclusionem, quia sensus est homo currit et nullum aliud animal, quod falsum
-            est, cum equus currat. Similiter a parte predicati, quia posito quod solus Sortes
-            currat et Plato moveatur sed non currat, tunc hec est vera ‘solus Sortes currit’, hec
-            autem falsa ‘solus Sortes movetur’. Et sic patet quod nullum est argumentum
-            Quod vero ibi sit consequens patet, quia premissa in se claudit unam
-            affirmativam et alteram negativam, ut ‘solus Sortes currit’, idest Sortes currit et
-            nullus alius homo et ‘solus homo currit’, idest homo curit et nullum aliud animal Et
-            propter negativam non tenet ab inferiori ad superius, sed est ibi consequens ab
-            inferiori ad superius negando. Et’ propter affirmativas non tenet a superiori ad
-            inferius.</p>
-          <p xml:id="phsyn-t3-d1e227">De generali exclusione talis datur regula: <seg
-              type="rule">quotienscumque fit generalis exclusio, bene tenet argumentum ab inferiori
-            ad superius cum dictione exclusiva a parte subiecti si non a parte predicati.</seg> Ut
-            ‘solus Sortes currit; ergo solus homo currit’, quia prima claudit intra se istas
-            ‘Sortes currit’ et ‘nichil aliud a Sorte currit’, et propositio illata claudit intra se
-            istas ‘homo currit’ et ‘nichil aliud ab homine currit’. Sed ratione
-            affirmativarum bene sequitur ‘Sortes currit; ergo homo currit’. Et ratione
-            negativarum bene
+          <head xml:id="phsyn-t3-Hd1e218"><supplied>De quibusdam regulis</supplied></head>
+          <p xml:id="phsyn-t3-d1e221"><pc type="#pilcrow"/>De speciali exclusione solet
+            <lb ed="#T"/>dari talis regula: <seg type="rule"><pc type="#pilcrow"/>quotienscumque fit specialis exclusio, non tenet
+            <lb ed="#T"/>argumentum ab inferiori ad superius cum dictione exclusiva neque a superior
+            <lb ed="#T"/>ad inferius, neque a parte subiecti neque a parte predicati <!--rule in italic and separated from the text in RIjk-->.</seg>
+            Ut <mentioned>solus Sortes currit;
+            <lb ed="#T"/>ergo solus homo currit</mentioned>. Et similiter si fiat processus a parte predicati, Ut <mentioned>solus
+            <lb ed="#T"/>Sortes currit; ergo solus Sortes movetur</mentioned>, semper est ibi fallacia consequentis. Et sic patet quod non
+            <lb ed="#T"/>tenet huiusmodi argumentatio, quia posito quod solis Sortes currat et quidam equs,
+            <lb ed="#T"/>tunc hec est vera <mentioned>solus Sortes currit</mentioned>, faciendo specialem exclusionem, quia sensus est
+            <!--"Sortes..homo" italic in RIjk--><lb ed="#T"/>Sortes currit et nullus alius homo; hec falsa <mentioned>solus homo currit</mentioned>, faciendo
+            spatia<lb ed="#T" break="no"/>lem exclusionem, quia sensus est homo currit et nullum aliud animal,
+            <lb ed="#T"/>quod falsum est, cum equus currat. Similiter a parte predicati, quia posito
+            <lb ed="#T"/>quod solus Sortes currat et Plato moveatur sed non currat, tunc hec
+            <lb ed="#T"/>est vera <mentioned>solus Sortes currit</mentioned>, hec autem falsa <mentioned>solus Sortes movetur</mentioned>. Et sic patet quod
+            <lb ed="#T"/>nullum est argumentum Quod vero ibi sit consequens patet, quia premissa in se
+            <lb ed="#T"/>claudit unam affirmativam et alteram negativam, ut
+            <mentioned>so<lb ed="#T" break="no"/>lus Sortes currit</mentioned>, idest Sortes currit et nullus alius homo et <mentioned>solus homo currit</mentioned>, idest
+            <lb ed="#T"/>homo currit et nullum aliud animal. Et propter negativam non tenet ab
+            <lb ed="#T"/>inferiori ad superius, sed est ibi consequens ab inferiori ad superius
+            ne<lb ed="#T" break="no"/>gando. Et propter affirmativas non tenet a superiori ad
+            inferius.
+          </p>
+          <p xml:id="phsyn-t3-d1e227">
+            De
+            <lb ed="#T"/>generali exclusione talis datur regula: <seg type="rule"><pc type="#pilcrow"/>quotienscumque fit
+            genera<lb ed="#T" break="no"/>lis exclusio, bene tenet argumentum ab inferiori ad superius cum dictione
+            <lb ed="#T"/>exclusiva a parte subiecti si non a parte predicati.</seg> Ut <mentioned>solus Sortes currit;
+            <lb ed="#T"/>ergo solus homo currit</mentioned>, quia prima claudit intra se istas <add place="right-margin">duas</add> <mentioned>Sortes currit</mentioned>
+            <lb ed="#T"/>et <mentioned>nichil aliud a Sorte currit</mentioned>, et propositio illata claudit intra se istas <add place="right-margin">duas</add>
+            <lb ed="#T"/><mentioned>homo currit</mentioned> et <mentioned>nichil aliud ab homine currit</mentioned>. Sed ratione affirmativarum bene
+            <lb ed="#T"/>sequitur <mentioned>Sortes currit; ergo homo currit</mentioned>. Et ratione negativarum bene
             <pb ed="#T" n="31r"/>
             <cb ed="#T" n="a"/>
-            <lb ed="#T"/>sequitur ‘nichil aliud a Sorte currit; ergo nichil aliud ab
-            homine currit’. Ergo bene sequitur a parte subiecti faciendo generale exclusionem,
-            Ut ‘solus Sortes currit; ergo solus homo currit’.</p>
+            <lb ed="#T"/>sequitur <mentioned>nichil aliud a Sorte currit; ergo nichil aliud ab homine currit</mentioned>.
+            <lb ed="#T"/>Ergo bene sequitur a parte subiecti faciendo generale exclusionem, ut
+            <mentioned>so<lb ed="#T" break="no"/>lus Sortes currit; ergo solus homo currit</mentioned>.
+          </p>
         </div>
         <div xml:id="phsyn-t3-Dd1e233">
-          <head xml:id="phsyn-t3-Hd1e234">Que sint ea que debent excludi</head>
-          <p xml:id="phsyn-t3-d1e237">Circa dictiones exclusivas querebatur, descendendo ad
-            ‘unam de quatuor causis exclusionis, scilicet ad illud quod exclu ditur. Et queritur
-            5quid sit illud quod excluditur.Et illa questio continet 8sub se alias septem.
-            Prima est utrum dictio exclusiva ad dita ‘enti’ possit excludere aliquid. Ut
-            ‘tantum ens est et nichil aliud est’. Et similiter si adiungatur aliis
-            terminis qui convertuntur cum ‘ente’, ut sunt ista aliquid’ ‘, ‘unum’, ‘res’.
-            Secunda questio est magis descendendo, scilicet utrum dictio exclusiva adiuncta unil
-            generalissimo excludat alia et econverso, ut ‘tantum, substantia; non ergo quantitas'
-            vel econverso. Tertia questio est specialior omnibus predictis, scilicet utrum
-            dictio exclusiva addita speciei unius predicamenti possit excludere species alterius
-            predicamenti, ut ‘tantum homo; non ergo color vel albedo. Quarta questio est
-            utrum dictio exclusiva addita alicui speciei unius predicamenti possit excludere
-            alias species eiusdem predicamenti, Ut ‘tantum homo; non ergo equus’,
-            ‘tantum color; non ergo scientia’, et sic in unoquoque predicamento. Et hec
-            specialior est omnibus predictis. Et istas quatuor questiones intelligo in terminis
-            substantialibus dicentibus quid, sive que predicantur in quid, sicut species et
-            genera uniuscuiusque predicamenti. Quinta questio est utrum dictio exclusiva addita
-            termino accidentali excludat alios terminos accidentales, Ut ‘tantum coloratum; non
-            ergo sanum’. Sexta questio est utrum dictio ecclusiva addita uni oppositorum
-            excludat alterum in quolibet genere oppositionis, ut ‘tantum album; non
-            ergo nigrum’ et ‘tantum videns; non ergo cecus’ et sic de aliis. Septima questio
-            est utrum dictio exclusiva addita parte excludat totum (vel econverso) vel
-            addita maiori numero excludat minorem. (vel econverso), ut ‘tantum panes; non
-            ergo domus’ et tantum tria; non ergo duo’.</p>
+          <head xml:id="phsyn-t3-Hd1e234"><supplied>Que sint ea que debent excludi</supplied></head>
+          <p xml:id="phsyn-t3-d1e237">
+            <pc type="#pilcrow"/>Circa dictiones exclusivas
+            <lb ed="#T"/>querebatur, descendendo ad unam de quatuor causis exclusionis,
+            <lb ed="#T"/>scilicet ad illud quod excluditur. Et queritur quid sit illud quod excluditur.
+            <lb ed="#T"/>Et illa questio continet sub se alias septem. <pc type="#pilcrow"/>Prima est utrum dictio
+            <lb ed="#T"/>exclusiva addita <mentioned>enti</mentioned> possit excludere aliquid. Ut tantum ens est
+            <lb ed="#T"/>et nichil aliud est. Et similiter si adiungatur aliis terminis qui convertuntur cum
+            <lb ed="#T"/><mentioned>ente</mentioned>, ut sunt ista aliquid, <mentioned>unum</mentioned>, <mentioned>res</mentioned>. <pc type="#pilcrow"/> Secunda questio est
+            <lb ed="#T"/>magis descendendo, scilicet utrum dictio exclusiva adiuncta uni generalissimo
+            <lb ed="#T"/>excludat alia et econverso, ut tantum, substantia; non ergo quantitas vel econverso. <pc type="#pilcrow"/>Tertia
+            <lb ed="#T"/>questio est specialior omnibus predictis, scilicet utrum dictio exclusiva addita
+            <lb ed="#T"/>speciei unius predicamenti possit excludere species alterius predicamenti, ut
+            <lb ed="#T"/><mentioned>tantum homo; non ergo color vel albedo</mentioned>. <pc type="#pilcrow"/>Quarta questio est utrum
+            <lb ed="#T"/>dictio exclusiva addita alicui speciei unius predicamenti possit excludere
+            <lb ed="#T"/>alias species eiusdem predicamenti, Ut <mentioned>tantum homo; non ergo equus</mentioned>, <mentioned>tantum
+            co<lb ed="#T" break="no"/>lor; non ergo scientia</mentioned>, et sic in unoquoque predicamento. Et hec specialior
+            <lb ed="#T"/>est omnibus predictis. Et istas quatuor questiones intelligo in terminis
+            substantia<lb ed="#T" break="no"/>libus dicentibus quid, sive que predicantur in quid, sicut species et genera
+            <lb ed="#T"/>uniuscuiusque predicamenti. <pc type="#pilcrow"/>Quinta questio est utrum dictio exclusiva
+            <lb ed="#T"/>addita termino accidentali excludat alios terminos accidentales, Ut
+            <lb ed="#T"/><mentioned>tantum coloratum; non ergo sanum</mentioned>. <pc type="#pilcrow"/>Sexta questio est utrum dictio
+            <lb ed="#T"/>exclusiva addita uni oppositorum excludat alterum in quolibet
+            <lb ed="#T"/>genere oppositionis, ut <mentioned>tantum albm; non ergo nigrum</mentioned> et <mentioned>tantum videns; non
+            <lb ed="#T"/>ergo cecus</mentioned> et sic de aliis. <pc type="#pilcrow"/>Septima questio est utrum dictio
+            <lb ed="#T"/>exclusiva addita parte excludat totum (vel econverso) vel addita
+            <lb ed="#T"/>maiori numero excludat minorem. (vel econverso), ut <mentioned>tantum paries; non
+            <lb ed="#T"/>ergo domus</mentioned> et tantum tria; non ergo duo.
+          </p>
         </div>
         <div xml:id="phsyn-t3-Dd1e240">
-          <head xml:id="phsyn-t3-Hd1e241">Utrum dictia exclusiva addita ‘enti ‘possit excludere
-            aliquid</head>
-          <p xml:id="phsyn-t3-d1e244">Circa primum obicitur quod dictio exclusiva addita
-            suis convertibilibus nichil potest excludere, quia quod excluditur, debet
-            communicare cum eo a quo fit exclusio in aliquo generali vel in aliquo speciali.
-            Sed nichil potest communicare cum ente in aliquo generali sive speciali supra ens
-            duplici de causa, vel quia nichil est aliud ab ente vel quia nichil aliud
-            est supra ens. Ergo nichil potest excludi ab ente. Ergo dictio exclusiva adiuncta
-            ‘enti’ nichil potest excludere. Item ad idem. Dictio exclusiva non potest excludere
-            nisi quod est extra terminum cui adiungitur, Ut ‘tantum homo; non ergo asinus’, quia
-            asinus extra hominem est. Sed nichil est extra ens. Ergo dictio exclusiva adiuncta
-            ‘enti’ nichil potest excludere.</p>
-          <p xml:id="phsyn-t3-d1e247">Item ad idem. Nichil potest excludi nisi quod est diversum
-            quoad naturalem suppositionem (Ut ‘tantum homo; non ergo asinus’) vel diversum
-            quo ad quandam suppositionem accidentalem ut quoad eam que fit per aliquid
-            restringens terminum ex eadem parte (Ut ‘tantum homo albus; non ergo niger’). Ex hoc
-            patet quod ab aliquo termine non restricto per aliquid ex eadem parte sed simpliciter
-            sumpto nichil potest excludi nisi quoad naturalem suppositionem
-            <del rend="erasure" hand="N1">naturaliter enim supponuntur per terminum tam
-            entia quam non entia unde exclusio non solum est de ente sed etiam de non ente
-            quoad naturalem suppositionem</del>.Sed ab ente simpliciter sumpto
+          <head xml:id="phsyn-t3-Hd1e241">
+            <supplied>Utrum dictia exclusiva addita <mentioned>enti</mentioned> possit excludere aliquid</supplied>
+          </head>
+          <p xml:id="phsyn-t3-d1e244">
+            <pc type="#pilcrow"/>Circa primum obicitur
+            <lb ed="#T"/>quia dictio exclusiva addita suis convertibilibus nichil potest excludere,
+            <lb ed="#T"/>quia quod excluditur, debet communicare cum eo a quo fit exclusio
+            <lb ed="#T"/>in aliquo generali vel in aliquo speciali. Sed nichil potest communicare
+            <lb ed="#T"/>cum ente in aliquo generali sive speciali supra
+            <lb ed="#T"/>ens duplici
+            <lb ed="#T"/>de causa, vel quia nichil est aliud ab ente vel quia nichil aliud est supra
+            <lb ed="#T"/>ens. Ergo nichil potest excludi ab ente. Ergo dictio exclusiva
+            ad<lb ed="#T" break="no"/>iuncta <mentioned>enti</mentioned> nichil potest excludere. <pc type="#pilcrow"/>Item ad idem. Dictio exclusiva non potest
+            <lb ed="#T"/>excludere nisi quod est extra terminum cui adiungitur, Ut <mentioned>tantum
+            <lb ed="#T"/>homo; non ergo asinus</mentioned>, quia asinus extra hominem est. Sed nichil est extra ens. Ergo dictio
+            <lb ed="#T"/>exclusiva adiuncta <mentioned>enti</mentioned> nichil potest excludere.
+          </p>
+          <p xml:id="phsyn-t3-d1e247">
+            <pc type="#pilcrow"/>Item ad idem.
+            <lb ed="#T"/>Nichil potest excludi nisi quod est diversum quo ad naturalem subpositionem (Ut
+            <lb ed="#T"/><mentioned>tantum homo; non ergo asinus</mentioned>) vel diversum quo ad quandam <add place="left-margin">suppositionem</add> accidentalem ut quo ad
+            <lb ed="#T"/>eam que fit per aliquid restringens terminum ex eadem parte (Ut <mentioned>tantum
+            <lb ed="#T"/><add place="left-margin">homo</add> albus; non ergo niger</mentioned>). <pc type="#pilcrow"/>Ex hoc patet quod ab aliquo termine non
+            restri<lb ed="#T" break="no"/>cto per aliquid ex eadem parte sed simpliciter sumpto nichil potest excludi
+            <lb ed="#T"/>nisi quo ad naturalem suppositionem. Sed ab ente simpliciter sumpto
             <cb ed="#T" n="b"/>
-            <lb ed="#T"/>nichil est diversum quoad naturalem suppositionem.
-            Ergo ab elite simpliciter sumpto et predicta restrictione non restricto sive non
-            cohartato nichil potest excludi. Ergo dictio exclusiva addita ‘enti’ nichil potest
-            excludere. Item. Quicquid est ens, est, et quicquid’ 3est, est ens. Ergo
-            convertibile sunt ‘ens’ et ‘esse’. Sed nichil est dictu ‘tantum esse’ nec’
-            aliquid excluditur. Ergo nichil est dictu ‘tantum ens’ neque aliquid excluditur.</p>
-          <p xml:id="phsyn-t3-d1e250">Solutio. Dictio exclusiva adiuncta ‘enti’ excludit aliquid,
-            quia excludit omnia alia quoad naturalem suppositionem eorum que sunt diversa ab ente
-            et a naturali suppositione eorum pie convertuntur cum ente, quia naturalis suppositio
-            non solum est de ente sed etiam de non-ente. Naturaliter enim supponuntur per
-            terminum tam entia quam non-en tia. Unde exclusio non solum est de ente sed etiam de
-            non-ente. Unde sequitur ‘tantum ens est; ergo nichil aliud ab ente est’.</p>
-          <p xml:id="phsyn-t3-d1e253">Ad illud quod primo obicit dicenthim quod convertit consequentiam.
-            Unde peccat secundum consequens, quia quicquid communicat in aliquo
-            generali vel in aliquo speciali cum eo a quo fit exclusio, debet excludi, et non
-            econverso. Non enim oportet quod illud quod excluditur, sive quicquid excluditur,
-            colnmunicet cum eo a quo fit exclusio in aliquo generali vel in aliquo speciali. Quare
-            convertit consequentiam. Sicut hic:‘quicquid est homo, est animal’; et non oportet
-            quod quicquid est animal quod sit homo. Sicut enim animal in pluribus est quam
-            homo, sic excludit in pluribus quam communicantibus in speciali vel in
-            generali cum eo a quo fit exclusio, quia est in istis et in non-communicantibus.
-            unde non oportet quod si aliquid excludatur ab ente quod communicet cum eo in aliquo
-            generali vel speciali’ quia convertit consequentialti.</p>
-          <p xml:id="phsyn-t3-d1e256">Ad secundum dicendum quod hec est duplex ‘dictio exclusiva
-            nichil potest excludere nisi quod est extra terminum’ ,quia ‘esse extra terminum’
-            multipliciter est, quia vel quoad essentiam (sicut alia est essentia equi et alia
-            hominis) vel quoad naturalem suppositionem (sicut equus non continetur in naturali
-            suppositione hominis nec econverso). Unde dico quod quando fit exclusio generalis,
-            excluduntur ea que sunt extra terminum quoad naturalem suppositionem tam entium
-            9quam non-entium. Sed quando fit specialis exclusio, excluduntur ea que sunt extra
-            terminum quoad naturalem suppositionem entium communicantium cum jib a quo fit
-            exclusio in aliquo speciali. Unde licet aliquando excludantur ea que sunt extra
-            terminum quoad essentiales (Ut ‘tantum homo; non ergo asinus’), tam en non
-            excluduntur inquantum sunt extra terminum quoad’ naturales essentias sed inquantum
-            sunt extra terminum quoad naturalem suppositionem. Unde licet dico quod, licet quoad
-            essentias nichil sit extra ens, quiam esse natura<choice>
-            <sic> esse natura</sic>
-            <corr>essentia</corr>
-          </choice> <!--correction proposed by Rijk supported by other mss-->
-            solum est entium, tamen quoad naturalem suppositionem aliquid est extra ens.
-            Et sic dictio exclusiva adiuncta ‘end’ aliquid potest excludere.</p>
-          <p xml:id="phsyn-t3-d1e260">Ad tertium. Solvendum per interemptionem, quia ‘aliquid’
-            est [W5lra] extra naturalem suppositionem entis, quia (Ut dictum est) non solum
-            supponuntur entia sed etiam non-entia per terminum. Ad ultimum autem dicendum quod
-            non potest fieri exclusio ab hoc actu ‘esse’, quia iste actus ‘esse’ comprehendit sub
-            se omnem alium actum, sicut consequens comprehendit sub se quodlibet suum ante
-            cedens. Et ideo nullus
+            <lb ed="#T"/>nichil est diversum quoad naturalem suppositionem naturaliter enim
+            <lb ed="#T"/>subponuntur per terminum tam entia quam non entia unde exclusio
+            <lb ed="#T"/>non solum est de ente sed etiam de non ente quo ad naturalem
+            suppositio<lb ed="#T" break="no"/>nem <add place="above-line"><unclear>est</unclear></add>. Ergo ab elite simpliciter sumpto et predicta restrictione non restricto
+            <lb ed="#T"/>sive non cohartato nichil potest excludi. Ergo dictio exclusiva
+            add<lb ed="#T" break="no"/>ita <mentioned>enti</mentioned> nichil potest excludere. <pc type="#pilcrow"/>Item. Quicquid est ens, est, et quicquid est,
+            <lb ed="#T"/>est ens <add place="above-line">est</add>. Ergo convertibile sunt <mentioned>ens</mentioned> et <mentioned>esse</mentioned>. Sed nichil est dictu <mentioned>tantum esse</mentioned> nec
+            <lb ed="#T"/>aliquid excluditur. Ergo nichil est dictu <mentioned>tantum ens</mentioned> neque aliquid excluditur.
+          </p>
+          <p xml:id="phsyn-t3-d1e250">
+            <pc type="#pilcrow"/>Solutio.
+            <lb ed="#T"/>Dictio exclusiva adiuncta <mentioned>enti</mentioned> excludit aliquid, quia excludit omnia
+            <lb ed="#T"/>alia quoad naturalem suppositionem eorum que sunt diversa ab ente et a
+            <lb ed="#T"/>naturali suppositione eorum pie convertuntur cum ente, quia naturalis suppositio non
+            <lb ed="#T"/>solum est de ente sed etiam de non-ente. <add place= "right margin"> Naturaliter enim supponuntur per terminum tam entia quam non-entia unde exclusio non solum est de ente sed etiam de non ente
+            quo ad naturalem suppositionem. Sed ab ente simpliciter sumpto nichil est diversum</add>. Unde sequitur <mentioned>tantum ens est;
+            <lb ed="#T"/>ergo nichil aliud ab ente est</mentioned>.
+          </p>
+          <p xml:id="phsyn-t3-d1e253">
+            <pc type="#pilcrow"/>Ad illud quod primo obicit dicendum quod convertit
+            con<lb ed="#T" break="no"/>sequentiam. Unde peccat secundum consequens, quia quicquid communicat in aliquo
+            genera<lb ed="#T" break="no"/>li vel in aliquo speciali cum eo a quo fit exclusio, debet excludi,
+            <lb ed="#T"/>et non econverso. Non enim oportet quod illud quod excluditur, sive quicquid excluditur,
+            <lb ed="#T"/>communicet cum eo a quo fit exclusio in aliquo generali vel in aliquo
+            <lb ed="#T"/>speciali. Quare convertit consequentiam. Sicut hic:<mentioned>quicquid est homo, est animal</mentioned>; et non
+            <lb ed="#T"/>oportet quod quicquid est animal quod sit homo. Sicut enim animal in pluribus est quam homo,
+            <lb ed="#T"/>sic excludit in pluribus quam communicantibus in speciali vel in
+            genera<lb ed="#T" break="no"/>li cum eo a quo fit exclusio, quia est in istis et in
+            non-communican<lb ed="#T" break="no"/>tibus. Unde non oportet quod si aliquid excludatur ab ente quod communicet
+            <lb ed="#T"/>cum eo in aliquo generali vel speciali quia convertit consequentialti.
+          </p>
+          <p xml:id="phsyn-t3-d1e256">
+            <lb ed="#T"/><pc type="#pilcrow"/>Ad secundum dicendum quod hec est duplex <mentioned>dictio exclusiva nichil potest excludere nisi quod
+            <lb ed="#T"/>est extra terminum</mentioned>, quia <mentioned>esse extra terminum</mentioned> multipliciter est, quia vel quo ad
+            <lb ed="#T"/>essentiam (sicut alia est essentia equi et alia hominis) vel quoad naturalem
+            <lb ed="#T"/>suppositionem (sicut equus non continetur in naturali suppositione hominis nec econverso).
+            <lb ed="#T"/>Unde dico quod quando fit exclusio generalis, excluduntur ea que sunt
+            <lb ed="#T"/>extra terminum quoad naturalem suppositionem tam entium quam non-entium.
+            <lb ed="#T"/>Sed quando fit specialis exclusio, excluduntur ea que sunt extra terminum
+            <lb ed="#T"/>quo ad naturalem suppositionem entium communicantium cum illo a quo fit
+            <lb ed="#T"/>exclusio in aliquo speciali. Unde licet aliquando excludantur ea que
+            <lb ed="#T"/>sunt extra terminum quoad essentiales (Ut <mentioned>tantum homo; non ergo asinus</mentioned>),
+            <lb ed="#T"/>tam en non excluduntur inquantum sunt extra terminum quo ad
+            natura<lb ed="#T" break="no"/>les essentias sed in quantum sunt extra terminum quoad naturalem
+            <lb ed="#T"/>suppositionem. Unde licet dico quod, licet quo ad essentias nichil sit extra ens,
+            <lb ed="#T"/>quiam <choice><sic> esse natura</sic> <corr>essentia</corr></choice> <!--correction proposed by Rijk supported by other mss--> solum est entium, tamen quo ad naturalem suppositionem aliquid
+            <lb ed="#T"/>est extra ens. Et sic dictio exclusiva adiuncta <mentioned>end</mentioned> aliquid potest
+            <lb ed="#T"/>excludere.
+          </p>
+          <p xml:id="phsyn-t3-d1e260">
+            <pc type="#pilcrow"/>Ad tertium. Solvendum per interemptionem, quia <mentioned>aliquid</mentioned>
+            <lb ed="#T"/>est extra naturalem suppositionem entis, quia (Ut dictum est) non solum
+            subpo<lb ed="#T" break="no"/>nuntur entia sed etiam non-entia per terminum. <pc type="#pilcrow"/>Ad ultimum
+            <lb ed="#T"/>autem dicendum quod non potest fieri exclusio ab hoc actu <mentioned>esse</mentioned>, quia iste
+            <lb ed="#T"/>actus <mentioned>esse</mentioned> comprehendit sub se omnem alium actum, sicut consequens
+            <lb ed="#T"/>comprehendit sub se quodlibet suum antecedens. Et ideo nullus
             <pb ed="#T" n="31-v"/>
             <cb ed="#T" n="a"/>
-            <lb ed="#T"/> alius actus potest excludi ab hoc actu ‘esse’. Sed quia
-            ‘ens’ non comprehendit sub se omne aliud suppositum sed solum supposita sua et
-            suarum partium (quia supposita non-entium impossibilium esse non comprehendit sub se,
-            ut vacui et infiniti et aliorum non-entium), et ideo possunt excludi ab ente, cum
-            exclusio fiat ab eo quoad naturalem suppositionem. Quod autem iste actus esse
-            comprehendat sub se omnem alium actum non quoad suppositionem sive predicationem sed
-            (Ut ita dicam) quoad antecessionem patet, quia omnes alii actus antecedunt ad istum,
-            Ut 'si currit, est’ et ‘si cogitat, est’ et ‘si dormit, est’</p>
+            <lb ed="#T"/>alius actus potest excludi ab hoc actu <mentioned>esse</mentioned>. Sed quia <mentioned>ens</mentioned>
+            <lb ed="#T"/>non comprehendit sub se omne aliud subpositum sed solum subposita
+            <lb ed="#T"/>sua et suarum partium (quia supposita non-entium impossibilium esse non
+            <lb ed="#T"/>comprehendit sub se, ut vacui et infiniti et aliorum non-entium),
+            <lb ed="#T"/>et ideo possunt excludi ab ente, cum exclusio fiat ab eo quo
+            <lb ed="#T"/>ad naturalem suppositionem. <pc type="#pilcrow"/>Quod autem iste actus esse <del rend="expunctuation">actus</del> comprehendat
+            <lb ed="#T"/>omnem alium actum sub se non quo ad suppositionem sive predicationem
+            <lb ed="#T"/>sed (Ut ita dicam) quo ad antecessionem patet, quia omnes alii actus
+            <lb ed="#T"/>antecedunt ad istum, Ut <mentioned>si currit, est</mentioned> et <mentioned>si cogitat, est</mentioned> et <mentioned>si dormit, est</mentioned>
+          </p>
         </div>
         <div xml:id="phsyn-t3-Dd1e264">
-          <head xml:id="phsyn-t3-Hd1e265">Utrum dictio exclusiva adiuncta uni generalissimo excludat
-            alterum</head>
-          <p xml:id="phsyn-t3-d1e268">Circa stecundum sic obicitur. Cum dictio exclusiva excludat
-            diversum quoad naturalem suppositionent et unum generalissi mum non sit de
-            suppositione alterius nec econverso (et sic sunt diversa quoad naturalem
-            suppositionem), ergo dictio exclusiva ad iuncta uni generalissimo excludit alterum et
-            econverso. Item ad idem. Dictio exclusiva excludit ea que sunt subiecto, sive
-            excludit diversa subiecta, ut ‘tantum gramatica; non ergo musica’. Sed diversa
-            g8eneralissima non possunt esse subiectum unum, immo sunt subiecta diversa.
-            Ergo dictio exclusiva acliuncta uni generalissimo excludit alterum et econverso.</p>
-          <p xml:id="phsyn-t3-d1e271">Sed contra. Dictio exclusiva non potest excludere quod’ intel
-            ligitur cui adiungitur, ut ‘tantum album non ergo corpus’
-            vel ‘taritum gramaticus disputat; non ergo homo disputat’, quia ‘album’ non dat intelligere
-            corpus et ‘5gramaticum’ dat intelligere hominem. Sed quantitas dat
-            intelligere substantiam. Ergo dictio exclusiva adiuncta quantitati
-            non postest excludere substantiam vel non excludit.
-            Ergo adiuncta uni generalissimo non excludit alterum. Item ad idem.
-            Onmis exclusiva ponit suam preiacentem. Et ideo sequitur ‘si tantum quantitas
-            est, quantitas est’. Et si quantitas est, substantia est, quia alia a substantia non
-            sunt nisi in substantia. Ergo posita quantitate, vel quolibet alio generalissimo,
-            necesse est ponere substan tiam. Ergo a primo: si tantum quantitas est, substantia
-            est; et sic de aliis generalissimis. Ergo dictio exclusiva adiuncta uni non excludit
-            alterum.</p>
-          <p xml:id="phsyn-t3-d1e274">Et dicendum quod dictio exclusiva adiuncta uni generalissimo
-            excludit alterum uno modo et alio modo non, ex eo quod generalissima alia a
-            substantia duas habent comparationes. Unam secundum abstractionem prout unumquodque
-            ordinatur secundum lineam predicamentalem in sua ordinatione ad omnes species eius
-            sive ad omnia individua sub ipso existentia. Et hoc modo potest fieri in quolibet
-            predicamento talis figura sicut illa que est in Substantia, que dicitur <ref>Arbor
-            Porphirii</ref>. Aliam autem habent concretionem ad substantia in qua stint;
-            et sic sumuntur omnia per modum accidentis. Sed secundum comparationem
-            primam sumuntur per modum essentie sive per modum eius quid est quid.</p>
-          <p xml:id="phsyn-t3-d1e277">Unde secundum primam comparationem dictio exclusiva adiuncta
-            uni generalissimo’ excludit alia generalissima et econverso; nisi quando faciunt
-            subiectum unum, quod in paucis accidit, Ut ‘tantum substantia est colorata’; hic non
-            excluditur superficies, quia superficieset substantia faciunt subiectum unum colons.
-            Unde nisi diversa
+          <head xml:id="phsyn-t3-Hd1e265"><supplied>Utrum dictio exclusiva adiuncta uni generalissimo excludat alterum</supplied></head>
+          <p xml:id="phsyn-t3-d1e268">
+            <pc type="#pilcrow"/>Circa secundum sic obicitur. Cum dictio exclusiva excludat
+            di<lb ed="#T" break="no"/>versum quo ad naturalem suppositionent et unum generalissimum non sit de
+            sub<lb ed="#T" break="no"/>positione alterius nec econverso (et sic sunt diversa quo ad naturalem subpositionem), ergo
+            <lb ed="#T"/>dictio exclusiva ad iuncta uni generalissimo excludit alterum et econverso.
+            <lb ed="#T"/><pc type="#pilcrow"/>Item ad idem. Dictio exclusiva excludit ea que sunt <subst><del rend="erasure"></del><add place="line">subiecto</add></subst>,
+            <lb ed="#T"/>sive excludit diversa subiecta, ut <mentioned>tantum gramatica; non ergo musica</mentioned>. Sed
+            <lb ed="#T"/>diversa generalissima non possunt esse subiectum unum, immo sunt subiecta
+            diver<lb ed="#T" break="no"/>sa. Ergo dictio exclusiva adiuncta uni generalissimo
+            ex<lb ed="#T" break="no"/>cludit alterum et econverso.
+          </p>
+          <p xml:id="phsyn-t3-d1e271">
+            <pc type="#pilcrow"/>Sed contra. Dictio exclusiva non potest excludere
+            <lb ed="#T"/>quod intelligitur  <add place="above-line">in subiecto</add> cui adiungitur, ut <mentioned>tantum album currit; non ergo corpus currit</mentioned> vel <mentioned>tantum
+            <lb ed="#T"/>gramaticus disputat; non ergo homo disputat</mentioned>, quia <mentioned>album</mentioned> dat
+            <lb ed="#T"/>intelligere corpus et <mentioned>gramaticum</mentioned> dat intelligere hominem. Sed
+            quan<lb ed="#T" break="no"/>titas <del rend="expunctuation">non</del> dat intelligere substantiam. Ergo dictio exclusiva adiuncta
+            <lb ed="#T"/>quantitati non postest excludere substantiam vel non excludit. Ergo adiuncta
+            <lb ed="#T"/>uni generalissimo non excludit alterum. <pc type="#pilcrow"/>Item ad idem.
+            <lb ed="#T"/>Omnis exclusiva ponit suam preiacentem. Et ideo sequitur <mentioned>si tantum quantitas
+            <lb ed="#T"/>est, quantitas est</mentioned>. Et si quantitas est, substantia est, quia alia a substantia non sunt
+            <lb ed="#T"/>nisi in substantia. Ergo posita quantitate, vel quolibet alio generalissimo,
+            ne<lb ed="#T" break="no"/>cesse est ponere substantiam. Ergo a primo: si tantum quantitas est, substantia est;
+            <lb ed="#T"/>et sic de aliis generalissimis. Ergo dictio exclusiva adiuncta
+            <lb ed="#T"/>uni non excludit alterum.
+          </p>
+          <p xml:id="phsyn-t3-d1e274"><pc type="#pilcrow"/>Et dicendum quod dictio exclusiva
+            ad<lb ed="#T" break="no"/>iuncta uni generalissimo excludit alterum uno modo et
+            <lb ed="#T"/>alio modo non, ex eo quod generalissima alia a substantia duas
+            <lb ed="#T"/>habent comparationes. Unam secundum abstractionem prout unumquodque
+            ordi<lb ed="#T" break="no"/>natur secundum lineam predicamentalem in sua ordinatione ad omnes
+            <lb ed="#T"/>species eius sive ad omnia individua sub ipso existentia. Et
+            <lb ed="#T"/>hoc modo potest fieri in quolibet predicamento talis figura sicut illa que
+            <lb ed="#T"/>est in Substantia, que dicitur <ref>Arbor Porphirii</ref>. Aliam autem habent
+            concreti<lb ed="#T" break="no"/>onem ad substantia in qua sunt; et sic sumuntur omnia per modum
+            acci<lb ed="#T" break="no"/>dentis. Sed secundum comparatio<lb ed="#T" break="no"/>nem primam sumuntur per modum essentie
+            <lb ed="#T"/>sive per modum eius quid est quid.</p>
+
+          <p xml:id="phsyn-t3-d1e277"> Unde secundum primam comparationem dictio
+            exclusi<lb ed="#T" break="no"/>va adiuncta uni generalissimo excludit alia generalissima
+            <lb ed="#T"/>et econverso; nisi quando faciunt subiectum unum, quod in paucis accidit, ut
+            <lb ed="#T"/><mentioned>tantum substantia est colorata</mentioned>; hic non excluditur superficies, quia
+            su<lb ed="#T" break="no"/>perficieset substantia faciunt subiectum unum coloris. Unde nisi diversa
             <cb ed="#T" n="b"/>
-            <lb ed="#T"/> predicamenta faciant subiectum unum, semper dictio
-            exclusiva adiuncta uni excludit alterum secundum hanc comparationem. Sed secundum
-            comparationem quam habent secundum concretionem ad subiectum, sic dictio exclusiva
-            adiuncta uni non excludit alterum. Unde cum dicitur ‘tantunt agens currit’, non
-            sequitur ‘gramaticum non currit’ vel ‘musicum’ vel ‘bicubitum’ vel 'tricubitum’ vel
-            ‘homo’, quia12 Sortes et est homo et est bicubitus (vel tricubitus) et
-            gramaticus (vel musicus) et est etiam agens. Unde dicendum breviter quod si
-            sumantur in concretione, dictio exclusiva adiuncta uni non excludit alterum.
-            Sed si sumantur in abstractione, tunc dictio exclusiva adiuncta uni excludit alterum,
-            [P59rb] nisi faciarit [N51va] subiectum unum.</p>
-          <p xml:id="phsyn-t3-d1e280">Ad1 duo prima argumenta dicendum 2quod bene tenent,
-            si sumantur in abstractione et non faciant subiectum unum. Ad
-            tertium argumentum dicendum quod unum intelligitur in altero multipliciter. Quia uno
-            modo unum intelligitur in altero essentialiter (Ut animal in homine) et4 tale exclusic
-            non excludit. Unde non sequitur ‘tantum homo currit; non ergo animal currit’. Alio
-            modo intelligitur unum in altero per dependentiam accidentis ad subiectum. Unde in
-            omni accidente intelligitur subiectum. Et hoc dupliciter. Quia accidens concretuni dat
-            intelligere subiectum (ut ‘albus’ dat intelligere corpus) et etiam accidens in
-            abstractione dat intelligere subiectum; color enim non potest esse nisi in subiecto
-            Unde sive accipiam colorem in con cretione (et sic proprie dicitur ‘coloratunt’)
-            sive in abstractione, sanper per ipsunt intelligitur corpus. Et similiter est de
-            aliis novem predicamentis, quia, sive intelligantur’ abstracta (Ut ‘quantitas’,
-            ‘qualitas’ et sic de aliis) sive concreta (Ut ‘quantum’, ‘quale’ et sic de aliis)
-            semper dtant intefligere substantiam. Dico ergo quod illud quod intelligitur in
-            accidente concreto non excluditur. Unde non sequitur ‘tantum album currit; non ergo
-            corpus’ et ‘tantum homo currit; non ergo animal’. Sed subiectunt quod intelligitur in
-            accidente abstracto, bene excluditur per dictionem exclusivam. Un de ‘tantum quantitas
-            est non ergo substantia’. Et hoc dicendo nisi illa duo abstracta faciant
-            subiectum unum alicuius accidentis (Ut dictum est prius), sicut homo et superficies
-            eius faciunt subiectum unum albedinis vel colons.</p>
-          <p xml:id="phsyn-t3-d1e284">Ad quartum dicimus quod revera omnis exclusio ponit suam
-            preiacentem eed in hac propositione ‘tantum quantitas est’ duo sunt, scilicet bee
-            dictio ‘tantunt’, que est dictio exclusiva, et illud cui adiungitur, scilicet
-            ‘quantitas’. Dico ergo quod dictio exclusiva excludit substantiam, sed quantitas ponit
-            ipsam Et ideo hec propositio ‘tantum quanthas e8st’ ponit contradictionem, quia
-            ponit sub s9tantiam esse et non esse. Ponit enim substantiam ratione quantitatis et
-            removet eam ratione exclusionis que additur ‘quantitati’.</p>
+            <lb ed="#T"/>predicamenta faciant subiectum unum, semper dictio exclusiva adiuncta
+            <lb ed="#T"/>uni excludit alterum secundum hanc comparationem. Sed secundum comparationem quam
+            <lb ed="#T"/>habent secundum concretionem ad subiectum, sic dictio exclusiva adiuncta uni non
+            <lb ed="#T"/>excludit alterum. Unde cum dicitur <mentioned>tantunt agens currit</mentioned>, non sequitur <mentioned>gramaticum
+            <lb ed="#T"/>non currit</mentioned> vel <mentioned>musicum</mentioned> vel <mentioned>bicubitum</mentioned> vel <mentioned>tricubitum</mentioned> vel <mentioned>homo</mentioned>, <del rend="expunctuation">uel</del> quia Sortes et est homo et est bicubitus (vel tricubitus) et
+            gra<lb ed="#T" break="no"/>maticus (vel musicus) et est etiam agens. Unde dicendum breviter quod si sumantur
+            <lb ed="#T"/>in concretione, dictio exclusiva adiuncta uni non excludit alterum.
+            <lb ed="#T"/>Sed si sumantur in abstractione, tunc dictio exclusiva adiuncta uni
+            <lb ed="#T"/>excludit alterum, nisi faciant subiectum unum.</p>
+
+          <p xml:id="phsyn-t3-d1e280"><add place="right-margin">Ad duo prima <lb ed="#T"/>argumenta <lb ed="#T"/>dicendum quod bene <lb ed="#T"/>tenent,
+            si su<lb ed="#T" break="no"/>mantur in abstra<lb ed="#T" break="no"/>ctione et non <lb ed="#T"/>faciant subiectum <lb ed="#T"/>unum.</add>
+            <pc type="#pilcrow"/>Ad tertium argumentum
+            <lb ed="#T"/>dicendum quod unum intelligitur in altero multipliciter. Quia uno modo unum intelligitur in
+            <lb ed="#T"/>altero essentialiter (ut animal in homine) et tale exclusio non excludit <add place="above-line">illud</add>.
+            <lb ed="#T"/>Unde non sequitur <mentioned>tantum homo currit; non ergo animal currit</mentioned>. <pc type="#pilcrow"/>Alio modo intelligitur
+            <lb ed="#T"/>unum in altero per dependentiam accidentis ad subiectum. Unde in omni
+            <lb ed="#T"/>accidente intelligitur subiectum. Et hoc dupliciter. Quia accidens dat concretum
+            <lb ed="#T"/>intelligere subiectum (ut <mentioned>albus</mentioned> dat intelligere corpus) et etiam accidens
+            <lb ed="#T"/>in abstractione dat intelligere subiectum; color enim non potest esse nisi
+            <lb ed="#T"/>in subiecto. Unde sive accipiam colorem in concretione (et sic proprie dicitur
+            <lb ed="#T"/><mentioned>coloratum</mentioned>) sive in abstractione, sanper per ipsunt intelligitur corpus. Et similiter
+            <lb ed="#T"/>est de aliis novem predicamentis, quia, sive intelligantur
+            abstrac<lb ed="#T" break="no"/>ta (ut <mentioned>quantitas</mentioned>, <mentioned>qualitas</mentioned> et sic de aliis) sive concreta (ut
+            <lb ed="#T"/><mentioned>quantum</mentioned>, <mentioned>quale</mentioned> et sic de aliis) semper dant intefligere substantiam.
+            Di<lb ed="#T" break="no"/>co ergo quod illud quod intelligitur in accidente concreto non excluditur.
+            <lb ed="#T"/>Unde non sequitur <mentioned>tantum album currit; non ergo corpus</mentioned> et <mentioned>tantum homo currit; non ergo
+            <lb ed="#T"/>animal</mentioned>. <pc type="#pilcrow"/>Sed subiectunt quod intelligitur in accidente abstracto, bene excluditur
+            <lb ed="#T"/>per dictionem exclusivam. Unde <mentioned>tantum quantitas est non ergo substantia</mentioned>. Et hoc dicendo
+            <lb ed="#T"/>nisi illa duo abstracta faciant subiectum unum alicuius accidentis (ut dictum
+            <lb ed="#T"/>est prius), sicut homo et superficies eius faciunt subiectum unum
+            <lb ed="#T"/>albedinis vel coloris.</p>
+
+          <p xml:id="phsyn-t3-d1e284"><pc type="#pilcrow"/>Ad quartum dicimus quod revera omnis
+          <lb ed="#T"/>exclusio ponit suam preiacentem. Sed in hac propositione <mentioned>tantum quantitas
+            <lb ed="#T"/>est</mentioned> duo sunt, scilicet hec dictio <mentioned>tantum</mentioned>, que est dictio exclusiva, et illud cui adiungitur,
+            <lb ed="#T"/>scilicet <mentioned>quantitas</mentioned>. Dico ergo quod dictio exclusiva excludit substantiam, sed
+            <lb ed="#T"/>quantitas ponit ipsam. Et ideo <add place="right-margin">hec propositio</add> <mentioned>tantum quantitas <add place="above-line">est</add></mentioned> ponit contradictionem,
+            <lb ed="#T"/>quia ponit substantiam esse et non esse. Ponit enim substantiam ratione quantitatis et
+            <lb ed="#T"/>removet eam ratione exclusionis que additur <mentioned>quantitati</mentioned>.</p>
         </div>
+
         <div xml:id="phsyn-t3-Dd1e287">
-          <head xml:id="phsyn-t3-Hd1e288">Utrum dictio exclusiva addita speciei unius predicamenti
-            possit excludere species alterius predicamenti</head>
-          <p xml:id="phsyn-t3-d1e291">Circa tertium sic obicitur. Cum dicitur ‘tantunt homo est
-            albus’, ex hoc non sequitur ‘ergo superficies hominis non est alba’. Ergo dictio
-            exclusiva addita speciei unius predicamenti gratia huius non excludit species
-            alterius predicamenti. Sed contra. Magis differunt ea que sunt in diversis predicamentis
-            quam ea que sunt in eodent genere sive quam ea que sunt sub eadem specie, quia
-            pluribus differentiis differunt. [P59va] Sed dictio exclusiva adiuncta uni individuo
-            excludit alia individua que sunt sub eadem specie, Ut ‘tantum Sortes; non ergo Plato’.
-            Ergo multo magis ea que sunt diversorum generum, quia magis differunt. Ergo dictio
-            exclusiva adiuncta <pb ed="#T" n="32-r"/>
+          <head xml:id="phsyn-t3-Hd1e288"><supplied>Utrum dictio exclusiva addita speciei unius predicamenti possit excludere species alterius predicamenti</supplied></head>
+          <p xml:id="phsyn-t3-d1e291"><pc type="#pilcrow"/>Circa
+          <lb ed="#T"/>tertium sic obicitur. Cum dicitur <mentioned>tantum homo est albus</mentioned>, ex hoc non sequitur
+            <lb ed="#T"/><mentioned>ergo superficies hominis non est alba</mentioned>. Ergo dictio exclusiva addita speciei
+            <lb ed="#T"/>unius predicamenti gratia huius non excludit species alterius predicamenti. <pc type="#pilcrow"/>Sed
+            <lb ed="#T"/>contra. Magis differunt ea que sunt in diversis predicamentis quam
+            <lb ed="#T"/>ea que sunt in eodent genere sive quam ea que sunt sub eadem specie,
+            <lb ed="#T"/>quia pluribus differentiis differunt. Sed dictio exclusiva adiuncta uni
+            <lb ed="#T"/>individuo excludit alia individua que sunt sub eadem specie,
+            <lb ed="#T"/>ut <mentioned>tantum Sortes; non ergo Plato</mentioned>. Ergo multo magis ea que sunt diversorum
+            ge<lb ed="#T" break="no"/>nerum, quia magis differunt. Ergo dictio exclusiva adiuncta
+            <pb ed="#T" n="32-r"/>
             <cb ed="#T" n="a"/>
-            <lb ed="#T"/>speciei unius predicamenti excludit alias species alterius
-            predicamenti. </p>
-          <p xml:id="phsyn-t3-d1e294">Ad’ quod dicendum quod in genere quinque stint ea que
-            debent excludi. Unum est subiectum diversum, Ut ‘tantum ‘Sortes currit’; eccluditur
-            Plato et alii particulares homines, quia non pos stint facere subiectum unum sed
-            diversa. Secundum est diversum loco, ut ‘tantum hic; non ergo ibi'. Tertium est
-            diversum tempore ut tantum in hoc tempore; non ergo in illo. Quartum est
-            oppositum a parte predicati, unde ‘tantum Sortes est albus; non ergo niger nec
-            medio colore coloratus’. Quintum est actus diversus, sive accidens diversum, similiter
-            a parte predicati positum, dum ita sit quad unum non12 sit per alterum. Et idea
-            sequitur ‘Sortes est tantum gramaticus; non ergo est musicus’, ‘tantu 15legit';
-            non ergo currit’. Et non sequitur ‘tantum Sortes est coloratus; non ergo est quan tus’,
-            quia’ coloratum inest Sorti per hoc quod est quantus. Neque sequitur ‘tantum
-            currit; non ergo movetur’, eoquod unum est per alterum sive intelligitur altero
-            secundum concretionem. Et omnibus hiis qumque modis excluditur diversum per
-            dictionem. exclusivam </p>
-          <p xml:id="phsyn-t3-d1e297">Ex predictis patet solutio primi argumenti, quia homo et
-            superficies eius faciunt subiectum unum colons et non diversa. Unde non excluditur
-            superfides per hanc ‘tantum Sortes est albus’. Et ita dictio exclusiva adiuncta
-            spcciei unius predicamenti excludit alias, dum non faciant subiectum unum vel
-            unum non insit per alterum, ut dictum est. Patet etiam solutio alterius argumenti
-            quia dictio exclusiva excludit diversum sive differens aliquo predictorum
-            modorunl tentum12.</p>
+            <lb ed="#T"/>speciei unius predicamenti excludit alias species alterius predicamenti. </p>
+
+          <p xml:id="phsyn-t3-d1e294"><pc type="#pilcrow"/>Ad quod dicendum quod in genere quinque stint ea que debent excludi.
+            <lb ed="#T"/>Unum est subiectum diversum, Ut tantum <mentioned>Sortes currit</mentioned>; excluditur Plato
+            <lb ed="#T"/>et alii particulares homines, quia non pos stint facere subiectum unum
+            <lb ed="#T"/>sed diversa. <pc type="#pilcrow"/>Secundum est diversum loco, ut <mentioned>tantum hic; non ergo ibi</mentioned>.
+            <lb ed="#T"/><pc type="#pilcrow"/>Tertium est diversum tempore ut tantum in hoc tempore; non ergo in
+            <lb ed="#T"/>illo. <pc type="#pilcrow"/>Quartum est oppositum a parte predicati, unde <mentioned>tantum Sortes est albus;
+            <lb ed="#T"/>non ergo niger nec medio colore coloratus</mentioned>. <pc type="#pilcrow"/>Quintum est
+            <lb ed="#T"/>actus diversus, sive accidens diversum, similiter a parte predicati positum,
+            <lb ed="#T"/>dum ita sit quod unum <add place="left-margin">non</add> sit per alterum. Et idea sequitur <mentioned>Sortes est tantum gramaticus;
+            <lb ed="#T"/>non ergo est musicus</mentioned>, <mentioned>tantu legit</mentioned>; non ergo disputat non ergo currit
+            <lb ed="#T"/>Et non sequitur <mentioned>tantum Sortes est coloratus; non ergo est quantus</mentioned>, quia
+            colo<lb ed="#T" break="no"/>ratum inest Sorti per hoc quod est quantus. Neque sequitur <mentioned>tantum currit; non ergo
+            mo<lb ed="#T" break="no"/>vetur</mentioned>, eoquod unum est per alterum sive intelligitur altero secundum
+            concre<lb ed="#T" break="no"/>tionem. Et omnibus hiis quinque modis excluditur diversum per dictionem
+            <lb ed="#T"/>exclusivam. </p>
+
+          <p xml:id="phsyn-t3-d1e297"><pc type="#pilcrow"/>Ex predictis patet solutio primi argumenti, quia homo
+          <lb ed="#T"/>et superficies eius faciunt subiectum unum coloris et non
+            diver<lb ed="#T" break="no"/>sa. Unde non excluditur superfides per hanc <mentioned>tantum Sortes est albus</mentioned>.
+            <lb ed="#T"/>Et ita dictio exclusiva adiuncta speciei unius predicamenti excludit
+            <lb ed="#T"/>alias, dum non faciant subiectum unum vel unum non insit per
+            <lb ed="#T"/>alterum, ut dictum est. Patet etiam solutio alterius argumenti quia dictio
+            <lb ed="#T"/>exclusiva excludit diversum sive differens aliquo predictorum
+            <lb ed="#T"/>modorum tentum.</p>
         </div>
+
         <div xml:id="phsyn-t3-Dd1e300">
-          <head xml:id="phsyn-t3-Hd1e301">Utrum dictio exclusiva addita alicui speciei unius
-            predicamenti exdudat alias species eiusdem</head>
-          <p xml:id="phsyn-t3-d1e304">Ex predictis patet solutio quarte questionis, que erat utrum
-            dictio exclusiva adiuncta speciei unius predicamenti excludat alias species eiusdem,
-            quia onmes alie species eiusdem generis excluduntur. Nisi una comparatur ad alteram,
-            non solum ut species disparata4 sed etiam ut termmus eiusdem; et ideo non
-            se quitur ‘tantum superficies est; non ergo linea est’, quia linea est terminus
-            superficiei; et similiter
-            <!--non sequitur ‘tantum corpus est; non
-      ergo superflcies’, quia--> superficies
-            <!--<est terminus>--> corporis. Unde bene sequitur ‘tantum homo; non ergo asinus’,
-            quia ille species solummodo comparantur sibi invicem ut disparate.</p>
+          <head xml:id="phsyn-t3-Hd1e301"><supplied>Utrum dictio exclusiva addita alicui speciei unius predicamenti exdudat alias species eiusdem</supplied></head>
+          <p xml:id="phsyn-t3-d1e304"><pc type="#pilcrow"/>Ex predictis patet solutio quarte questionis, que erat
+          <lb ed="#T"/>utrum dictio exclusiva adiuncta speciei unius predicamenti excludat alias
+            <lb ed="#T"/>species eiusdem, quia onmes alie species eiusdem generis excluduntur. Nisi
+            <lb ed="#T"/>una comparatur ad alteram, non solum ut species disparata<del rend="expunctuation">s</del> sed etiam
+            <lb ed="#T"/>ut termimus eiusdem; et ideo non se quitur tantum superficies est; non ergo linea
+            <lb ed="#T"/>est', quia linea est terminus superficiei; et similiter <!--"non sequitur <mentioned>tantum corpus est; non ergo superficies</mentioned>, quia" between <> in rijk edition--> superficies
+            <!--<est terminus> same as previous--> corporis.
+            <lb ed="#T"/>Unde bene sequitur <mentioned>tantum homo; non ergo asinus</mentioned>, quia ille species comparantur solum
+            <lb ed="#T"/>sibi invicem ut disparate.</p>
         </div>
+
         <div xml:id="phsyn-t3-Dd1e311">
-          <head xml:id="phsyn-t3-Hd1e312">Utrum dictio exclusiva adiuncta termino accidentali
-            excludat alios terminos accidentales</head>
-          <p xml:id="phsyn-t3-d1e315">Ex predictis patet quinta questio, que erat utrum dictio
-            exclusiva adiuncta termino accidentali excludat alios terminos accidentales, quia
-            dictio exclusiva (Ut dictum est prius habet excludere omne accidens diversum sive
-            separatum, dum ita sit quod unum non insit per alterum.
-            Unde sequitur ‘Sortes5 est tantum gramaticus; non ergo musicus’. Sed non sequitur
-            ‘Sortes 6est tantum coloratus; non ergo quantus’ quia coloratum inest Sorti in
-            eo quod est quantus'. Neque sequitur ‘tantum album est; non ergo corpus’, quia ista
-            faciunt subiectum unum.</p>
+          <head xml:id="phsyn-t3-Hd1e312"><supplied>Utrum dictio exclusiva adiuncta termino accidentali excludat alios terminos accidentales</supplied></head>
+          <p xml:id="phsyn-t3-d1e315">Ex predictis patet quinta questio, que
+            <lb ed="#T"/>erat utrum dictio exclusiva adiuncta termino accidentali excludat alios
+            <lb ed="#T"/>terminos accidentales, quia dictio exclusiva (ut dictum est prius habet excludere
+            <lb ed="#T"/>omne accidens diversum sive separatum, dum ita sit quod unum non
+            <lb ed="#T"/>insit per alterum. Unde sequitur <mentioned>Sortes est tantum gramaticus; non ergo musicus</mentioned>.
+            <lb ed="#T"/>Sed non sequitur <mentioned>Sortes est tantum coloratus; non ergo quantus</mentioned> quia coloratum
+            <lb ed="#T"/>inest Sorti in eo quod est quantus'. Neque sequitur <mentioned>tantum album est; non ergo
+            <lb ed="#T"/>corpus</mentioned>, quia ista faciunt subiectum unum.</p>
         </div>
+
         <div xml:id="phsyn-t3-Dd1e318">
-          <head xml:id="phsyn-t3-Hd1e319">Utrum dictio exclusiva addita uni oppositorum excludat
-            alterum in quolibet genere oppositionis</head>
-          <p xml:id="phsyn-t3-d1e322">Circa sextam questionem obicitur quod dictio exclusiva ad
-            iuncta uni oppositonem excludat alterum in quolibet genere oppositionis, quia duo
-            opposita non possunt facere subiectum unum sed diversa. Sed quotienscumque aliqua non
-            faciunt subiectum unum sed diversa, oportet quod unum excludatur ab alio per
-            dictionem exclusivam. Ergo dictio exclusiva adiuncta uni oppositorum excludit
-            aiterum. Quod concedimus, sicut patet in contrariis, ‘tantum album currit; non ergo
-            nigrum’.</p>
+          <head xml:id="phsyn-t3-Hd1e319"><supplied>Utrum dictio exclusiva addita uni oppositorum excludat
+            alterum in quolibet genere oppositionis</supplied></head>
+          <p xml:id="phsyn-t3-d1e322"><pc type="#pilcrow"/>Circa sextam questionem
+            <lb ed="#T"/>obicitur quod dictio exclusiva ad iuncta uni oppositonem excludat
+            <lb ed="#T"/>alterum in quolibet genere oppositionis, quia duo opposita non possunt
+            fa<lb ed="#T" break="no"/>cere subiectum unum sed diversa. Sed quotienscumque aliqua non faciunt
+            <lb ed="#T"/>subiectum unum sed diversa, oportet quod unum excludatur ab alio per
+            <lb ed="#T"/>dictionem exclusivam. Ergo dictio exclusiva adiuncta uni oppositorum
+            <lb ed="#T"/>excludit alterum. Quod concedimus, sicut patet in contrariis, <mentioned>tantum
+            al<lb ed="#T" break="no"/>bum currit; non ergo nigrum</mentioned>.</p>
         </div>
+
         <div xml:id="phsyn-t3-Dd1e325">
-          <head xml:id="phsyn-t3-Hd1e326">Sophisma</head>
-          <p xml:id="phsyn-t3-d1e329">Secundum predicta queritur de hoc sophismate TANTUM VERUM
-            OPPONITUR FALSO. Probatio. Verum opponitur falso. Et nichil aliud quam verum
-            opponitur falso. Ergo tantum verum opponitur falso. Contra. Tantum verum opponitur
-            falso. Ergo tantum verum et falsum opponuntur. Quod falsum est, quia album et nigrum
-            opponuntur et calidum et frigidum.</p>
-          <p xml:id="phsyn-t3-d1e332">Et dicendum quod prima est simpliciter vera. Et improbatio
-            peccat secundum consequens ab inferiori ad superius cum dictione exclusiva,
-            quia ‘opponi falso’ in minus est quam ‘opponi simpliciter’, sicut ‘oppositio veri et
-            falsi’ in minus est quam ‘oppositio’, cum hec sit species, illa vero genus. Et sic
-            cum dicit ‘tantum verum opponitur falso; ergo tantum verum et falsum opponuntur’,
-            peccat secundum consequens.</p>
+          <head xml:id="phsyn-t3-Hd1e326"><add place= "right-margin">Sophisma</add></head>
+          <p xml:id="phsyn-t3-d1e329"><pc type="#pilcrow"/>Secundum predicta queritur de hoc
+          <cb ed="#T" n="b"/>
+          <lb ed="#T"/>sophismate TANTUM VERUM OPPONITUR FALSO. Probatio. Verum opponitur falso. Et
+          <lb ed="#T"/>nichil aliud quam verum opponitur falso. Ergo tantum verum opponitur falso. <pc type="#pilcrow"/>Contra.
+          <lb ed="#T"/>Tantum verum opponitur falso. Ergo tantum verum et falsum opponuntur. Quod falsum est,
+          <lb ed="#T"/>quia album et nigrum opponuntur et calidum et frigidum.</p>
+
+          <p xml:id="phsyn-t3-d1e332"><pc type="#pilcrow"/>Et dicendum
+          <lb ed="#T"/>quod prima est simpliciter vera. Et improbatio peccat secundum consequens ab inferiori
+            <lb ed="#T"/>ad superius cum dictione exclusiva, quia <mentioned>opponi falso</mentioned> in minus est quam
+            <lb ed="#T"/><mentioned>opponi <add place= "above-line">simpliciter</add></mentioned>, sicut <mentioned>oppositio veri et falsi</mentioned> in minus est quam <mentioned>oppositio</mentioned>, cum hec sit
+            <lb ed="#T"/>species, illa vero genus. Et sic cum dicit <mentioned>tantum verum opponitur falso; ergo
+            tan<lb ed="#T" break="no"/>tum verum et falsum opponuntur</mentioned>, peccat secundum consequens.</p>
         </div>
+
         <div xml:id="phsyn-t3-Dd1e336">
-          <head xml:id="phsyn-t3-Hd1e337">De relative oppositis</head>
-          <p xml:id="phsyn-t3-d1e340">Item. Dubitatur de relative oppositis, quia’ ex hac ‘tantum
-            pater est’ sequitur hec ‘ergo filius est’. Unde si tantum pater est, pater est, quia
+          <head xml:id="phsyn-t3-Hd1e337"><supplied>De relative oppositis</supplied></head>
+          <p xml:id="phsyn-t3-d1e340"><pc type="#pilcrow"/>Item. Dubitatur de relative oppositis, quia ex hac <mentioned>tantum
+            pater est</mentioned> sequitur hec <mentioned>ergo filius est</mentioned>. Unde si tantum pater est, pater est, quia
             exclusiva ponit suam preiacentem. Et si pater est, filius est (a
-            relative oppositis). Ergo a primo: ‘si tantum pater est, filius est’. Ergo dictio
+            relative oppositis). Ergo a primo: <mentioned>si tantum pater est, filius est</mentioned>. Ergo dictio
             exclusiva adiuncta uni correlativorum non excludit alterum.</p>
-          <p xml:id="phsyn-t3-d1e343">Et dicendum quod dictio exclusiva adiuncta uni
-            correlativorum excludit alterum. Sed illa ‘tantum pater est’ ponit contradictionem,
-            quia cum dictio exclusiva excludat quecumque non faciunt subiectum unum sed diversa:
-            cum pater et filius faciant diversa subiecta et non unum (quia nichil est dictu ‘pater
-            filius est’ secundum3 quod ‘pater’ et ‘filius’ referuntur ad se invicem), et ideo dictio
-            exclusiva adiuncta ‘patri’ excludit ‘filium’ et econverso. Unde in ista ‘tantum pater
-            excluditur filius ratione dictionis exclusive et pater ponitur ratione
-            preiacentis. Sed pater est per hoc quod est ad fihium. Et ita ratione preiacentis non
-            solum ponitur pater sed etiam filius; et ratione exclusionis non solum removetur
-            filius sed etiam pater, quia filius est per hoc quod est ad patrem. Et sic ista
-            ‘tantum pater est’ ponit duplicem contradictionem, quia’ ponit filium esse et non
-            esse et patrem esse et non esse.</p>
+
+          <p xml:id="phsyn-t3-d1e343"><pc type="#pilcrow"/>Et dicendum quod dictio exclusiva
+          ad<lb ed="#T" break="no"/>iuncta uni correlativorum excludit alterum. Sed illa <mentioned>tantum pater
+            <lb ed="#T"/>est</mentioned> ponit contradictionem, quia cum dictio exclusiva excludat quecumque non
+            <lb ed="#T"/>faciunt subiectum unum sed diversa: cum pater et filius faciant
+            di<lb ed="#T" break="no"/>versa subiecta et non unum (quia nichil est dictu <mentioned>pater filius est</mentioned> secundum
+            <lb ed="#T"/>quod <mentioned>pater</mentioned> et <mentioned>filius</mentioned> referuntur ad se invicem), et ideo dictio exclusiva
+            <lb ed="#T"/>adiuncta <mentioned>patri</mentioned> excludit <mentioned>filium</mentioned> et econverso. Unde in ista <mentioned>tantum
+            <lb ed="#T"/>pater excluditur filius ratione dictionis exclusive et pater ponitur ratione
+            <lb ed="#T"/>preiacentis. Sed pater est per hoc quod est ad fihium. Et ita ratione
+            preia<lb ed="#T" break="no"/>centis non solum ponitur pater sed etiam filius; et ratione exclusionis
+            <lb ed="#T"/>non solum removetur filius sed etiam pater, quia filius est per hoc quod est ad
+            <lb ed="#T"/>patrem. Et sic ista <mentioned>tantum pater est</mentioned> ponit duplicem contradictionem,
+            <lb ed="#T"/>quia</mentioned> ponit filium esse et non esse et patrem esse et non esse.</p>
         </div>
+
         <div xml:id="phsyn-t3-Dd1e346">
-          <head xml:id="phsyn-t3-Hd1e347">Sophismata</head>
-          <p xml:id="phsyn-t3-d1e350">Circa predicta queritur de hoc sophismate SI TANTUM PATER
-            EST, NON TANTUM PATER EST. Probatio. Si tantum pater est, pater est. Et si pater
-            est, filius est. Et si filius est, aliud a patre est. Et si aliud a patre est, non
-            tantum pater est. Ergo a primo: si tantum pater est, non tantum pater est. Contra.
-            Ibi assignatur 4sequi oppositum ad oppositum. Ergo locutio est impossibilis.</p>
-          <p xml:id="phsyn-t3-d1e353">Ad hoc solvunt quidam quod ‘pater’ sumitur tripliciter.
-            Sicut ‘album’. Quia ‘album’ uno modo nominat id quod est album, ut hic: ‘album
-            potest esse nigrum’, secundum quod hec est vera; et5 hoc est dictu: <!--italics-->hoc quod en
-            subiectum albedinis, potent esse nigrum<!--italics-->. Alio autem modo ‘album’ dicit [N52va]
-            compositum ex subiecto et accidente, ut ‘album currit’, idest <!--italics-->substantia habens
-            albedinem currit<!--italics-->. Alio autem modo ‘album’ nominat ipsum accidens, ut cum dicitur
-            ‘album contingit uni et eidem inesse et non inesse’. Similiter ‘pater’ uno modo dicit
-            subiectum paternitatis, Ut ‘pater generat filium’, idest id quod est pater; alio modo
-            dicit compositum ex materia et forma, Ut ‘pater currit’, idest <!--italics-->homovel animal
-            [P6Orb]habens paternitatem currit<!--italics-->. Et in hiis duobus modis excluditur unum correlativorum
-            per dictionem exclusivam adiunctam alteri. Alio autem modo ‘pater’ nominat ipsam
-            relationem que est patemitas; ut curri dicitur ‘pater est in genere Relationis’. Et hoc
-            modo non excluditur unum correlativorum
+          <head xml:id="phsyn-t3-Hd1e347"><supplied>Sophismata</supplied></head>
+          <p xml:id="phsyn-t3-d1e350"><pc type="#pilcrow"/>Circa predicta queritur de hoc sophismate SI TANTUM PATER EST, NON  est, filius
+            <lb ed="#T"/>est. Et si filius est, aliud a patre est. Et si aliud a patre est, non
+            <lb ed="#T"/>tantum pater est. Ergo a primo: si tantum pater est, non tantum pater est.
+            Con<lb ed="#T" break="no"/>tra. Ibi significatur sequi oppositum ad oppositum. Ergo locutio est impossibilis.</p>
+
+          <p xml:id="phsyn-t3-d1e353">
+            <lb ed="#T"/><pc type="#pilcrow"/>Ad hoc solvunt quidam quod <mentioned>pater</mentioned> sumitur tripliciter. Sicut <mentioned>album</mentioned>.
+            <lb ed="#T"/>Quia <mentioned>album</mentioned> uno modo nominat id quod est album, ut hic: <mentioned>album potest
+            <lb ed="#T"/>esse nigrum</mentioned>, secundum quod hec est vera; et hoc est <add place="right-margin">dictu</add>: <!--italics-->hoc quod en subiectum albedinis, potent esse
+            <lb ed="#T"/>nigrum<!--italics-->. Alio autem modo <mentioned>album</mentioned> dicit compositum ex subiecto et accidente,
+            <lb ed="#T"/>ut <mentioned>album currit</mentioned>, idest <!--italics-->substantia habens albedinem currit<!--italics-->. <pc type="#pilcrow"/>Alio autem modo
+            <mentioned>al<lb ed="#T" break="no"/>bum</mentioned> nominat ipsum accidens, ut cum dicitur <mentioned>album contingit uni et
+            <lb ed="#T"/>eidem inesse et non inesse</mentioned>. <pc type="#pilcrow"/>Similiter <mentioned>pater</mentioned> uno modo dicit subiectum
+            pater<lb ed="#T" break="no"/>nitatis, Ut <mentioned>pater generat filium</mentioned>, idest id quod est pater; <pc type="#pilcrow"/>alio
+            <lb ed="#T"/>modo dicit compositum ex materia et forma, Ut <mentioned>pater currit</mentioned>, idest <!--italics-->homo vel animal habens
+            <lb ed="#T"/>paternitatem currit<!--italics-->. Et in hiis duobus modis excluditur unum
+            cor<lb ed="#T" break="no"/>relativorum per dictionem exclusivam adiunctam alteri. <pc type="#pilcrow"/>Alio autem modo
+            <lb ed="#T"/><mentioned>pater</mentioned> nominat ipsam relationem que est patemitas; ut curri dicitur <mentioned>pater
+            <lb ed="#T"/>est in genere Relationis</mentioned>. Et hoc modo non excluditur unum correlativorum
             <pb ed="#T" n="32-v"/>
             <cb ed="#T" n="a"/>
-            <lb ed="#T"/> ab alio, quia sic umnum ponit alterum et econverso.</p>
-          <p xml:id="phsyn-t3-d1e356">Sed hoc nichil est, quia cum dictio exclusiva excludat
-            1quecumque non faciunt subiectum unum sed diversa et pater et filius non possunt facere
-            subiectum unum, secundum quod in genere Relationis, nec 7aliquo modo,
-            oportet quod dictio exclusiva adiuncta ‘patri’ excludat filium et econverso.
-            Quod concedimus. Solutio recta est dicendum quod hec 'si tantum pater est', non tantum
-            pater est’ simpliciter est vera, sed suum antecedens est impossibile (hec scilicet
-            ‘tantum pater est’), quia ponit contradictionem, quia in hac propositione ‘tantum pater
-            est’ ponitur’ hec dictio ‘tantum’, que removet omne aliud subiectum vel accidens a
-            patre et sic removet filium, et est ibi hoc relativum ‘pater’, quod ponit
-            filium. Et ita ex una parte removet filium (scilicet a parte exclusionis) et ex
-            alia parte ponit ipsum22(scilicet a parte correlativi).</p>
-          <p xml:id="phsyn-t3-d1e359">Ad improbationem autem solvendum per interemptionem, quia’
-            non sequitur oppositum ad oppositum, sed sequitur una pars contradictionis ad
-            antecedens, quod <choice>
-          <sic>cludit</sic>
-          <corr>claudit<!--correction suggested by Rijk based on other manuscripts--></corr>
-          </choice>
-            intra se utramque partem contradictionis. Et sic sequitur pars
-            ad totum, sicut hic: ‘Sortes currit et non currit; ergo Sortes currit’. Et’ est locus
-            a toto integrali; contradictio enim integratur ex suis partibus. Unde posita contra
-            dictione necesse est ex ea sequi tam affirmationem quam negationem, per locum a
-            toto integrali.</p>
-          <p xml:id="phsyn-t3-d1e362">[N52vb] Item. Queritur de hoc sophismate POSSIBILE EST
-            SORTEM VIDERE TANTUM1 OMNEM HOMINEM NON VIDENTEM SE. Probatio. Possibile est Sortem
-            videre tantum4 omnem hominem cecum. Sed omnis homo cecus est homo non videns se.
-            Ergo possibile est Sortem videre tantum 4omnem hominem non videntem. Contra. Si
-            possibile est, ponatur: Sortes videt tantum8 omnem hominem videntem se. [P6Ova]
-            Tunc aut Sortes videt se aut non videt se. Si non videt se, ergo est homo
-            non videns se. Et videt quemquem talem. Ergo videt se. Si videt se, ergo est
-            homo videns se. Sed nullum talem videbat. Ergo non videt,
-            quoniam tantum videbat non videntem se.</p>
-          <p xml:id="phsyn-t3-d1e366">Solutio. Prima est impossibilis, hec scilicet ‘ possibile est
-            Sortem videre tantum omnem hominem non videntem Se’. Et ista similiter ‘Sortes
-            videt tantum omnem hominem non videntem se'2, quia utraque habet in se
-            contradictionem, Ut iam patebit. Probatio autem peccat secundum consequens ab
-            inferiori ad superius cum distributione5et etiam cum dictionc exclusiva. Ut ‘ omnis
-            homo; ergo omne animal’ et ‘tantum omnis homo; ergo tantum omne5 animal’, quia homo
-            non videns se in plus est quam homo cecus. Unde sequitur non conversim. Ut ‘Si est homo
-            cecus, est homo non videns Se’ et non econverso, quia homo dormiens est homo non
-            vidcns se9 et etiam vigilans oculos11 habens clausos est homo non videns se.</p>
-          <p xml:id="phsyn-t3-d1e369">Quod ista ‘Sortes videt tantum2 omnem hominem non videntem se’ habeat
-            contradictionem in se patet, quia equipollet istis duabus, scilicet
-            ‘Sortes videt omnem hominem non videntem se’ et ‘non videt aliquem
-            hominem6 videntem se’, et iste due sunt expositive illius. Sed ex ista ‘Sortes non
-            videt aliquem hominem videntem8 se’ sequitur ‘ergo Sortes non9 videt se videntem se’. Et
-            est locus a genere sive a toto in modo, sicut hic ‘Sortes non videt aliquem hominem
-            album; ergo
-            <cb ed="#T" n="b"/>
-            <lb ed="#T"/> non videt se album’. Sed Si Sortes non videt se videntem se,
-            Sortes non videt se, quia convertuntur, cum earum affirmationes13 convertantur, ut
-            (Si Sortes videt se videntem se, ergo Sortes videt se’ et econverso. Sed quotienscumque
-            affirmationes sibi invicem convertuntur, necesse est earum negationes sibi invicem
-            converti. Ut si ‘homo’ et ‘risibile’ convertuntur, et ‘non-homo’ et
-            ‘non-risibile’ convertuntur. Et ideo necessario sequitur ‘si Sortes non videt se
-            videntem se, ergo non videt se’, per locum a convertibili. Ergo a primo: ‘Si Sortes
-            non videt aliquem hominem ‘videntem se, non videt se’. Et hec est
-            alia pars contradictionis. Ex qua cum aliera expositiva prime sequitur reliqua
-            pars contradictionis. Et hoc modo Sortes videt omnem hominem non videntem se et
-            ipse non26 videt se. Ergo videt se. Et sic videt se et non videt se. Hic autem est
-            contradictio. Et sequitur ex duabus expositivis prime. Et ille expositive intelliguntur
-            in prima. Et quia contradictio intelligitur in prima. Et sic claudit intra se
-            contradictionem.</p>
-          <p xml:id="phsyn-t3-d1e372"> Item. Illud idem ostenditur alia ratione, quia si Sortes
-            non videt aliquem hominem videntem se, ergo Sortes videt nullum hominem videntem
-            se, quia ‘non aliquem’ et ‘nullum’ equipollent, sicut ‘non aliquis’ et ‘nullus’. Ergo
-            nullus homo videns se videtur a Sorte (convertendo activam in passivam). Ergo Sortes non
-            videt se, quia si Sortes videt se, aliquis homo viciens6 se videtur a
-            Sorte. Et dicebatur quod nullus. Ergo a primo: si Sortes non videt aliquem hominem
-            9videntem se, Sortes non videt se. Et sic habetur alia pars contradictionis. Ex
-            qua cum altera expositiva prime sequitur reliqua pars contradictionis, sicut prius.
-            Quare prima habet se contradictionem. Quod concedimus.</p>
-          <p xml:id="phsyn-t3-d1e375">Item. Probo quod prima est vera, hec scilicet ‘Sortes videt
-            tantum omnem hominem non videntem se’. Ponatur quod <name>Virgilius</name> et
-            <name>Plato</name> et <name>Cicero</name>
-            situ homines non videntes se tantum et omnes alii videant se; et ponatur eam hoc
-            quod Sortes videat tantum illos tres, quia hec positio possibilis est. Et tunc hec
-            ‘omnis homo non 6videns se non det se’ convertitur cum hiis tribus singularibus
-            ‘Virgilius non videt se’, ‘Plato non videt se’, ‘Cicero non videt se’. Et iste tres
-            insimul sumpte convertuntur cum illa, quia sequitur omnis homo non videns se egit;
-            ergo et iste et hic et ille legit et econverso. Sed Sortes videt tantum illos
-            tres. Ergo Sortes videt tantum omnem hominem non videntem se 15. Et est locus a convertibili,
-            quia ab uno convertibili ad alterum bene sequitur cum dictione exclusiva, ut
-            tantum risibile; ergo tantum homo’. Ergo hec est vera ‘Sortes videt tantum omnem
-            hominem non videntem se’. Item ad idem. Posito quod sint tantum tres
-            homines ceci et omnes alii videant se, tunc iste due convertuntur ‘omnis homo
-            cecus’ et ‘omnis homo non videns se’. Sed possibile est Sortem videre
-            tantum22 omnem hominem cecum. Ergo possibile est Sortem videre tantum 24 omnem
-            hominem non videntem se. Ergo prima possibilis est. </p>
-          <p xml:id="phsyn-t3-d1e378">Solutio. Dico quod prima est falsa et impossibilis, sicut
-            prius dictum est, quia ponit contradictionem, sicut prius patuit duplici ratione. Ad
-            priman autem positionem dicendum quod ponit duo incompossibilia4 .Et concedo quod
-            utrumque eorum est possibile secundum se sed 6 ambo insimul sunt incompossibilia.
-            Quia hoc est possibile secundum se, scilicet quod tantum sint illi tres homines
-            non videntes se, et aliud similiter est possibile secundum se, scilicet quod Sortes
-            videat tantum illos tres. <pb ed="#T" n="33-r"/>
+            <lb ed="#T"/>ab alio, quia sic umnum ponit alterum et econverso.</p>
+
+          <p xml:id="phsyn-t3-d1e356">Sed hoc nichil est, quia cum dictio exclusiva excludat quecumque non
+            fa<lb ed="#T" break="no"/>ciunt subiectum unum <add place="left-margin">sed diversa</add> et pater et filius non possunt
+            <lb ed="#T"/>facere subiectum unum, secundum quod in genere Relationis, ne<add place="above-line">c</add> aliquo modo,
+            <lb ed="#T"/>oportet quod dictio exclusiva adiuncta <mentioned>patri</mentioned> excludat filium
+            <lb ed="#T"/>et econverso. Quod concedimus. <pc type="#pilcrow"/>Solutio recta est dicendum quod hec <mentioned>si tantum
+            <lb ed="#T"/>pater est, non tantum pater est</mentioned> simpliciter est vera, sed suum antecedens est impossibile
+            <lb ed="#T"/>(hec scilicet <mentioned>tantum pater est</mentioned>), quia ponit contradictionem, quia in hac propositione
+            <lb ed="#T"/><mentioned>tantum pater est</mentioned> ponitur hec dictio <mentioned>tantum</mentioned>, que removet omne aliud subiectum vel
+            <lb ed="#T"/>accidens a patre et sic removet filium, et est ibi hoc relativum
+            <lb ed="#T"/><mentioned>pater</mentioned>, quod ponit filium. Et ita ex una parte removet filium
+            <lb ed="#T"/>(scilicet a parte exclusionis) et ex alia parte ponit ipsum (scilicet a parte
+            <lb ed="#T"/>correlativi).</p>
+
+          <p xml:id="phsyn-t3-d1e359">
+            <pc type="#pilcrow"/>Ad improbationem autem solvendum per interemptionem,
+            <lb ed="#T"/>quia non sequitur oppositum ad oppositum, sed sequitur una pars contradictionis
+            <lb ed="#T"/>ad antecedens, quod <choice><sic>cludit</sic><corr>claudit<!--correction suggested by Rijk based on other manuscripts--></corr></choice>
+            intra se utramque partem contradictionis. Et
+            <lb ed="#T"/>sic sequitur pars ad totum, sicut hic: <mentioned>Sortes currit et non currit; ergo Sortes currit</mentioned>.
+            <lb ed="#T"/>Et est locus a toto integrali; contradictio enim integratur ex
+            <lb ed="#T"/>suis partibus. Unde posita contra dictione necesse est ex ea sequi tam
+            <lb ed="#T"/>affirmationem quam negationem, per locum a toto integrali.
+          </p>
+          <p xml:id="phsyn-t3-d1e362"> Item.
+            <lb ed="#T"/>Queritur de hoc sophismate POSSIBILE EST SORTEM VIDERE <add place="above-line">TANTUM</add> OMNEM HOMINEM
+            <lb ed="#T"/>NON VIDENTEM SE. Probatio. Possibile est Sortem videre <add place="above-line">tantum</add> omnem hominem
+            <lb ed="#T"/>cecum. Sed omnis homo cecus est homo non videns se. Ergo possibile est
+            <lb ed="#T"/>Sortem videre <add place="above-line">tantum</add> omnem hominem non videntem. <pc type="#pilcrow"/>Contra. Si possibile est,
+            <lb ed="#T"/>ponatur: Sortes videt <add place="above-line">tantum</add> omnem hominem videntem se. Tunc aut ´
+            <lb ed="#T"/>Sortes videt se aut non videt se. Si non videt se, ergo est
+            <lb ed="#T"/>homo non videns se. Et videt quemquam talem. Ergo videt se.
+            <lb ed="#T"/>Si videt se, ergo est homo videns se. Sed nullum talem
+            vide<lb ed="#T" break="no"/>bat. Ergo non videt, <add place="above-line">se</add> quoniam tantum videbat non videntem se.
+          </p>
+          <p xml:id="phsyn-t3-d1e366">
+            <lb ed="#T"/><pc type="#pilcrow"/> Solutio prima est impossibilis hec scilicet <mentioned>possibile est Sortem videre tantum omnem
+            <lb ed="#T"/>hominem non videntem Se</mentioned>. Et ista similiter Sortes videt tantum omnem
+            <lb ed="#T"/>hominem non videntem se <add place="margin-left">et omnis propositio implicans contradictione est impossibilis propositio</add> quia utraque habet in se contradictionem, ut iam
+            <lb ed="#T"/>patebit. Probatio autem peccat secundum <seg type="correction"><add>con</add>sequens</seg> ab inferiori ad
+            <lb ed="#T"/>superius cum distributione et etiam cum dictione exclusiva. Ut <mentioned>omnis homo; ergo
+            <lb ed="#T"/>omne animal</mentioned> et <mentioned>tantum omnis homo; ergo tantum omne animal</mentioned>, quia homo non
+            vi<lb ed="#T" break="no"/>dens se in plus est quam homo cecus. Unde sequitur non conversim. Ut <mentioned>Si
+            <lb ed="#T"/>est homo cecus, est homo non videns Se</mentioned> et non econverso, quia homo
+            dormi<lb ed="#T" break="no"/>ens est homo non videns se9 et etiam vigilans <add place="above-line">habens</add> oculos clausos
+            <lb ed="#T"/>est homo non videns se.
+          </p>
+          <p xml:id="phsyn-t3-d1e369">Quod ista <mentioned>Sortes videt <add place="above-line">tantum</add> omnem hominem non
+          <lb ed="#T"/>videntem se</mentioned> habeat contradictionem in se patet, quia equipollet istis
+            dua<lb ed="#T" break="no"/>bus, scilicet <mentioned>Sortes videt omnem hominem non videntem se</mentioned> et <mentioned>non
+            <lb ed="#T"/>videt aliquem hominem <seg type="erasure">tantum</seg> <!--according to Rijk !--> videntem se</mentioned>, et iste due sunt expositive illius.
+            <lb ed="#T"/>Sed <add place="in-line">ex</add> ista <mentioned>Sortes non videt <subst><del>est</del> <add>aliquem</add></subst> hominem <del type="expunctuation">non</del> videntem se</mentioned> sequitur
+            <lb ed="#T"/><mentioned>ergo Sortes non videt se videntem se</mentioned>. Et est locus a genere sive a
+            to<lb ed="#T" break="no"/>to in modo, sicut hic <mentioned>Sortes non videt aliquem hominem album; ergo
+            <cb ed="#T" n="b"/> non videt se album</mentioned>. Sed Si Sortes non videt se videntem se,
+            Sortes non videt se, quia convertuntur, cum earum <subst><del rend="expunctuation">distributiones</del> <add place="margin-right">affirmationes</add></subst>
+            convertan<lb ed="#T" break="no"/>tur, ut <mentioned>si Sortes videt se videntem se, ergo Sortes videt se</mentioned> et
+            <lb ed="#T"/>econverso. Sed quotienscumque affirmationes sibi invicem convertuntur,
+            <lb ed="#T"/>necesse est earum negationes sibi invicem converti. Ut si <mentioned>homo</mentioned> et <mentioned>risibile</mentioned>
+            convertun<lb ed="#T" break="no"/>tur, et <mentioned>non-homo</mentioned> et <mentioned>non-risibile</mentioned> convertuntur. Et ideo necessario sequitur <mentioned>si Sortes
+            <lb ed="#T"/>non videt se videntem se, ergo non videt se</mentioned>, per locum a convertibili.
+            <lb ed="#T"/>Ergo a primo: <mentioned>Si Sortes non videt aliquem hominem videntem se,
+            <lb ed="#T"/>non videt se</mentioned>. Et hec est alia pars contradictionis. Ex qua cum aliera expositiva
+            <lb ed="#T"/>prime sequitur reliqua pars contradictionis. Et hoc modo Sortes videt omnem
+            <lb ed="#T"/>hominem non videntem se et ipse <add place="above-line">non</add> videt se. Ergo videt se. Et sic
+            <lb ed="#T"/>videt se et non videt se. Hic autem est contradictio. Et sequitur ex duabus
+            <lb ed="#T"/>expositivis prime. Et ille expositive intelliguntur in prima. Et quia
+            <lb ed="#T"/>contradictio intelligitur in prima. Et sic claudit intra se
+            contradictionem.
+            </p>
+
+          <p xml:id="phsyn-t3-d1e372"> <pc type="#pilcrow"/>
+          <lb ed="#T"/>Item. Illud idem ostenditur alia ratione, quia si Sortes non videt aliquem
+          <lb ed="#T"/>hominem videntem se, ergo Sortes videt nullum hominem videntem se, quia
+            <lb ed="#T"/><mentioned>non aliquem</mentioned> et <mentioned>nullum</mentioned> equipollent, sicut <mentioned>non aliquis</mentioned> et <mentioned>nullus</mentioned>. Ergo nullus homo
+            <lb ed="#T"/>videns se videtur a Sorte (convertendo activam in passivam).
+            <lb ed="#T"/>Ergo Sortes non videt se, quia si Sortes videt se, aliquis homo <add place="right-margin">videns se</add> videtur a Sorte. Et
+            <lb ed="#T"/>dicebatur quod nullus. Ergo a primo: si Sortes non videt aliquem hominem <del rend="strikethrough">non</del>
+            <lb ed="#T"/>videntem se, Sortes non videt se. Et sic habetur alia pars
+            contradictio<lb ed="#T" break="no"/>nis. Ex qua cum altera expositiva prime sequitur reliqua pars
+            <lb ed="#T"/>contradictionis, sicut prius. Quare prima habet se contradictionem. Quod concedimus.</p>
+
+          <p xml:id="phsyn-t3-d1e375">
+            <lb ed="#T"/><pc type="#pilcrow"/>Item. Probo quod prima est vera, hec scilicet <mentioned>Sortes videt tantum omnem hominem
+            <lb ed="#T"/>non videntem se</mentioned>. Ponatur quod Virgilius et Plato et Cicero situ homines
+            <lb ed="#T"/>non videntes se tantum et omnes alii videant se; et ponatur quod Sortes videat tantum illos tres, quia hec positio possibilis est. Et
+            <lb ed="#T"/><subst><del>cum hoc</del> <add>tunc hec</add></subst> <mentioned>omnis homo non videns se non det se</mentioned> convertitur cum hiis tribus singularibus
+            <lb ed="#T"/><mentioned>Virgilius non videt se</mentioned>, <mentioned>Plato non videt se</mentioned>, <mentioned>Cicero non videt se</mentioned>. Et iste
+            <lb ed="#T"/>tres insimul sumpte convertuntur cum illa, quia sequitur omnis homo non
+            vi<lb ed="#T" break="no"/>dens se egit; ergo et iste et hic et ille legit et econverso. Sed Sortes
+            vi<lb ed="#T" break="no"/>det tantum illos tres. Ergo Sortes videt tantum omnem hominem non
+            <lb ed="#T"/>videntem. Et est locus a convertibili, quia ab uno convertibili ad alterum
+            <lb ed="#T"/>bene sequitur cum dictione exclusiva, ut tantum risibile; ergo tantum homo. Ergo hec est
+            <lb ed="#T"/>vera <mentioned>Sortes videt tantum omnem hominem non videntem se</mentioned>. <pc type="#pilcrow"/>Item ad idem.
+            <lb ed="#T"/>Posito quod sint tantum tres homines ceci et omnes alii videant se,
+            <lb ed="#T"/>tunc iste due convertuntur <mentioned>omnis homo cecus</mentioned> et <mentioned>omnis homo non videns
+            <lb ed="#T"/>se</mentioned>. Sed possibile est Sortem videre <add place="above-line">tantum</add> omnem hominem cecum. Ergo possibile est Sortem
+            vi<lb ed="#T" break="no"/>dere <add place="above-line">tantum</add> omnem hominem non videntem se. Ergo prima possibilis est.
+            </p>
+
+          <p xml:id="phsyn-t3-d1e378">
+            <pc type="#pilcrow"/>Solutio.
+            Di<lb ed="#T" break="no"/>co quod prima est falsa et impossibilis, sicut prius dictum est, quia ponit
+            contradic<lb ed="#T" break="no"/>tionem, sicut prius patuit duplici ratione. <pc type="#pilcrow"/>Ad primam autem
+            positio<lb ed="#T" break="no"/>nem dicendum quod ponit duo <seg type="correction">im<add>com</add>possibilia</seg>. Et concedo quod utrumque eorum est possibile <add place= "margin-right">secundum</add>
+            <lb ed="#T"/>se <add place="right-margin">sed ambo insimul sunt incompossibilia. Quia hoc est possibile secundum se</add>, scilicet quod tantum sint illi tres homines non videntes se, et aliud
+            <lb ed="#T"/>similiter est possibile secundum se, scilicet quod Sortes videat tantum illos tres.
+            <pb ed="#T" n="33-r"/>
             <cb ed="#T" n="a"/>
-            <lb ed="#T"/>Sed ambo insimul sunt incompossibilia. 12Quod sic
-            patet, quia: Quando ponit quod isti tres sint non videntes se 15, in hoc
-            ponit quod Sortes ‘videat se, cum non sit de numero illorum. Et quando ponit quod
-            Sortes videat tantum illos tres, in hoc ponit quod Sortes non videat se, cum non 18
-            sit de his. Et ita ponit quod Sortes videat se et non videat se. Et ita illa duo
-            insimul posita ponunt contra dictionem. Et ita 23 stint incompossibilia.</p>
-          <p xml:id="phsyn-t3-d1e381"> Ad aliud dicendum quod similiter hec est vera secundum
-            se, scilicet 4possibile est Sortem videre omnent hominem cecum tantum. Sed non
-            est possibile posito quod ‘homo cecus’ convertatur cum ‘homine non vidente se’, quia
-            si Sortes videt tantum omnem hominem cecum, tunc non videt se. Et si ‘homo cecus’
-            convertatur cum ‘homine non vidente se’, tunc Sortes videt se, cum Sortes non sit
-            cecus. Et a quocumque removetur unum convertibilium, et reliquum. Et sic
-            ponit iterum 14 in hac ratione secunda quod Sortes videat se et non videat se. Et
-            sic non est mirum, si premissa est impossibilis, cum ipsa sequatur expositione
-            impossibili.</p>
+            <lb ed="#T"/>Sed ambo insimul sunt <seg type="correction">im<add>com</add>possibilia</seg>. Quod sic patet, quia: Quando ponit quod isti
+            <lb ed="#T"/>tres sint non videntes <add place="above-margin">se</add>, in hoc ponit quod Sortes videat se, cum non
+            <lb ed="#T"/>sit de numero illorum. Et quando ponit quod Sortes videat tantum illos tres,
+            <lb ed="#T"/>in hoc ponit quod Sortes non videat se, cum <add place="margin-left">non</add> sit de his. Et ita ponit
+            <lb ed="#T"/>quod Sortes videat se et non videat se. Et ita illa duo insimul
+            <lb ed="#T"/>posita ponunt contra dictionem. Et ita 23 stint incompossibilia.
+          </p>
+          <p xml:id="phsyn-t3-d1e381"> 
+            <pc type="#pilcrow"/>Ad aliud dicendum quod similiter
+            <lb ed="#T"/>hec est vera secundum se, scilicet 4possibile est Sortem videre omnent hominem cecum tantum. Sed
+            <lb ed="#T"/>non est possibile posito quod <mentioned>homo cecus</mentioned> convertatur cum <mentioned>homine non vidente
+            <lb ed="#T"/>se</mentioned>, quia si Sortes videt tantum omnem hominem cecum, tunc non videt se.
+            <lb ed="#T"/>Et si <mentioned>homo cecus</mentioned> convertatur cum <mentioned>homine non vidente se</mentioned>, tunc Sortes videt
+            <lb ed="#T"/>se, cum Sortes non sit cecus. Et a quocumque removetur unum convertibilium, et
+            re<lb ed="#T" break="no"/>liquum. Et sic ponit iterum <!--Rijk sees here a correction to "iterum" i'm not sure!--> in hac ratione secunda quod Sortes videat se et
+            <lb ed="#T"/>non videat se. Et sic non est mirum, si premissa est impossibilis, cum ipsa
+            <lb ed="#T"/>sequatur expositione impossibili.</p>
         </div>
         <div xml:id="phsyn-t3-Dd1e384">
-          <head xml:id="phsyn-t3-Hd1e385">Utrum dictio exclusiva addita toti excludat partem vel
-            econverso</head>
-          <p xml:id="phsyn-t3-d1e388">Septima questio fuit utrum dictio exclusiva adiuncta parti
-            integrali excludat totum (vel econverso) et adiuncta minori numero excludat
-            maiorem (vel econverso). Et videtur quod adiuncta toti integrali excludat partem,
-            [P61th] quia sequitur ‘domus valet tantum centum libras; non ergo panes’. Ergo
-            addita toti excludit partem (et econverso, ut ‘tantum panes est albus; non ergo
-            domus’). Sed contra. Propositio exclusiva ponit suam preiacentem. Ut ‘tantum domus
-            est colorata; ergo domus est colorata’. Sed si domus est colorata, panes est
-            coloratus, quia posito toto integrali ponitur quelibet pars eius. Ergo a primo: si
-            tantum domus est colorata, panes est coloratus. Ergo dictio exclusiva adiuncta parti14
-            non excludit totum</p>
-          <p xml:id="phsyn-t3-d1e391">Et dicendum quod tria genera accidentium reperiuntur in toto
-            integrali et in parte sua. Quia quedam accidentia sunt que conveniunt toti
-            integrali, ut componi ex partibus integralibus et3 habere panes omnes4secundum
-            quantitatem; et propter hoc anima non est pars integralis ipsius hominis sed
-            essentialis, et valere centum libras convenit ita toti quod non parti. Alia
-            autem sunt accidentia que conveniunt tantum parti, ut esse minus14 vel sequi ex toto
-            integrali (videlicet partialitas) vel coniungi alii quanto ad faciendum maius
-            secundum quantitatem. Tertio autem modo sunt quedam accidentia que indifferenter
-            conveniunt toti et parti, ut album, nigrum, frigidum, calidum, humidum, siccum et
-            consimilia. Et in primo genere accidentis dictio exclusiva adiuncta toti integrali
-            excludit partem, ut ‘domus valet tantum centum libras; non ergo panes’. In aliis
-            duobus generibus accidentium dictio exclusiva adiuncta parti semper excludit totum,
-            et non econverso.</p>
+          <head xml:id="phsyn-t3-Hd1e385">
+            <supplied>Utrum dictio exclusiva addita toti excludat partem vel econverso</supplied>
+          </head>
+          <p xml:id="phsyn-t3-d1e388">
+            <pc type="#pilcrow"/>Septima questio fuit utrum dictio
+            <lb ed="#T"/>exclusiva adiuncta parti integrali excludat totum (vel econverso) et
+            adiunc<lb ed="#T" break="no"/>ta minori numero excludat maiorem (vel econverso). Et videtur quod adiuncta
+            <lb ed="#T"/>toti integrali excludat partem, quia sequitur <mentioned>domus valet tantum centum
+            <lb ed="#T"/>libras; non ergo paries</mentioned>. Ergo addita toti excludit partem (et econverso,
+            <lb ed="#T"/>ut <mentioned>tantum paries est albus; non ergo domus</mentioned>). <pc type="#pilcrow"/>Sed contra. Propositio exclusiva
+            po<lb ed="#T" break="no"/>nit suam preiacentem. Ut <mentioned>tantum domus est colorata; ergo domus est
+            co<lb ed="#T" break="no"/>lorata</mentioned>. Sed si domus est colorata, paries est coloratus, <add place="margin-left">quia posito toto integrali ponitur quelibet pars eius. Ergo a primo: sitantum domus est colorata, paries est coloratus</add>. ergo dictio exclusiva
+            <lb ed="#T"/>adiuncta parti non excludit totum et non econverso
+          </p>
+          <p xml:id="phsyn-t3-d1e391">
+            <pc type="#pilcrow"/> Et dicendum quod tria
+            <lb ed="#T"/>genera accidentium reperiuntur in toto integrali et in parte sua. Quia
+            <lb ed="#T"/>quedam accidentia sunt que conveniunt toti integrali, ut componi ex partibus
+            in<lb ed="#T" break="no"/>tegralibus habere partes omnes secundum quantitatem; et propter hoc anima non est
+            <lb ed="#T"/>pars integralis ipsius hominis sed essentialis, et valere centum libras
+            <lb ed="#T"/>convenit ita toti quod non parti. <pc type="#pilcrow"/>Alia autem sunt accidentia que conveniunt tantum parti,
+            <lb ed="#T"/>ut esse <add place="above-line">minus</add> vel sequi ex toto integrali (videlicet partialitas) vel coniungi
+            <lb ed="#T"/>alii <seg type="correction">quan<subst><del rend="erasure">u</del><add place="above-line">to</add></subst></seg> ad faciendum maius secundum quantitatem. <pc type="#pilcrow"/>Tertio autem modo sunt quedam
+            <lb ed="#T"/>accidentia que indifferenter conveniunt toti et parti, ut album, nigrum, frigidum,
+            <lb ed="#T"/>calidum, humidum, siccum et consimilia. Et in primo genere accidentis
+            <lb ed="#T"/>dictio exclusiva adiuncta toti integrali excludit partem, ut <mentioned>domus
+            <lb ed="#T"/>valet tantum centum libras; non ergo <unclear>partees</unclear></mentioned>. <pc type="#pilcrow"/> In aliis duobus generibus
+            <lb ed="#T"/>accidentium dictio exclusiva adiuncta parti semper excludit totum, et <seg type="correction">n<add>on</add></seg> 
+            <lb ed="#T"/>econverso.
+          </p>
         </div>
         <div xml:id="phsyn-t3-Dd1e394">
-          <head xml:id="phsyn-t3-Hd1e395">Sophisma</head>
-          <p xml:id="phsyn-t3-d1e398">Secundum predicta queritur de hoc sophismate A SOLO SORTE
-            DIFFERT QUICQUID NON EST SORTES VEL PARS SORTIS. Probatio2. A Sorte differt quicquid non
-            est Sortes vel pars Sortis. Et non ab alio a Sorte differt quicquid non est Sortes
-            vel pars Sortis. Ergo a5 solo Sorte differt quicquid non est Sortes vel pars Sortis.
-            Ergo prima vera. Contra. A solo Sorte differt quicquid non est Sortes vel pars Sortis.
-            Sed Plato non est Sortes nec pars Sortis. Ergo Plato differt a solo Sorte.</p>
-            <p> Solutio. Prima falsa et altera [P61va] probativa est falsa, hec scilicet ‘non ab alio a Sorte
-            differt quicquid non est Sortes vel pars Sortis’, quia sua contradictoria est vera, hec
-            scilicet ‘ab alio a Sorte differt quicquid non est Sortes vel pars Sortis’. Et si querat
-            aliquist a quo alio?’, dicendum quod nulla est questio, quia iste terminus ‘alio’ non
-            tenetur determinate pro uno sed communiter pro pluribus. Sicut5 hic: posito quod omnis
-            homo videat proprium equum tantum, tunc hec est vera ‘equum videt omnis homo’ nec
-            tamen’ est querere ‘quem equum?’, quia iste terminus ‘equum’ non tenetur determinate
-            pro uno sed communiter pro pluribus.</p>
+          <head xml:id="phsyn-t3-Hd1e395"><supplied>Sophisma</supplied></head>
+          <p xml:id="phsyn-t3-d1e398"><pc type="#pilcrow"/>Secundum predicta queritur de hoc sophismate A SOLO SORTE
+            <lb ed="#T"/>DIFFERT QUICQUID NON EST SORTES VEL PARS SORTIS. <add place="margin-left">Probatio2. A Sorte differt quicquid non est Sortes vel pars Sortis</add>. Et non ab alio a Sorte differt
+            <lb ed="#T"/>quicquid non est Sortes vel pars Sortis. Ergo a solo Sorte etcetera <pc type="#pilcrow"/>Contra.
+            <lb ed="#T"/>A solo Sorte differt quicquid non est Sortes vel pars Sortis. Sed Plato non est Sortes nec pars Sortis. Ergo
+            <lb ed="#T"/>Plato differt a solo Sorte.</p>
+
+            <p> <pc type="#pilcrow"/>Solutio. Prima falsa et altera probativa
+            <lb ed="#T"/>est falsa, hec scilicet <mentioned>non ab alio a Sorte differt quicquid non est Sortes vel pars
+            <lb ed="#T"/>Sortis</mentioned>, quia sua contradictoria est vera, hec scilicet <mentioned>ab alio a Sorte differt
+            <lb ed="#T"/>quicquid non est Sortes vel pars Sortis</mentioned>. Et si querat aliquist a quo alio?, dicendum quod
+            nul<lb ed="#T" break="no"/>la est questio, quia iste terminus <mentioned>alio</mentioned> non tenetur determinate pro uno sed
+            <lb ed="#T"/>communiter pro pluribus. <add place="margin-bottom">Sicut hic: posito quod omnis
+            homo videat proprium equum tantum, <lb ed="#T"/>tunc hec est vera <mentioned>equum videt omnis homo</mentioned> <lb ed="#T"/>nec
+            tamen est querere <mentioned>quem equum?</mentioned>, <lb ed="#T"/>quia iste terminus <mentioned>equin</mentioned><!--rijk "equum"!--> non tenetur determinate
+            pro uno sed communiter pro pluribus</add>.</p>
         </div>
+
         <div xml:id="phsyn-t3-Dd1e401">
-          <head xml:id="phsyn-t3-Hd1e402">Utrum dictio exclusiva addita maiori numero excludat
-            minorem vel econverso</head>
-          <p xml:id="phsyn-t3-d1e405">Item. Videtur quod dicuo exclusiva addita toti
+          <head xml:id="phsyn-t3-Hd1e402"><supplied>Utrum dictio exclusiva addita maiori numero excludat
+            minorem vel econverso</supplied></head>
+          <p xml:id="phsyn-t3-d1e405"><pc type="#pilcrow"/>Item. Videtur quod dictio exclusiva addita toti
           <cb ed="#T" n="b"/>
-          <lb ed="#T"/>
-            numerali possit excludere partem eius sive addita minori
-            numero possit excludere maiorem, quia omnes minores numeri sunt specie differentes (Ut binarius,
-            ternarius4,quaternarius et sic de aliis), quia5 sunt diverse species ex opposito
-            condividentes6Numerum, qui est genus omnium specialium numerorum. Ergo dictio
-            exclusiva addita uni excludit omnes alias. Ergo si dictio exclusiva addatur maiori
-            numero, excludet quamlibet unitatem (et ita) quemlibet minorem, quia addita
-            quinario excludit, ergo quamlibet minorem speciem. Sed
-            contra. Quilibet numerus maior semper ponit suum preiacentem.Et ideo clicit
-            <name>Aristotiles</name> si duo sunt, unum esse; ergo minor numerus semper intelligitur in
-            maiori. Sed dictio exclusiva non removet quod intelligitur in suo preiacente. Ergo
-            dictio exclusiva adiuncta maiori numero non excludit minorem.</p>
-          <p xml:id="phsyn-t3-d1e408">Solutio. ‘Numerus’ duobus modis sumitur, sicut1 quodlibet
-            aliud totum. Quia uno modo sumitur ‘numerus’ ratione sue totalitatis (sive ratione
-            totius aggregationis sue, quod idem est). Et sic dictio exclusiva adiuncta maiori
-            numero3 excludit minorem numerum quemlibet, ut ‘tantum decem sunt paria; non ergo octo neque
-            sex neque quatuor; et etiam excludit omnes superiores, ut sic: ‘tantum decem sunt
-            paria, non ergo novem neque duodecim sunt paria’ et sic de aliis ostendendo<!--rijk sic-->. Alio
-            autem modo sumitur in ratione sue totalitatis (sive totius aggregationis), sed
-            ratione [P6lvb] eorum ex quibus est (vel ex quibus fit). Et sic dictio exclusiva
-            addita maiori numero non excludit minorem, immo potius ponit. Unde non sequitur
-            ‘tantum decem currunt; ergo octo non currunt vel septem,immo potius
-            quantum sequitur, quia currant tantum decem, sequitur quod novem. currant
-            et23 etiam quod octo currant. Et sic patet quod dictio exclusiva adiuncta
-            maiori numero uno modo excludet minorem et alio modo non. Sed addita minori numero
-            semper excludit maiorem.</p>
+            <lb ed="#T"/>numerali possit excludere partem eius sive addita minori numero
+            <lb ed="#T"/>possit excludere maiorem, quia omnes minores numeri sunt specie differentes (ut binarius, quinarius, ternarius ternarius et sic de aliis <!--Rijk correct to "binarius, ternarius, quaternarius et sic de aliis"!-->), quia
+            <lb ed="#T"/>sunt diverse species ex opposito condividentes. Numerum, qui est genus omnium
+            <lb ed="#T"/>specialium numerorum. Ergo dictio exclusiva addita uni <add place="right-margin">speciei</add> excludit omnes
+            <lb ed="#T"/>alias. Ergo si dictio exclusiva addatur maiori numero, excludet quamlibet
+            <lb ed="#T"/>unitatem (et ita) quemlibet minorem, quia addita quinario excludit, ergo quamlibet
+            <lb ed="#T"/>minorem speciem. <pc type="#pilcrow"/>Sed contra. Quilibet numerus maior semper ponit suam
+            <lb ed="#T"/>preiacentem. Et ideo dicit <ref><name>Aristotiles</name></ref> si duo sunt, unum esse; ergo minor numerus
+            <lb ed="#T"/>semper intelligitur in maiori. Sed dictio exclusiva non removet quod intelligitur
+            <lb ed="#T"/>in sua preiacente. Ergo dictio exclusiva adiuncta maiori numero non excludit minorem.</p>
+
+          <p xml:id="phsyn-t3-d1e408"><pc type="#pilcrow"/>Solutio. <mentioned>Numerus</mentioned> duobus modis sumitur, sicut
+          <lb ed="#T"/>quodlibet aliud totum. Quia uno modo sumitur <mentioned>numerus</mentioned> ratione sue totalitatis
+            <lb ed="#T"/>(sive ratione totius aggregationis sue, quod idem est). Et sic dictio exclusiva
+            <lb ed="#T"/>adiuncta maiori numero <del rend="expunctuation">non</del> excludit minorem numerum quemlibet, ut <mentioned>tantum
+            <lb ed="#T"/>decem sunt paria; non ergo octo neque sex neque quatuor; et etiam excludit
+            <lb ed="#T"/>omnes superiores, ut sic: tantum decem sunt paria, non ergo novem neque duodecim sunt paria</mentioned>
+            <lb ed="#T"/>et sic de aliis ostendendo<!--rijk sic-->. <pc type="#pilcrow"/>Alio autem modo sumitur in ratione
+            <lb ed="#T"/>sue totalitatis (sive totius aggregationis), sed ratione eorum ex
+            <lb ed="#T"/>quibus est (vel ex quibus fit). Et sic dictio exclusiva addita maiori
+            <lb ed="#T"/>numero non excludit minorem, immo potius ponit. Unde non sequitur tantum decem
+            <lb ed="#T"/>currunt; ergo octo non currunt vel septem, immo potius quantum sequitur,
+            <lb ed="#T"/>quia currant tantum decem, sequitur quod novem etiam quod octo currant. Et sic patet quod dictio exclusiva
+            <lb ed="#T"/>adiuncta maiori numero uno modo excludet minorem et alio modo non.
+            <lb ed="#T"/>Sed addita minori numero semper excludit maiorem.</p>
         </div>
+
         <div xml:id="phsyn-t3-Dd1e411">
           <head xml:id="phsyn-t3-Hd1e412">De quadam regula</head>
-          <p xml:id="phsyn-t3-d1e415">Unde de parte in quantitate et de parte integrali et de parte
-            in loco et de parte in tempore et de numerali talis datur regula: <seg type="rule"
-              >quotienscumque dictio exclusiva adiungitur parti, semper excludit suum totum,
-              excepto toto universali et toto in modo.</seg> </p>
-          <p>Ad duo prima argumenta facilis est solutio. Quia primum argumentum accepit species numeri
-            ratione suarum totalitatum (sive aggregationumn); et sic dictio exclusiva adiuncta uni excludet omnes alias.
-            Secundum autem accipit species numeri ratione eorumn ex quibus sunt.</p>
+          <p xml:id="phsyn-t3-d1e415">Unde de parte in
+            <lb ed="#T"/>quantitate et de parte integrali et de parte in loco et de parte
+            <lb ed="#T"/>in tempore et de numerali talis datur regula: <seg type="rule"> <pc type="#pilcrow"/>quotienscumque dictio
+            <lb ed="#T"/>exclusiva adiungitur parti, semper excludit suum totum, excepto
+            <lb ed="#T"/>toto universali et toto in modo.</seg> </p>
+
+          <p>
+            <pc type="#pilcrow"/>Ad duo prima argumenta facilis est
+          <lb ed="#T"/>solutio. Quia primum argumentum accepit species numeri ratione suarum
+            totalita<lb ed="#T" break="no"/>tum (sive aggregationumn); et sic dictio exclusiva adiuncta uni
+            ex<lb ed="#T" break="no"/>cludet omnes alias. <pc type="#pilcrow"/>Secundum autem accipit species numeri ratione
+            <lb ed="#T"/>eorum ex quibus sunt.</p>
         </div>
+
         <div xml:id="phsyn-t3-Dd1e422">
-          <head xml:id="phsyn-t3-Hd1e423">Sophisma</head>
-          <p xml:id="phsyn-t3-d1e426">Circa predicta queritur de hoc sophismate SOLIS TRIBUS SOIA
-            DUO SUNT PAUCIORA. Probatio. Tribus sola duo sunt pauciora. Et non aliis a tribus
-            sola sunt pauciora. Ergo solis tribus sola duo sunt pauciora. Contra. Solis tribus
-            sola duo sunt pauciora. Ergo solis tribus duo sunt pauciora.</p>
-          <p xml:id="phsyn-t3-d1e429">Solutio. Prima duplex, quia potest exponi1per dictionem2exclu
-            sivam existen tem in rectitudine; et sic improbatur;
-            Vel potest exponi per exclusionem existen tem in obliquo et sic improbatur et sic ist vera<!--omitted in other manuscripts, correction to P addd "et sic ist falsa"-->
-            Et ideo altera de exponentibus est vera et altera falsa, hec scilicet ‘solis tribus duo sunt pauciora’, cum
-            duo sint pauciora omnibus aliis numeris ascendendo. Et ita non solis tribus duo sunt
-            pauciora. </p>
+          <head xml:id="phsyn-t3-Hd1e423"><supplied>Sophisma</supplied></head>
+          <p xml:id="phsyn-t3-d1e426"><pc type="#pilcrow"/>Circa predicta queritur de hoc sophismate
+            <lb ed="#T"/>SOLIS TRIBUS SOLA DUO SUNT PAUCIORA. Probatio. Tribus sola duo
+            <lb ed="#T"/>sunt pauciora. Et non aliis a tribus sola sunt pauciora. Ergo solis
+            <lb ed="#T"/>tribus sola duo sunt pauciora. <pc type="#pilcrow"/>Contra. Solis tribus sola duo
+            <lb ed="#T"/>sunt pauciora. Ergo solis tribus duo sunt pauciora.</p>
+
+          <p xml:id="phsyn-t3-d1e429"><pc type="#pilcrow"/>Solutio. Prima
+          <lb ed="#T"/>duplex, quia potest exponi per dictionem exclusivam existentem
+          <lb ed="#T"/>in rectitudine; et sic improbatur; Vel potest exponi per exclusionem
+            <lb ed="#T"/>existentem in obliquo et sic improbatur et sic ist vera<!--omitted in other manuscripts, correction to P addd "et sic ist falsa"-->. Et ideo altera
+            <lb ed="#T"/>de exponentibus est vera et altera falsa, hec scilicet <mentioned>solis tribus duo
+            <lb ed="#T"/>sunt pauciora</mentioned>, cum duo sint pauciora omnibus aliis
+            <lb ed="#T"/>numeris ascendendo. Et ita non solis tribus duo sunt pauciora. </p>
         </div>
+
         <div xml:id="phsyn-t3-Dd1e432">
-          <head xml:id="phsyn-t3-Hd1e433">De quadam regula</head>
-          <p xml:id="phsyn-t3-d1e436">Unde solet dan talis regula: <seg type="rule">quotienscumque
-              duo sincategoreumata ponuntur
+          <head xml:id="phsyn-t3-Hd1e433"><supplied>De quadam regula</supplied></head>
+          <p xml:id="phsyn-t3-d1e436">Unde
+            <lb ed="#T"/>solet dan talis regula: <seg type="rule"><pc type="#pilcrow"/>quotienscumque duo sincategoreumata ponuntur
               <pb ed="#T" n="33-v"/>
               <cb ed="#T" n="a"/>
-              <lb ed="#T"/> in eadem locutione multiplex est locutio seipsa est attingentia, quia unum potest
-            esse determinatio alterius vel econverso.</seg>
-            Et hoc est quod solebant dicere antiqui quod unum poterat includere reliquum vel
-            econverso includi ab eo aut excludere alterum vel excludi ab eo.</p>
-          <p xml:id="phsyn-t3-d1e442">Et nota quod in numeris est duplex ascensus, quia unus est
-            causarum et alius quantitatis sive augmenti in quantitate. Unde loquendo de
-            accensu causarum omnes minores numeri sunt superiores maioribus, quia minores
-            sunt causa maiorum. Unde quanto minor est numerus, tanto superior est, quia
-            intantum est prior causa; et omnis causa prior superior est. Et ideo supremum
-            principium in numeris est unitas. Et a maioribus numeris (loquendo [N54rb] de
-            ascensu cause) semper est ascendere ad quemlibet minorem et ultimo ad unitatem;
-            econverso descendere. Sed loquendo de ascensu quantitatis sive de ascensu
-            augmenti quantitatis, superiores numeri maiores sunt et minores inferiores,
-            eoquod maius est augmentum, vel maior quantitas, in maioribus quam in
-            minoribus. Et hoc modo fit ascensus a minori numero ad maiorem; econverso descensus.
-            Et sic ascensus et descensus fiunt dupliciter in ordine numeri. </p>
+            <lb ed="#T"/>in eadem locutione multiplex est locutio se ipsa est
+            attin<lb ed="#T" break="no"/>gentia, quia unum potest esse determinatio alterius vel econverso.</seg> Et hoc est quod
+            <lb ed="#T"/>solebant dicere antiqui quod unum poterat includere reliquum
+            <lb ed="#T"/>vel econverso includi ab eo aut excludere alterum vel excludi ab eo.</p>
+
+          <p xml:id="phsyn-t3-d1e442"><pc type="#pilcrow"/>Et nota quod in numeris est duplex ascensus, quia
+            <lb ed="#T"/>unus est causarum et alius quantitatis sive augmenti in
+            quan<lb ed="#T" break="no"/>titate. Unde loquendo de accensu causarum omnes minores numeri sunt
+            superio<lb ed="#T" break="no"/>res maioribus, quia minores sunt causa maiorum. Unde quanto minor
+            <lb ed="#T"/>est numerus, tanto superior est, quia in tantum est prior causa; et omnis
+            <lb ed="#T"/>causa prior superior est. Et ideo supremum principium in numeris est unitas.
+            <lb ed="#T"/>Et a maioribus numeris (loquendo de ascensu cause) semper est
+            as<lb ed="#T" break="no"/>cendere ad quemlibet minorem et ultimo ad unitatem; econverso
+            des<lb ed="#T" break="no"/>cendere. Sed loquendo de ascensu quantitatis sive de ascensu
+            <lb ed="#T"/>augmenti quantitatis, superiores numeri maiores sunt et minores inferiores, eoquod
+            <lb ed="#T"/>maius est augmentum, vel maior quantitas, in maioribus quam
+            <lb ed="#T"/>in minoribus. Et hoc modo fit ascensus a minori numero ad maiorem;
+            <lb ed="#T"/>econverso descensus. Et sic ascensus et descensus fiunt dupliciter in ordine
+            <lb ed="#T"/>numeri. </p>
         </div>
+
         <div xml:id="phsyn-t3-Dd1e445">
-          <head xml:id="phsyn-t3-Hd1e446">De differentia harum dictionum ‘tantum ‘et ‘solus’</head>
-          <p xml:id="phsyn-t3-d1e449">Hiis habitis habentur septem questiones que fiebant circa quartam
-            questionem, que erat descendendo ad unam causam exclusionis, scilicet que erant
-            ea que debent excludi. Consequenter queritur de quinta questione que fiebat in principio
-            huius tractatus, scilicet qualiter ‘tantum’ et ‘solus’ differant in suis
-            exclusionibus. Et dicendum quod hec dictio ‘solus’ excludit semper ab aliquo casuali,
-            sive ponatur in subiecto sive in predicato, ut ‘solus Sortes currit’ idest Sortes et
-            nullus alius in predicato autem, Ut ‘do tibi solum denarium’ idest denarium et
-            mullam aliam rem. Sed hec dictio ‘tantum’ aliquando excludit ab aliquo casuali, ut
-            ‘tantum Sortes currit’ vel ‘tantum album currit’ vel ‘tantum legens currit’ idest
-            Sortes currit et nullus alius, et sic de aliis; aliquando excludit ab aliquo actu
-            reliquos actus, ut cum dicitur ‘Sortes tantum legit’ idest legit et nichil aliud
-            facit. Sed contra. Hec dictio ‘tantum’ est adverbium. Ergo semper excludit ab actu,
-            quia adverbium natum est determinare verbum et ferri ad ipsum.</p>
-          <p xml:id="phsyn-t3-d1e452">Et dicendum quod sicut dispositio substantie est duplex, quia
-            una est dispositio substantie secundum se et absolute (Ut album, nigrum et consimilia)
-            et alia est dispositio substantie 1mediante actu (Ut cum dicitur ‘iste incedit
-            superbus’, hec dictio ‘superbus’ in hac oratione dicit superbiam que inest substan tie
-            per actum), — sinuilit2er duplex est dispositio actus, quia quedam est actus secundum
-            se e3t absolute (Ut ‘bene’, ‘male’, ‘velociter’) et talis dispositio actus semper
-            determinat actum tabsolute Ct non mediante substantia, Ut ‘bene legit’, ‘velociter
-            currit’; alia est dispositio 5[.N54va] actus medi ante substantia Ut ‘tantum’,
-            ‘tantummodo’, ‘solum’ 6,solummodo’; et tales dispositiones actus aliquando
-            determinant actum absolute, au quando 7vero 8nuediante substantia. Et ideo quando hec
-            dictio ‘tantum’ determinat actum absolute, tunc excludit ab aliquo a9ctu omnes alios
-            actus; quando vero detenminat actum mediante substantia v1e01 aliquo casuali, tunc
+          <head xml:id="phsyn-t3-Hd1e446">
+            <supplied>De differentia harum dictionum <mentioned>tantum</mentioned> et <mentioned>solus</mentioned></supplied>
+          </head>
+          <p xml:id="phsyn-t3-d1e449"><pc type="#pilcrow"/>Hiis autem habitis habentur septem questiones que
+            fie<lb ed="#T" break="no"/>bant circa quartam+ questionem, que erat descendendo ad unam
+            <lb ed="#T"/>causam exclusionis, scilicet que erant ea que debent excludi. Consequenter
+            <lb ed="#T"/>queritur de quinta questione que fiebat in principio huius tractatus,
+            <lb ed="#T"/>scilicet qualiter <mentioned>tantum</mentioned> et <mentioned>solus</mentioned> differant in suis exclusionibus. Et
+            <lb ed="#T"/>dicendum quod hec dictio <mentioned>solus</mentioned> excludit semper ab aliquo casuali, sive
+            <lb ed="#T"/>ponatur in subiecto sive in predicato, ut <mentioned>solus Sortes currit</mentioned> idest Sortes et
+            <lb ed="#T"/>nullus alius in predicato autem, Ut <mentioned>do tibi solum denarium</mentioned> idest
+            dena<lb ed="#T" break="no"/>rium et nullam aliam rem. <pc type="#pilcrow"/>Sed hec dictio <mentioned>tantum</mentioned> aliquando
+            exclu<lb ed="#T" break="no"/>dit ab aliquo casuali, ut <mentioned>tantum Sortes currit</mentioned> vel <mentioned>tantum album currit</mentioned>
+            <lb ed="#T"/>vel <mentioned>tantum legens currit</mentioned> idest Sortes currit et nullus alius, et sic de aliis;
+            <lb ed="#T"/>aliquando excludit ab aliquo actu reliquos actus, ut cum dicitur
+            <lb ed="#T"/><mentioned>Sortes tantum legit</mentioned> idest legit et nichil aliud facit. <pc type="#pilcrow"/>Sed contra. Hec dictio <mentioned>tantum</mentioned> est
+            <lb ed="#T"/>adverbium. Ergo semper excludit ab actu, quia adverbium natum
+            <lb ed="#T"/>est determinare verbum et ferri ad ipsum.
+          </p>
+
+          <p xml:id="phsyn-t3-d1e452"><pc type="#pilcrow"/>Et dicendum quod sicut
+          <lb ed="#T"/>dispositio substantie est duplex, quia una est dispositio substantie secundum se et absolute (ut
+            <lb ed="#T"/>album, nigrum et consimilia) et alia est dispositio substantie mediante actu
+            <lb ed="#T"/>(ut cum dicitur <mentioned>iste incedit superbus</mentioned>, hec dictio <mentioned>superbus</mentioned> in hac oratione
+            <lb ed="#T"/>dicit superbiam que inest substantie per actum); <pc type="#pilcrow"/>similiter duplex est dispositio
+            ac<lb ed="#T" break="no"/>tus, quia quedam est actus secundum se et absolute (ut <mentioned>bene</mentioned>, <mentioned>male</mentioned>,
+            <mentioned>ve<lb ed="#T" break="no"/>lociter</mentioned>) et talis dispositio actus semper determinat actum absolute et non
+            <lb ed="#T"/>mediante substantia, ut <mentioned>bene legit</mentioned>, <mentioned>velociter currit</mentioned>; <pc type="#pilcrow"/>alia est dispositio
+            <lb ed="#T"/>actus mediante substantia ut <mentioned>tantum</mentioned>, <mentioned>tantummodo</mentioned>, <mentioned>solum</mentioned>, <mentioned>solummodo</mentioned>; et tales
+            dis<lb ed="#T" break="no"/>positiones actus aliquando determinant actum absolute, aliquando vero
+            <lb ed="#T"/>mediante substantia. Et ideo quando hec dictio <mentioned>tantum</mentioned> determinat actum absolute,
+            <lb ed="#T"/>tunc excludit ab aliquo actu omnes alios actus; quando vero
+            <lb ed="#T"/>determinat actum mediante substantia vel aliquo casuali, tunc
             <cb ed="#T" n="b"/>
-            <lb ed="#T"/>excludit ab i1ps1o casuali, u2t’ patuit in predictis’ 3exemplis.</p>
+            <lb ed="#T"/>excludit ab ipso casuali, ut <mentioned>patuit in predictis</mentioned> exemplis.</p>
         </div>
+
         <div xml:id="phsyn-t3-Dd1e455">
-          <head xml:id="phsyn-t3-Hd1e456">Sophisma</head>
-          <p xml:id="phsyn-t3-d1e459">Item 1.Queritur de hoc sophismate SOLUS SORTES EXCLUDI TIJR,
-            posito quod solus Sortes excludatur ab aliquo subiecto respectu. alicuius predicati et
-            nullus alius 2.Probatio prime. Sortes excluditur. Et nullus a]ius a Sorte excluditur.
-            Ergo solus Sortes excluditur. Con tra. Hec est quedam 5propositio exclusiva in qua
-            excluduntur omnes alii a Sorte. Non ergo solus Sortes excluditur.</p>
-          <p xml:id="phsyn-t3-d1e462">Solutio. Prima simpliciter vera. Et improbatio peccat secundum
-            quid et simpliciter, quia quamvis sit propositio simpliciter exclusiva, tamen sua
-            exclusio fit respectu huius actus ‘excludi’ t.Sed quod ex cluditur ab exclusione, non
-            excluditur, sicut quod privatur a2 privatio ne, non privatur quia privare a privatione
-            non est privare sed pothis dare habitum, Ut 3 privare cecitatem 4non est privare sed
-            5dare visum. Et sic privare 6privationem non est privare et privari privatione non est
-            privari. Et ideo excludi ab exclusione non [P62va1 est excludi.</p>
-          <p xml:id="phsyn-t3-d1e465">Item. Videtur quod debeat ‘solus’ 1restringere terminum cui
-            adiungitur, per quandam regulam prius datam: <seg type="rule">omsze adiectivwn non
-              diminuem nec habens vim 2ainpliandi adiuncium ex eadem parte iemiflO co,rimuni
-              restringit termimum cui adiimgilur.</seg> Sed 3 hec dictio ‘solus’ est talis. Ergo
-            debet 4restringere terminun-i 5 cui 6adiungitur. Et dicendum quod regula 7debet
-            intelligi de adiec tivis 8 specialibus (Ut 9 ‘albus’, ‘niger’ et consimilia) et non de
-            adiecti vis0 generalibus, quia generalia non restringunt, eoquod restringens debet esse
-            minus1 commune. Sed ‘solus’ est adiungibile rebus omnium generum. Et ideo non potest
-            restringere. Vel dicendum quod quedam sunt adiectiva que imponuntur ab aliqua qualitate
-            (ut ‘albus’ ab12 ‘albedine’ et ‘niger’ a ‘nigredine’) et talia restringunt quando
-            qualitates [W54vb] a quibus sumuntur, sum speciales. Alia autem sunt adiectiva que
-            imponuntur a substantia oblique sunipta, Ut ‘solus’; ‘solus’ enim est ‘non cuni alio’.
-            Unde fl’3 Co intelligitur iste ablativus ‘alio’ significans substantiarri diversam14 in
-            obliquitate. Et talia non restringunt. </p>
+          <head xml:id="phsyn-t3-Hd1e456"><supplied>Sophisma</supplied></head>
+          <p xml:id="phsyn-t3-d1e459">
+            <lb ed="#T"/><pc type="#pilcrow"/>Item. Queritur de hoc sophismate SOLUS SORTES EXCLUDITUR, posito
+            <lb ed="#T"/>quod solus Sortes excludatur ab aliquo subiecto respectu alicuius predicati et nullus
+            <lb ed="#T"/>alius. Probatio prime. Sortes excluditur. Et nullus alius a Sorte
+            exclu<lb ed="#T" break="no"/>ditur. Ergo solus Sortes excluditur. <pc type="#pilcrow"/>Contra. Hec est quedam propositio
+            <lb ed="#T"/>exclusiva in qua excluduntur omnes alii a Sorte. Non ergo
+            <lb ed="#T"/>solus Sortes excluditur.</p>
+
+          <p xml:id="phsyn-t3-d1e462"><pc type="#pilcrow"/>Solutio. Prima simpliciter vera. Et improbatio
+            <lb ed="#T"/>peccat secundum quid et simpliciter, quia quamvis sit propositio simpliciter exclusiva, tamen
+            <lb ed="#T"/>sua exclusio fit respectu huius actus <mentioned>excludi</mentioned>. Sed quod excluditur ab
+            <lb ed="#T"/>exclusione, non excluditur, sicut quod privatur a privatione, non
+            priva<lb ed="#T" break="no"/>tur <del rend="expunctuation">a privatione non privatur</del> quia privare a privatione non est
+            <lb ed="#T"/>privare sed pothis dare habitum, ut privare cecitatem non est
+            pri<lb ed="#T" break="no"/>vare sed dare visum. Et sic privare privationem non est privare et privari privatione non est
+            priva<lb ed="#T" break="no"/>ri. Et ideo excludi ab exclusione non est excludi.</p>
+
+          <p xml:id="phsyn-t3-d1e465"><pc type="#pilcrow"/>Item. Videtur quod
+            <lb ed="#T"/>debeat '<add place="above-line">solus</add>' restringere terminum cui adiungitur, per quandam regulam
+            <lb ed="#T"/>prius datam: <seg type="rule">omne adiectivum non diminuens nec habens vim
+            am<lb ed="#T" break="no"/>pliandi adiunctum ex eadem parte termino communi restringit terminum
+            <lb ed="#T"/>cui adiungitur.</seg> Sed hec dictio <mentioned>solus</mentioned> est talis. Ergo debet restringere terminum cui adiungitur. Et
+            <lb ed="#T"/>dicendum quod regula debet intelligi de adiectivis specialibus (ut <mentioned>albus</mentioned>, <mentioned>niger</mentioned> et
+            con<lb ed="#T" break="no"/>similia) et non de adiecti vis generalibus, quia generalia non restringunt,
+            <lb ed="#T"/>eoquod restringens debet esse minus commune. Sed <mentioned>solus</mentioned> est adiungibile rebus
+            <lb ed="#T"/>omnium generum. Et ideo non potest restringere. <pc type="#pilcrow"/>Vel dicendum quod quedam sunt
+            adiec<lb ed="#T" break="no"/>tiva que imponuntur ab aliqua qualitate (ut <mentioned>albus</mentioned> ab <mentioned>albedine</mentioned>
+            <lb ed="#T"/>et <mentioned>niger</mentioned> a <mentioned>nigredine</mentioned>) et talia restringunt quando qualitates a quibus sumuntur, sum
+            specia<lb ed="#T" break="no"/>les. Alia autem sunt adiectiva que imponuntur <del rend="expunctuation">que
+            su<lb ed="#T" break="no"/>muntur</del> a substantia oblique sumpta, ut <mentioned>solus</mentioned>; <mentioned>solus</mentioned> enim est <mentioned>non cum alio</mentioned>.
+            <lb ed="#T"/>Unde in eo intelligitur iste ablativus <mentioned>alio</mentioned> significans substantiam diversam in obliquitate.
+            <lb ed="#T"/>Et talia non restringunt.</p>
         </div>
+
         <div xml:id="phsyn-t3-Dd1e471">
-          <head xml:id="phsyn-t3-Hd1e472">Sophisma</head>
-          <p xml:id="phsyn-t3-d1e475"> Item Posito quod solus Sortes sciat hoc1 enuntiabile ‘ cquum
-            esse animal’ et ipse cum Platone et cum aliis multis sciat malta alia enuntiabiia,
-            quentur de hoc sophismate SOLUS SORTES SCIT ALl QUOD ENUNTIABILE QUOD NON2OMNIS ALIUS A
-            PLATONE IGNORAT. Probatio. Sortes scit aliquod enuntiabile quod3alias a Platone ignorat,
-            quia scit equum esse animal, et hoc enuntiabile alius a Platone ignorat.
-            Ergo4omnis5alias vel6 non on-mis alius a Platone. Si7 omnis8,ergo solus Sortes sat
-            aliquod enuntiabile qitod omnis alius a Platone ignorat. Ergo Sortes scit aliquod
-            enuntiabile quod Sortes ignorat. Quod falsum est. Si non oxnnis, ergo solus Sortes scit
-            aliqu.od enuntiabile quod non omnis alias a Platone ignorat. Et hec est prima.
-            Contra9.Alius a Sorte scit aiiquod enuntiabile quod non omnis alius a Platone ignorat,
-            sicut1 unum de communiter scitis. Non ergo solust1 Sortes scit etc.</p>
-          <p xml:id="phsyn-t3-d1e478">Solutio. Prima simpliciter vera. Et iste due ‘alias a
-            Sorte scit aliquod enuntiabile quod non omnis alias a Platone ignorat’ et ‘non alias a
-            Sorte scit aliquod’ enuntiabile quod non on-mis alius a Platone ignorat’ contradicunt
-            uno modo et alio niodo non, quia hoc quod dico ‘aliquod2enuntiabile’ supponit
-            indefinite3per iinplicatio nem sequenten-1, que potest restringere4 pro diversis, cum
-            ponatur in ea hoc relativum diversitatis, scilicet5‘aliud’ indefinite6 sumptum. Unde
+          <head xml:id="phsyn-t3-Hd1e472"><supplied>Sophisma</supplied></head>
+          <p xml:id="phsyn-t3-d1e475"> <pc type="#pilcrow"/>Item. Posito quod solus Sortes sciat <add place="margin-right">hoc enuntiabile</add> <mentioned>equum
+            <lb ed="#T"/>esse animal</mentioned> et ipse cum <ref><name>Platone</name></ref> et cum aliis multis sciat malta alia
+            enun<lb ed="#T" break="no"/>tiabilia. <pc type="#pilcrow"/>Queritur de hoc sophismate SOLUS SORTES SCIT ALIQUOD ENUNTIABILE QUOD
+            <lb ed="#T"/>NON OMNIS ALIUS A PLATONE IGNORAT. Probatio. Sortes scit aliquod enuntiabile quod alias
+            <lb ed="#T"/>a Platone ignorat, quia scit equum esse animal, et hoc enuntiabile alius
+            <lb ed="#T"/>a Platone ignorat. Ergo omnis alias vel non omnis alius a Platone. Si omnis, ergo solus
+            <lb ed="#T"/>Sortes sat aliquod enuntiabile quod omnis alius a Platone ignorat. Ergo Sortes
+            <lb ed="#T"/>scit aliquod enuntiabile quod Sortes ignorat. Quod falsum est. Si non omnis,
+            <lb ed="#T"/>ergo solus Sortes scit aliquod enuntiabile quod non omnis alias a Platone ignorat.
+            <lb ed="#T"/>Et hec est prima. <pc type="#pilcrow"/>Contra. Alius a Sorte scit aliquod enuntiabile quod non omnis
+            <lb ed="#T"/>alius a Platone ignorat, <add place="right-margin">sicut unum de communiter scitis</add>. Non ergo solus Sortes scit etc.</p>
+
+          <p xml:id="phsyn-t3-d1e478"><pc type="#pilcrow"/>Solutio. Prima
+            <lb ed="#T"/>simpliciter vera. Et iste due <mentioned>alias a Sorte scit aliquod enuntiabile quod non
+            <lb ed="#T"/>omnis alias a Platone ignorat</mentioned> et <mentioned>non alias a Sorte scit aliquod</mentioned> enuntiabile
+            <lb ed="#T"/>quod non omnis alius a Platone ignorat contradicunt uno modo et alio
+            <lb ed="#T"/>modo non, quia hoc quod dico <mentioned>aliquod enuntiabile</mentioned> supponit indefinite per
+            <lb ed="#T"/>implicatio nem sequentem, que potest restringere pro diversis, cum ponatur
+            <lb ed="#T"/>in ea hoc relativum diversitatis, scilicet <mentioned>aliud</mentioned> indefinite sumptum. Unde
             <pb ed="#T" n="34-r"/>
             <cb ed="#T" n="a"/>
-            <lb ed="#T"/>in prima hoc quod dico ‘aliquod enuntiabile’ supponit solum7pro hoc, scilicet
-            ‘equum esse animal’, et hoc relativum ‘alius’ tenetur pro Sorte solum. Unde concedo
-            quod solus Sortes scit aliquod enuntiabile et nullus alius a Sorte, hoc8 modo. Gum
-            autem dicit ‘alms a Sorte scit aliquod enuntiabile quod9non oinnis alius a Plato ne
-            ignorat’, tunc hoc quod dico ‘aliquod enuntiabile’ non supponit pro eodein enuntiabili
-            sed pro alio. Unde non contradicunt. Sed10 cum pro eodem supponunt’1,tunc
-            contradicunt.</p>
+            <lb ed="#T"/>in prima hoc quod dico <mentioned>aliquod enuntiabile</mentioned> supponit solum pro hoc, <add place="line">scilicet</add>
+            <lb ed="#T"/><mentioned>equum esse animal</mentioned>, et hoc relativum <mentioned>alius</mentioned> tenetur pro Sorte solum. Unde concedo quod solus
+            <lb ed="#T"/>Sortes scit aliquod enuntiabile et nullus alius a Sorte, hoc modo. Cum autem dicit <mentioned>alius
+            <lb ed="#T"/>a Sorte scit aliquod enuntiabile aliquod enuntiabile</mentioned> non supponit pro eodem enuntiabili sed pro
+            <lb ed="#T"/>alio. Unde non contradicunt. Sed cum pro eodem supponunt, tunc contradicunt.</p>
         </div>
       </div>
     </body>
