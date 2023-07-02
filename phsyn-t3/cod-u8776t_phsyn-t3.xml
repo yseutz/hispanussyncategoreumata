@@ -72,17 +72,16 @@
             <lb ed="#T"/>quod et que sunt cause exclusionis que exiguntur ad esse exclusionis;
             <lb ed="#T"/><pc type="#pilcrow"/> tertio quot sunt partes sive species exclusionis; <pc type="#pilcrow"/>quarto queritur,
             des<lb ed="#T" break="no"/>cendendo ad quandam causam exclusionis, scilicet ad illud quod
-            exclu<lb ed="#T" break="no"/>ditur, que sunt ea que debent excludi;
-            <pc type="#pilcrow"/>quintum et ultimum erit
-            <lb ed="#T"/>de differentia harum dictionum <mentioned>tantum</mentioned> et <mentioned>solus</mentioned> in suis exclusionibus.
+            exclu<lb ed="#T" break="no"/>ditur, que sunt ea que debent excludi. <pc type="#pilcrow"/>Quintum et ultimum erit
+            <lb ed="#T"/>de differentiaharum dictionum <mentioned>tantum</mentioned> et <mentioned>solus</mentioned> in suis exclusionibus.
           </p>
         </div>
         <div xml:id="phsyn-t3-Dd1e120">
           <head xml:id="phsyn-t3-Hd1e121"><supplied>Quare dicatur dictio exclusiva</supplied></head>
           <p xml:id="phsyn-t3-d1e124">
             Circa
-            <lb ed="#T"/>primum ergo queritur quare dicatur dictio
-            <lb ed="#T"/>exclusiva. Et dicunt quidam quod dictio dicitur exclusiva quia significat exclusionem. <pc type="#pilcrow"/>Sed contra. Nulla dictio significat
+            <lb ed="#T"/>primum ergo queritur quare dicatur dictio exclusiva. Et dicunt quidam quod dictio dicitur 
+            <lb ed="#T"/>exclusiva quia significat exclusionem. <pc type="#pilcrow"/>Sed contra nulla dictio significat
             <lb ed="#T"/>actum quem exercet,
             <add place="botton-margin" hand="other">ut iste terminus <mentioned>homo</mentioned> non significat suppositionem quam
             <lb ed="#T"/>exercet supponendo pro hoc et pro illo, et ergo
@@ -101,9 +100,9 @@
             <pb ed="#T" n="30-r"/>
             <cb ed="#T" n="a"/>
             <lb ed="#T"/>et ut exercita, sicut cursus significatur ut <add place= "left-margin">conceptus</add> per hoc nomen <mentioned>cursus</mentioned>
-            <lb ed="#T"/>et per hoc verbum <mentioned>curro, -ris</mentioned>; aliter autem cursus significatur ut exercitus,
+            <lb ed="#T"/>et per hoc verbum <mentioned>curro, ris</mentioned>; aliter autem cursus significatur ut exercitus,
             <lb ed="#T"/>ut cum aliquis exercet ipsum in currendo. Similiter exclusio intelligitur ut concepta,
-            <lb ed="#T"/>sicut per hoc nomen <mentioned>exclusio, -nis</mentioned> et per hoc verbum <mentioned>excludo, -dis</mentioned>;
+            <lb ed="#T"/>sicut per hoc nomen <mentioned>exclusio, nis</mentioned> et per hoc verbum <mentioned>excludo, dis</mentioned>;
             <lb ed="#T"/>aliter autem intelligitur ut exercita, ut per has dictiones <mentioned>solus</mentioned> et <mentioned>tantum</mentioned>.
           </p>
           <p xml:id="phsyn-t3-d1e130"> 
@@ -236,7 +235,8 @@
             <pb ed="#T" n="30v"/>
             <cb ed="#T" n="a"/>
             <lb ed="#T"/>vel potest sive exclusio ratione accidentis sive forme (et sic est falsa) . Et tunc
-            sequitur non ergo multa sunt. Sed primam solutionem credo esse meliorem.</p>
+            sequitur non ergo multa sunt. Sed primam solutionem credo esse meliorem.
+          </p>
 
           <p xml:id="phsyn-t3-d1e186">
             <pc type="#pilcrow"/>Ad probationem dicendum quod procedit secundum quod <mentioned>unum</mentioned>dicit
@@ -246,7 +246,8 @@
             essen<lb ed="#T" break="no"/>tialem. Et sic est de omnibus aliis. <pc type="#pilcrow"/>Ad improbationem autem dicendum
             <lb ed="#T"/>quod accipit unitatem accidentalem que per sui aggregationem est
             <lb ed="#T"/>principium numeri; et hoc modo tenet improbatio. <pc type="#pilcrow"/>Ad duo argumenta
-            <lb ed="#T"/>sequentia. dicendum quod accipiunt <mentioned>unum</mentioned> essentiale, sicut et” probatio.</p>
+            <lb ed="#T"/>sequentia. dicendum quod accipiunt <mentioned>unum</mentioned> essentiale, sicut et” probatio.
+          </p>
 
           <p xml:id="phsyn-t3-d1e190"><lb ed="#T"/>Ad ultimum dicendum quod
             <subst>
@@ -268,13 +269,15 @@
             <lb ed="#T"/>quia tunc excluderet duo et tria et sic de allis, ascendendo
             <lb ed="#T"/>ut <mentioned>tantum unum; non ergo duo neque tria</mentioned> et sic de allis. Unde ens
             <lb ed="#T"/>est ibi res subiecta et unum est accidens et exclusio assignatur
-            con<lb ed="#T" break="no"/>venire utrique sive fleri ab utroque.</p>
+            con<lb ed="#T" break="no"/>venire utrique sive fleri ab utroque.
+          </p>
 
           <p xml:id="phsyn-t3-d1e195"><pc type="#pilcrow"/>Ad aliud autem quod obicit
-          <lb ed="#T"/>per regulam convertibilium, dicendum quod regula debet intelligi remoto accidente,
+            <lb ed="#T"/>per regulam convertibilium, dicendum quod regula debet intelligi remoto accidente,
             <lb ed="#T"/>sicut et ille regule omnes. Quamvis enim regula sits sive maxima: <seg type="maxima">quicquid predicatur
             <lb ed="#T"/>de diffinitione, et de deffinito</seg>, non tamen sequitur <mentioned>animal rationale mortale est
-            <lb ed="#T"/>diffinitio; ergo homo est diffinitio</mentioned>, quod est propter accidens, quod impedit.</p>
+            <lb ed="#T"/>diffinitio; ergo homo est diffinitio</mentioned>, quod est propter accidens, quod impedit.
+          </p>
 
           <p xml:id="phsyn-t3-d1e201"><pc type="#pilcrow"/>
             Cir<lb ed="#T" break="no"/>ca tertium queritur quot sint partes exclusionis. Et solent poni
@@ -285,7 +288,8 @@
             <lb ed="#T"/>dicitur generalis quia diversa genere excluduntur et specialis quia diversa
             <lb ed="#T"/>specie excluduntur, ergo debet esse alia exclusio numeralis eoquod
             di<lb ed="#T" break="no"/>versa numero excluduntur. Ergo non solum erunt due species, sive
-            <lb ed="#T"/>due partes, exclusionis sed etiam erunt ties.</p>
+            <lb ed="#T"/>due partes, exclusionis sed etiam erunt tres.
+          </p>
 
           <p xml:id="phsyn-t3-d1e204"><pc type="#pilcrow"/>Et dicendum quod non
             <lb ed="#T"/>sunt nisi due partes exclusionis, scilicet generalis et specialis. Sed non dicitur
@@ -302,7 +306,8 @@
             <lb ed="#T"/>homines qui commnunicant cum Sorte in homine. Et similiter <mentioned>solus homo currit</mentioned>, idest <!--homo..animal is in italic in Rijk-->homo currit
             <lb ed="#T"/>et nullum aliud anima quia animalia communicant cum homine in animali. Et hec est
             spe<lb ed="#T" break="no"/>cialis exclusio. Si autem sensus huius <mentioned>solus homo currit</mentioned> fuerit talis: <!--homo..aliud is in italic in Rijk-->homo currit et
-            <lb ed="#T"/>nichil aliud tunc est exclusio generalis.</p>
+            <lb ed="#T"/>nichil aliud tunc est exclusio generalis.
+          </p>
 
           <p xml:id="phsyn-t3-d1e207"><pc type="#pilcrow"/>Ex predictis patet quod idem numero
             <lb ed="#T"/>non potest excludi, vel ea que communicant in eodem numero. Quia cum dicitur
@@ -310,13 +315,15 @@
             ex<lb ed="#T" break="no"/>clusiva vera relinquit steam preiacentesn veram</seg> Et si excluderetur idem
             <lb ed="#T"/>numero cum homine, vel animal rationale mortale. Et sic esset sensus solus homo currit
             <lb ed="#T"/>et nullum risibile vel nullum animal rationale mortale. Secundum hoc ponitur contradictio
-            <lb ed="#T"/>et ob hoc non potest fieri exclusio numeralis.</p>
+            <lb ed="#T"/>et ob hoc non potest fieri exclusio numeralis.
+          </p>
 
           <p xml:id="phsyn-t3-d1e213"><pc type="#pilcrow"/>Ex predictis patet cum
           que<lb ed="#T" break="no"/>cumque sunt diversa genere vel diversa specie vel diversa numero,
             communi<lb ed="#T" break="no"/>cent in aliquo genere alia omnia, Ut in ente, vel in aliquo<!--vel in aliquo between <> in Rijk-->
             <lb ed="#T"/>speciali sub ente, quia non possunt esse nisi due partes
-            exclusio<lb ed="#T" break="no"/>nis, scilicet generalis exclusio et specialis.</p>
+            exclusio<lb ed="#T" break="no"/>nis, scilicet generalis exclusio et specialis.
+          </p>
         </div>
 
         <div xml:id="phsyn-t3-Dd1e216">
@@ -344,8 +351,7 @@
             inferius.
           </p>
           <p xml:id="phsyn-t3-d1e227">
-            De
-            <lb ed="#T"/>generali exclusione talis datur regula: <seg type="rule"><pc type="#pilcrow"/>quotienscumque fit
+            De<lb ed="#T"/>generali exclusione talis datur regula: <seg type="rule"><pc type="#pilcrow"/>quotienscumque fit
             genera<lb ed="#T" break="no"/>lis exclusio, bene tenet argumentum ab inferiori ad superius cum dictione
             <lb ed="#T"/>exclusiva a parte subiecti si non a parte predicati.</seg> Ut <mentioned>solus Sortes currit;
             <lb ed="#T"/>ergo solus homo currit</mentioned>, quia prima claudit intra se istas <add place="right-margin">duas</add> <mentioned>Sortes currit</mentioned>
@@ -524,7 +530,8 @@
             <lb ed="#T"/>est in Substantia, que dicitur <ref>Arbor Porphirii</ref>. Aliam autem habent
             concreti<lb ed="#T" break="no"/>onem ad substantia in qua sunt; et sic sumuntur omnia per modum
             acci<lb ed="#T" break="no"/>dentis. Sed secundum comparatio<lb ed="#T" break="no"/>nem primam sumuntur per modum essentie
-            <lb ed="#T"/>sive per modum eius quid est quid.</p>
+            <lb ed="#T"/>sive per modum eius quid est quid
+          </p>
 
           <p xml:id="phsyn-t3-d1e277"> Unde secundum primam comparationem dictio
             exclusi<lb ed="#T" break="no"/>va adiuncta uni generalissimo excludit alia generalissima
@@ -540,7 +547,8 @@
             gra<lb ed="#T" break="no"/>maticus (vel musicus) et est etiam agens. Unde dicendum breviter quod si sumantur
             <lb ed="#T"/>in concretione, dictio exclusiva adiuncta uni non excludit alterum.
             <lb ed="#T"/>Sed si sumantur in abstractione, tunc dictio exclusiva adiuncta uni
-            <lb ed="#T"/>excludit alterum, nisi faciant subiectum unum.</p>
+            <lb ed="#T"/>excludit alterum, nisi faciant subiectum unum
+          </p>
 
           <p xml:id="phsyn-t3-d1e280"><add place="right-margin">Ad duo prima <lb ed="#T"/>argumenta <lb ed="#T"/>dicendum quod bene <lb ed="#T"/>tenent,
             si su<lb ed="#T" break="no"/>mantur in abstra<lb ed="#T" break="no"/>ctione et non <lb ed="#T"/>faciant subiectum <lb ed="#T"/>unum.</add>
@@ -563,7 +571,8 @@
             <lb ed="#T"/>per dictionem exclusivam. Unde <mentioned>tantum quantitas est non ergo substantia</mentioned>. Et hoc dicendo
             <lb ed="#T"/>nisi illa duo abstracta faciant subiectum unum alicuius accidentis (ut dictum
             <lb ed="#T"/>est prius), sicut homo et superficies eius faciunt subiectum unum
-            <lb ed="#T"/>albedinis vel coloris.</p>
+            <lb ed="#T"/>albedinis vel coloris
+          </p>
 
           <p xml:id="phsyn-t3-d1e284"><pc type="#pilcrow"/>Ad quartum dicimus quod revera omnis
           <lb ed="#T"/>exclusio ponit suam preiacentem. Sed in hac propositione <mentioned>tantum quantitas
@@ -571,7 +580,8 @@
             <lb ed="#T"/>scilicet <mentioned>quantitas</mentioned>. Dico ergo quod dictio exclusiva excludit substantiam, sed
             <lb ed="#T"/>quantitas ponit ipsam. Et ideo <add place="right-margin">hec propositio</add> <mentioned>tantum quantitas <add place="above-line">est</add></mentioned> ponit contradictionem,
             <lb ed="#T"/>quia ponit substantiam esse et non esse. Ponit enim substantiam ratione quantitatis et
-            <lb ed="#T"/>removet eam ratione exclusionis que additur <mentioned>quantitati</mentioned>.</p>
+            <lb ed="#T"/>removet eam ratione exclusionis que additur <mentioned>quantitati</mentioned>
+          </p>
         </div>
 
         <div xml:id="phsyn-t3-Dd1e287">
@@ -588,7 +598,8 @@
             ge<lb ed="#T" break="no"/>nerum, quia magis differunt. Ergo dictio exclusiva adiuncta
             <pb ed="#T" n="32-r"/>
             <cb ed="#T" n="a"/>
-            <lb ed="#T"/>speciei unius predicamenti excludit alias species alterius predicamenti. </p>
+            <lb ed="#T"/>speciei unius predicamenti excludit alias species alterius predicamenti. 
+          </p>
 
           <p xml:id="phsyn-t3-d1e294"><pc type="#pilcrow"/>Ad quod dicendum quod in genere quinque stint ea que debent excludi.
             <lb ed="#T"/>Unum est subiectum diversum, Ut tantum <mentioned>Sortes currit</mentioned>; excluditur Plato
@@ -604,7 +615,8 @@
             colo<lb ed="#T" break="no"/>ratum inest Sorti per hoc quod est quantus. Neque sequitur <mentioned>tantum currit; non ergo
             mo<lb ed="#T" break="no"/>vetur</mentioned>, eoquod unum est per alterum sive intelligitur altero secundum
             concre<lb ed="#T" break="no"/>tionem. Et omnibus hiis quinque modis excluditur diversum per dictionem
-            <lb ed="#T"/>exclusivam. </p>
+            <lb ed="#T"/>exclusivam.
+          </p>
 
           <p xml:id="phsyn-t3-d1e297"><pc type="#pilcrow"/>Ex predictis patet solutio primi argumenti, quia homo
           <lb ed="#T"/>et superficies eius faciunt subiectum unum coloris et non
@@ -613,7 +625,8 @@
             <lb ed="#T"/>alias, dum non faciant subiectum unum vel unum non insit per
             <lb ed="#T"/>alterum, ut dictum est. Patet etiam solutio alterius argumenti quia dictio
             <lb ed="#T"/>exclusiva excludit diversum sive differens aliquo predictorum
-            <lb ed="#T"/>modorum tentum.</p>
+            <lb ed="#T"/>modorum tentum.
+          </p>
         </div>
 
         <div xml:id="phsyn-t3-Dd1e300">
@@ -626,7 +639,8 @@
             <lb ed="#T"/>est', quia linea est terminus superficiei; et similiter <!--"non sequitur <mentioned>tantum corpus est; non ergo superficies</mentioned>, quia" between <> in rijk edition--> superficies
             <!--<est terminus> same as previous--> corporis.
             <lb ed="#T"/>Unde bene sequitur <mentioned>tantum homo; non ergo asinus</mentioned>, quia ille species comparantur solum
-            <lb ed="#T"/>sibi invicem ut disparate.</p>
+            <lb ed="#T"/>sibi invicem ut disparate.
+          </p>
         </div>
 
         <div xml:id="phsyn-t3-Dd1e311">
@@ -638,7 +652,8 @@
             <lb ed="#T"/>insit per alterum. Unde sequitur <mentioned>Sortes est tantum gramaticus; non ergo musicus</mentioned>.
             <lb ed="#T"/>Sed non sequitur <mentioned>Sortes est tantum coloratus; non ergo quantus</mentioned> quia coloratum
             <lb ed="#T"/>inest Sorti in eo quod est quantus'. Neque sequitur <mentioned>tantum album est; non ergo
-            <lb ed="#T"/>corpus</mentioned>, quia ista faciunt subiectum unum.</p>
+            <lb ed="#T"/>corpus</mentioned>, quia ista faciunt subiectum unum.
+          </p>
         </div>
 
         <div xml:id="phsyn-t3-Dd1e318">
@@ -651,7 +666,8 @@
             <lb ed="#T"/>subiectum unum sed diversa, oportet quod unum excludatur ab alio per
             <lb ed="#T"/>dictionem exclusivam. Ergo dictio exclusiva adiuncta uni oppositorum
             <lb ed="#T"/>excludit alterum. Quod concedimus, sicut patet in contrariis, <mentioned>tantum
-            al<lb ed="#T" break="no"/>bum currit; non ergo nigrum</mentioned>.</p>
+            al<lb ed="#T" break="no"/>bum currit; non ergo nigrum</mentioned>.
+          </p>
         </div>
 
         <div xml:id="phsyn-t3-Dd1e325">
@@ -661,14 +677,16 @@
           <lb ed="#T"/>sophismate TANTUM VERUM OPPONITUR FALSO. Probatio. Verum opponitur falso. Et
           <lb ed="#T"/>nichil aliud quam verum opponitur falso. Ergo tantum verum opponitur falso. <pc type="#pilcrow"/>Contra.
           <lb ed="#T"/>Tantum verum opponitur falso. Ergo tantum verum et falsum opponuntur. Quod falsum est,
-          <lb ed="#T"/>quia album et nigrum opponuntur et calidum et frigidum.</p>
+          <lb ed="#T"/>quia album et nigrum opponuntur et calidum et frigidum
+        </p>
 
           <p xml:id="phsyn-t3-d1e332"><pc type="#pilcrow"/>Et dicendum
           <lb ed="#T"/>quod prima est simpliciter vera. Et improbatio peccat secundum consequens ab inferiori
             <lb ed="#T"/>ad superius cum dictione exclusiva, quia <mentioned>opponi falso</mentioned> in minus est quam
             <lb ed="#T"/><mentioned>opponi <add place= "above-line">simpliciter</add></mentioned>, sicut <mentioned>oppositio veri et falsi</mentioned> in minus est quam <mentioned>oppositio</mentioned>, cum hec sit
             <lb ed="#T"/>species, illa vero genus. Et sic cum dicit <mentioned>tantum verum opponitur falso; ergo
-            tan<lb ed="#T" break="no"/>tum verum et falsum opponuntur</mentioned>, peccat secundum consequens.</p>
+            tan<lb ed="#T" break="no"/>tum verum et falsum opponuntur</mentioned>, peccat secundum consequens.
+          </p>
         </div>
 
         <div xml:id="phsyn-t3-Dd1e336">
@@ -677,7 +695,8 @@
             pater est</mentioned> sequitur hec <mentioned>ergo filius est</mentioned>. Unde si tantum pater est, pater est, quia
             exclusiva ponit suam preiacentem. Et si pater est, filius est (a
             relative oppositis). Ergo a primo: <mentioned>si tantum pater est, filius est</mentioned>. Ergo dictio
-            exclusiva adiuncta uni correlativorum non excludit alterum.</p>
+            exclusiva adiuncta uni correlativorum non excludit alterum.
+          </p>
 
           <p xml:id="phsyn-t3-d1e343"><pc type="#pilcrow"/>Et dicendum quod dictio exclusiva
           ad<lb ed="#T" break="no"/>iuncta uni correlativorum excludit alterum. Sed illa <mentioned>tantum pater
@@ -691,7 +710,8 @@
             preia<lb ed="#T" break="no"/>centis non solum ponitur pater sed etiam filius; et ratione exclusionis
             <lb ed="#T"/>non solum removetur filius sed etiam pater, quia filius est per hoc quod est ad
             <lb ed="#T"/>patrem. Et sic ista <mentioned>tantum pater est</mentioned> ponit duplicem contradictionem,
-            <lb ed="#T"/>quia</mentioned> ponit filium esse et non esse et patrem esse et non esse.</p>
+            <lb ed="#T"/>quia</mentioned> ponit filium esse et non esse et patrem esse et non esse.
+          </p>
         </div>
 
         <div xml:id="phsyn-t3-Dd1e346">
@@ -699,7 +719,8 @@
           <p xml:id="phsyn-t3-d1e350"><pc type="#pilcrow"/>Circa predicta queritur de hoc sophismate SI TANTUM PATER EST, NON  est, filius
             <lb ed="#T"/>est. Et si filius est, aliud a patre est. Et si aliud a patre est, non
             <lb ed="#T"/>tantum pater est. Ergo a primo: si tantum pater est, non tantum pater est.
-            Con<lb ed="#T" break="no"/>tra. Ibi significatur sequi oppositum ad oppositum. Ergo locutio est impossibilis.</p>
+            Con<lb ed="#T" break="no"/>tra. Ibi significatur sequi oppositum ad oppositum. Ergo locutio est impossibilis.
+          </p>
 
           <p xml:id="phsyn-t3-d1e353">
             <lb ed="#T"/><pc type="#pilcrow"/>Ad hoc solvunt quidam quod <mentioned>pater</mentioned> sumitur tripliciter. Sicut <mentioned>album</mentioned>.
@@ -717,7 +738,8 @@
             <lb ed="#T"/>est in genere Relationis</mentioned>. Et hoc modo non excluditur unum correlativorum
             <pb ed="#T" n="32-v"/>
             <cb ed="#T" n="a"/>
-            <lb ed="#T"/>ab alio, quia sic umnum ponit alterum et econverso.</p>
+            <lb ed="#T"/>ab alio, quia sic umnum ponit alterum et econverso.
+          </p>
 
           <p xml:id="phsyn-t3-d1e356">Sed hoc nichil est, quia cum dictio exclusiva excludat quecumque non
             fa<lb ed="#T" break="no"/>ciunt subiectum unum <add place="left-margin">sed diversa</add> et pater et filius non possunt
@@ -730,7 +752,8 @@
             <lb ed="#T"/>accidens a patre et sic removet filium, et est ibi hoc relativum
             <lb ed="#T"/><mentioned>pater</mentioned>, quod ponit filium. Et ita ex una parte removet filium
             <lb ed="#T"/>(scilicet a parte exclusionis) et ex alia parte ponit ipsum (scilicet a parte
-            <lb ed="#T"/>correlativi).</p>
+            <lb ed="#T"/>correlativi).
+          </p>
 
           <p xml:id="phsyn-t3-d1e359">
             <pc type="#pilcrow"/>Ad improbationem autem solvendum per interemptionem,
@@ -747,7 +770,7 @@
             <lb ed="#T"/>NON VIDENTEM SE. Probatio. Possibile est Sortem videre <add place="above-line">tantum</add> omnem hominem
             <lb ed="#T"/>cecum. Sed omnis homo cecus est homo non videns se. Ergo possibile est
             <lb ed="#T"/>Sortem videre <add place="above-line">tantum</add> omnem hominem non videntem. <pc type="#pilcrow"/>Contra. Si possibile est,
-            <lb ed="#T"/>ponatur: Sortes videt <add place="above-line">tantum</add> omnem hominem videntem se. Tunc aut ´
+            <lb ed="#T"/>ponatur: Sortes videt <add place="above-line">tantum</add> omnem hominem videntem se. Tunc aut
             <lb ed="#T"/>Sortes videt se aut non videt se. Si non videt se, ergo est
             <lb ed="#T"/>homo non videns se. Et videt quemquam talem. Ergo videt se.
             <lb ed="#T"/>Si videt se, ergo est homo videns se. Sed nullum talem
@@ -787,7 +810,7 @@
             <lb ed="#T"/>expositivis prime. Et ille expositive intelliguntur in prima. Et quia
             <lb ed="#T"/>contradictio intelligitur in prima. Et sic claudit intra se
             contradictionem.
-            </p>
+          </p>
 
           <p xml:id="phsyn-t3-d1e372"> <pc type="#pilcrow"/>
           <lb ed="#T"/>Item. Illud idem ostenditur alia ratione, quia si Sortes non videt aliquem
@@ -798,7 +821,8 @@
             <lb ed="#T"/>dicebatur quod nullus. Ergo a primo: si Sortes non videt aliquem hominem <del rend="strikethrough">non</del>
             <lb ed="#T"/>videntem se, Sortes non videt se. Et sic habetur alia pars
             contradictio<lb ed="#T" break="no"/>nis. Ex qua cum altera expositiva prime sequitur reliqua pars
-            <lb ed="#T"/>contradictionis, sicut prius. Quare prima habet se contradictionem. Quod concedimus.</p>
+            <lb ed="#T"/>contradictionis, sicut prius. Quare prima habet se contradictionem. Quod concedimus.
+          </p>
 
           <p xml:id="phsyn-t3-d1e375">
             <lb ed="#T"/><pc type="#pilcrow"/>Item. Probo quod prima est vera, hec scilicet <mentioned>Sortes videt tantum omnem hominem
@@ -816,7 +840,7 @@
             <lb ed="#T"/>tunc iste due convertuntur <mentioned>omnis homo cecus</mentioned> et <mentioned>omnis homo non videns
             <lb ed="#T"/>se</mentioned>. Sed possibile est Sortem videre <add place="above-line">tantum</add> omnem hominem cecum. Ergo possibile est Sortem
             vi<lb ed="#T" break="no"/>dere <add place="above-line">tantum</add> omnem hominem non videntem se. Ergo prima possibilis est.
-            </p>
+          </p>
 
           <p xml:id="phsyn-t3-d1e378">
             <pc type="#pilcrow"/>Solutio.
@@ -843,7 +867,8 @@
             <lb ed="#T"/>se, cum Sortes non sit cecus. Et a quocumque removetur unum convertibilium, et
             re<lb ed="#T" break="no"/>liquum. Et sic ponit iterum <!--Rijk sees here a correction to "iterum" i'm not sure!--> in hac ratione secunda quod Sortes videat se et
             <lb ed="#T"/>non videat se. Et sic non est mirum, si premissa est impossibilis, cum ipsa
-            <lb ed="#T"/>sequatur expositione impossibili.</p>
+            <lb ed="#T"/>sequatur expositione impossibili.
+          </p>
         </div>
         <div xml:id="phsyn-t3-Dd1e384">
           <head xml:id="phsyn-t3-Hd1e385">
@@ -893,7 +918,8 @@
             <lb ed="#T"/>communiter pro pluribus. <add place="margin-bottom">Sicut hic: posito quod omnis
             homo videat proprium equum tantum, <lb ed="#T"/>tunc hec est vera <mentioned>equum videt omnis homo</mentioned> <lb ed="#T"/>nec
             tamen est querere <mentioned>quem equum?</mentioned>, <lb ed="#T"/>quia iste terminus <mentioned>equin</mentioned><!--rijk "equum"!--> non tenetur determinate
-            pro uno sed communiter pro pluribus</add>.</p>
+            pro uno sed communiter pro pluribus</add>.
+          </p>
         </div>
 
         <div xml:id="phsyn-t3-Dd1e401">
@@ -910,7 +936,8 @@
             <lb ed="#T"/>minorem speciem. <pc type="#pilcrow"/>Sed contra. Quilibet numerus maior semper ponit suam
             <lb ed="#T"/>preiacentem. Et ideo dicit <ref><name>Aristotiles</name></ref> si duo sunt, unum esse; ergo minor numerus
             <lb ed="#T"/>semper intelligitur in maiori. Sed dictio exclusiva non removet quod intelligitur
-            <lb ed="#T"/>in sua preiacente. Ergo dictio exclusiva adiuncta maiori numero non excludit minorem.</p>
+            <lb ed="#T"/>in sua preiacente. Ergo dictio exclusiva adiuncta maiori numero non excludit minorem.
+          </p>
 
           <p xml:id="phsyn-t3-d1e408"><pc type="#pilcrow"/>Solutio. <mentioned>Numerus</mentioned> duobus modis sumitur, sicut
           <lb ed="#T"/>quodlibet aliud totum. Quia uno modo sumitur <mentioned>numerus</mentioned> ratione sue totalitatis
@@ -925,7 +952,8 @@
             <lb ed="#T"/>currunt; ergo octo non currunt vel septem, immo potius quantum sequitur,
             <lb ed="#T"/>quia currant tantum decem, sequitur quod novem etiam quod octo currant. Et sic patet quod dictio exclusiva
             <lb ed="#T"/>adiuncta maiori numero uno modo excludet minorem et alio modo non.
-            <lb ed="#T"/>Sed addita minori numero semper excludit maiorem.</p>
+            <lb ed="#T"/>Sed addita minori numero semper excludit maiorem.
+          </p>
         </div>
 
         <div xml:id="phsyn-t3-Dd1e411">
@@ -934,14 +962,16 @@
             <lb ed="#T"/>quantitate et de parte integrali et de parte in loco et de parte
             <lb ed="#T"/>in tempore et de numerali talis datur regula: <seg type="rule"> <pc type="#pilcrow"/>quotienscumque dictio
             <lb ed="#T"/>exclusiva adiungitur parti, semper excludit suum totum, excepto
-            <lb ed="#T"/>toto universali et toto in modo.</seg> </p>
+            <lb ed="#T"/>toto universali et toto in modo.</seg> 
+          </p>
 
           <p>
             <pc type="#pilcrow"/>Ad duo prima argumenta facilis est
           <lb ed="#T"/>solutio. Quia primum argumentum accepit species numeri ratione suarum
             totalita<lb ed="#T" break="no"/>tum (sive aggregationumn); et sic dictio exclusiva adiuncta uni
             ex<lb ed="#T" break="no"/>cludet omnes alias. <pc type="#pilcrow"/>Secundum autem accipit species numeri ratione
-            <lb ed="#T"/>eorum ex quibus sunt.</p>
+            <lb ed="#T"/>eorum ex quibus sunt
+            </p>
         </div>
 
         <div xml:id="phsyn-t3-Dd1e422">
@@ -950,7 +980,8 @@
             <lb ed="#T"/>SOLIS TRIBUS SOLA DUO SUNT PAUCIORA. Probatio. Tribus sola duo
             <lb ed="#T"/>sunt pauciora. Et non aliis a tribus sola sunt pauciora. Ergo solis
             <lb ed="#T"/>tribus sola duo sunt pauciora. <pc type="#pilcrow"/>Contra. Solis tribus sola duo
-            <lb ed="#T"/>sunt pauciora. Ergo solis tribus duo sunt pauciora.</p>
+            <lb ed="#T"/>sunt pauciora. Ergo solis tribus duo sunt pauciora.
+          </p>
 
           <p xml:id="phsyn-t3-d1e429"><pc type="#pilcrow"/>Solutio. Prima
           <lb ed="#T"/>duplex, quia potest exponi per dictionem exclusivam existentem
@@ -958,7 +989,8 @@
             <lb ed="#T"/>existentem in obliquo et sic improbatur et sic ist vera<!--omitted in other manuscripts, correction to P addd "et sic ist falsa"-->. Et ideo altera
             <lb ed="#T"/>de exponentibus est vera et altera falsa, hec scilicet <mentioned>solis tribus duo
             <lb ed="#T"/>sunt pauciora</mentioned>, cum duo sint pauciora omnibus aliis
-            <lb ed="#T"/>numeris ascendendo. Et ita non solis tribus duo sunt pauciora. </p>
+            <lb ed="#T"/>numeris ascendendo. Et ita non solis tribus duo sunt pauciora.
+          </p>
         </div>
 
         <div xml:id="phsyn-t3-Dd1e432">
@@ -970,7 +1002,8 @@
             <lb ed="#T"/>in eadem locutione multiplex est locutio se ipsa est
             attin<lb ed="#T" break="no"/>gentia, quia unum potest esse determinatio alterius vel econverso.</seg> Et hoc est quod
             <lb ed="#T"/>solebant dicere antiqui quod unum poterat includere reliquum
-            <lb ed="#T"/>vel econverso includi ab eo aut excludere alterum vel excludi ab eo.</p>
+            <lb ed="#T"/>vel econverso includi ab eo aut excludere alterum vel excludi ab eo.
+          </p>
 
           <p xml:id="phsyn-t3-d1e442"><pc type="#pilcrow"/>Et nota quod in numeris est duplex ascensus, quia
             <lb ed="#T"/>unus est causarum et alius quantitatis sive augmenti in
@@ -985,7 +1018,8 @@
             <lb ed="#T"/>maius est augmentum, vel maior quantitas, in maioribus quam
             <lb ed="#T"/>in minoribus. Et hoc modo fit ascensus a minori numero ad maiorem;
             <lb ed="#T"/>econverso descensus. Et sic ascensus et descensus fiunt dupliciter in ordine
-            <lb ed="#T"/>numeri. </p>
+            <lb ed="#T"/>numeri.
+          </p>
         </div>
 
         <div xml:id="phsyn-t3-Dd1e445">
@@ -1023,7 +1057,8 @@
             <lb ed="#T"/>tunc excludit ab aliquo actu omnes alios actus; quando vero
             <lb ed="#T"/>determinat actum mediante substantia vel aliquo casuali, tunc
             <cb ed="#T" n="b"/>
-            <lb ed="#T"/>excludit ab ipso casuali, ut <mentioned>patuit in predictis</mentioned> exemplis.</p>
+            <lb ed="#T"/>excludit ab ipso casuali, ut <mentioned>patuit in predictis</mentioned> exemplis.
+          </p>
         </div>
 
         <div xml:id="phsyn-t3-Dd1e455">
@@ -1034,7 +1069,8 @@
             <lb ed="#T"/>alius. Probatio prime. Sortes excluditur. Et nullus alius a Sorte
             exclu<lb ed="#T" break="no"/>ditur. Ergo solus Sortes excluditur. <pc type="#pilcrow"/>Contra. Hec est quedam propositio
             <lb ed="#T"/>exclusiva in qua excluduntur omnes alii a Sorte. Non ergo
-            <lb ed="#T"/>solus Sortes excluditur.</p>
+            <lb ed="#T"/>solus Sortes excluditur.
+          </p>
 
           <p xml:id="phsyn-t3-d1e462"><pc type="#pilcrow"/>Solutio. Prima simpliciter vera. Et improbatio
             <lb ed="#T"/>peccat secundum quid et simpliciter, quia quamvis sit propositio simpliciter exclusiva, tamen
@@ -1043,7 +1079,8 @@
             priva<lb ed="#T" break="no"/>tur <del rend="expunctuation">a privatione non privatur</del> quia privare a privatione non est
             <lb ed="#T"/>privare sed pothis dare habitum, ut privare cecitatem non est
             pri<lb ed="#T" break="no"/>vare sed dare visum. Et sic privare privationem non est privare et privari privatione non est
-            priva<lb ed="#T" break="no"/>ri. Et ideo excludi ab exclusione non est excludi.</p>
+            priva<lb ed="#T" break="no"/>ri. Et ideo excludi ab exclusione non est excludi.
+          </p>
 
           <p xml:id="phsyn-t3-d1e465"><pc type="#pilcrow"/>Item. Videtur quod
             <lb ed="#T"/>debeat '<add place="above-line">solus</add>' restringere terminum cui adiungitur, per quandam regulam
@@ -1059,7 +1096,8 @@
             specia<lb ed="#T" break="no"/>les. Alia autem sunt adiectiva que imponuntur <del rend="expunctuation">que
             su<lb ed="#T" break="no"/>muntur</del> a substantia oblique sumpta, ut <mentioned>solus</mentioned>; <mentioned>solus</mentioned> enim est <mentioned>non cum alio</mentioned>.
             <lb ed="#T"/>Unde in eo intelligitur iste ablativus <mentioned>alio</mentioned> significans substantiam diversam in obliquitate.
-            <lb ed="#T"/>Et talia non restringunt.</p>
+            <lb ed="#T"/>Et talia non restringunt.
+          </p>
         </div>
 
         <div xml:id="phsyn-t3-Dd1e471">
@@ -1074,7 +1112,8 @@
             <lb ed="#T"/>scit aliquod enuntiabile quod Sortes ignorat. Quod falsum est. Si non omnis,
             <lb ed="#T"/>ergo solus Sortes scit aliquod enuntiabile quod non omnis alias a Platone ignorat.
             <lb ed="#T"/>Et hec est prima. <pc type="#pilcrow"/>Contra. Alius a Sorte scit aliquod enuntiabile quod non omnis
-            <lb ed="#T"/>alius a Platone ignorat, <add place="right-margin">sicut unum de communiter scitis</add>. Non ergo solus Sortes scit etc.</p>
+            <lb ed="#T"/>alius a Platone ignorat, <add place="right-margin">sicut unum de communiter scitis</add>. Non ergo solus Sortes scit etc.
+          </p>
 
           <p xml:id="phsyn-t3-d1e478"><pc type="#pilcrow"/>Solutio. Prima
             <lb ed="#T"/>simpliciter vera. Et iste due <mentioned>alias a Sorte scit aliquod enuntiabile quod non
@@ -1089,7 +1128,8 @@
             <lb ed="#T"/><mentioned>equum esse animal</mentioned>, et hoc relativum <mentioned>alius</mentioned> tenetur pro Sorte solum. Unde concedo quod solus
             <lb ed="#T"/>Sortes scit aliquod enuntiabile et nullus alius a Sorte, hoc modo. Cum autem dicit <mentioned>alius
             <lb ed="#T"/>a Sorte scit aliquod enuntiabile aliquod enuntiabile</mentioned> non supponit pro eodem enuntiabili sed pro
-            <lb ed="#T"/>alio. Unde non contradicunt. Sed cum pro eodem supponunt, tunc contradicunt.</p>
+            <lb ed="#T"/>alio. Unde non contradicunt. Sed cum pro eodem supponunt, tunc contradicunt.
+          </p>
         </div>
       </div>
     </body>
